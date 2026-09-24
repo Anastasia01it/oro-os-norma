@@ -316,7 +316,7 @@ dispositivos se hace a través de una transmisión que puede ser mecánica o mag
 (Resolución CRA 151 de 2001 art. 1.2.1.1). (Modificado por Resolución CRA 271 de 2003 art. 1).
 Medidor Ultrasónico de Caudal. Es el medidor que, utilizando el principio de la velocidad del sonido en el medio ac
 pasa por ella. Pueden ser intrusivos o por contacto y su margen de error, en todo el rango de consumo, es igual o me
-(Resolución CRA 151 de 200Concepto SUPERSERVICIOS 571 de 2023 art. 1.2.1.1). (Modificado por Resolución CR
+(Resolución CRA 151 de 200 Concepto SUPERSERVICIOS 571 de 2023 art. 1.2.1.1). (Modificado por Resolución CR
 Metros Columna de Agua (m.c.a.). Es la presión en la red de distribución de acueducto.
 (Resolución CRA 151 de 2001 art. 1.2.1.1). (Modificado por Resolución CRA 271 de 2003 art. 1).
 Micromedidor. Es un medidor instalado en la acometida del usuario o suscriptor.
@@ -6831,11 +6831,11 @@ Consumo eficiente de energía eléctrica utilizada en el proceso de aireación e
 Precio eficiente de la energía eléctrica en el punto de toma k del proceso de aireación en el año tarifario i - 2, p
 Consumo eficiente de energía eléctrica utilizada en procesos operativos diferentes a bombeos y aireación e
 Precio eficiente de la energía eléctrica en el punto de toma l de los procesos operativos diferentes a bombe
-tarifario i - 2 /kWh).
+tarifario i - 2 /k Wh).
 Factor de energía eléctrica de cada punto de toma j del sistema bombeo (kN/m3).
 Volumen bombeado en cada punto de toma jdel sistema (m3/año).
 Altura dinámica total del sistema de bombeo conectado al punto de toma j (m).
-Consumo real de energía eléctrica utilizada en bombeo en el punto de toma j del sistema bombeo (kWh/año).
+Consumo real de energía eléctrica utilizada en bombeo en el punto de toma j del sistema bombeo (k Wh/año).
 n: Número de puntos de toma a los que se conectan los sistemas de bombeo de la persona prestadora.
 m: Número de puntos de toma para obtener la energía eléctrica consumida en el sistema aireación.
 q: Número de puntos de toma para obtener la energía eléctrica consumida en procesos operativos diferentes al bomb
@@ -9036,7 +9036,7 @@ rural.
 Notas de Vigencia
 - Artículo modificado por el artículo 8 de la Resolución 1032 de 24 de marzo de 2026, 'por la cual se subroga el Título 2 de la Parte
 acueducto y/o alcantarillado con más de 5.000 suscriptores en el área urbana, y se dictan otras disposiciones, publicada en el Diario O
-- Subtítulo sustituido por el artículo 1 de la Resolución 963 de 2022, 'por la cual sConsultar texto original de la Resolucióne regula l
+- Subtítulo sustituido por el artículo 1 de la Resolución 963 de 2022, 'por la cual s Consultar texto original de la Resolucióne regula l
 sustituye el SUBTÍTULO 2, del TÍTULO 3, de la PARTE 1 del LIBRO 2, se deroga el TÍTULO 3 , de la PARTE 2 del LIBRO 6, de la Res
 el Diario Oficial No. 51.979 de 17 de marzo de 2022.
 Legislación Anterior
@@ -15405,7 +15405,7 @@ comunicación de mínimo costo
 
 **ARTÍCULO 5.3.2.4.2.3. VERIFICACIÓN DE LOS INDICADORES Y APLICACIÓN DE LOS DESCUENTOS CORRESPONDIENTES.Lo anterior, sin perjuic**
 
-La persona prestadora verificará el cálculo de los indicadores de calidad del APS y los respectivos descuentos por APS, definidos enDomiciliarios.
+La persona prestadora verificará el cálculo de los indicadores de calidad del APS y los respectivos descuentos por APS, definidos en Domiciliarios.
 el presente Capítulo.
 
 **ARTÍCULO 5.3.2.4.3.1. MEDICIÓN DE LA FRECUENCIA Y HORARIOS DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO1. Un dispositivo de pos**
@@ -15541,10 +15541,10 @@ esquemas se encuentra
 
 costo variable por tonelada de residuos efectivamente aprovechados se define de la siguiente manera:
 
-**ARTÍCULO 5.3.5.2.1.5. CENTROIDE. Para efectos de lo establecido en la presente sección, el centroide del APS corresponde alLa distancia con respec**
+**ARTÍCULO 5.3.5.2.1.5. CENTROIDE. Para efectos de lo establecido en la presente sección, el centroide del APS corresponde al La distancia con respec**
 
 punto identificado por coordenadas, de conformidad con el estándar de georreferenciación nacional, ubicado en el límite del APS porreportada por la person
-la vía que conduce al sitio de disposición final, transferencia o tratamiento, el cual se utiliza para estimar la distancia desde ésteInformación (SUI).
+la vía que conduce al sitio de disposición final, transferencia o tratamiento, el cual se utiliza para estimar la distancia desde éste Información (SUI).
 hasta la puerta de acceso a dicho sitio.
 
 **ARTÍCULO 5.3.5.2.3.1. COSTO DE REFERENCIA PARA LIMPIEZA URBANA POR SUSCRIPTOR (CRLUS). El costo de referencia**
@@ -15630,7 +15630,7 @@ aprovechables por suscriptor en el APS de servicio se calcularán de acuerdo con
 
 **ARTÍCULO 5.3.5.3.1.4. PROMEDIO PARA LOS CÁLCULOS. Cuando en el presente Título se determine que los cálculos se El promedio de las tone**
 
-realicen con el promedio de: kilómetros de barrido y limpieza, toneladas de residuos sólidos no aprovechables, toneladas de residuosSuperintendencia de Se
+realicen con el promedio de: kilómetros de barrido y limpieza, toneladas de residuos sólidos no aprovechables, toneladas de residuos Superintendencia de Se
 sólidos tratados, metros cúbicos de lixiviados generados en el relleno sanitario y número de suscriptores, se tomará el promediofacturación.
 mensual del año fiscal inmediatamente anterior; es decir, para los periodos de facturación entre el 1o de julio y el 30 de junio se
 deberá tener como base el promedio mensual del 1o de enero al 31 de diciembre del año fiscal inmediatamente anterior a aquel en
@@ -15644,7 +15644,7 @@ hasta la puerta de a
 la vía que conduce
 hasta la puerta de a
 
-**ARTÍCULO 5.3.5.3.2.2. INCREMENTO EN EL CCS POR LA PRESTACIÓN DE LA ACTIVIDAD DE APROVECHAMIENTO. CuandoEste incremento se reali**
+**ARTÍCULO 5.3.5.3.2.2. INCREMENTO EN EL CCS POR LA PRESTACIÓN DE LA ACTIVIDAD DE APROVECHAMIENTO. Cuando Este incremento se reali**
 
 en el municipio se preste la actividad de aprovechamiento, el CCS adoptado se deberá incrementar como máximo en un 37%.
 
@@ -15743,7 +15743,7 @@ identificado por coordenadas, de conformidad con el estándar de georreferenciac
 que conduce al sitio de disposición final, transferencia o tratamiento, el cual se utiliza para estimar la distancia desde éste hasta la
 puerta de acceso a dicho sitio.
 
-**ARTÍCULO 5.3.5.4.2.2. INCREMENTO EN EL CCS POR LA PRESTACIÓN DE LA ACTIVIDAD DE APROVECHAMIENTO. CuandoEste incremento se reali**
+**ARTÍCULO 5.3.5.4.2.2. INCREMENTO EN EL CCS POR LA PRESTACIÓN DE LA ACTIVIDAD DE APROVECHAMIENTO. Cuando Este incremento se reali**
 
 en el municipio se preste la actividad de aprovechamiento, el CCS adoptado se deberá incrementar como máximo en un 37%.
 
@@ -15852,7 +15852,7 @@ prestador en el APSD en zonas de difícil acceso:
 
 **ARTÍCULO 5.3.5.5.1.4. PROMEDIO PARA LOS CÁLCULOS. Cuando en el presente Título se determine que los cálculos se El promedio de las tone**
 
-realicen con el promedio de: kilómetros de barrido y limpieza, toneladas de residuos sólidos no aprovechables, toneladas de residuosSuperintendencia de Se
+realicen con el promedio de: kilómetros de barrido y limpieza, toneladas de residuos sólidos no aprovechables, toneladas de residuos Superintendencia de Se
 sólidos tratados, metros cúbicos de lixiviados generados en el relleno sanitario y número de suscriptores, se tomará el promediofacturación.
 mensual del año fiscal inmediatamente anterior; es decir, para los periodos de facturación entre el 1o de julio y el 30 de junio se
 deberá tener como base el promedio mensual del 1o de enero al 31 de diciembre del año fiscal inmediatamente anterior a aquel en
@@ -15875,7 +15875,7 @@ limpieza de vías y áreas públicas serán como mínimo las que establece el ar
 que lo modifique, adicione, sustituya o aclare.
 aclare.
 
-**ARTÍCULO 5.3.5.5.3.4. RESPONSABILIDAD DE LA LIMPIEZA URBANA. Las labores de limpieza urbana son responsabilidad deCuando en un municipi**
+**ARTÍCULO 5.3.5.5.3.4. RESPONSABILIDAD DE LA LIMPIEZA URBANA. Las labores de limpieza urbana son responsabilidad de Cuando en un municipi**
 
 los prestadores del servicio público de aseo de no aprovechables en el APS donde realicen las actividades de recolección y regulación establecida e
 transporte, teniendo presentes las condiciones de gradualidad que resulten aplicables a las actividades en el respectivo Programao aclare, con base en el
@@ -16055,7 +16055,7 @@ aprovechables y aprovechables por suscriptor del APS z de servicio se calculará
 
 variable por tonelada de residuos sólidos no aprovechables para el esquema de prestación regional se define de la siguiente manera:
 
-**ARTÍCULO 5.3.5.7.1.5. CENTROIDE DE PRODUCCIÓN. Para efectos de lo establecido en el presente Capítulo, el centroide deEl centroide de producci**
+**ARTÍCULO 5.3.5.7.1.5. CENTROIDE DE PRODUCCIÓN. Para efectos de lo establecido en el presente Capítulo, el centroide de El centroide de producci**
 
 producción del APS corresponde al punto identificado por coordenadas, de conformidad con el estándar de georreferenciacióntamaño homogéneo com
 nacional, el cual se utiliza para estimar la distancia por la vía que conduce al sitio de disposición final, transferencia o tratamientocomo el centro de la fig
@@ -16065,7 +16065,7 @@ cada punto por el núme
 promedio ponderado po
 como el centroide de pro
 
-**ARTÍCULO 5.3.5.7.1.5. CENTROIDE DE PRODUCCIÓN. Para efectos de lo establecido en el presente Capítulo, el centroide deEl centroide de producci**
+**ARTÍCULO 5.3.5.7.1.5. CENTROIDE DE PRODUCCIÓN. Para efectos de lo establecido en el presente Capítulo, el centroide de El centroide de producci**
 
 producción del APS corresponde al punto identificado por coordenadas, de conformidad con el estándar de georreferenciacióntamaño homogéneo com
 nacional, el cual se utiliza para estimar la distancia por la vía que conduce al sitio de disposición final, transferencia o tratamientocomo el centro de la fig
@@ -16210,7 +16210,7 @@ aprovechables, en un volumen superior o igual a un metro cúbico (1 m3/mes) y me
 m3/mensuales). La segunda categoría corresponderá a aquellos suscriptores que produzcan seis metros cúbicos mensuales (6
 m3/mensuales) o más.
 
-**ARTÍCULO 5.3.5.7.11.1. DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO. Los descuentos asociados al nivel deEl régimen de calidad y**
+**ARTÍCULO 5.3.5.7.11.1. DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO. Los descuentos asociados al nivel de El régimen de calidad y**
 
 cumplimiento de las metas de calidad de servicio público de aseo, definidos bajo el concepto de integralidad tarifaria, deben serde 5.000 suscriptores e
 estimados de conformidad con la Sección 1 del Capítulo 4 del Título 2 de la Parte 3 del Libro 5 de la presente resolución o aquella(SSPD).
@@ -16241,21 +16241,21 @@ actividad, iniciando
 Planes de Fortaleci
 mes de cada fase:
 
-**ARTÍCULO 5.3.5.9.4. DESCUENTOS POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. Cuando porLa persona prestadora a**
+**ARTÍCULO 5.3.5.9.4. DESCUENTOS POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. Cuando por La persona prestadora a**
 
 imposibilidad operativa de la entrada de vehículos o de los operarios del servicio, la recolección de residuos sólidos norecolección puerta a pue
 aprovechables no se realice puerta a puerta, los suscriptores tendrán un descuento del diez por ciento (10%) en el costo dedeberá ser informada al
 recolección y transporte, de acuerdo con lo definido en el Decreto 1077 de 2015 o aquel que lo modifique, adicione, sustituya o
 aclare.
 
-**ARTÍCULO 5.3.5.9.4. DESCUENTOS POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. Cuando porLa persona prestadora a**
+**ARTÍCULO 5.3.5.9.4. DESCUENTOS POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. Cuando por La persona prestadora a**
 
 imposibilidad operativa de la entrada de vehículos o de los operarios del servicio, la recolección de residuos sólidos norecolección puerta a pue
 aprovechables no se realice puerta a puerta, los suscriptores tendrán un descuento del diez por ciento (10%) en el costo dedeberá ser informada al
 recolección y transporte, de acuerdo con lo definido en el Decreto 1077 de 2015 o aquel que lo modifique, adicione, sustituya o
 aclare.
 
-**ARTÍCULO 5.3.5.9.6. INCUMPLIMIENTO DE LA OBLIGACIÓN DE CONTAR CON BÁSCULA DE PESAJE. Las personasLa estructura del Plan**
+**ARTÍCULO 5.3.5.9.6. INCUMPLIMIENTO DE LA OBLIGACIÓN DE CONTAR CON BÁSCULA DE PESAJE. Las personas La estructura del Plan**
 
 prestadoras de la actividad de disposición final, que no cuenten con báscula de pesaje en el relleno sanitario al momento de entradanumerales:
 en vigencia de las fórmulas tarifarias establecidas en la Resolución CRA 853 de 2018, deberán presentar en el respectivo estudio de
@@ -16275,7 +16275,7 @@ Notas de Vigencia
 
 resolutoria a la cual ésta estaba condicionada, por el artículo 4 de la Resolución 999 de 2024>
 
-**ARTÍCULO 5.3.6.1.4. ÁREA DE PRESTACIÓN DE SERVICIO. <Artículo derogado, a partir del 1 de julio de 2021, por el artículoNota: La Resolución CR**
+**ARTÍCULO 5.3.6.1.4. ÁREA DE PRESTACIÓN DE SERVICIO. <Artículo derogado, a partir del 1 de julio de 2021, por el artículo Nota: La Resolución CR**
 
 177 de la Resolución 853 de 2018> Corresponde a la zona geográfica debidamente delimitada donde la E.S.P. ofrece y presta elprevisto en el artículo 5.
 servicio de aseo. Esta deberá consignarse en el contrato de condiciones uniformes. En el evento en que el prestador tenga más de
@@ -16390,7 +16390,7 @@ Ley 142 de 1994.
 
 de 2018> Se delega en el Comité de Expertos de la Comisión la facultad de verificar si las estimaciones realizadas por lospor el artículo 3 de la Re
 prestadores se ajustan a la metodología de cálculo de descuentos tarifarios por aportes bajo condición, en aquellos casos previstosde 2005, Resolución CR
-en el artículo 5.3.7.2 de la presente resolución, para los cuales la función que permite el cálculo de los costos máximos de referenciaResolución CRA 482 de
+en el artículo 5.3.7.2 de la presente resolución, para los cuales la función que permite el cálculo de los costos máximos de referencia Resolución CRA 482 de
 aplicables como consecuencia de la realización de aportes bajo condición no está definida de manera explícita.
 
 **ARTÍCULO 5.4.1.2. CONCEPTO DE LEGALIDAD. Las personas prestadoras que a la entrada en vigencia del presente Título(Resolución CRA 894 de**
@@ -16411,7 +16411,7 @@ uniforme, consensual, en virtud del cual una persona prestadora de servicios pú
 suscriptor, a cambio de un precio en dinero, de acuerdo con estipulaciones que han sido definidas por ella para ofrecerlas a muchosuno o algunos usuarios
 usuarios no determinados.
 
-**ARTÍCULO 5.4.2.5. VIGENCIA DEL CONTRATO Y PERMANENCIA MÍNIMA. El contrato de condiciones uniformes, se entiendeEn el contrato de servic**
+**ARTÍCULO 5.4.2.5. VIGENCIA DEL CONTRATO Y PERMANENCIA MÍNIMA. El contrato de condiciones uniformes, se entiende En el contrato de servic**
 
 celebrado por el término señalado en el mismo, si se opta por celebrarlo a término fijo, este no debe sobrepasar de dos (2) años, so ningún caso podrá ser
 pena de que se presuma abuso de posición dominante. Así mismo, dicho contrato podrá prorrogarse por un periodo no superior a unresolución, o aquella qu
@@ -16482,11 +16482,11 @@ de pesaje, y sólo hasta el momento en que la misma se encuentre disponible, el 
 
 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018> El parámetro FPS se calculará como:
 
-**ARTÍCULO 5.5.1.7. REMISIÓN DE INFORMACIÓN Y PLAZOS. <Artículo derogado, a partir del 1 de julio de 2021, por elNota: La Resolución CR**
+**ARTÍCULO 5.5.1.7. REMISIÓN DE INFORMACIÓN Y PLAZOS. <Artículo derogado, a partir del 1 de julio de 2021, por el Nota: La Resolución CR**
 
 artículo 177 de la Resolución 853 de 2018> La presente Parte deberá ser aplicada por el prestador del servicio de aseo una vezpor el artículo 3 de la Re
 cuente con la información suficiente para el cálculo de los TDi, a que hace referencia el artículo 5.5.1.5. de la presente Resolución, yde 2005, Resolución CR
-a más tardar doce (12) meses después de su publicación en el Diario Oficial. Las personas prestadoras del servicio público de aseoResolución CRA 482 de
+a más tardar doce (12) meses después de su publicación en el Diario Oficial. Las personas prestadoras del servicio público de aseo Resolución CRA 482 de
 deberán remitir los soportes correspondientes a la Superintendencia de Servicios Públicos Domiciliarios y a la Comisión de
 Regulación de Agua Potable y Saneamiento Básico. En todo caso, toda la información necesaria para el cálculo de los costos y
 tarifas a los que se hace referencia en la Resolución CRA 352 de 2005 deberá ser reportada al Sistema Unico de Información –SUI.
@@ -16505,7 +16505,7 @@ proceso de formaliz
 de cumplir los obje
 provisión de recurso
 
-**ARTÍCULO 5.6.1.6. REPORTE. Las organizaciones de recicladores de oficio que estén en proceso de formalización, deberánLa Superintendencia d**
+**ARTÍCULO 5.6.1.6. REPORTE. Las organizaciones de recicladores de oficio que estén en proceso de formalización, deberán La Superintendencia d**
 
 reportar al Sistema Único de Información (SUI), los recursos de inversión provisionados, en los términos y condiciones que señale lacorresponden.
 Superintendencia de Servicios Públicos Domiciliarios (SSPD).
@@ -16520,7 +16520,7 @@ fecha de la primera factura; sin perjuicio que el usuario lo solicite antes.
 
 con base en el aforo que esté en firme.
 
-**ARTÍCULO 5.7.1.6. AJUSTES A LA FACTURACIÓN POR EL RESULTADO DEL AFORO EXTRAORDINARIO. Si el resultado delNota: Para la aplicación**
+**ARTÍCULO 5.7.1.6. AJUSTES A LA FACTURACIÓN POR EL RESULTADO DEL AFORO EXTRAORDINARIO. Si el resultado del Nota: Para la aplicación**
 
 aforo extraordinario muestra que efectivamente había lugar a corregir la cantidad producida de residuos, la persona prestadoramotivo es el dispuesto e
 procederá a reliquidar el aforo del período (s) que estuviese en reclamo por exceso o por defecto, de acuerdo con lo establecido en
@@ -16561,7 +16561,7 @@ En los demás casos se
 
 aseo que atiendan multiusuarios.
 
-**ARTÍCULO 5.7.2.3. VIGENCIA DE LA OPCIÓN TARIFARIA DE MULTIUSUARIO. La opción tarifaria de multiusuario, establecida enLo anterior, sin perjuicio**
+**ARTÍCULO 5.7.2.3. VIGENCIA DE LA OPCIÓN TARIFARIA DE MULTIUSUARIO. La opción tarifaria de multiusuario, establecida en Lo anterior, sin perjuicio**
 
 el Título 1 de la Parte 3 del Libro 5 de la presente resolución, permanecerá vigente hasta tanto el multiusuario solicite a la persona sea el elemento principa
 prestadora su terminación. Para el efecto, el multiusuario deberá presentar ante la persona prestadora el acta de asamblea de142 de 1994.
@@ -16666,7 +16666,7 @@ cuando confluyan en un área.
 
 **ARTÍCULO 5.9.1.3. SOLICITUD PARA RESOLVER CONTROVERSIA. En el evento en que las partes no hayan logrado convenir laPARÁGRAFO. Del acto**
 
-celebración del acuerdo de lavado en los términos del artículo 2.3.2.2.2.5.64 del Decreto 1077 de 2015, la Comisión de RegulaciónDomiciliarios.
+celebración del acuerdo de lavado en los términos del artículo 2.3.2.2.2.5.64 del Decreto 1077 de 2015, la Comisión de Regulación Domiciliarios.
 de Agua Potable y Saneamiento Básico podrá dar inicio, a solicitud de parte, en los términos del artículo 106 y siguientes de la Ley
 142 de 1994, a una actuación administrativa tendiente a resolver dicha controversia, sin perjuicio de la aplicación de las normas
 procedimentales a que haya lugar.
@@ -16866,8 +16866,8 @@ causales de modificación y/o prórroga de los esquemas diferenciales en zonas d
 
 **ARTÍCULO 5.12.1. ÁMBITO DE APLICACIÓN. <Artículo adicionado por el artículo 1 de la Resolución 1011 de 2025. El nuevo textoPARÁGRAFO. Aquellos**
 
-es el siguiente:> La presente resolución aplica para todas las personas prestadoras del servicio público de aseo de la actividad deOficio, en razón a su
-recolección y transporte de residuos sólidos no aprovechables y de la actividad aprovechamiento que deban constituir el Comité deConstitucional, solament
+es el siguiente:> La presente resolución aplica para todas las personas prestadoras del servicio público de aseo de la actividad de Oficio, en razón a su
+recolección y transporte de residuos sólidos no aprovechables y de la actividad aprovechamiento que deban constituir el Comité de Constitucional, solament
 Conciliación de Cuentas de que trata el artículo 2.3.2.5.4.8. del Decreto número 1077 de 2015, independientemente de la
 metodología tarifaria aplicada.
 Notas de Vigencia

@@ -1072,7 +1072,7 @@ Transporte
 isotanque
 Lavado
 hidrolavadora
-MonitoreoSupervisión
+Monitoreo Supervisión
 Intalación de cestas en
 vías y áreas públicas
 Transporte
@@ -1233,7 +1233,7 @@ destino (s)
 3
 Promedio mensual de
 valor pagado por
-peajes (CentroideSitio de destino (s))
+peajes (Centroide Sitio de destino (s))
 Para conocer el cáculo de la tarifa en condiciones distintas a las mencionadas, consulta
 la sección 4. del proyecto de resolución y sección 7.3. del documento de trabajo.
 www.cra.gov.co
@@ -1676,7 +1676,7 @@ Espacio físico (Bodega en
 arriendo o compra)
 Insumos operativos
 Operadora báscula
-Operarios separaciónClasificación
+Operarios separación Clasificación
 Operaria Compactador
 Operaria almacenamiento
 Supervisora

@@ -324,7 +324,7 @@ Gestión Eficiente de Energía
 Índice de Continuidad
 Indicador de Derecho Humano al Agua
 Índice de Atención de PQR Acueducto
-Índice de Atención de PQR AlcantarilladoÍndice de Pérdidas por Suscriptor Facturado estándar
+Índice de Atención de PQR Alcantarillado Índice de Pérdidas por Suscriptor Facturado estándar
 Índice de Riesgo de la Calidad del Agua para Consumo Humano
 Índice de Reporte y Calidad de Agua Potable
 Indicador de Reto de Desarrollo
@@ -1438,7 +1438,7 @@ Las señales regulatorias del NMTAA refuerzan señales en relación con:
 determinación de las metas como los esquemas diferenciales. Algunas de estas
 condiciones y los esquemas regionales de prestación tendrán opciones de cálculo
 de los costos económicos de referencia que benefician a los usuarios ubicados en
-estas zonas y/o APS con menores tarifasInclusión de la percepción de los usuarios
+estas zonas y/o APS con menores tarifas Inclusión de la percepción de los usuarios
 respecto de la calidad del servicio como uno de los estándares de prestación.
 3. Reconocimiento de los costos asociados a la gestión social que realiza el
 prestador.
@@ -1554,8 +1554,8 @@ eams/e5df0bb6-9457-439f-aa2c-9b1d1b1b1518/content
 CRA. (Septiembre de 2023). https://www.cra.gov.co/. Recuperado el 08 de 05 de 2025, de
 Estudio de Generalidades del Marco Tarifario de Grandes Prestadores de Acueducto y Alcantarillado:
 chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cra.gov.co/sites/default/files/docume
-nts/202309/Estudio%20de%20Generalidades%20del%20Nuevo%20Marco%20Tarifario%20de%20Acueduc
-to%20y%20Alcantarillado%20para%20Grandes%20Prestadores.pdf
+nts/202309/Estudio%20de%20 Generalidades%20del%20 Nuevo%20 Marco%20 Tarifario%20de%20 Acueduc
+to%20y%20 Alcantarillado%20para%20 Grandes%20 Prestadores.pdf
 CRA. (noviembre de 2023-II). https://www.cra.gov.co/. Obtenido de Estudio del componentes
 social
 de
@@ -1567,7 +1567,7 @@ de
 acueducto
 y
 alcantarillado:
-https://www.cra.gov.co/sites/default/files/documents/202407/Ana%CC%81lisis%20del%20Componente%20social%20Nuevo%20marco%20tarifario%20de
+https://www.cra.gov.co/sites/default/files/documents/202407/Ana%CC%81lisis%20del%20 Componente%20social%20 Nuevo%20marco%20tarifario%20de
 %20acueducto%20y%20alcantarillado%20de%20grandes%20prestadores.pdf
 DNP. (2022). https://colaboracion.dnp.gov.co. Obtenido de Informe Anual de Avance en la
 Implementación
@@ -1596,7 +1596,7 @@ septiembre
 de
 2015:
 chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/https://documents.un.org/doc/undoc/gen/n15/291
-/93/pdf/n1529193.pdf?OpenElement
+/93/pdf/n1529193.pdf?Open Element
 ONU. (2025). https://www.un.org/. Obtenido de Objetivo 6: Garantizar la disponibilidad de agua y
 su
 gestión
@@ -1616,7 +1616,7 @@ El
 derecho
 al
 agua:
-https://www.ohchr.org/sites/default/files/Documents/Publications/FactSheet35sp.pdf
+https://www.ohchr.org/sites/default/files/Documents/Publications/Fact Sheet35sp.pdf
 Thaler, R. H., & Sunstein, C. R. (Febrero de 2009). Nudge: Improving Decisions About Health,
 Wealth, and Happiness. (P. Books, Ed.)
 38
@@ -7487,17 +7487,17 @@ CRA. (Septiembre de 2023). https://www.cra.gov.co/. Recuperado el 08 de 05 de 20
 Estudiio de Generalidades del Marco Tarifario para Grandes Prestadores de Acueducto y
 Alcantarillado:
 chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cra.gov.co/sites/default/files/docume
-nts/202309/Estudio%20de%20Generalidades%20del%20Nuevo%20Marco%20Tarifario%20de%20Acueduc
-to%20y%20Alcantarillado%20para%20Grandes%20Prestadores.pdf
+nts/202309/Estudio%20de%20 Generalidades%20del%20 Nuevo%20 Marco%20 Tarifario%20de%20 Acueduc
+to%20y%20 Alcantarillado%20para%20 Grandes%20 Prestadores.pdf
 CRA. (2025). https://www.cra.gov.co/. Obtenido de Estudio Articulador del Nuevo Tarifario para
 Grandes
 Prestadores:
 chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cra.gov.co/sites/default/files/docume
-nts/2025-04/24042025Estudio%20Articulador%20del%20Nuevo%20Marco%20Tarifario_ajustes%20SCO_compressed.pd
+nts/2025-04/24042025 Estudio%20 Articulador%20del%20 Nuevo%20 Marco%20 Tarifario_ajustes%20SCO_compressed.pd
 f
 De la Fuente, S. (2011). Universidad Autonoma de Madrid. Facultad de Ciencias Económicas y
 empresariles. Madrid, España.
-De la Guía González, A. V. (2017). https://docta.ucm.es/. Obtenido de La transformación BoxCox: https://hdl.handle.net/20.500.14352/20566
+De la Guía González, A. V. (2017). https://docta.ucm.es/. Obtenido de La transformación Box Cox: https://hdl.handle.net/20.500.14352/20566
 DNP. (2008). https://colaboracion.dnp.gov.co/. Obtenido de Consideraciones sobre el sector de
 agua
 potable
@@ -7506,8 +7506,8 @@ saneamiento
 básico
 en
 Colombia:
-https://colaboracion.dnp.gov.co/CDT/Estudios%20Econmicos/Consideraciones%20sobre%20el%2
-0Sector%20de%20agua%20potable%20y%20saneamiento%20b%C3%A1sico.pdf
+https://colaboracion.dnp.gov.co/CDT/Estudios%20 Econmicos/Consideraciones%20sobre%20el%2
+0 Sector%20de%20agua%20potable%20y%20saneamiento%20b%C3%A1sico.pdf
 DNP. (2018). https://colaboracion.dnp.gov.co. Obtenido de CONPES 3950 de 2018 - Estrategia
 para la Atención de la Migración desde Venezuela.
 Domas, M. H., & Jouravlev , A. (2011). Lineamientos de política pública para el sector de agua
@@ -7521,7 +7521,7 @@ Obtenido
 de
 chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/https://repositorio.cepal.org/server/api/core/bitstr
 eams/2dd56e4f-ad16-4f8d-bb22-2ab7d0080cf6/content
-EcuRed.
+Ecu Red.
 (11
 de
 05
@@ -7535,7 +7535,7 @@ euclídea:
 61
 REG-FOR02 V02
 Ferro, G. (2022). Experiencias de agregación en el mundo y lecciones aprendidas [Diapositivas de
-PowerPoint]. MÓDULO #3 Contribución regulatoria a la organización y capacitación del sector.
+Power Point]. MÓDULO #3 Contribución regulatoria a la organización y capacitación del sector.
 RegWAS América Latina y el Caribe. Training.
 García Pérez, S. M. (09 de Diciembre de 2014). “Distancias geométricas entre píxeles”.
 Universidad
@@ -7600,7 +7600,7 @@ de
 El
 derecho
 al
-https://www.ohchr.org/sites/default/files/Documents/Publications/FactSheet35sp.pdf
+https://www.ohchr.org/sites/default/files/Documents/Publications/Fact Sheet35sp.pdf
 agua:
 Queralt, G. B., Calzada, J., & Estruch Manjón, A. (2010). Economía y regulación de los servicios
 de red.
@@ -7628,8 +7628,8 @@ Unidas sobre el Desarrollo de los Recursos Hídricos 2021: el valor del agua:
 https://unesdoc.unesco.org/ark:/48223/pf0000378890
 Vicente Villardón, J. L. (2009). Universidad de Salamanca. Obtenido de Una alternativa a las
 técnicas factoriales clásicas basada en una generalización de los métodos Biplot:
-https://d1wqtxts1xzle7.cloudfront.net/32334872/cluster-libre.pdf?1391545429=&responsecontentdisposition=inline%3B+filename%3DCluster.pdf&Expires=1747769384&Signature=OksCWag~fnr
-aLjD4M-RPmmqdshCPu2fbreN
+https://d1wqtxts1xzle7.cloudfront.net/32334872/cluster-libre.pdf?1391545429=&responsecontentdisposition=inline%3B+filename%3 DCluster.pdf&Expires=1747769384&Signature=OksCWag~fnr
+a LjD4M-RPmmqdshCPu2fbreN
 63
 REG-FOR02 V02
 7. ANEXOS
@@ -8046,7 +8046,7 @@ medida de similitud los grupos formados contendrán individuos con una alta simi
 Las medidas o criterios más comunes son:
 - a) Distancia Euclidiana: Se trata de una función no negativa usada en diversos contextos
 para calcular la distancia entre dos puntos, primero en el plano y luego en el espacio.
-(EcuRed, 2022) También sirve para definir la distancia entre dos puntos en otros tipos
+(Ecu Red, 2022) También sirve para definir la distancia entre dos puntos en otros tipos
 de espacios de tres o más dimensiones. Y para hallar la longitud de un segmento definido
 por dos puntos de una recta, del plano o de espacios de mayor dimensión.
 - b) Distancia Euclidiana al cuadrado: Es una función que no forma un espacio métrico, ya
@@ -10193,8 +10193,8 @@ Corporaciones Ambientales, Entidades Territoriales. La CRA podría dar señales
 59
 Esta información no se encuentra disponible al público debido a que su finalidad es netamente de seguimiento regulatorio. Internamente
 se puede consultar el siguiente link para ver los tableros de seguimiento de la Resolución CRA 750 de 2016:
-https://app.powerbi.com/view?r=eyJrIjoiMzJlMTJiYTAtNjcyMC00MmQ4LWE2MGUtMGFjOTU2NTNkZTVkIiwidCI6IjBmMjVhYzVkLTgyMGUtNDM
-zZS04NDYwLTZjMGM2ZGQ0ZTdlOCIsImMiOjR9.
+https://app.powerbi.com/view?r=ey Jr Ijoi Mz JlMTJiYTAt NjcyMC00 MmQ4LWE2 MGUtMGFjOTU2 NTNkZTVk IiwidCI6 Ij Bm Mj Vh Yz VkLTgyMGUtNDM
+zZS04 NDYwLTZjMGM2ZGQ0 ZTdlOCIs Im Mi OjR9.
 60
 Al respecto, el artículo 8o de la Ley 373 de 1997 establece que la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA),
 definirá una estructura tarifaria que incentive el uso eficiente y de ahorro del agua, y desestimule su uso irracional.
@@ -11716,7 +11716,7 @@ necesarios
 para
 brindar el servicio
 (“Efecto
-AverchJohnson” que no es
+Averch Johnson” que no es
 más que el uso
 excesivo de capital
 para la prestación
@@ -13741,7 +13741,7 @@ categoría 2 es del 77% (corresponde a los puntos de bombeo con un volumen bombe
 1.000.000 y 3.000.000 m3/año). Para alcantarillado, el parámetro mínimo de eficiencia en bombeo
 se mantiene en 60%. Este valor del parámetro mínimo de eficiencia se encuentra incorporado en la
 fórmula del costo de energía para definir el Consumo eficiente de energía eléctrica utilizada en
-bombeos en el punto j de toma-kWh/año (𝐾𝑒𝑏𝑗 ).
+bombeos en el punto j de toma-k Wh/año (𝐾𝑒𝑏𝑗 ).
 Ahora bien, es importante precisar que la mencionada fórmula de energía para determinar el 𝐾𝑒𝑏𝑗
 implica determinar el mínimo valor entre el consumo teórico, resultante de aplicar el parámetro
 mínimo de eficiencia, y el consumo real.
@@ -13886,7 +13886,7 @@ Calificación: Promedio simple de las respuestas a las preguntas orientadas al s
 y alcantarillado, redondeado a cero decimales.
 Clasificación del nivel de maduración: De acuerdo con la calificación total, se asigna uno de los cinco
 niveles previamente descritos.
-Si bien el objetivo de largo plazo del NMTGPAA es que los prestadores alcancen el Nivel 5Optimizado en el uso de innovación tecnológica en la cadena de valor en los servicios públicos
+Si bien el objetivo de largo plazo del NMTGPAA es que los prestadores alcancen el Nivel 5 Optimizado en el uso de innovación tecnológica en la cadena de valor en los servicios públicos
 domiciliarios de acueducto y alcantarillado, en esta primera etapa se promueve su adopción como
 buena práctica. Esto permitirá recopilar retroalimentación sobre el uso de la herramienta y,
 posteriormente, establecer un valor de referencia que sirva como estándar sectorial.
@@ -14482,7 +14482,7 @@ CRA. (2025). https://www.cra.gov.co/. Obtenido de Estudio Articulador del Nuevo 
 Grandes
 Prestadores:
 chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cra.gov.co/sites/default/files/docume
-nts/2025-04/24042025Estudio%20Articulador%20del%20Nuevo%20Marco%20Tarifario_ajustes%20SCO_compressed.pd
+nts/2025-04/24042025 Estudio%20 Articulador%20del%20 Nuevo%20 Marco%20 Tarifario_ajustes%20SCO_compressed.pd
 f
 Fundación
 aquae.
@@ -16631,7 +16631,7 @@ y
 saneamiento.
 Obtenido
 de
-https://publications.iadb.org/publications/spanish/document/An%C3%A1lisis-focalizadoGestion-de-perdidas-de-agua-en-empresas-prestadoras-de-servicios-de-agua-ysaneamiento.pdf
+https://publications.iadb.org/publications/spanish/document/An%C3%A1lisis-focalizado Gestion-de-perdidas-de-agua-en-empresas-prestadoras-de-servicios-de-agua-ysaneamiento.pdf
 DNP. (2019). La Agenda 2030 en Colombia. Obtenido de ODS 6. Agua Limpia y Saneamiento:
 https://ods.dnp.gov.co/es/objetivos/agua-limpia-y-saneamiento
 DNP. (2020). CONPES 4004: "ECONOMÍA CIRCULAR EN LA GESTIÓN DE LOS SERVICIOS DE AGUA
@@ -16643,7 +16643,7 @@ and
 management.
 Obtenido
 de
-https://gwopa.org/wpcontent/uploads/2020/06/0120NonE28091revenue20water20reduction-10c-82.pdf
+https://gwopa.org/wpcontent/uploads/2020/06/0120 NonE28091revenue20water20reduction-10c-82.pdf
 Farley, M., Wyeth, G., Bin, Z. G., Istandar, A., & Singh, S. (2008). The Manager’s Non-Revenue
 Water Handbook A Guide to Understanding Water Losses. USAID.
 IWA. (2017). Indicadores de Desempeño para Servicios de Abastecimiento de Agua. Universitat
@@ -16658,7 +16658,7 @@ Obtenido
 de
 https://www.cepal.org/sites/default/files/publication/files/6440/S047562_es.pdf
 Kingdom, B., Liemberger, R., & Marin, P. (2006). The Challenge of Reducing Non-Revenue Water
-(NRW) in Developing Countries How the Private Sector Can Help: A Look at PerformanceBased Service Contracting. Washington DC: Banco Mundial.
+(NRW) in Developing Countries How the Private Sector Can Help: A Look at Performance Based Service Contracting. Washington DC: Banco Mundial.
 Lambert, A., & Hirner, W. (2000). Losses from Water Supply Systems: Standard Terminology and
 Recommended Performance Measures. IWA Blue Pages. IWA.
 Pearson, D. (2021). Definiciones Estándar de Pérdidas de Agua Compendio de términos y acrónimos
@@ -18547,7 +18547,7 @@ ET1.2 índice de Reporte y
 Calidad de Agua Potable.
 Peso: 60%.
 ET1.3 Índice
-deContinuidad. Peso: 28%.
+de Continuidad. Peso: 28%.
 EA2. Eficiencia
 Administrativa. Peso: 10%
 EE3. Eficiencia económica.
@@ -19113,31 +19113,31 @@ tarifario 𝑖 − 2).
 𝐾𝑒𝑏𝑗,𝑎𝑐/𝑎𝑙 :
 Consumo eficiente de energía eléctrica utilizada en bombeos en el punto de toma 𝑗
 del sistema de bombeo, en el año tarifario 𝑖 − 2, para cada servicio público domiciliario
-(kWh/año).
+(k Wh/año).
 51
 REG-FOR02 V02
 𝑃𝑐𝑒𝑗,𝑎𝑐/𝑎𝑙 :
 Precio eficiente de la energía eléctrica en el punto de toma 𝑗 del sistema de bombeo
 en el año tarifario 𝑖 − 2, para cada servicio público domiciliario, correspondiente a la
-alternativa de mínimo costo (pesos de junio del año tarifario 𝑖 − 2 /kWh).
+alternativa de mínimo costo (pesos de junio del año tarifario 𝑖 − 2 /k Wh).
 𝐾𝑒𝑎𝑘,𝑎𝑙 :
 Consumo eficiente de energía eléctrica utilizada en el proceso de aireación en el punto
 de toma 𝑘, en el año tarifario 𝑖 − 2, para el servicio público domiciliario de alcantarillado
-(kWh/año).
+(k Wh/año).
 𝑃𝑐𝑒𝑘,𝑎𝑙 :
 Precio eficiente de la energía eléctrica en el punto de toma 𝑘 del proceso de aireación
 en el año tarifario 𝑖 − 2, para el servicio público domiciliario de alcantarillado,
 correspondiente a la alternativa de mínimo costo (pesos de junio del año tarifario 𝑖 −
-2 /kWh).
+2 /k Wh).
 𝐾𝑜𝑎𝑙,𝑎𝑐/𝑎𝑙 :
 Consumo eficiente de energía eléctrica utilizada en procesos operativos diferentes a
 bombeos y aireación en el punto de toma 𝑙, en el año tarifario 𝑖 − 2, para cada servicio
-público domiciliario (kWh/año).
+público domiciliario (k Wh/año).
 𝑃𝑐𝑒𝑙,𝑎𝑐/𝑎𝑙 :
 Precio eficiente de la energía eléctrica en el punto de toma 𝑙 de los procesos operativos
 diferentes a bombeos y aireación en el año tarifario 𝑖 − 2, para cada servicio público
 domiciliario, correspondiente a la alternativa de mínimo costo (pesos de junio del año
-tarifario 𝑖 − 2 /kWh).
+tarifario 𝑖 − 2 /k Wh).
 𝐹𝐸𝑗 :
 Factor de energía eléctrica de cada punto de toma 𝑗 del sistema bombeo (kN/m 3).
 𝑉𝑗 :
@@ -19146,7 +19146,7 @@ Volumen bombeado en cada punto de toma 𝑗 del sistema (m3/año).
 Altura dinámica total del sistema de bombeo conectado al punto de toma 𝑗 (m).
 𝐾𝑟𝑗 :
 Consumo real de energía eléctrica utilizada en bombeo en el punto de toma 𝑗 del
-sistema bombeo (kWh/año).
+sistema bombeo (k Wh/año).
 𝑛:
 Número de puntos de toma a los que se conectan los sistemas de bombeo de la
 persona prestadora.
@@ -19735,7 +19735,7 @@ Normality.
 University
 of
 Iowa.
-http://www2.psychology.uiowa.edu/faculty/mordkoff/GradStats/part%201/I.07%20normal.pdf
+http://www2.psychology.uiowa.edu/faculty/mordkoff/Grad Stats/part%201/I.07%20normal.pdf
 Minatta y Basani, 2020. Innovación en agua, saneamiento y residuos sólidos. Diagnóstico,
 perspectivas y oportunidades para América Latina y el Caribe. Banco Interamericano de Desarrollo.
 División de Agua y Saneamiento. Julio 2020.
@@ -27702,7 +27702,7 @@ Banco Mundial (2020). “Colombia un cambio de rumbo, seguridad hídrica para la
 crecimiento
 sostenible”.
 En
-https://thedocs.worldbank.org/en/doc/7990115990583615480090022020/render/TurningtheTideBriefSPAugust3020.pdf
+https://thedocs.worldbank.org/en/doc/7990115990583615480090022020/render/Turningthe Tide BriefSPAugust3020.pdf
 CEPAL. (2014). https://repositorio.cepal.org/. Obtenido de Políticas tarifarias y regulatorias en el
 marco de los Objetivos de Desarrollo del Milenio y el derecho humano al agua y al saneamiento:
 https://repositorio.cepal.org/server/api/core/bitstreams/6e3eb992-1d78-420d-89cbf56cf611e0d0/content
@@ -27717,8 +27717,8 @@ CRA. (2023). “Estudio de Generalidades del Marco Tarifario para Grandes Presta
 y
 Alcantarillado”.
 En:
-https://www.cra.gov.co/sites/default/files/documents/202309/Estudio%20de%20Generalidades%20del%20Nuevo%20Marco%20Tarifario%20de%20Acueduc
-to%20y%20Alcantarillado%20para%20Grandes%20Prestadores.pdf
+https://www.cra.gov.co/sites/default/files/documents/202309/Estudio%20de%20 Generalidades%20del%20 Nuevo%20 Marco%20 Tarifario%20de%20 Acueduc
+to%20y%20 Alcantarillado%20para%20 Grandes%20 Prestadores.pdf
 CRA.
 (2024).
 “Estudio
@@ -27754,7 +27754,7 @@ ministros
 de
 finanzas.
 En:
-https://www.sanitationandwaterforall.org/sites/default/files/202012/Financial%20Handbook_ES.pdf.
+https://www.sanitationandwaterforall.org/sites/default/files/202012/Financial%20 Handbook_ES.pdf.
 REG-FOR02 V02
 4. ANEXOS
 4.1.
@@ -28270,7 +28270,7 @@ i. Cuota de
 fiscalización o
 cuota de control
 fiscal
-0BTasas
+0 BTasas
 a.
 b.
 c.
@@ -28484,8 +28484,8 @@ Web
 de
 la
 Dian,
-https://www.dian.gov.co/impuestos/personas/Paginas/gravamen_movimientos_financieros.aspx#:~:text=%E2%80%8BGravamen%20a%2
-0los%20Movimientos,por%20los%20usuarios%20del%20sistema.
+https://www.dian.gov.co/impuestos/personas/Paginas/gravamen_movimientos_financieros.aspx#:~:text=%E2%80%8 BGravamen%20a%2
+0los%20 Movimientos,por%20los%20usuarios%20del%20sistema.
 25
 Artículo 871 del Estatuto Tributario.
 26
@@ -28543,7 +28543,7 @@ timbre
 en
 Colombia,
 2007.
-https://www.dian.gov.co/dian/cifras/Cuadernos%20de%20Trabajo/Generalidades%20del%20impuesto%20de%20timbre%20en%20Colomb
+https://www.dian.gov.co/dian/cifras/Cuadernos%20de%20 Trabajo/Generalidades%20del%20impuesto%20de%20timbre%20en%20 Colomb
 ia%20(Actualizaci%C3%B3n).pdf
 30
 Artículo 514 del Estatuto Tributario.
@@ -32247,8 +32247,8 @@ CRA. (Septiembre de 2023). https://www.cra.gov.co/. Recuperado el 08 de 05 de 20
 Estudiio de Generalidades del Marco Tarifario para Grandes Prestadores de Acueducto y
 Alcantarillado:
 chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cra.gov.co/sites/default/files/docume
-nts/202309/Estudio%20de%20Generalidades%20del%20Nuevo%20Marco%20Tarifario%20de%20Acueduc
-to%20y%20Alcantarillado%20para%20Grandes%20Prestadores.pdf
+nts/202309/Estudio%20de%20 Generalidades%20del%20 Nuevo%20 Marco%20 Tarifario%20de%20 Acueduc
+to%20y%20 Alcantarillado%20para%20 Grandes%20 Prestadores.pdf
 DANE.
 (2025).
 www.dane.gov.co.
@@ -32259,7 +32259,7 @@ de
 07
 de
 2025,
-https://www.dane.gov.co/files/operaciones/IPC/may2025/anex-IPC-sinAlimentosReguladosabr2025.xlsx
+https://www.dane.gov.co/files/operaciones/IPC/may2025/anex-IPC-sin Alimentos Reguladosabr2025.xlsx
 de
 62
 REG-FOR02 V02
@@ -32947,7 +32947,7 @@ con la actualización de la información a 2022. Lo primero que se destaca con l
 la media baja 0,34 puntos porcentuales mientras que las medidas de dispersión como la desviación
 y la varianza muestran un incremento de 0,14 y 0,02 puntos porcentuales respectivamente.
 45
-Fecha de consulta 07/04/2022, https://home.treasury.gov/resource-center/data-chart-center/interesrates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2021 y en
+Fecha de consulta 07/04/2022, https://home.treasury.gov/resource-center/data-chart-center/interesrates/Text View?type=daily_treasury_yield_curve&field_tdr_date_value=2021 y en
 https://www.stern.nyu.edu/~adamodar/pc/datasets/histretSP.xls
 71
 REG-FOR02 V02

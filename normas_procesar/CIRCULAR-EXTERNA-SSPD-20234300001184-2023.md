@@ -7,7 +7,7 @@ POTENCIA DE LA
 ^ Superservidos
 VIDA
 Supenntendencia de Servicios
-Publlcos OomicHlarios
+Publlcos Oomic Hlarios
 202343CKXX?1 1 84
 Pagina 1 de 5
 GD-F-014V.18
@@ -160,7 +160,7 @@ organizaciones de recicladores de oficio en la jurisdiccion” atendiendo los pa
 Unico Reglamentario 1077 de 2015, modificado y adicionado por el Decreto MVCT 596 de 2016 y la
 Resolucion MVCT 276 de 2016, o la norma que las modifique, adicione o sustituya.
 v3
-Asi mismo, en este formato las alcaldias deben responder SI o NO a la pregunta: iLa Organizacion
+Asi mismo, en este formato las alcaldias deben responder SI o NO a la pregunta: i La Organizacion
 de Recicladores de Oficio esta conformada por recicladores de oficio conforme al censo municipal y/o
 distrital? Al responder Sf, el municipio certifica el reconocimiento de las organizaciones de recicladores
 /

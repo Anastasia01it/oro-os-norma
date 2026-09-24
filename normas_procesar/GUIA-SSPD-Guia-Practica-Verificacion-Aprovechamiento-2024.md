@@ -12,7 +12,7 @@ Dagoberto Quigora Collazos
 Superintendente de Servicios Públicos
 Domiciliarios
 Luz María Zapata Zapata
-Directora de Asociación de Ciudades CapitalesAsocapitales
+Directora de Asociación de Ciudades Capitales Asocapitales
 Hugo German Guanumen Pacheco
 Superintendente Delegado para Acueducto,
 Alcantarillado y Aseo

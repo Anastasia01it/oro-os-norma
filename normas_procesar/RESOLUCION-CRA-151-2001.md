@@ -7479,14 +7479,14 @@ Valor de la factura del usuario del estrato i / sector i
 Cargo fijo del usuario del estrato i / sector i
 Valor del consumo del usuario del estrato i / sector i, que se calcula como:
 - a) Para los usuarios residenciales
-VCi = ( CBi x QBi ) +å ( CCij xQij )
+VCi = ( CBi x QBi ) +å ( CCij x Qij )
 donde:
 QBi
 Qij
 Consumo del usuario del estrato i, en el rango de consumo básico
 Consumo del usuario del estrato i, en el rango de consumo j
 - b) Para los usuarios no residenciales:
-VCi = CCi xQi
+VCi = CCi x Qi
 donde:
 Qi =
 Consumo total del usuario del sector i
@@ -8630,7 +8630,7 @@ Cargo fijo del usuario del estrato i / sector i
 Valor del vertimiento del usuario del estrato i / sector i, que se calcula
 como:
 - a) Para los usuarios residenciales
-VCi = ( CBi x VBi ) + S ( CCij xVij )
+VCi = ( CBi x VBi ) + S ( CCij x Vij )
 j
 donde:
 VBi
@@ -8638,7 +8638,7 @@ Vij
 Vertimiento del usuario del estrato i, en el rango de vertimiento básico
 Vertimiento del usuario del estrato i, en el rango de consumo j
 - b) Para los usuarios no residenciales:
-VCi = CCi xVi
+VCi = CCi x Vi
 donde:
 Vi =
 Vertimiento total del usuario del sector i
@@ -8665,12 +8665,12 @@ CFi Cargo fijo del usuario del estrato i / sector i
 VCi Valor del vertimiento del usuario del estrato i / sector i, que se calcula
 como:
 - a) Para los usuarios residenciales
-VCi = ( CBi x VBi ) +_Sj( CCij xVij )
+VCi = ( CBi x VBi ) +_Sj( CCij x Vij )
 donde:
 VBi Verimiento del usuario del estrato i, en el rango de vertimiento básico
 Vij Vertimiento del usuario del estrato i, en el rango de consumo j
 - b) Para los usuarios no residenciales:
-VCi = CCi xVi
+VCi = CCi x Vi
 donde:
 Vi = Vertimiento total del usuario del sector i
 
@@ -10189,7 +10189,7 @@ de la tarifa para los componentes Domiciliario y de Barrido y Limpieza, así:
 donde:
 TDGx Vg Valor de la factura del Componente Domiciliario de los grandes productores, con Vg igual al
 volumen de residuos sólidos aforado al usuario gran productor (expresado en m3)
-TBGxBig Valor de la factura del Componente de Barrido y Limpieza para los grandes productores; con Big
+TBGx Big Valor de la factura del Componente de Barrido y Limpieza para los grandes productores; con Big
 igual a la relación entre la frecuencia de barrido en que se atiende al gran productor y la frecuencia modal
 
 > **PARÁGRAFO. La frecuencia modal de barrido es aquella con la cual se presta el servicio de barrido al**

@@ -92,7 +92,11 @@ def limpiar(texto: str) -> str:
                 ln = ""                                      # fila separadora: fuera
             elif celdas:
                 ln = " ".join(c for c in celdas if c)
-        ln = ln.replace("\\", "").translate({ord(c): "" for c in "*_<>~`"})
+        # 3. Marcas de formato: se SUSTITUYEN por espacio (no se borran): en el
+        # corpus los cierres de negrita/anotacion pueden quedar entre dos
+        # palabras sin espacio ("2015>**Establecer"); borrarlas pegaba palabras
+        # en el lado del corpus (hallazgo Res. CRA 0853). plano() colapsa.
+        ln = ln.replace("\\", "").translate({ord(c): " " for c in "*_<>~`"})
         f = fold(plano(ln))
         if not f or f in ("---",):
             continue

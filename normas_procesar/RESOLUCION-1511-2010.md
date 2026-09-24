@@ -28,7 +28,7 @@ CONSIDERANDO:
 
 Que los artículos 79 y 80 de la Colnshlución Puítwcg consagran el derecho
 colectivo a gozar de un ambiente sano y el deber del Estado de proteger la
-diversidad e integridad del¡amQen(e, Riamflcar ¡el manejo y aprovechamiento de
+diversidad e integridad del¡am Qen(e, Riamflcar ¡el manejo y aprovechamiento de
 los recursos naturales a fin de garantizar su: desarrollo sostenible, su
 
 conservación, restauración o sustitución y prevenir los factores de deterioro
@@ -139,7 +139,7 @@ Tubulares Rectos! 1 — —
 
 * Resolución No. A
 
-“Por la cual se establecen los Sistémas de1Rem[eccaón Selectiva y Gestión Ambiental de
+“Por la cual se establecen los Sistémas de1 Rem[eccaón Selectiva y Gestión Ambiental de
 Residios de Bombillas y se adoptan otras idwsbosicmnes“
 
 ultravioleta. Fluorescentes, de Cátodo caliente
@@ -188,7 +188,7 @@ residuos de bombillas desechados por el consumidor, cuya recolección y gestión
 se encuentran enmarcados e un Sistema de Recolección 1$e1ect¡va y Gestión
 Ambiental de Residuos de Bombillas, en un lugar acondicionado para tal fin, de
 manera segura y gmb¡en¡alrrjenle £demada, con ' el objeto de facilitar su
-recolección, clasificación. y cualqulerLac(¡vldad de preparáción previa a una
+recolección, clasificación. y cualquler Lac(¡vldad de preparáción previa a una
 
 posterior gestión y manejo ambiental. El lugar donde fº desarrolla esta actividad
 
@@ -481,7 +481,7 @@ Selectiva y Gestión Ambiental de Reslduos1de Bombillas deberán asegurar las
 siguientes metas mínimas de recolección: 1 1
 a) A partir del año 2012 1os Sstepas de Recoleccxon Selectiva y Gestión
 Ambiental de Residuos de Bomb…as deberan asegurar la recolección mínima
-anual del 5% de los reSiduos de bomblllas !
+anual del 5% de los re Siduos de bomblllas !
 
 b) En los años posteriores, se debe garannzar una recolección con incrementos
 anuales mínimos del 5% has(a alcanzar el 60% comF mínimo de los residuos
@@ -497,7 +497,7 @@ Resolución No. W ?
 
 ( “Porlacual se establecen los Sistemas de Recolección 551ectwa y Gestión Ambiental de
 
-Residuos de Bombillas y se adTptan otras disposiciones”
+Residuos de Bombillas y se ad Tptan otras disposiciones”
 
 Parágrafo 2. A partir del año 2013, los productores deberán. ampliar los Sistemas
 de Recolección Se]ec(waA y Gestión Ambiental de Residuos de Bombillas al
@@ -637,7 +637,7 @@ Garantizar la sqgundad qe los recipientes o contenedores que se ubiquen
 
 bombillas. — W
 
-1) Apoyar al productor ylo a las aJmndades en la rLa¡zac¡cn ylo difusión de
+1) Apoyar al productor ylo a las a Jmndades en la r La¡zac¡cn ylo difusión de
 
 campañas de wnfonmac¡on pública :sobre Ios Sistemas de Recolección
 
@@ -648,13 +648,13 @@ productores- para el con(rol de fos residuos de bombillas que se recojan
 “Por la cual se estableben los Sistemas de Recblección '82egiva y Gestión Ambiental de
 Residuos de Bombillas y se adóptan otras disposiciones"
 
-dentro de los ;¡stemas de Re¿o1ecuon Select1Ja ¡y Gestión Ambiental de
+dentro de los ;¡stemas de Re¿o1ecuon Select1 Ja ¡y Gestión Ambiental de
 Residuos de Bombillas!
 
 ARTÍCULO DÉCIMO) SEXTO Obligaciones de los consumidores. Para efectos
 de aplicación de los Sistemas de Recolección Selectiva y Gestión Ambiental de
 Residuos de Bombillas, sor obligaciones de'los consumídores las siguientes:
-a) Retornar o erJlrega'r los residuos de bomb…as a través de los puntos de
+a) Retornar o er Jlrega'r los residuos de bomb…as a través de los puntos de
 recolección o los mecanismos [equivalentes establecidos por los
 productores.
 
@@ -717,7 +717,7 @@ Residuos de l?ambllas y se adoptan otras disposiciónes”
 
 ARTÍCULO VIGESIMD Prohibiciones.
 
-a) Disponer resxducs de bombillas en reHenos sanitarios.
+a) Disponer resxducs de bombillas en re Henos sanitarios.
 b) Quemar residuos de bombillas a cielo ablerlo
 
 C) Enterrar residuos de bombwl¡as “

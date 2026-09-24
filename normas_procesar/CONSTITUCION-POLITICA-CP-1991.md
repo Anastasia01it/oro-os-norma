@@ -33,11 +33,11 @@ Colombia 1991 (rev. 2015) Constitución - Constitute
  
 
  
- [[getTranslation('Log in')]]
+ [[get Translation('Log in')]]
  
  
  
- [[getTranslation('Log in info')]]
+ [[get Translation('Log in info')]]
  
  
 
@@ -52,7 +52,7 @@ Colombia 1991 (rev. 2015) Constitución - Constitute
  
 
  
- [[getTranslation('Log out')]]
+ [[get Translation('Log out')]]
  
 
  

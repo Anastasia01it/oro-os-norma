@@ -342,7 +342,7 @@ se señaló en la Circular UAE-CRA No. 1 de 2017"
 Suscriptores".
 Carrera 12 N” 97-80, Piso 2. Bogotá, D.C. - Colombia. Código postal. 110221
 PBX. +57(1) 4873820 - 4897640 Fax, +57(1) 4897650 Línea gratuita nacional. 01 8000 517 565 E
-correoQcra.gov.co - www.cra.gov.co
+correo Qcra.gov.co - www.cra.gov.co
 -e
 Comisión 0 UN
 E Regulación É£  Superservicios TODOS POR UN
@@ -437,7 +437,7 @@ la Resolución CRA 720 de 2015, página 43.
 * Artículo 12 de la Resolución 276 de 2016.
 Carrera 12 N* 97-80, Piso 2. Bogotá, D.C. - Colombia, Código postal. 110221 ó
 PBX. +57(1) 4873820 - 4897640 Fax. +57(1) 4897650 Linea gratuita nacional. 01 8000 517 565
-correoQcra.gov.co - www.cra.gov.co
+correo Qcra.gov.co - www.cra.gov.co
 -e
 Comisión 9 ms
 de Regulación ta Superservicios a TODOS POR UN
@@ -534,7 +534,7 @@ El Decreto 596 de 2016 estableció un proceso de formalización de las organizac
 oficio, para lo cual fijó un plazo de cinco años. El artículo 2.3.2.5.3.2 de la mencionada norma fija las fases
 Carrera 12 N* 97-80, Piso 2. Bogotá, D.C. - Colombia. Código postal. 110221
 PBX. +57(1) 4873820 - 4897640 Fax. +57(1) 4897650 Línea gratuita nacional. 01 8000 517 565 qu
-correoQcra.gov.co - Www.cra.gov.co
+correo Qcra.gov.co - Www.cra.gov.co
 -e
 Comisión 0 LUN
 e Regulación á Superservicios TODOS PORUN

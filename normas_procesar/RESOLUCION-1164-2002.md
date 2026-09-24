@@ -1112,7 +1112,7 @@ Recipientes para el reciclaje
 El generador debe utilizar recipientes que faciliten la selección, almacenamiento y m
 anipulación de estos residuos, asegurando que una vez clasificados no se mezclen
 nuevamente en el proceso de recolección.
-7.2.4 desactiVaciOn DE RESIDUOS HOSPITALARIOS Y SIMILARES
+7.2.4 desacti Vaci On DE RESIDUOS HOSPITALARIOS Y SIMILARES
 Los residuos infecciosos biosanitarios, cortopunzantes y de animales, pueden ser
 llevados a rellenos sanitarios previa desactivación de alta eficiencia (esterilización) o
 incinerados en plantas para este fin, los residuos anatomopatológicos y de animales

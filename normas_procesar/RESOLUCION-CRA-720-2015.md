@@ -30,7 +30,7 @@ que es deber del Estado asegurar su prestación eficiente a todos los habitantes
 Que el artículo 367 de la Constitución Política de Colombia determina que la ley fijará las competencias relativas
 a la prestación de los servicios públicos domiciliarios, su cobertura, calidad y financiación, el régimen tarifario y
 las entidades competentes para fijar las tarifas;
-Que el artículo 370 ibídem, prevé que corresponde al Presidente de la RepúbliCa señalar, con sujeción a la ley,
+Que el artículo 370 ibídem, prevé que corresponde al Presidente de la Repúbli Ca señalar, con sujeción a la ley,
 las políticas generales de administración y control de eficiencia de los servicios públicos domiciliarios y ejercer
 por medio de la Superintendencia de Servicios Públicos Domiciliarios, el control, la inspección y vigilancia de las
 entidades que los presten;
@@ -752,7 +752,7 @@ a la suma del costo mensual de poda de árboles, de corte de césped, de lavado 
 playas y de instalación de cestas dentro del perímetro urbano, de acuerdo con la siguiente ecuación:
 CLUS =
 Er_i( cP;+ ccc m1c1 + CLAV?
-* mtAv • + CLP *kLPi + (CCEI *Tli + CCEM *TMJ ))
+* mt Av • + CLP *kLPi + (CCEI *Tli + CCEM *TMJ ))
 N
 Donde:
 CLUS:
@@ -1053,7 +1053,7 @@ diferente CRT, deberá calcular un Costo de Recolección y Transporte de residuo
 con la siguiente fórmula:
 CRT =
 E1.1(CRTz * QRTz)
-27=1QRTz
+27=1 QRTz
 Donde:
 CRT:
 Costo promedio de Recolección y Transporte de Residuos Sólidos de las APS de la
@@ -1634,13 +1634,13 @@ cálculo de las tarifas del servicio público de aseo y se dictan otras disposic
 IPC, y en un 11% de acuerdo a la evolución del rubro de Combustible Fuel Oil y Diesel Oil ACPM (ICF0) que
 hace parte del IPP calculado por el Banco de la República; de modo que el resultado sea igual al que
 expresa la siguiente fórmula:
-(1PCCt — 1PCCt-i)
+(1 PCCt — 1 PCCt-i)
 PRT t =
 IPCG-1
-1PCCt = IPC't°•89 + ICF0 3'11
+1 PCCt = IPC't°•89 + ICF0 3'11
 El año base (=100) de los índices IPC e ICF0 será diciembre de 2014, de modo que:
 Donde:
-1PCCt :
+1 PCCt :
 IPC t
 ICFO t
 IPCdic 2014
@@ -1649,12 +1649,12 @@ Indice combinado de precios al consumidor y combustible, en el período t, donde
 el mes en el cual se realiza la actualización y "t-1" corresponde al mes en el que se hizo
 la última actualización de acuerdo al Artículo 125 de la Ley 142 de 1994.
 - d) Factor de Actualización del Costo de disposición final: se actualizará de acuerdo con la evolución del índice
-del grupo de obras de explanación (I0Exp), que hace parte del índice de Costos de Construcción Pesada
+del grupo de obras de explanación (I0 Exp), que hace parte del índice de Costos de Construcción Pesada
 (ICCP) elaborado por el DANE, así:
-(I0EXPt — 10EXPt _i )
+(I0 EXPt — 10 EXPt _i )
 PDF t =
-10EXPt _i
-10EXPt :
+10 EXPt _i
+10 EXPt :
 Índice del grupo de obras de explanación (10EXP), que hace parte del Índice de Costos
 de Construcción Pesada (ICCP) elaborado por el DANE. En el período t, donde "t" es el
 mes en el cual se realiza la actualización y "t-1" corresponde al mes en el que se hizo la
@@ -1678,7 +1678,7 @@ FPi = 50% Min(FPiMDFPi1
 *
 112)
 Donde:
-FPiMi O y FPi M2 > O
+FPi Mi O y FPi M2 > O
 FPi :
 Factor de productividad para recolección y transporte, barrido y limpieza, CLUS y
 comercialización.
@@ -1856,7 +1856,7 @@ Si no tiene aforo individual de los residuos:
 TRNAu =
 Donde:
 (QNAz — QRz — Ei TAFNAi,z )* Fu
-=i ((n — nam — nDu,) * Fu )
+=i ((n — nam — n Du,) * Fu )
 TRNAu ,z :
 Toneladas de Residuos No Aprovechables por tipo de suscriptor u por APS z, de la
 persona prestadora (toneladas/suscriptor-mes).
@@ -1886,7 +1886,7 @@ Hoja N° 30 de la Resolución CRA 720 de 2015 "Por la cual se establece el régi
 al que deben someterse las personas prestadoras del servicio público de aseo que atiendan en
 municipios de más de 5.000 suscriptores en áreas urbanas, la metodología que deben utilizar para el
 cálculo de las tarifas del servicio público de aseo y se dictan otras disposiciones".
-nDu,z:
+n Du,z:
 Promedio de los últimos seis (6) meses del número de suscriptores de inmuebles
 desocupados, incluidos los desocupados grandes productores no residenciales del tipo u
 en el APS z de la persona prestadora del servicio de acuerdo con lo establecido en el
@@ -2289,7 +2289,7 @@ análisis, en relación al compromiso establecido en el CCU respectivo. Este ind
 siguiente expresión:
 IHR_NAL =
 Donde:
-ElErNRRLs
+El ErNRRLs
 *100%
 (ndm/7)*F_CCU L
 IHR_NAL:
@@ -2485,7 +2485,7 @@ usuarios cuyos residuos se disponen en el relleno que incumple; el índice semes
 en estos casos deberá calcularse de acuerdo con la siguiente fórmula:
 E71"-i
 ICF_CRS =
-(Ic_cRs6k
+(Ic_c Rs6k
 RS )
 Q___6k.
 rk1.1 QRS6k
@@ -3693,7 +3693,7 @@ Pilnwit + —
 2 i
 aif In wi t In vvit +
 31ny +
-Lí ij 111Yit11Yjt +
+Lí ij 111 Yit11 Yjt +
 yulnwitlnyit
 +v+u
 C:
@@ -4134,9 +4134,9 @@ corresponda
 8
 Número de árboles podados
 9
-Metros cuadrados (ri-12)TfátálétlelegP~rládItall':
+Metros cuadrados (ri-12)TfátálétlelegP~rlád Itall':
 10
-Metros cuadrados (112)1to1áléMéTá 'els liblreálYáVádátft
+Metros cuadrados (112)1to1álé Mé Tá 'els liblreál Yá Vádátft
 11
 Metros cuadrados m2 tatálgsgbírliaárdl: d'Ul:,n,"
 III. VALORES ACTIVIDAD DE RECOLECCIÓN Y TRANSPORTE Y BARRIDO Y LIMPIEZA
@@ -4296,7 +4296,7 @@ Trimestre:
 Año:
 1:1 iglil
 t
-iFe119~ GENERAL
+i Fe119~ GENERAL
 1
 Razón Social
 N.I.T
@@ -4347,7 +4347,7 @@ trimestre
 -
 a
 eal Utzulga,
-a, WileEa el@III al
+a, Wile Ea el@III al
 '
 ,
 62
@@ -4427,13 +4427,13 @@ NA
 .
 .
 .
-Costos fijos del capitarenTátáttiVilid'„de• iáposicióninalyfratárhiento de lixiviados.
+Costos fijos del capitaren Tátátti Vilid'„de• iáposicióninalyfratárhiento de lixiviados.
 Rubro
 Costo promedio trimestre
 Impuestos
 Comunicaciones (Plan Móvil de datos y voz)
 Revisión Técnico Mecánica COSTO ANUAL
-Vida útil del capital utiliiaddréhíditPosidÓnIfirrál'Y trátaMientdde'liXiviados.
+Vida útil del capital utiliiaddréhídit Posid Ón Ifirrál'Y tráta Mientdde'li Xiviados.
 Vida útil
 Cantidad
 Equipo
@@ -4461,7 +4461,7 @@ Vibrocompactador
 Equipos de instrumentación
 Herramientas menores
 14
-EigyIpo d_g to_p_ó_g_r_afía
+Eigy Ipo d_g to_p_ó_g_r_afía
 .-------Información del predio
 15.1
 Año de adquisición
@@ -4477,7 +4477,7 @@ _
 Número
 Número
 _
-15.2Hectáreas del predio
+15.2 Hectáreas del predio
 15.3 - Valor por hectárea al momento de su compra
 15
 Operación de celdas

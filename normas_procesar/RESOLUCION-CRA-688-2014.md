@@ -687,7 +687,7 @@ TÍTULO III.
 
 TASA DE DESCUENTO APLICABLE A LOS SERVICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO Y ALCANTARILLADO. 
 
-ARTÍCULO 20. TASA DE DESCUENTO PARA EL CÁLCULO DEL COSTO MEDIO DE INVERSIÓN (r). <Artículo integrado y unificado en el artículo 2.1.2.1.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015> La tasa de descuento aplicable a los servicios públicos domiciliarios de acueducto y alcantarillado obtenida con la metodología del Costo Promedio Ponderado de Capital (WeightedAverageCost of Capital – WACC) antes de impuestos, calculada para cada uno de los segmentos establecidos en el Artículo 4 de la presente resolución, será de la siguiente forma: 
+ARTÍCULO 20. TASA DE DESCUENTO PARA EL CÁLCULO DEL COSTO MEDIO DE INVERSIÓN (r). <Artículo integrado y unificado en el artículo 2.1.2.1.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015> La tasa de descuento aplicable a los servicios públicos domiciliarios de acueducto y alcantarillado obtenida con la metodología del Costo Promedio Ponderado de Capital (Weighted Average Cost of Capital – WACC) antes de impuestos, calculada para cada uno de los segmentos establecidos en el Artículo 4 de la presente resolución, será de la siguiente forma: 
 
 - Para el primer segmento: La tasa de descuento anual será de 12,28%. 
 
@@ -1326,19 +1326,19 @@ Donde:
  | Costo eficiente de energía eléctrica consumida del año base (pesos de diciembre del año base) para cada servicio público domiciliario. 
  | 
 
- | Consumo eficiente de energía eléctrica utilizada en bombeos en el punto j de toma (kWh/año). 
+ | Consumo eficiente de energía eléctrica utilizada en bombeos en el punto j de toma (k Wh/año). 
  | 
 
- | Consumo de energía eléctrica utilizada en procesos operativos diferentes al bombeo, en el punto k de toma (kWh/año). 
+ | Consumo de energía eléctrica utilizada en procesos operativos diferentes al bombeo, en el punto k de toma (k Wh/año). 
  | 
 
- | Consumo real de energía eléctrica utilizada en bombeo en el punto de toma j (kWh/año). 
+ | Consumo real de energía eléctrica utilizada en bombeo en el punto de toma j (k Wh/año). 
  | 
 
- | Precio eficiente de la energía eléctrica en el punto de toma j del sistema de bombeo j, correspondiente a la alternativa de mínimo costo, de acuerdo con lo establecido en el parágrafo 2 del presente artículo (pesos de diciembre del año base/kWh). 
+ | Precio eficiente de la energía eléctrica en el punto de toma j del sistema de bombeo j, correspondiente a la alternativa de mínimo costo, de acuerdo con lo establecido en el parágrafo 2 del presente artículo (pesos de diciembre del año base/k Wh). 
  | 
 
- | Precio eficiente de la energía eléctrica en el punto de toma k a partir del cual se obtiene la energía eléctrica consumida en procesos operativos diferentes al bombeo (pesos de diciembre del año base/kWh). 
+ | Precio eficiente de la energía eléctrica en el punto de toma k a partir del cual se obtiene la energía eléctrica consumida en procesos operativos diferentes al bombeo (pesos de diciembre del año base/k Wh). 
  | 
 
  | Factor de energía eléctrica de cada punto de toma j de bombeo (kN/m3). 
@@ -2746,7 +2746,7 @@ Donde:
 
  Costo Medio de Operación por Inversiones Ambientales Adicionales para la Protección de Cuencas y Fuentes de Agua, hasta el subsistema de distribución de agua potable para el año i, expresado en pesos de diciembre del año base/m3, para el servicio público domiciliario de acueducto, según lo definido en el artículo 69.A. de la presente resolución. 
 
- CostoMedio de Inversión Ambiental Adicional para la Protección de Cuencas y Fuentes de Agua, hasta el subsistema de distribución de agua potable para el año i, expresado en pesos de diciembre del año base/m3, para el servicio público domiciliario de acueducto, según lo definido en el artículo 70.A de la presente resolución. 
+ Costo Medio de Inversión Ambiental Adicional para la Protección de Cuencas y Fuentes de Agua, hasta el subsistema de distribución de agua potable para el año i, expresado en pesos de diciembre del año base/m3, para el servicio público domiciliario de acueducto, según lo definido en el artículo 70.A de la presente resolución. 
 
 PARÁGRAFO. El costo hasta el subsistema de distribución de agua potable corresponde al costo de las actividades del subsistema de producción, las entradas por contratos de suministro de agua potable, las actividades del subsistema de transporte y las actividades del subsistema de distribución.
 
@@ -4092,7 +4092,7 @@ GUÍA PARA LA IMPLEMENTACIÓN DE PLANES DE REDUCCIÓN DE PÉRDIDAS DE AGUA EN SI
 
 A continuación se establece la metodología para la implementación de los Planes de Reducción de Pérdidas de Agua. 
 
-Igualmente, el presente anexo busca que las personas prestadoras realicen una clasificación de las pérdidas totales, en técnicas y comerciales, con base en el Balance Hídrico propuesto por la Asociación Internacional del Agua (IWA - International WaterAssociation), con el fin de que las personas prestadoras tengan un mayor conocimiento de las pérdidas que se presentan en sus sistemas que a su vez les permita priorizar las inversiones asociadas a la reducción de las mismas para mejorar los indicadores de desempeño. 
+Igualmente, el presente anexo busca que las personas prestadoras realicen una clasificación de las pérdidas totales, en técnicas y comerciales, con base en el Balance Hídrico propuesto por la Asociación Internacional del Agua (IWA - International Water Association), con el fin de que las personas prestadoras tengan un mayor conocimiento de las pérdidas que se presentan en sus sistemas que a su vez les permita priorizar las inversiones asociadas a la reducción de las mismas para mejorar los indicadores de desempeño. 
 
 Concordancias
 
@@ -4524,7 +4524,7 @@ Indez: | Corresponde a la indexación entre el mes de diciembre del año 2014 y 
 
  | 
 
-Pz: | Porcentaje de participación del costo de inversión del activo o proyecto z en el VPIOrerz para cada uno de los servicios de acueducto y alcantarillado, el cual corresponde al cociente entre cada VPlOrerz sobre el IPIac,al establecido según lo definido en el literal a) del presente anexo. | 
+Pz: | Porcentaje de participación del costo de inversión del activo o proyecto z en el VPIOrerz para cada uno de los servicios de acueducto y alcantarillado, el cual corresponde al cociente entre cada VPl Orerz sobre el IPIac,al establecido según lo definido en el literal a) del presente anexo. | 
 
  | 
 
