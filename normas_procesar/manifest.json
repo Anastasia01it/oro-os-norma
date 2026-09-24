@@ -2,10 +2,10 @@
   "format_version": 1,
   "algorithm": "sha256",
   "scope": "normas_procesar/*.md (primer nivel)",
-  "created_at": "2026-09-23T17:59:16-0500",
+  "created_at": "2026-09-23T22:23:36-0500",
   "file_count": 90,
-  "total_bytes": 21659798,
-  "set_hash": "ed71c7223adca6c26a2d9940e7381ba584895aefca26cf8b56d677ef347e6114",
+  "total_bytes": 21661081,
+  "set_hash": "aca446338f3002f8828daa304f70f6efad1babf0c1a7b2f8c635607bdabbe89c",
   "files": {
     "ANEXO-A-Resolucion-SSPD-20211000650805-2021.md": {
       "sha256": "dbf0aac546c183ef6847f945305f8426e254bf5fe3df2fdb2f1a9054da4d5330",
@@ -356,8 +356,8 @@
       "bytes": 19032
     },
     "ley_1581_de_2012.md": {
-      "sha256": "1a75da273c4efa76303dc3d4fe31c2967c47db8dc6a5935bdba0da33e52757f7",
-      "bytes": 89458
+      "sha256": "3c25d194363a670b1da045f7732a31c52cfd6af1e55af8a79c0437c72723b5ab",
+      "bytes": 90741
     },
     "resolucion_0412_de_2026.md": {
       "sha256": "04b6e7698a4ebbf8fe3c9b6ffab6a33f52f4973571d19828a8efeca246bb32ba",

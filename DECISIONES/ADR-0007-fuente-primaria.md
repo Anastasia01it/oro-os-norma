@@ -67,11 +67,22 @@
 - La herramienta compara texto; no valida vigencia jurídica (eso sigue siendo
   juicio de abogado; las anotaciones de vigencia quedan fuera por diseño).
 
+## Errata ejecutada (2026-09-23, aprobada por el humano)
+
+**H1 corregido**: `normas_procesar/ley_1581_de_2012.md` art. 26 — se agregaron
+los literales d), e), f) y los parágrafos 1o y 2o desde la fuente oficial
+(captura: `sistema/verificacion/fuentes/ley_1581_2012.gestorcra.txt`). Tras la
+corrección: 26 exactos + 3 casi = **29/30 artículos verificados**; la única
+divergencia restante es H2 (bloque de sanción entre espejos oficiales, cuerpo
+de la norma idéntico), aceptada como **excepción documentada** por decisión
+humana: la norma se considera VERIFICADA_CON_EXCEPCION_DOCUMENTADA.
+Sello del corpus regenerado (nuevo set_hash `aca446338f…` — el cambio de sello
+ES la prueba de la corrección), índice reconstruido, puerta abierta.
+
 ## Pendientes de decisión humana
 
-1. **Aprobar la corrección del H1** (art. 26 de la Ley 1581) con el mecanismo
-   de errata: corpus actualizado desde la fuente oficial + manifiesto
-   regenerado + commit + firma aquí.
+1. ~~Aprobar la corrección del H1~~ — **HECHO 2026-09-23** (errata aplicada y
+   verificada; excepción H2 aceptada como documentada).
 2. **Lote siguiente de verificación** (recomendado: las 13 resoluciones CRA,
    todas detrás del gestor accesible).
 3. **Canal para SUIN/Función Pública/Senado** (descarga directa, otra red, o

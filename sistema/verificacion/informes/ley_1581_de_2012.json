@@ -120,14 +120,7 @@
   },
   {
    "articulo": "26",
-   "estado": "divergente",
-   "similitud": 0.6305,
-   "corpus": "ARTÍCULO 26. PROHIBICIÓN. Se prohíbe la transferencia de datos personales de cualquier tipo a países que no proporcionen niveles adecuados de protección de datos. Se entiende que u",
-   "fuente": "ARTÍCULO 26. PROHIBICIÓN. Se prohíbe la transferencia de datos personales de cualquier tipo a países que no proporcionen niveles adecuados de protección de datos. Se entiende que u",
-   "diff": {
-    "corpus": "...tiles, conforme a la legislación que les resulte aplicable; TÍTULO IX. OTRAS DISPOSICIONES....",
-    "fuente": "...tiles, conforme a la legislación que les resulte aplicable; d) Transferencias acordadas en el marco de tratados internacionales en los cuales la República de Colombia sea parte, con fundamento en el principio de reciprocidad; e) Transferencias necesarias para la ejecución de un contrato entre el Titular y el Responsable del Tratamiento, o para la ejecución de medidas precontractuales siempre y cuando se cuente con la autorización del Titular; PARÁGRAFO 1o. En los casos no contemplados como excepción en el presente artículo, corresponderá a la Superintendencia de Industria y Comercio, proferir la declaración de conformidad relativa a la transferencia internacional de datos personales. Para el efecto, el Superintendente queda facultado para requerir información y adelantar las diligencias tendientes a establecer el cumplimiento de los presupuestos que requiere la viabilidad de la operación. PARÁGRAFO 2o. Las disposiciones contenidas en el presente artículo serán aplicables para todos los datos personales, incluyendo aquellos contemplados en la Ley 1266 de 2008. TÍTULO IX. OTRAS DISPOSICIONES...."
-   }
+   "estado": "exacto"
   },
   {
    "articulo": "27",
@@ -163,8 +156,8 @@
  "sin_contraparte": [],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
-  "exactos": 25,
+  "exactos": 26,
   "casi": 3,
-  "divergentes": 2
+  "divergentes": 1
  }
 }

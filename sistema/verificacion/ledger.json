@@ -3,18 +3,20 @@
   "metodo": "sistema/scripts/verificar_fuente.py (fold+plano, segmentacion por articulo, umbral casi=0.98, fail-closed)",
   "archivos": {
     "ley_1581_de_2012.md": {
-      "estado": "NO_VERIFICADA",
+      "estado": "VERIFICADA_CON_EXCEPCION_DOCUMENTADA",
       "fuente": "https://normas.cra.gov.co/gestor/docs/ley_1581_2012.htm",
       "captura": "sistema/verificacion/fuentes/ley_1581_2012.gestorcra.txt (completa)",
       "informe": "sistema/verificacion/informes/ley_1581_de_2012.json",
-      "articulos": 30, "exactos": 25, "casi": 3, "divergentes": 2,
+      "articulos": 30, "exactos": 26, "casi": 3, "divergentes": 1,
       "hallazgos": [
         {"id": "H1", "clase": "contenido_perdido", "articulo": "26",
-         "detalle": "El corpus trunca el art. 26: faltan los literales d), e), f) y los parágrafos 1o y 2o presentes en la fuente oficial.",
-         "severidad": "critica"},
+         "detalle": "El corpus truncaba el art. 26: faltaban los literales d), e), f) y los parágrafos 1o y 2o presentes en la fuente oficial.",
+         "severidad": "critica",
+         "resolucion": "ERRATA APLICADA 2026-09-23 (aprobacion humana): literales y parágrafos restaurados desde la fuente; articulo verificado exacto tras la correccion; sello del corpus regenerado"},
         {"id": "H2", "clase": "bloque_sancion_entre_espejos", "articulo": "30",
          "detalle": "El bloque de firmas difiere entre espejos oficiales (gestor CRA: Barreras/Santos + nota C-748; corpus/SUIN: Londoño Ulloa + Director DAFP). El cuerpo de la norma es idéntico.",
-         "severidad": "documentar"}
+         "severidad": "documentar",
+         "resolucion": "ACEPTADA como excepcion documentada por decision humana 2026-09-23"}
       ]
     },
     "resolucion_0412_de_2026.md": {

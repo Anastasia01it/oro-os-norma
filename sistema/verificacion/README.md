@@ -45,7 +45,7 @@ Herramienta: `sistema/scripts/verificar_fuente.py` (determinista, sin IA, fail-c
 
 | Archivo | Estado | Detalle |
 |---|---|---|
-| ley_1581_de_2012.md | NO_VERIFICADA | 28/30 artículos verificados (25 exactos + 3 casi ≥0.996). **H1**: art. 26 truncado en el corpus (faltan d) e) f) y 2 parágrafos — hallazgo crítico). **H2**: art. 30, bloque de sanción difiere entre espejos oficiales (cuerpo idéntico). |
+| ley_1581_de_2012.md | VERIFICADA_CON_EXCEPCION_DOCUMENTADA | 29/30 artículos verificados (26 exactos + 3 casi ≥0.996). **H1 corregido por errata 2026-09-23**: el art. 26 truncado se restauró desde la fuente (literales d) e) f) + 2 parágrafos). **H2 (excepción aceptada)**: art. 30, bloque de sanción difiere entre espejos oficiales (cuerpo idéntico). |
 | resolucion_0412_de_2026.md | PARCIAL | 20/21 artículos cubiertos verificados (17 exactos + 3 casi). Art. 21 divergente (tabla de fases, formato). Arts. 22–50: fuente truncada por límite de captura. |
 | LEY-142-1994.md | PENDIENTE | Disponible en gestor CRA (`ley_0142_1994.htm`) pero excede 5 MB: requiere captura por secciones. |
 | Resto (87) | PENDIENTE | Rutas: gestor CRA (13 res. CRA + leyes espejadas), minvivienda.gov.co (PDF, decretos MVCT), SSPD (resoluciones), DNP (CONPES). SUIN/Función Pública requieren canal alterno. |
