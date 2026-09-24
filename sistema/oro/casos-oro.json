@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "descripcion": "Set de oro v1 — casos de aceptacion con respuesta conocida (Ley 142 de 1994)",
+    "norma_base": "LEY-142-1994.md",
+    "creado": "2026-09-23",
+    "total_casos": 24,
+    "regla": "Quien mide debe ser verdad: oro_check.py verifica cada caso contra el corpus ANTES de que el oro se use para medir. Caso falso = fallo del set, no de quien se evalua."
+  },
+  "casos": [
+    {
+      "id": "ORO-001",
+      "categoria": "A",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Que tipo de norma es la Ley 142 de 1994?",
+      "esperado": {
+        "valor": "Ley",
+        "cita": "LEY-142-1994.md#L1",
+        "verbatim": "LEY 142 DE 1994"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-002",
+      "categoria": "A",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Cual es el numero de la norma?",
+      "esperado": {
+        "valor": "142",
+        "cita": "LEY-142-1994.md#L1",
+        "verbatim": "LEY 142 DE 1994"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-003",
+      "categoria": "A",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Cual es el titulo completo de la norma?",
+      "esperado": {
+        "valor": "Ley de Servicios Publicos Domiciliarios",
+        "cita": "LEY-142-1994.md#L3",
+        "verbatim": "Ley de Servicios Públicos Domiciliarios"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-004",
+      "categoria": "A",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Que autoridad expidio la norma?",
+      "esperado": {
+        "valor": "Congreso de Colombia",
+        "cita": "LEY-142-1994.md#L16",
+        "verbatim": "EL CONGRESO DE COLOMBIA"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-005",
+      "categoria": "A",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Cual es la fecha de expedicion?",
+      "esperado": {
+        "valor": "Julio 11 de 1994",
+        "cita": "LEY-142-1994.md#L14",
+        "verbatim": "(Julio 11)"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-006",
+      "categoria": "A",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Cual es el objeto de la ley segun su texto?",
+      "esperado": {
+        "valor": "establece el regimen de los servicios publicos domiciliarios",
+        "cita": "LEY-142-1994.md#L15",
+        "verbatim": "Por la cual se establece el régimen de los servicios públicos domiciliarios y se dictan otras disposiciones."
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-007",
+      "categoria": "F",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "A que servicios se aplica la ley segun el articulo 1?",
+      "esperado": {
+        "valor": "acueducto, alcantarillado, aseo, energia, gas combustible, telefonia",
+        "cita": "LEY-142-1994.md#L28-L29",
+        "verbatim": "de acueducto, alcantarillado, aseo, energía"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-011",
+      "categoria": "J",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Que contiene el articulo 14 de la ley?",
+      "esperado": {
+        "valor": "Definiciones",
+        "cita": "LEY-142-1994.md#L246",
+        "verbatim": "Para interpretar y aplicar esta Ley se tendrán en cuenta las siguientes definiciones"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-012",
+      "categoria": "J",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Que es la acometida segun el numeral 14.1?",
+      "esperado": {
+        "valor": "Derivacion de la red local del servicio que llega hasta el registro de corte",
+        "cita": "LEY-142-1994.md#L248",
+        "verbatim": "Acometida. Derivación de la red local del servicio respectivo que llega hasta el registro de corte"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-013",
+      "categoria": "E",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Que modificacion registra el parrafo 2 del articulo 23 segun el propio texto?",
+      "esperado": {
+        "valor": "Derogado por el articulo 7 de la Ley 286 de 1996",
+        "cita": "LEY-142-1994.md#L841",
+        "verbatim": "Derogado por el art. 7, Ley 286 de 1996"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-014",
+      "categoria": "C",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "La fuente certifica la vigencia actual de la norma?",
+      "esperado": {
+        "valor": "No: la fuente declara que no se hace responsable de la vigencia y que actualiza permanentemente los contenidos",
+        "cita": "LEY-142-1994.md#L9-L10",
+        "verbatim": "no se hace responsable de la vigencia de la presente norma"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-015",
+      "categoria": "F",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "De que trata el articulo 155?",
+      "esperado": {
+        "valor": "Del pago y de los recursos",
+        "cita": "LEY-142-1994.md#L2689",
+        "verbatim": "ARTÍCULO 155. Del pago y de los recursos"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-016",
+      "categoria": "F",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Con que marco constitucional interviene el Estado segun el articulo 2?",
+      "esperado": {
+        "valor": "Arts. 334, 336 y 365 a 370 de la Constitucion Politica",
+        "cita": "LEY-142-1994.md#L34-L37",
+        "verbatim": "en el marco de lo dispuesto en los artículos 334, 336, y 365 a 370 de la Constitución Política"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-017",
+      "categoria": "L",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Que regula el articulo 86?",
+      "esperado": {
+        "valor": "El regimen tarifario",
+        "cita": "LEY-142-1994.md#L1654",
+        "verbatim": "El régimen tarifario en los servicios públicos"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-018",
+      "categoria": "L",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Por que criterios estara orientado el regimen tarifario segun el articulo 87?",
+      "esperado": {
+        "valor": "criterios de eficiencia economica",
+        "cita": "LEY-142-1994.md#L1668",
+        "verbatim": "orientado por los criterios de eficiencia económica"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-020",
+      "categoria": "E",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Que supresiones registra el parrafo del articulo 50 (texto anotado)?",
+      "esperado": {
+        "valor": "Suprimido parcialmente por Decreto 266 de 2000 y derogado parcialmente por Decreto 1165 de 2000",
+        "cita": "LEY-142-1994.md#L973",
+        "verbatim": "Suprime parcialmente por medio del Artículo 44 Decreto 266 de 2000"
+      },
+      "verificacion": "cita"
+    },
+    {
+      "id": "ORO-008",
+      "categoria": "B",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Cuantos articulos numerados tiene la ley en el corpus? (los dos agregados como ARTICULO NUEVO por Ley 689 de 2001 no llevan numero)",
+      "esperado": {
+        "valor": "189",
+        "patron": "^\\*\\*articulo\\s+\\d+\\."
+      },
+      "verificacion": "conteo"
+    },
+    {
+      "id": "ORO-009",
+      "categoria": "B",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Cuantos titulos tiene la ley en el corpus?",
+      "esperado": {
+        "valor": "6",
+        "patron": "^### titulo"
+      },
+      "verificacion": "conteo"
+    },
+    {
+      "id": "ORO-010",
+      "categoria": "B",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Cuantos capitulos tiene la ley en el corpus?",
+      "esperado": {
+        "valor": "15",
+        "patron": "^#### capitulo"
+      },
+      "verificacion": "conteo"
+    },
+    {
+      "id": "ORO-019",
+      "categoria": "B",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Cuantas lineas del texto mencionan la palabra paragrafo (sin distinguir mayusculas ni acentos)?",
+      "esperado": {
+        "valor": "48",
+        "patron": "paragrafo"
+      },
+      "verificacion": "conteo"
+    },
+    {
+      "id": "ORO-N01",
+      "categoria": "negativo",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "La ley regula inteligencia artificial?",
+      "esperado": {
+        "valor": null,
+        "patron": "inteligencia artificial"
+      },
+      "verificacion": "ausente"
+    },
+    {
+      "id": "ORO-N02",
+      "categoria": "negativo",
+      "norma": null,
+      "alcance": "nombres",
+      "pregunta": "Esta en el corpus la Ley 2236 de 2022?",
+      "esperado": {
+        "valor": null,
+        "patron": "2236"
+      },
+      "verificacion": "ausente"
+    },
+    {
+      "id": "ORO-N03",
+      "categoria": "negativo",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "La ley aplica a servicios notariales segun su articulo 1?",
+      "esperado": {
+        "valor": null,
+        "patron": "notari"
+      },
+      "verificacion": "ausente"
+    },
+    {
+      "id": "ORO-N04",
+      "categoria": "negativo",
+      "norma": "LEY-142-1994.md",
+      "alcance": "archivo",
+      "pregunta": "Existe un articulo 999 en la ley?",
+      "esperado": {
+        "valor": null,
+        "patron": "^\\*\\*articulo\\s+999\\."
+      },
+      "verificacion": "ausente"
+    },
+    {
+      "id": "ORO-N05",
+      "categoria": "negativo",
+      "norma": null,
+      "alcance": "corpus",
+      "pregunta": "El corpus menciona el metaverso?",
+      "esperado": {
+        "valor": null,
+        "patron": "metaverso"
+      },
+      "verificacion": "ausente"
+    }
+  ]
+}
