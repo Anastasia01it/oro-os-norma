@@ -119,17 +119,39 @@ Veredictos finales (detalle en `sistema/verificacion/ledger.json`):
    (stub de derogación). Verificar contra el gestor tiene fecha de caducidad;
   el Diario Oficial es la fuente primaria de respaldo.
 
+## Matriz de canales de fuente oficial (2026-09-24, probada desde el entorno)
+
+| Canal | Estado | Uso |
+|---|---|---|
+| normas.cra.gov.co/gestor | ✅ accesible | principal (leyes, decretos, resoluciones CRA) |
+| minvivienda.gov.co | ✅ accesible | decretos/lineamientos del sector |
+| web.archive.org (copia histórica del sitio oficial) | ✅ accesible | texto íntegro de páginas oficiales convertidas en stub |
+| suin.gov.co, funcionpublica.gov.co, secretariasenado.gov.co | ❌ WAF | requieren otro entorno |
+| diariooficial.gov.co | ❌ DNS inexistente | — |
+| imprenta.gov.co (Imprenta Nacional) | ⚠️ responde pero es cascarón JS sin contenido scrapeable | solo con descarga manual de PDFs por humano |
+| es.presidencia.gov.co / secretariajuridica (IP) | ❌ no responde | — |
+
+**PROPUESTA D5 (pendiente de firma humana)**: cuando el emisor retira el texto
+(resoluciones en stub) o la página es inaccesible, se acepta como fuente de
+verificación una **captura histórica fechada del propio sitio oficial** en
+web.archive.org (es una fotografía del contenido del emisor, con fecha de
+tomada). Se documenta la fecha del snapshot en el ledger. No sustituye al
+Diario Oficial cuando éste sea accesible; es el canal de respaldo disponible.
+
 ## Pendientes de decisión humana (actualizado)
 
 1. ~~Aprobar la corrección del H1~~ — **HECHO 2026-09-23**.
-2. **Errata mecánica por lote**: re-insertar espacios en juntas pegadas
-   (clase `palabras_pegadas_por_conversion`, hoy visible en Res. 0853-2018;
-   probablemente en más). Aprobación por lote, no archivo a archivo.
-3. **Canal Diario Oficial** para las 5 resoluciones CRA con fuente en stub.
-4. **Método para OCR y para resoluciones-compilación** (1027-2026, 943-2021)
+2. ~~Errata mecánica por lote (palabras pegadas)~~ — **HECHO 2026-09-24**
+   (391 ocurrencias en 26 archivos; bitácora en
+   `informes/errata-pegados.jsonl`; además `limpiar` ya no pega palabras al
+   quitar negritas; sellos regenerados; PUERTA ABIERTA).
+3. **Firmar D5** (archivo histórico = fuente de respaldo para stubs).
+4. ~~Canal Diario Oficial~~ — **AGOTADO desde este entorno** (ver matriz);
+   queda como opción manual: descarga de PDFs del Diario Oficial desde un
+   navegador y verificación local contra el PDF.
+5. **Lote leyes y decretos** — en ejecución (gestor CRA + MinVivienda).
+6. **Método para OCR y para resoluciones-compilación** (1027-2026, 943-2021)
    antes de verificarlas.
-5. **Lote siguiente**: leyes y decretos (MinVivienda accesible; SUIN/Función
-   Pública/Senado bloqueados desde este entorno).
 2. **Lote siguiente de verificación** (recomendado: las 13 resoluciones CRA,
    todas detrás del gestor accesible).
 3. **Canal para SUIN/Función Pública/Senado** (descarga directa, otra red, o
