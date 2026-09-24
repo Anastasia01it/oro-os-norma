@@ -1,0 +1,555 @@
+{
+ "corpus": "RESOLUCION-CRA-943-2021.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-943-2021.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 55,
+ "resultados": [
+  {
+   "articulo": "1.1",
+   "estado": "divergente",
+   "similitud": 0.7335,
+   "corpus": "ARTÍCULO 1.1.1. ÁMBITO DE APLICACIÓN. Las disposiciones contenidas en la presente resolución aplican a los s los prestadores de los mismos en los términos de la Ley 142 de 1994. No",
+   "fuente": "ARTÍCULO 1.1.1. ÁMBITO DE APLICACIÓN. Las disposiciones contenidas en la presente resolución aplican a los servicios públicos domiciliarios de acueducto, alcantarillado y aseo; a l",
+   "diff": {
+    "corpus": "...iciones contenidas en la presente resolución aplican a los s los prestadores de los mismos en los términos de la Ley 142...",
+    "fuente": "...iciones contenidas en la presente resolución aplican a los servicios públicos domiciliarios de acueducto, alcantarillado y aseo; a las actividades complementarias de éstos y a las actividades que realizan los prestadores de los mismos en los términos de la Ley 142..."
+   }
+  },
+  {
+   "articulo": "1.3",
+   "estado": "divergente",
+   "similitud": 0.6792,
+   "corpus": "ARTÍCULO 1.3.4. PRESTACIÓN DEL SERVICIO POR COMUNIDADES ORGANIZADAS. Artículo derogado, po",
+   "fuente": "ARTÍCULO 1.3.4. PRESTACIÓN DEL SERVICIO POR COMUNIDADES ORGANIZADAS. Artículo derogado, por el criterio de duplicidad normativa, por el artículo 2 de la Resolución 999 de 2024",
+   "diff": {
+    "corpus": "... SERVICIO POR COMUNIDADES ORGANIZADAS. Artículo derogado, po...",
+    "fuente": "... SERVICIO POR COMUNIDADES ORGANIZADAS. Artículo derogado, por el criterio de duplicidad normativa, por el artículo 2 de la Resolución 999 de 2024..."
+   }
+  },
+  {
+   "articulo": "1.4",
+   "estado": "divergente",
+   "similitud": 0.7412,
+   "corpus": "ARTÍCULO 1.4.1.1. REGLA GENERAL EN MATERIA DE CONTRATACIÓN. De conformidad con lo establecido someten en cuanto a su formación, cláusulas y demás aspectos legales al régimen del de",
+   "fuente": "ARTÍCULO 1.4.1.1. REGLA GENERAL EN MATERIA DE CONTRATACIÓN. De conformidad con lo establecido en los artículos 30, 31, 32 y 39 de la Ley 142 de 1994, los actos y contratos que cele",
+   "diff": {
+    "corpus": "... MATERIA DE CONTRATACIÓN. De conformidad con lo establecido someten en cuanto a su formación, cláusulas y demás aspectos...",
+    "fuente": "... MATERIA DE CONTRATACIÓN. De conformidad con lo establecido en los artículos 30, 31, 32 y 39 de la Ley 142 de 1994, los actos y contratos que celebren las personas prestadoras de servicios públicos se someten en cuanto a su formación, cláusulas y demás aspectos..."
+   }
+  },
+  {
+   "articulo": "1.5",
+   "estado": "divergente",
+   "similitud": 0.8905,
+   "corpus": "ARTÍCULO 1.5.1.3.2. INDICADORES CUANTITATIVOS DE GESTIÓN. Los indicadores cuantitativos, definidos e a) Gestión Financiera. Indicadores: Eficiencia del Recaudo Rotación de Cartera ",
+   "fuente": "ARTÍCULO 1.5.1.3.2. INDICADORES CUANTITATIVOS DE GESTIÓN. Los indicadores cuantitativos, definidos en el Título 1 de la Parte 1 del Libro 6 de esta resolución, son los siguientes: ",
+   "diff": {
+    "corpus": "...TIVOS DE GESTIÓN. Los indicadores cuantitativos, definidos e a) Gestión Financiera. Indicadores: Eficiencia del Recaudo ...",
+    "fuente": "...TIVOS DE GESTIÓN. Los indicadores cuantitativos, definidos en el Título 1 de la Parte 1 del Libro 6 de esta resolución, son los siguientes: a) Gestión Financiera. Indicadores: Eficiencia del Recaudo ..."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "divergente",
+   "similitud": 0.0212,
+   "corpus": "Artículo 12 de la Ley 87 de 1993. Para las personas prestadoras a las cuales no se les aplique la Ley 87 de 1993, el sistema de control interno que imp a. Velar porque todas las ac",
+   "fuente": "ARTÍCULO 12. GESTIÓN DE LA CARTERA. Los procesos tendientes al recaudo y su registro, y los ajustes, conciliación y depuración contable de la cartera, serán de responsabilidad del ",
+   "diff": {
+    "corpus": "...Artículo 12 de la Ley 87 de 1993. Para las personas prestadoras a las cuales no ...",
+    "fuente": "...ARTÍCULO 12. GESTIÓN DE LA CARTERA. Los procesos tendientes al recaudo y su registro, y los ajustes, conciliación y depuración cont..."
+   }
+  },
+  {
+   "articulo": "1.6",
+   "estado": "casi",
+   "similitud": 0.9837,
+   "corpus": "ARTÍCULO 1.6.5.4.1. ANEXOS. Los anexos a los que hace referencia la presente parte, hacen parte integral de la m (Resolución CRA 906 de 2019, art. 32).",
+   "fuente": "ARTÍCULO 1.6.5.4.1. ANEXOS. Los anexos a los que hace referencia la presente parte, hacen parte integral de la misma. (Resolución CRA 906 de 2019, art. 32).",
+   "diff": {
+    "corpus": "...e referencia la presente parte, hacen parte integral de la m (Resolución CRA 906 de 2019, art. 32)....",
+    "fuente": "...e referencia la presente parte, hacen parte integral de la misma. (Resolución CRA 906 de 2019, art. 32)...."
+   }
+  },
+  {
+   "articulo": "1.7",
+   "estado": "divergente",
+   "similitud": 0.7555,
+   "corpus": "ARTÍCULO 1.7.1. ÁMBITO DE APLICACIÓN. La presente Parte es aplicable a las empresas de servicios púb acueducto, alcantarillado y/o aseo. PARÁGRAFO. Se exceptúan del ámbito de aplic",
+   "fuente": "ARTÍCULO 1.7.1. ÁMBITO DE APLICACIÓN. La presente Parte es aplicable a las empresas de servicios públicos oficiales, a las Empresas Industriales y Comerciales del Estado y a los mu",
+   "diff": {
+    "corpus": "... presente Parte es aplicable a las empresas de servicios púb acueducto, alcantarillado y/o aseo. PARÁGRAFO. Se exceptúan...",
+    "fuente": "... presente Parte es aplicable a las empresas de servicios públicos oficiales, a las Empresas Industriales y Comerciales del Estado y a los municipios que prestan directamente los servicios públicos de acueducto, alcantarillado y/o aseo. PARÁGRAFO. Se exceptúan..."
+   }
+  },
+  {
+   "articulo": "1.8",
+   "estado": "divergente",
+   "similitud": 0.8701,
+   "corpus": "ARTÍCULO 1.8.7.2.1.3. CAUSALES DE MODIFICACIÓN. Las causales que podrán ser invocadas para efectos de (i) Mutuo acuerdo entre la persona prestadora y la Comisión de Regulación de A",
+   "fuente": "ARTÍCULO 1.8.7.2.1.3. CAUSALES DE MODIFICACIÓN. Las causales que podrán ser invocadas para efectos de las modificaciones de la fórmula tarifaria a las que hace referencia el presen",
+   "diff": {
+    "corpus": "...CIÓN. Las causales que podrán ser invocadas para efectos de (i) Mutuo acuerdo entre la persona prestadora y la Comisión ...",
+    "fuente": "...CIÓN. Las causales que podrán ser invocadas para efectos de las modificaciones de la fórmula tarifaria a las que hace referencia el presente título, son las siguientes: (i) Mutuo acuerdo entre la persona prestadora y la Comisión ..."
+   }
+  },
+  {
+   "articulo": "38",
+   "estado": "divergente",
+   "similitud": 0.0093,
+   "corpus": "Artículo 38 de la Ley 428 de 1998. Nota: La Ley 428 de 1998 fue derogada por la Ley 675 de 2001. El artículo 38 de la Ley 428 de 1998 corresponde al (Resolución CRA 151 de 2001, ar",
+   "fuente": "ARTÍCULO 38. RESTRICCIONES AL USO DE LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES. Los datos recolectados en virtud de la prestación del servicio público de aseo y sus diferente",
+   "diff": {
+    "corpus": "...Artículo 38 de la Ley 428 de 1998. Nota: La Ley 428 de 1998 fue derogada por la ...",
+    "fuente": "...ARTÍCULO 38. RESTRICCIONES AL USO DE LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES. Los datos recolectados en ..."
+   }
+  },
+  {
+   "articulo": "1.9",
+   "estado": "divergente",
+   "similitud": 0.7769,
+   "corpus": "ARTÍCULO 1.9.3.1. ÁMBITO DE APLICACIÓN. El presente Título aplica a las personas prestadoras de los serv Departamentales de los Servicios Públicos mencionados, cuando presenten sup",
+   "fuente": "ARTÍCULO 1.9.3.1. ÁMBITO DE APLICACIÓN. El presente Título aplica a las personas prestadoras de los servicios públicos de acueducto, alcantarillado y aseo, y a los Fondos de Solida",
+   "diff": {
+    "corpus": "...resente Título aplica a las personas prestadoras de los serv Departamentales de los Servicios Públicos mencionados, cuan...",
+    "fuente": "...resente Título aplica a las personas prestadoras de los servicios públicos de acueducto, alcantarillado y aseo, y a los Fondos de Solidaridad y Redistribución de Ingresos –FSRI- Municipales, Distritales o Departamentales de los Servicios Públicos mencionados, cuan..."
+   }
+  },
+  {
+   "articulo": "1.10",
+   "estado": "divergente",
+   "similitud": 0.7085,
+   "corpus": "ARTÍCULO 1.10.1. CONTRIBUCIONES ESPECIALES. Artículo modificado por el artículo 9 de la Resolución 99 el Artículo 85 de la Ley 142 de 1994, o la norma que la modifique, adicione, s",
+   "fuente": "ARTÍCULO 1.10.1. CONTRIBUCIONES ESPECIALES. Artículo modificado por el artículo 9 de la Resolución 999 de 2024. El nuevo texto es el siguiente: Para los efectos de la liquidación y",
+   "diff": {
+    "corpus": "...S. Artículo modificado por el artículo 9 de la Resolución 99 el Artículo 85 de la Ley 142 de 1994, o la norma que la mod...",
+    "fuente": "...S. Artículo modificado por el artículo 9 de la Resolución 999 de 2024. El nuevo texto es el siguiente: Para los efectos de la liquidación y recaudo de la contribución especial, se aplicará lo consagrado en el Artículo 85 de la Ley 142 de 1994, o la norma que la mod..."
+   }
+  },
+  {
+   "articulo": "1.11",
+   "estado": "divergente",
+   "similitud": 0.8281,
+   "corpus": "ARTÍCULO 1.11.2.3. CÁLCULO DE COSTOS CORRESPONDIENTES A CADA CICLO DE FACTURACIÓN CON Procesamiento. Impresión. Distribución. Reportes. Recaudo. Cada persona prestadora asumirá los",
+   "fuente": "ARTÍCULO 1.11.2.3. CÁLCULO DE COSTOS CORRESPONDIENTES A CADA CICLO DE FACTURACIÓN CONJUNTA. Incluye la determinación de costos tales como: Procesamiento. Impresión. Distribución. R",
+   "diff": {
+    "corpus": "...O DE COSTOS CORRESPONDIENTES A CADA CICLO DE FACTURACIÓN CON Procesamiento. Impresión. Distribución. Reportes. Recaudo. ...",
+    "fuente": "...O DE COSTOS CORRESPONDIENTES A CADA CICLO DE FACTURACIÓN CONJUNTA. Incluye la determinación de costos tales como: Procesamiento. Impresión. Distribución. Reportes. Recaudo. ..."
+   }
+  },
+  {
+   "articulo": "1.12",
+   "estado": "divergente",
+   "similitud": 0.8765,
+   "corpus": "ARTÍCULO 1.12.9. CONTRATOS ESPECIALES PARA LA GESTIÓN DE SERVICIOS PÚBLICOS. Para los efec resolución, podrán celebrar en ejercicio de la autonomía de la voluntad, entre otros, los",
+   "fuente": "ARTÍCULO 1.12.9. CONTRATOS ESPECIALES PARA LA GESTIÓN DE SERVICIOS PÚBLICOS. Para los efectos de la gestión de los servicios públicos, las personas prestadoras de los servicios púb",
+   "diff": {
+    "corpus": "...ECIALES PARA LA GESTIÓN DE SERVICIOS PÚBLICOS. Para los efec resolución, podrán celebrar en ejercicio de la autonomía de la volunta...",
+    "fuente": "...ECIALES PARA LA GESTIÓN DE SERVICIOS PÚBLICOS. Para los efectos de la gestión de los servicios públicos, las personas prestadoras de los servicios públicos domicil..."
+   }
+  },
+  {
+   "articulo": "62",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "1.13",
+   "estado": "divergente",
+   "similitud": 0.7779,
+   "corpus": "ARTÍCULO 1.13.1.4. ABSTENCIÓN DE ENTREGAR LA FACTURA. Se entenderá que la inclusión de cláusulas abuso de posición dominante de los previstos en el artículo 133, numerales 133.1 y ",
+   "fuente": "ARTÍCULO 1.13.1.4. ABSTENCIÓN DE ENTREGAR LA FACTURA. Se entenderá que la inclusión de cláusulas en los contratos que permitan a las personas prestadoras abstenerse de entregar a l",
+   "diff": {
+    "corpus": "...REGAR LA FACTURA. Se entenderá que la inclusión de cláusulas abuso de posición dominante de los previstos en el artículo...",
+    "fuente": "...REGAR LA FACTURA. Se entenderá que la inclusión de cláusulas en los contratos que permitan a las personas prestadoras abstenerse de entregar a los usuarios las facturas a las que se refiere la Ley, implica abuso de posición dominante de los previstos en el artículo..."
+   }
+  },
+  {
+   "articulo": "1.14",
+   "estado": "divergente",
+   "similitud": 0.5333,
+   "corpus": "ARTÍCULO 1.14.1. GARANTÍA DE ACCESO E INTERCONEXIÓN DE REDES. Artículo derogado, por el criterio",
+   "fuente": "ARTÍCULO 1.14.1. GARANTÍA DE ACCESO E INTERCONEXIÓN DE REDES. Artículo derogado, por el criterio de duplicidad normativa, por el artículo 2 de la Resolución 999 de 2024 PARTE 15. L",
+   "diff": {
+    "corpus": "...E INTERCONEXIÓN DE REDES. Artículo derogado, por el criterio...",
+    "fuente": "...E INTERCONEXIÓN DE REDES. Artículo derogado, por el criterio de duplicidad normativa, por el artículo 2 de la Resolución 999 de 2024 PARTE 15. LIBERACIÓN TEMPORAL DE LAS OBLIGACIONES DERIVADAS DEL CONTRATO DE SERVICIOS PÚBLICOS...."
+   }
+  },
+  {
+   "articulo": "1.15",
+   "estado": "divergente",
+   "similitud": 0.7766,
+   "corpus": "ARTÍCULO 1.15.4. FORMA DE ACREDITAR LA CAUSAL CONSTITUTIVA DE LIBERACIÓN DE OBLIGACIO siguiente: El suscriptor para efectos de acreditar la liberación de sus obligaciones contractu",
+   "fuente": "ARTÍCULO 1.15.4. FORMA DE ACREDITAR LA CAUSAL CONSTITUTIVA DE LIBERACIÓN DE OBLIGACIONES CONTRACTUALES ANTE LA EMPRESA. Artículo modificado por el artículo 17 de la Resolución 999 ",
+   "diff": {
+    "corpus": "... ACREDITAR LA CAUSAL CONSTITUTIVA DE LIBERACIÓN DE OBLIGACIO siguiente: El suscriptor para efectos de acreditar la liber...",
+    "fuente": "... ACREDITAR LA CAUSAL CONSTITUTIVA DE LIBERACIÓN DE OBLIGACIONES CONTRACTUALES ANTE LA EMPRESA. Artículo modificado por el artículo 17 de la Resolución 999 de 2024. El nuevo texto es el siguiente: El suscriptor para efectos de acreditar la liber..."
+   }
+  },
+  {
+   "articulo": "1.16",
+   "estado": "divergente",
+   "similitud": 0.336,
+   "corpus": "ARTÍCULO 1.16.1. Establecer como excepciones al procedimiento contenido en el artículo 9 del Decreto 2696 de 1. Los que deban expedirse cuando se presenten graves situaciones de or",
+   "fuente": "ARTÍCULO 1.16.1. Establecer como excepciones al procedimiento contenido en el artículo 9 del Decreto 2696 de 2004, los proyectos de resolución de carácter general que regulen temas",
+   "diff": {
+    "corpus": "...rocedimiento contenido en el artículo 9 del Decreto 2696 de 1. Los que deban expedirse cuando se presenten graves situac...",
+    "fuente": "...rocedimiento contenido en el artículo 9 del Decreto 2696 de 2004, los proyectos de resolución de carácter general que regulen temas que se enmarquen en los siguientes casos y criterios: 1. Los que deban expedirse cuando se presenten graves situac..."
+   }
+  },
+  {
+   "articulo": "1.17",
+   "estado": "divergente",
+   "similitud": 0.6496,
+   "corpus": "ARTÍCULO 1.17.2. La información que suministren las personas prestadoras de los servicios públicos domiciliario de presentarse de manera desagregada en los niveles que requiera la ",
+   "fuente": "ARTÍCULO 1.17.2. La información que suministren las personas prestadoras de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo y sus actividades complementari",
+   "diff": {
+    "corpus": "... personas prestadoras de los servicios públicos domiciliario de presentarse de manera desagregada en los niveles que req...",
+    "fuente": "... personas prestadoras de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo y sus actividades complementarias e inherentes deberá ser consistente entre sí y en especial al momento de presentarse de manera desagregada en los niveles que req..."
+   }
+  },
+  {
+   "articulo": "1.18",
+   "estado": "divergente",
+   "similitud": 0.7636,
+   "corpus": "ARTÍCULO 1.18.3. REQUISITOS PARA CONTINUAR PRESTANDO EL SERVICIO. Para poder continuar pre actuarial correspondiente, de acuerdo con los plazos estipulados en el Decreto 2852 de 19",
+   "fuente": "ARTÍCULO 1.18.3. REQUISITOS PARA CONTINUAR PRESTANDO EL SERVICIO. Para poder continuar prestando estos servicios públicos domiciliarios, las personas prestadoras deben realizar cad",
+   "diff": {
+    "corpus": "...RA CONTINUAR PRESTANDO EL SERVICIO. Para poder continuar pre actuarial correspondiente, de acuerdo con los plazos estipu...",
+    "fuente": "...RA CONTINUAR PRESTANDO EL SERVICIO. Para poder continuar prestando estos servicios públicos domiciliarios, las personas prestadoras deben realizar cada año las provisiones y amortizaciones del cálculo actuarial correspondiente, de acuerdo con los plazos estipu..."
+   }
+  },
+  {
+   "articulo": "2.1",
+   "estado": "divergente",
+   "similitud": 0.8131,
+   "corpus": "ARTÍCULO 2.1.3.4.4. CONDICIONES GENERALES A TENER EN CUENTA POR PARTE DEL SUSCRIPTOR. 1. Se deberá realizar una carga mínima mensual, la cual cubrirá los cargos fijos de los servic",
+   "fuente": "ARTÍCULO 2.1.3.4.4. CONDICIONES GENERALES A TENER EN CUENTA POR PARTE DEL SUSCRIPTOR. 1. Se deberá realizar una carga mínima mensual, la cual cubrirá los cargos fijos de los servic",
+   "diff": {
+    "corpus": "...rá los cargos fijos de los servicios públicos domiciliarios 2. La persona prestadora y el suscriptor podrán convenir la ...",
+    "fuente": "...rá los cargos fijos de los servicios públicos domiciliarios de acueducto y alcantarillado y el valor facturado del servicio público de aseo. 2. La persona prestadora y el suscriptor podrán convenir la ..."
+   }
+  },
+  {
+   "articulo": "2.2",
+   "estado": "divergente",
+   "similitud": 0.7898,
+   "corpus": "ARTÍCULO 2.2.5. CONDICIONES FINANCIERAS DEL SERVICIO DE LA DEUDA NUEVA. Las condiciones finan a. Plazo total mínimo de 10 años. b. Período de gracia sobre capital: mínimo de 2 años",
+   "fuente": "ARTÍCULO 2.2.5. CONDICIONES FINANCIERAS DEL SERVICIO DE LA DEUDA NUEVA. Las condiciones financieras más exigentes que se pueden contemplar son: a. Plazo total mínimo de 10 años. b.",
+   "diff": {
+    "corpus": "...CIERAS DEL SERVICIO DE LA DEUDA NUEVA. Las condiciones finan a. Plazo total mínimo de 10 años. b. Período de gracia sobr...",
+    "fuente": "...CIERAS DEL SERVICIO DE LA DEUDA NUEVA. Las condiciones financieras más exigentes que se pueden contemplar son: a. Plazo total mínimo de 10 años. b. Período de gracia sobr..."
+   }
+  },
+  {
+   "articulo": "11",
+   "estado": "divergente",
+   "similitud": 0.032,
+   "corpus": "artículo 11 de la Resolución 0330 del 8 de junio de 2017 del Ministerio de Vivienda, Ciudad y Territorio, o la norma qu En el caso de las personas prestadoras que les sea imposible",
+   "fuente": "ARTÍCULO 11. RECAUDO. Los recursos de la facturación del servicio público de aseo, correspondientes a la actividad de aprovechamiento, deberán ser recaudados, en el marco de la fac",
+   "diff": {
+    "corpus": "...artículo 11 de la Resolución 0330 del 8 de junio de 2017 del Ministerio de Vivienda, Ciud...",
+    "fuente": "...ARTÍCULO 11. RECAUDO. Los recursos de la facturación del servicio público de aseo, correspondientes a la actividad de aprovechamiento, deberán ser recaudados, en el marco de la facturación conjunta, por parte del prestador de la actividad de recolección y transporte de residuos sólidos no aprovechables, quien deberá hacer los traslados a la persona prestadora de la actividad de aprovechamiento de acuerdo con lo establecido en el presente capítulo y atendiendo lo dispuesto en el Decreto 1077 de 2015, o aquella que lo adicione, sustituya, modifique..."
+   }
+  },
+  {
+   "articulo": "90",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "24",
+   "estado": "divergente",
+   "similitud": 0.0376,
+   "corpus": "artículo 24 de la Ley 1508 de 2012. Establecer el precio por m3 derivado de la actividad estructurada mediante la Asociación Público Privada, que debe Definir los mecanismos de act",
+   "fuente": "ARTÍCULO 24. CONTENIDO DE LAS ACTAS. Las actas deberán contener como mínimo: la identificación de las partes, indicando nombre y número de identificación de la persona prestadora q",
+   "diff": {
+    "corpus": "...artículo 24 de la Ley 1508 de 2012. Establecer el precio por m3 derivado de la a...",
+    "fuente": "...ARTÍCULO 24. CONTENIDO DE LAS ACTAS. Las actas deberán contener como mínimo: la identificación de las partes, indicando nombre y número de identificación de la persona prestadora que repr..."
+   }
+  },
+  {
+   "articulo": "126",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "1",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "87",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "97",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "2.3",
+   "estado": "divergente",
+   "similitud": 0.8149,
+   "corpus": "ARTÍCULO 2.3.1.1. OBJETO Y ÁMBITO DE APLICACIÓN. El presente título tiene por objeto adoptar el modelo con más de 5.000 suscriptores y/o usuarios en el área rural o urbana. Nota: E",
+   "fuente": "ARTÍCULO 2.3.1.1. OBJETO Y ÁMBITO DE APLICACIÓN. El presente título tiene por objeto adoptar el modelo de contrato de servicios públicos para las personas prestadoras de servicios ",
+   "diff": {
+    "corpus": "...ACIÓN. El presente título tiene por objeto adoptar el modelo con más de 5.000 suscriptores y/o usuarios en el área rural...",
+    "fuente": "...ACIÓN. El presente título tiene por objeto adoptar el modelo de contrato de servicios públicos para las personas prestadoras de servicios públicos domiciliarios de acueducto y/o alcantarillado que cuenten con más de 5.000 suscriptores y/o usuarios en el área rural..."
+   }
+  },
+  {
+   "articulo": "2.4",
+   "estado": "divergente",
+   "similitud": 0.7491,
+   "corpus": "ARTÍCULO 2.4.2.5.2. VALOR DE NEGOCIACIÓN. Los costos máximos calculados conforme con lo indicado en beneficiario. Las partes podrán pactar valores menores siempre y cuando no incur",
+   "fuente": "ARTÍCULO 2.4.2.5.2. VALOR DE NEGOCIACIÓN. Los costos máximos calculados conforme con lo indicado en los artículos 2.4.2.3.1, 2.4.2.4.1 y 2.4.2.5.1 de esta resolución, se constituir",
+   "diff": {
+    "corpus": ".... Los costos máximos calculados conforme con lo indicado en beneficiario. Las partes podrán pactar valores menores siemp...",
+    "fuente": ".... Los costos máximos calculados conforme con lo indicado en los artículos 2.4.2.3.1, 2.4.2.4.1 y 2.4.2.5.1 de esta resolución, se constituirán en un valor máximo para la negociación entre el proveedor y el beneficiario. Las partes podrán pactar valores menores siemp..."
+   }
+  },
+  {
+   "articulo": "2.5",
+   "estado": "divergente",
+   "similitud": 0.786,
+   "corpus": "ARTÍCULO 2.5.1.3. FINANCIACIÓN DE MICROMEDIDORES. Artículo derogado, por el criterio de duplicidad no",
+   "fuente": "ARTÍCULO 2.5.1.3. FINANCIACIÓN DE MICROMEDIDORES. Artículo derogado, por el criterio de duplicidad normativa, por el artículo 2 de la Resolución 999 de 2024",
+   "diff": {
+    "corpus": "...DIDORES. Artículo derogado, por el criterio de duplicidad no...",
+    "fuente": "...DIDORES. Artículo derogado, por el criterio de duplicidad normativa, por el artículo 2 de la Resolución 999 de 2024..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "2.6",
+   "estado": "divergente",
+   "similitud": 0.7548,
+   "corpus": "ARTÍCULO 2.6.1.3. RANGOS DE CONSUMO. Adóptense los siguientes rangos de consumo para los servicios p cumplida la progresividad prevista en el artículo 2.6.1.4 de la presente resolu",
+   "fuente": "ARTÍCULO 2.6.1.3. RANGOS DE CONSUMO. Adóptense los siguientes rangos de consumo para los servicios públicos domiciliarios de acueducto y alcantarillado, en función de la altura sob",
+   "diff": {
+    "corpus": "...ptense los siguientes rangos de consumo para los servicios p cumplida la progresividad prevista en el artículo 2.6.1.4 d...",
+    "fuente": "...ptense los siguientes rangos de consumo para los servicios públicos domiciliarios de acueducto y alcantarillado, en función de la altura sobre el nivel del mar de la ciudad o municipio respectivo, una vez cumplida la progresividad prevista en el artículo 2.6.1.4 d..."
+   }
+  },
+  {
+   "articulo": "2.7",
+   "estado": "divergente",
+   "similitud": 0.8534,
+   "corpus": "ARTÍCULO 2.7.4.1. CONTRATOS DE ENTIDADES TERRITORIALES. De conformidad con el parágrafo 1 del exclusivo en la prestación de los servicios de acueducto, alcantarillado y aseo, se re",
+   "fuente": "ARTÍCULO 2.7.4.1. CONTRATOS DE ENTIDADES TERRITORIALES. De conformidad con el parágrafo 1 del Artículo 40 de la Ley 142 de 1994 los contratos que hayan de celebrar las entidades te",
+   "diff": {
+    "corpus": "...IDADES TERRITORIALES. De conformidad con el parágrafo 1 del exclusivo en la prestación de los servicios de acueducto, al...",
+    "fuente": "...IDADES TERRITORIALES. De conformidad con el parágrafo 1 del Artículo 40 de la Ley 142 de 1994 los contratos que hayan de celebrar las entidades territoriales competentes para otorgar áreas de servicio exclusivo en la prestación de los servicios de acueducto, al..."
+   }
+  },
+  {
+   "articulo": "2.8",
+   "estado": "divergente",
+   "similitud": 0.8157,
+   "corpus": "ARTÍCULO 2.8.2.1.2.3. PLAN DE ASEGURAMIENTO DEL ESQUEMA DIFERENCIAL (PAED) EN ÁREAS DE DIFÍ gestión es el conjunto de acciones a ejecutar por la persona prestadora, el municipio o ",
+   "fuente": "ARTÍCULO 2.8.2.1.2.3. PLAN DE ASEGURAMIENTO DEL ESQUEMA DIFERENCIAL (PAED) EN ÁREAS DE DIFÍCIL GESTIÓN. Artículo adicionado por el artículo 1 de la Resolución 948 de 2021. El nuevo",
+   "diff": {
+    "corpus": "...SEGURAMIENTO DEL ESQUEMA DIFERENCIAL (PAED) EN ÁREAS DE DIFÍ gestión es el conjunto de acciones a ejecutar por la person...",
+    "fuente": "...SEGURAMIENTO DEL ESQUEMA DIFERENCIAL (PAED) EN ÁREAS DE DIFÍCIL GESTIÓN. Artículo adicionado por el artículo 1 de la Resolución 948 de 2021. El nuevo texto es el siguiente: El PAED en áreas de difícil gestión es el conjunto de acciones a ejecutar por la person..."
+   }
+  },
+  {
+   "articulo": "3.1",
+   "estado": "divergente",
+   "similitud": 0.8356,
+   "corpus": "ARTÍCULO 3.1.3. COBRO POR SUSPENSIÓN, CORTE, REINSTALACIÓN O RECONEXIÓN DEL SERVICIO P corte, suspensión, reconexión o reinstalación del servicio, para la recuperación de los costo",
+   "fuente": "ARTÍCULO 3.1.3. COBRO POR SUSPENSIÓN, CORTE, REINSTALACIÓN O RECONEXIÓN DEL SERVICIO PÚBLICO DE ACUEDUCTO. Las personas prestadoras del servicio público domiciliario de acueducto p",
+   "diff": {
+    "corpus": "...SUSPENSIÓN, CORTE, REINSTALACIÓN O RECONEXIÓN DEL SERVICIO P corte, suspensión, reconexión o reinstalación del servicio,...",
+    "fuente": "...SUSPENSIÓN, CORTE, REINSTALACIÓN O RECONEXIÓN DEL SERVICIO PÚBLICO DE ACUEDUCTO. Las personas prestadoras del servicio público domiciliario de acueducto podrán cobrar un cargo por concepto de corte, suspensión, reconexión o reinstalación del servicio,..."
+   }
+  },
+  {
+   "articulo": "4.1",
+   "estado": "divergente",
+   "similitud": 0.8711,
+   "corpus": "ARTÍCULO 4.1.1.2.1. SOLICITUD DE LA OPCIÓN DE MEDICIÓN DE VERTIMIENTOS. Los suscriptores y/o u público domiciliario de alcantarillado anexando la siguiente información: 1. Caracter",
+   "fuente": "ARTÍCULO 4.1.1.2.1. SOLICITUD DE LA OPCIÓN DE MEDICIÓN DE VERTIMIENTOS. Los suscriptores y/o usuarios que deseen acceder a la opción de medición de vertimientos, deberán presentar ",
+   "diff": {
+    "corpus": "...A OPCIÓN DE MEDICIÓN DE VERTIMIENTOS. Los suscriptores y/o u público domiciliario de alcantarillado anexando la siguient...",
+    "fuente": "...A OPCIÓN DE MEDICIÓN DE VERTIMIENTOS. Los suscriptores y/o usuarios que deseen acceder a la opción de medición de vertimientos, deberán presentar una solicitud ante la persona prestadora del servicio público domiciliario de alcantarillado anexando la siguient..."
+   }
+  },
+  {
+   "articulo": "4.2",
+   "estado": "divergente",
+   "similitud": 0.587,
+   "corpus": "ARTÍCULO 4.2.1. ALCANTARILLADO PLUVIAL. Artículo derogado, por el criterio de derogatoria expresa, por el ar",
+   "fuente": "ARTÍCULO 4.2.1. ALCANTARILLADO PLUVIAL. Artículo derogado, por el criterio de derogatoria expresa, por el artículo 5 de la Resolución 999 de 2024 LIBRO 5. REGULACIÓN ESPECÍFICA PAR",
+   "diff": {
+    "corpus": "... derogado, por el criterio de derogatoria expresa, por el ar...",
+    "fuente": "... derogado, por el criterio de derogatoria expresa, por el artículo 5 de la Resolución 999 de 2024 LIBRO 5. REGULACIÓN ESPECÍFICA PARA EL SERVICIO PÚBLICO DE ASEO. PARTE 1. PRESTACIÓN DEL SERVICIO PÚBLICO DE ASEO...."
+   }
+  },
+  {
+   "articulo": "5.1",
+   "estado": "divergente",
+   "similitud": 0.7752,
+   "corpus": "ARTÍCULO 5.1.2. REGISTRO DE PRESTACIÓN DEL SERVICIO. Artículo derogado, por el criterio de derogator",
+   "fuente": "ARTÍCULO 5.1.2. REGISTRO DE PRESTACIÓN DEL SERVICIO. Artículo derogado, por el criterio de derogatoria expresa, por el artículo 5 de la Resolución 999 de 2024",
+   "diff": {
+    "corpus": "...EL SERVICIO. Artículo derogado, por el criterio de derogator...",
+    "fuente": "...EL SERVICIO. Artículo derogado, por el criterio de derogatoria expresa, por el artículo 5 de la Resolución 999 de 2024..."
+   }
+  },
+  {
+   "articulo": "5.2",
+   "estado": "divergente",
+   "similitud": 0.7508,
+   "corpus": "ARTÍCULO 5.2.10. OTRAS DISPOSICIONES SOBRE RECURSOS DEL ESQUEMA. Los ingresos de las tarifas Decreto 1077 de 2015 o el que lo modifique, sustituya, adicione y/o derogue. En ningún ",
+   "fuente": "ARTÍCULO 5.2.10. OTRAS DISPOSICIONES SOBRE RECURSOS DEL ESQUEMA. Los ingresos de las tarifas solo podrán destinarse a cubrir las actividades asociadas a la prestación del servicio ",
+   "diff": {
+    "corpus": "...ONES SOBRE RECURSOS DEL ESQUEMA. Los ingresos de las tarifas Decreto 1077 de 2015 o el que lo modifique, sustituya, adic...",
+    "fuente": "...ONES SOBRE RECURSOS DEL ESQUEMA. Los ingresos de las tarifas solo podrán destinarse a cubrir las actividades asociadas a la prestación del servicio público de aseo, definidas en el artículo 2.3.2.2.2.1.13 del Decreto 1077 de 2015 o el que lo modifique, sustituya, adic..."
+   }
+  },
+  {
+   "articulo": "5.3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "88",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "79",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "2",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "177",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "5.4",
+   "estado": "divergente",
+   "similitud": 0.6599,
+   "corpus": "ARTÍCULO 5.4.2.13. SOLUCIÓN DE CONTROVERSIAS. Las diferencias que surjan entre las personas prestadoras del servicio De conformidad con el n público de aseo y sus actividades compl",
+   "fuente": "ARTÍCULO 5.4.2.13. SOLUCIÓN DE CONTROVERSIAS. Las diferencias que surjan entre las personas prestadoras del servicio público de aseo y sus actividades complementarias y el suscript",
+   "diff": {
+    "corpus": "...cias que surjan entre las personas prestadoras del servicio De conformidad con el n público de aseo y sus actividades complementarias y el suscr...",
+    "fuente": "...cias que surjan entre las personas prestadoras del servicio público de aseo y sus actividades complementarias y el suscr..."
+   }
+  },
+  {
+   "articulo": "5.5",
+   "estado": "divergente",
+   "similitud": 0.422,
+   "corpus": "ARTÍCULO 5.5.1.2. OBJETO. Artículo derogado, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de Nota: La expresión \"serv 2018 La presente Parte tiene por ",
+   "fuente": "ARTÍCULO 5.5.1.2. OBJETO. Artículo derogado, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 La presente Parte tiene por objeto determinar los par",
+   "diff": {
+    "corpus": "... julio de 2021, por el artículo 177 de la Resolución 853 de Nota: La expresión \"serv 2018 La presente Parte tiene por objeto determinar los parám...",
+    "fuente": "... julio de 2021, por el artículo 177 de la Resolución 853 de 2018 La presente Parte tiene por objeto determinar los parám..."
+   }
+  },
+  {
+   "articulo": "5.6",
+   "estado": "divergente",
+   "similitud": 0.666,
+   "corpus": "ARTÍCULO 5.6.1.6. REPORTE. Las organizaciones de recicladores de oficio que estén en proceso de formalización, deberánLa Superintendencia d reportar al Sistema Único de Información",
+   "fuente": "ARTÍCULO 5.6.1.6. REPORTE. Las organizaciones de recicladores de oficio que estén en proceso de formalización, deberán reportar al Sistema Único de Información (SUI), los recursos ",
+   "diff": {
+    "corpus": "...res de oficio que estén en proceso de formalización, deberánLa Superintendencia d reportar al Sistema Único de Información (SUI), los recurso...",
+    "fuente": "...res de oficio que estén en proceso de formalización, deberán reportar al Sistema Único de Información (SUI), los recurso..."
+   }
+  },
+  {
+   "articulo": "5.7",
+   "estado": "divergente",
+   "similitud": 0.9386,
+   "corpus": "ARTÍCULO 5.7.2.10. TABLA DE EQUIVALENCIAS. Las personas prestadoras del servicio de aseo deberán adoptar los valores(Resolución CRA 236 de señalados en la tabla de equivalencias co",
+   "fuente": "ARTÍCULO 5.7.2.10. TABLA DE EQUIVALENCIAS. Las personas prestadoras del servicio de aseo deberán adoptar los valores señalados en la tabla de equivalencias contenida en el numeral ",
+   "diff": {
+    "corpus": "...prestadoras del servicio de aseo deberán adoptar los valores(Resolución CRA 236 de señalados en la tabla de equivalencias contenida en el nume...",
+    "fuente": "...prestadoras del servicio de aseo deberán adoptar los valores señalados en la tabla de equivalencias contenida en el nume..."
+   }
+  },
+  {
+   "articulo": "5.8",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.9",
+   "estado": "divergente",
+   "similitud": 0.8371,
+   "corpus": "ARTÍCULO 5.9.1.3. SOLICITUD PARA RESOLVER CONTROVERSIA. En el evento en que las partes no hayan logrado convenir laPARÁGRAFO. Del acto celebración del acuerdo de lavado en los térm",
+   "fuente": "ARTÍCULO 5.9.1.3. SOLICITUD PARA RESOLVER CONTROVERSIA. En el evento en que las partes no hayan logrado convenir la celebración del acuerdo de lavado en los términos del artículo 2",
+   "diff": {
+    "corpus": "... En el evento en que las partes no hayan logrado convenir laPARÁGRAFO. Del acto celebración del acuerdo de lavado en los términos del artíc...",
+    "fuente": "... En el evento en que las partes no hayan logrado convenir la celebración del acuerdo de lavado en los términos del artíc..."
+   }
+  },
+  {
+   "articulo": "5.10",
+   "estado": "divergente",
+   "similitud": 0.2098,
+   "corpus": "ARTÍCULO 5.10.1.1. ÁMBITO DE APLICACIÓN. El presente Título aplica a las personas prestadoras de la actividad de recolección (Resolución CRA 779 de y transporte de residuos no apro",
+   "fuente": "ARTÍCULO 5.10.1.1. ÁMBITO DE APLICACIÓN. El presente Título aplica a las personas prestadoras de la actividad de recolección y transporte de residuos no aprovechables y a las perso",
+   "diff": {
+    "corpus": "...ca a las personas prestadoras de la actividad de recolección (Resolución CRA 779 de y transporte de residuos no aprovech...",
+    "fuente": "...ca a las personas prestadoras de la actividad de recolección y transporte de residuos no aprovechables y a las personas prestadoras de la actividad de aprovechamiento, incluidas en el ámbito de aplicación definido en el artículo 5.3.2.1.1 de la presente resolución. (Resolución CRA 779 de 2016, art. 1)...."
+   }
+  },
+  {
+   "articulo": "5.11",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.12",
+   "estado": "divergente",
+   "similitud": 0.3758,
+   "corpus": "ARTÍCULO 5.12.1. ÁMBITO DE APLICACIÓN. Artículo adicionado por el artículo 1 de la Resolución 1011 de 2025. El nuevo textoPARÁGRAFO. Aquellos es el siguiente: La presente resolució",
+   "fuente": "ARTÍCULO 5.12.1. ÁMBITO DE APLICACIÓN. Artículo adicionado por el artículo 1 de la Resolución 1011 de 2025. El nuevo texto es el siguiente: La presente resolución aplica para todas",
+   "diff": {
+    "corpus": "... el artículo 1 de la Resolución 1011 de 2025. El nuevo textoPARÁGRAFO. Aquellos es el siguiente: La presente resolución apli...",
+    "fuente": "... el artículo 1 de la Resolución 1011 de 2025. El nuevo texto es el siguiente: La presente resolución aplica para todas las person..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "1o",
+  "2o",
+  "3o",
+  "4o",
+  "5o",
+  "6o",
+  "7o",
+  "8o",
+  "9o",
+  "10",
+  "13",
+  "15",
+  "16",
+  "17",
+  "18",
+  "19",
+  "20",
+  "21",
+  "22",
+  "23",
+  "25",
+  "26",
+  "27",
+  "28",
+  "30",
+  "31",
+  "32",
+  "33",
+  "34",
+  "35",
+  "36",
+  "37"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 3,
+  "casi": 1,
+  "divergentes": 51
+ }
+}

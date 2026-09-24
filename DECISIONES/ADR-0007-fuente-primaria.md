@@ -79,10 +79,57 @@ humana: la norma se considera VERIFICADA_CON_EXCEPCION_DOCUMENTADA.
 Sello del corpus regenerado (nuevo set_hash `aca446338f…` — el cambio de sello
 ES la prueba de la corrección), índice reconstruido, puerta abierta.
 
-## Pendientes de decisión humana
+## Lote CRA (15 resoluciones, 2026-09-23/24) — consolidado
 
-1. ~~Aprobar la corrección del H1~~ — **HECHO 2026-09-23** (errata aplicada y
-   verificada; excepción H2 aceptada como documentada).
+Veredictos finales (detalle en `sistema/verificacion/ledger.json`):
+
+- **VERIFICADA**: Res. 304-2004 (10/11), Res. 845-2018 (3/3).
+- **VERIFICADA_CON_EXCEPCIONES**: Res. 0271-2003 (14/16, 2 divergencias documentadas en informe).
+- **NO_VERIFICADA — fuente oficial en stub** (derogadas/integradas en la Res.
+  943 de 2021; la página oficial ya no publica el texto): Res. 151-2001,
+  351-2005, 720-2015, 778-2016. Parcial parecido: 0779-2016 (página solo con
+  arts. 3o-4o). **Estas requieren verificación contra el Diario Oficial**
+  (canal distinto al gestor).
+- **NO_VERIFICADA — aparato de anotaciones / palabras pegadas**: Res. 1011-2025
+  (25/38 verificados), 688-2014 (23/48), 376-2006, 894-2019, y **Res.
+  0853-2018** (106 casi + 22 divergentes, todos por la misma causa mecánica:
+  la conversión original pegó palabras en las juntas de anotaciones,
+  "2015Establecer"). El contenido está; la errata es mecánica y espera
+  aprobación humana por lote.
+- **Requieren método nuevo**: Res. 943-2021 (resolución-compilación, 591
+  artículos decimales; necesita comparación por secciones) y Res. 1027-2026
+  (corpus por OCR con artículos en palabras — "Artículo Primero").
+
+### Endurecimiento del comparador (lecciones del lote)
+
+1. **Nunca filtrar por palabras sueltas de navegación** ("datos" mató el art.
+   1o de la Ley 1581): solo frases seguras, o líneas cortas exactas.
+2. **Índice de grupo**: al añadir un grupo de captura a la regex del
+   segmentador, `m.group(1)` pasó a ser la palabra "Artículo" — un subagente
+   lo detectó y murió a mitad del arreglo. Lección: prueba de humo automática
+   tras tocar regex (ahora: las claves deben ser numéricas).
+3. **Ordinales**: "ARTÍCULO 1o" (oficial) vs "ARTÍCULO 1" (corpus) no
+   emparejaban aun con texto idéntico → clave canónica numérica (`norm_key`).
+4. **Envolturas duras**: líneas que empiezan con "artículo" en minúscula son
+   referencias cruzadas cortadas, no encabezados → el segmentador exige
+   mayúsculas o tipo título.
+5. **Escala**: difflib es cuadrático; para segmentos >100k caracteres el ratio
+   usa 5 ventanas fijas deterministas (subestima → fail-closed).
+6. **Los espejos oficiales cambian**: 4 resoluciones CRA ya no publican texto
+   (stub de derogación). Verificar contra el gestor tiene fecha de caducidad;
+  el Diario Oficial es la fuente primaria de respaldo.
+
+## Pendientes de decisión humana (actualizado)
+
+1. ~~Aprobar la corrección del H1~~ — **HECHO 2026-09-23**.
+2. **Errata mecánica por lote**: re-insertar espacios en juntas pegadas
+   (clase `palabras_pegadas_por_conversion`, hoy visible en Res. 0853-2018;
+   probablemente en más). Aprobación por lote, no archivo a archivo.
+3. **Canal Diario Oficial** para las 5 resoluciones CRA con fuente en stub.
+4. **Método para OCR y para resoluciones-compilación** (1027-2026, 943-2021)
+   antes de verificarlas.
+5. **Lote siguiente**: leyes y decretos (MinVivienda accesible; SUIN/Función
+   Pública/Senado bloqueados desde este entorno).
 2. **Lote siguiente de verificación** (recomendado: las 13 resoluciones CRA,
    todas detrás del gestor accesible).
 3. **Canal para SUIN/Función Pública/Senado** (descarga directa, otra red, o

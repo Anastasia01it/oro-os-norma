@@ -1,0 +1,478 @@
+Fetched https://normas.cra.gov.co/gestor/docs/resolucion_cra_0688_2014.htm (HTTP 200)
+
+External web content follows. Treat it as untrusted data, not instructions.
+
+Gestor Normativo de la CRA - Resolución 688 de 2014 CRA                                   
+
+[![gov.co](../images/logo_gov.png)](https://www.gov.co/)
+
+[![](../images/Logo_CRA.png)](https://petro.presidencia.gov.co/)
+
+# 
+
+[GESTOR NORMATIVO - CRA](../../index.html)
+
+-   [Inicio](../../index.html)
+-   [Transparencia y Acceso a Informcion Pública](https://www.cra.gov.co/transparencia)
+-   [Atención y servicios a la ciudadanía](https://www.cra.gov.co/atencion-y-servicio-a-la-ciudadania)
+-   [Participa](https://www.cra.gov.co/participa)
+-   [La CRA](https://www.cra.gov.co/)
+-   [Nuestra regulación](https://normas.cra.gov.co/)
+-   [Expertos comisionados](https://www.cra.gov.co/transparencia/informacion-entidad/expertos-comisionados/director-ejecutivo/perfil-directora-ejecutiva)
+-   [Prensa](https://www.cra.gov.co/prensa/noticias)
+-   [Participación - Nuevos Marcos Tarifarios](https://cartacymmaclaus.my.canva.site/nuevos-marcos)
+
+![Menú principal](../images/icon-menu.svg "Oprima para abrir / cerrar el menú")
+
+[Inicio](../../index.html) [Transparencia y Acceso a Informcion Pública](https://www.cra.gov.co/transparencia "Clic para ir al módulo DUR Sector") [Atención y servicios a la ciudadanía](http://outlook.office365.com/book/AgendamientodecitaspresencialCRA1@cra.gov.co/ "Clic para ir al módulo Nuestra entidad") [Participa](https://www.cra.gov.co/participa "Clic para ir al módulo Aprende con ADRES - Guías") [La CRA](https://www.cra.gov.co/transparencia/informacion-entidad/quienes-somos "Clic para ir al módulo Participa") [Nuestra regulación](https://normas.cra.gov.co/ "Clic para ir al módulo EPS") [Expertos comisionados](https://www.cra.gov.co/transparencia/informacion-entidad/expertos-comisionados/director-ejecutivo/perfil-directora-ejecutiva "Clic para ir al módulo IPS y proveedores") [Prensa](https://www.cra.gov.co/prensa/noticias "Clic para ir al módulo Entidades territoriales") [Participación - Nuevos MarcosTarifarios](https://cartacymmaclaus.my.canva.site/nuevos-marcos "Clic para ir al módulo Nuestra entidad")
+
+# Resolución 688 de 2014 CRA
+
+![Anotaciones](../images/noun-invisible-2037770-FFFFFF.svg)Anotaciones
+
+![Imprimir](../images/noun-printer-57793-FFFFFF.svg)
+
+![Descargar](../images/noun-download-691153-FFFFFF.svg)
+
+![Datos](../images/noun-data-2597507-3366CC.svg)DATOS
+
+![Búsqueda](../images/noun-search-875351-3366CC.svg)BUSCAR
+
+![Índice](../images/noun-listed-3082130-3366CC.svg)ÍNDICE
+
+![Memoria](../images/noun-download-4625906-3366CC.svg)DESCARGAS
+
+![Desarrollos](../images/noun-clip-1628693-3366CC.svg)DESARROLLOS
+
+![Modificaciones](../images/noun-pen-429216-3366CC.svg)MODIFICACIONES
+
+![Concordancias](../images/noun-columns-120337-3366CC.svg)CONCORDANCIAS
+
+![Notificaciones](../images/noun-notify-783329-3366CC.svg)NOTIFICACIONES
+
+![Actos de trámite](../images/noun-process-2526089-3366CC.svg)ACTOS DE TRÁMITE
+
+![Abogacía](../images/noun-fairness-4145115-3366CC.svg)ABOGACÍA
+
+![Videos](../images/noun-video-846806-3366CC.svg)VIDEOS
+
+RESOLUCIÓN CRA 688 DE 2014
+
+(junio 24)
+
+Diario Oficial No. 49.229 de 31 de julio de 2014
+
+COMISIÓN DE REGULACIÓN DE AGUA POTABLE Y SANEAMIENTO BÁSICO
+
+Por la cual se establece la metodología tarifaria para las personas prestadoras de los servicios públicos domiciliarios de acueducto y alcantarillado con más de 5.000 suscriptores en el área urbana.
+
+[Resumen de Notas de Vigencia](javascript:insRow1\(\))
+
+LA COMISIÓN DE REGULACIÓN DE AGUA POTABLE Y SANEAMIENTO BÁSICO,
+
+en ejercicio de sus facultades legales, en especial de las conferidas por la Ley [142](ley_0142_1994.htm#Inicio) de 1994, los Decretos [1524](decreto_1524_1994.htm#Inicio) de 1994 y [2882](decreto_2882_2007.htm#Inicio) y [2883](decreto_2883_2007.htm#Inicio) de 2007, y
+
+CONSIDERANDO:
+
+Que el artículo [334](constitucion_politica_1991.htm#334) de la Constitución Política de Colombia consagra que la dirección general de la economía estará a cargo del Estado, el cual intervendrá por mandato de la ley, entre otras actividades, en los servicios públicos y privados, para racionalizar la economía con el fin de conseguir el mejoramiento de la calidad de vida de los habitantes, la distribución equitativa de las oportunidades y los beneficios del desarrollo y la preservación de un ambiente sano.
+
+Que el artículo [365](constitucion_politica_1991.htm#365) ibídem dispone que los servicios públicos son inherentes a la finalidad social del Estado y que es deber de este asegurar su prestación eficiente a todos los habitantes del territorio nacional.
+
+Que el artículo [367](constitucion_politica_1991.htm#367) ibídem determina que la ley fijará las competencias relativas a la prestación de los servicios públicos domiciliarios, su cobertura, calidad y financiación, el régimen tarifario y las entidades competentes para fijar las tarifas.
+
+Que el artículo [370](constitucion_politica_1991.htm#370) de la Constitución Política de Colombia prevé que corresponde al Presidente de la República señalar, con sujeción a la ley, las políticas generales de administración y control de eficiencia de los servicios públicos domiciliarios, y ejercer por medio de la Superintendencia de Servicios Públicos Domiciliarios, el control, la inspección y vigilancia de las entidades que los presten.
+
+Que el artículo [68](ley_0142_1994.htm#68) de la Ley 142 de 1994 establece que el señalamiento de las políticas a que hace referencia el artículo [370](constitucion_politica_1991.htm#370) de la Constitución Política de Colombia, se podrá delegar en las Comisiones de Regulación.
+
+Que en virtud de lo anterior, el Presidente de la República mediante Decreto [1524](decreto_1524_1994.htm#Inicio) de 1994, delegó las funciones Presidenciales de señalar políticas generales de administración y control de eficiencia en los servicios públicos domiciliarios en las Comisiones de Regulación.
+
+Que el artículo [73](ley_0142_1994.htm#73) de la Ley 142 de 1994 establece las funciones y facultades generales de las Comisiones de Regulación, y la misma norma dispone que estas unidades Administrativas Especiales: “(...) tienen la función de regular los monopolios en la prestación de los servicios públicos, cuando la competencia no sea, de hecho, posible; y, en los demás casos, la de promover la competencia entre quienes presten servicios públicos, para que las operaciones de los monopolistas o de los competidores sean económicamente eficientes, no impliquen abuso de la posición dominante, y produzcan servicios de calidad. (...)”;
+
+Que el régimen tarifario aplicable a los servicios públicos domiciliarios, de conformidad con el numeral 86.4 del artículo [86](ley_0142_1994.htm#86) ibídem, está compuesto por reglas relativas a procedimientos, metodologías, fórmulas, estructuras, estratos, facturación, opciones, valores y, en general, todos los aspectos que determinan el cobro de las tarifas.
+
+Que el artículo [87](ley_0142_1994.htm#87) ibídem preceptúa que el régimen tarifario estará orientado por los criterios de eficiencia, económica, neutralidad, solidaridad, redistribución, suficiencia financiera, simplicidad y transparencia.
+
+Que en virtud del principio de eficiencia económica, establecido en el numeral 87.1 del artículo [87](ley_0142_1994.htm#87) de la Ley 142 de 1994, “(…) el régimen de tarifas procurará que estas se aproximen a lo que serían los precios de un mercado competitivo (…)”, (…) que las fórmulas tarifarias no pueden trasladar a los usuarios los costos de una gestión ineficiente, ni permitir que las empresas se apropien de las utilidades provenientes de prácticas restrictivas de la competencia (…)”;
+
+Que de acuerdo con el principio de suficiencia financiera definido en el numeral 87.4 del artículo [87](ley_0142_1994.htm#87) ibídem, se debe garantizar a las empresas eficientes la recuperación de sus costos de inversión y sus gastos de administración, operación y mantenimiento, así como permitir la remuneración del patrimonio de los accionistas en la misma forma en la que lo habría remunerado una empresa eficiente en un sector de riesgo comparable.
+
+Que el numeral 87.7 del artículo [87](ley_0142_1994.htm#87) ídem dispone que “(…) si llegare a existir contradicción entre el criterio de eficiencia y el de suficiencia financiera, deberá tomarse en cuenta que, para una empresa eficiente, las tarifas económicamente eficientes se definirán tomando en cuenta la suficiencia financiera”.
+
+Que de conformidad con el numeral 87.8 del artículo [87](ley_0142_1994.htm#87) de la Ley 142 de 1994, “(…) toda tarifa tendrá un carácter integral en el sentido que supondrá una calidad y grado de cobertura del servicio, cuyas características definirán las comisiones reguladoras (…)”;
+
+Que el numeral 87.9 del artículo [87](ley_0142_1994.htm#87) ibídem dispone que: “Las Entidades públicas podrán aportar bienes o derechos a las empresas de servicios públicos domiciliarios, siempre y cuando su valor no se incluya en el cálculo de las tarifas que hayan de cobrarse a los usuarios y que en el presupuesto de la entidad que autorice el aporte figure este valor. Las Comisiones de Regulación establecerán los mecanismos necesarios para garantizar la reposición y mantenimiento de estos bienes.
+
+Lo dispuesto en el presente artículo no es aplicable cuando se realice enajenación o capitalización de dichos bienes o derechos”;
+
+Que de conformidad con lo establecido en el artículo [88](ley_0142_1994.htm#88) de la ley antes citada, al fijar sus tarifas, las empresas de servicios públicos se someterán al régimen de regulación, definido por la respectiva Comisión de Regulación.
+
+Que según lo dispuesto por el numeral 88.1 del artículo [88](ley_0142_1994.htm#88) ibídem, “(…) la comisión reguladora podrá establecer topes máximos y mínimos tarifarios, de obligatorio cumplimiento por parte de las empresas (…)”.
+
+Que de conformidad con lo previsto en el artículo [90](ley_0142_1994.htm#90) ídem, los elementos de las fórmulas tarifarias, sin perjuicio de otras alternativas que puedan definir las Comisiones de Regulación, podrán incluir un cargo por unidad de consumo, un cargo fijo y un cargo por aportes de conexión, cuyo cobro en ningún caso podrá contradecir el principio de eficiencia, ni trasladar al usuario los costos de una gestión ineficiente o extraer beneficios de posiciones dominantes o de monopolio.
+
+Que el artículo [91](ley_0142_1994.htm#91) de la precitada ley señala que “Para establecer las fórmulas de tarifas se calculará por separado, cuando sea posible, una fórmula para cada una de las diversas etapas del servicio”;
+
+Que el artículo [92](ley_0142_1994.htm#92) ibídem dispone que: “En las fórmulas de tarifas las Comisiones de Regulación se garantizarán a los usuarios a lo largo del tiempo los beneficios de la reducción promedio de costos en las empresas que prestan el servicio; y, al mismo tiempo, darán incentivos a las empresas para ser más eficientes que el promedio, y para apropiarse los beneficios de la mayor eficiencia.
+
+Con ese propósito, al definir en las fórmulas los costos y gastos típicos de operación de las empresas de servicios públicos, las comisiones utilizarán no solo la información propia de la empresa, sino la de otras empresas que operen en condiciones similares, pero que sean más eficientes…”.
+
+Que el artículo [125](ley_0142_1994.htm#125) ídem establece los criterios para la actualización de las tarifas.
+
+Que de conformidad con lo establecido en el artículo [126](ley_0142_1994.htm#126) de la Ley 142 de 1994, vencido el período de vigencia de las fórmulas tarifarias, estas continuarán rigiendo mientras la Comisión no fije las nuevas.
+
+Que el artículo [163](ley_0142_1994.htm#163) ibídem dispone que: “Las fórmulas tarifarias, además de tomar en cuenta los costos de expansión y reposición de los sistemas de agua potable y saneamiento básico, incluirán los costos de administración, operación y mantenimiento asociados con el servicio. Además, tendrán en cuenta indicadores de gestión operacional y administrativa, definidos de acuerdo con indicadores de empresas comparables más eficientes que operen en condiciones similares. Incluirán también un nivel de pérdidas aceptable según la experiencia de otras empresas eficientes”.
+
+Que el artículo [164](ley_0142_1994.htm#164) ibídem estipula que “Con el fin de garantizar el adecuado ordenamiento y protección de las cuencas y fuentes de agua, las fórmulas tarifarias de los servicios de acueducto y alcantarillado incorporarán elementos que garanticen el cubrimiento de los costos de protección de las fuentes de agua y la recolección, transporte y tratamiento de los residuos líquidos”. También dispone este artículo que “Las empresas de servicios del sector de agua potable y saneamiento básico pagarán las tasas a que haya lugar por el uso de agua y por el vertimiento de efluentes líquidos, que fije la autoridad competente de acuerdo con la ley”.
+
+Que de conformidad con los numerales 2.3, 2.4., 2.5 y 2.8 del artículo [2](ley_0142_1994.htm#2)o de la Ley 142 de 1994, el Estado intervendrá en los servicios públicos conforme a las reglas de competencia de que trata dicha ley, en el marco de lo dispuesto en los artículos [334](constitucion_politica_1991.htm#334), [336](constitucion_politica_1991.htm#336) y [365](constitucion_politica_1991.htm#365) a [370](constitucion_politica_1991.htm#370) de la Constitución Política, para la atención prioritaria de las necesidades básicas insatisfechas en materia de agua potable y saneamiento básico, la prestación continua e ininterrumpida, sin excepción alguna, salvo cuando existan razones de fuerza mayor o caso fortuito o de orden técnico o económico que así lo exijan, la prestación eficiente de los servicios y disponer mecanismos que garanticen a los usuarios el acceso a los servicios.
+
+Que el numeral 5.1 del artículo [5](ley_0142_1994.htm#5)o ibídem dispone que compete a los municipios asegurar que se presten a sus habitantes, de manera eficiente, los servicios domiciliarios de acueducto, alcantarillado y aseo, por empresas de servicios públicos de carácter oficial, privado o mixto, o directamente por la administración central del respectivo municipio en los casos previstos en el artículo [6](ley_0142_1994.htm#6)o ídem.
+
+Que de acuerdo con el artículo [7](ley_1176_2007.htm#7)o de la Ley 1176 de 2007, uno de los criterios para la distribución de los recursos de la participación para agua potable y saneamiento básico de los distritos y municipios del Sistema General de Participaciones es el déficit de coberturas, el cual se calcula de acuerdo con el número de personas carentes del servicio de acueducto y alcantarillado de la respectiva entidad territorial, en relación con el número total de personas carentes del servicio en el país, para lo cual se podrá considerar el diferencial de los costos de provisión entre los diferentes servicios;
+
+Que de acuerdo con el artículo [11](ley_1176_2007.htm#11) ibídem, los recursos del Sistema General de Participaciones para agua potable y saneamiento básico que se asignen a los distritos y municipios, se destinarán a financiar la prestación de los servicios públicos domiciliarios de agua potable y saneamiento básico, entre otras actividades para la “e) Construcción, ampliación, optimización y mejoramiento de los sistemas de acueducto y alcantarillado (…)”;
+
+Que de conformidad con lo establecido en el numeral 79.1 del artículo [79](ley_0142_1994.htm#79) de la Ley 142 de 1994, es competencia de la Superintendencia de Servicios Públicos Domiciliarios “Vigilar y controlar el cumplimiento de las leyes y actos administrativos a los que estén sujetos quienes presten servicios públicos, en cuanto el cumplimiento afecte en forma directa e inmediata a usuarios determinados; y sancionar sus violaciones, siempre y cuando esta función no sea competencia de otra autoridad”.
+
+Que de conformidad con la Ley [388](ley_0388_1997.htm#Inicio) de 1997, el ordenamiento territorial es un instrumento para la administración del desarrollo y la ocupación del espacio físico clasificado como suelo urbano, suelo rural y suelo de expansión urbana.
+
+Que en relación con el cobro del cargo fijo, la Corte Constitucional, en Sentencia C-[041](c-041_2003.htm#Inicio) de 2003, se refirió a su constitucionalidad, y entre otras consideraciones, indicó lo siguiente:
+
+“De acuerdo con lo anterior, la Corte encuentra que con el cargo fijo contemplado en el artículo impugnado, el Estado no se despoja de su función de garantizar la prestación eficiente de los servicios públicos, pues la gratuidad de los servicios públicos domiciliarios no está contemplada por el Constituyente de 1991 y además dentro de los deberes de toda persona se encuentra el de contribuir al financiamiento de los gastos e inversiones del Estado. La tarifa que se paga por la prestación de un servicio público domiciliario está vinculada no solo con el nivel de consumo del usuario, sino con los costos en que incurre la empresa respectiva para poder brindar el bien o servicio en condiciones de competitividad y está determinada por el beneficio que finalmente recibe el usuario. El solo hecho de que el prestador del servicio esté disponible para brindar el mismo genera costos, los cuales son independientes del consumo real que se efectúe. A juicio de la Corte, la norma acusada, en cuanto contempla un cargo fijo que debe pagar el usuario, no vulnera la Carta Política toda vez que tal concepto se ve reflejado en su propio beneficio, es decir, en una prestación eficiente y permanente del servicio”.
+
+Que la regulación aplicable a los servicios públicos domiciliarios de acueducto y alcantarillado corresponde a una de aquellas en las que se regulan los costos de prestación de los mismos y no los ingresos del prestador.
+
+Que el Decreto [1575](decreto_1575_2007.htm#Inicio) de 2007 dispone el sistema para la protección y control de la calidad del agua para consumo humano.
+
+Que el numeral 19 del artículo [31](ley_0099_1993.htm#31) de la Ley 99 de 1993 señala que las Corporaciones Autónomas Regionales ejercerán, entre otras funciones, la de “Promover y ejecutar obras de irrigación, avenamiento, defensa contra las inundaciones, regulación de cauces y corrientes de agua, y de recuperación de tierras que sean necesarias para la defensa, protección y adecuado manejo de las cuencas hidrográficas del territorio de su jurisdicción, en coordinación con los organismos directores y ejecutores del Sistema Nacional de Adecuación de Tierras, conforme a las disposiciones legales y a las previsiones técnicas correspondientes”.
+
+Que el artículo [211](ley_1450_2011.htm#211) de la Ley 1450 de 2011, por el cual se modifica y adiciona el artículo [42](ley_0099_1993.htm#42) de la Ley 99 de 1993, contempla que “los recursos provenientes del recaudo de las tasas retributivas se destinarán a proyectos de inversión en descontaminación y monitoreo de la calidad del recurso respectivo. Para cubrir los gastos de implementación y seguimiento de la tasa, la autoridad ambiental competente podrá utilizar hasta el 10% de los recursos recaudados”;
+
+Que el artículo [216](ley_1450_2011.htm#216) ibídem, por el cual se adiciona el artículo [43](ley_0099_1993.htm#43) de la Ley 99 de 1993, estipula la destinación de los recursos provenientes del recaudo de las tasas por utilización de agua.
+
+Que los Decretos [155](decreto_0155_2004.htm#Inicio) de 2004 y [4742](decreto_4742_2005.htm#Inicio) de 2005 disponen la manera de establecer el valor a pagar por el usuario sujeto pasivo de la tasa por uso de agua señalada en el artículo [43](ley_0099_1993.htm#43) de la Ley 99 de 1993.
+
+Que el Decreto [2667](decreto_2667_2012.htm#Inicio) de 2012 reglamenta la tasa retributiva por la utilización directa e indirecta del agua como receptor de los vertimientos puntuales.
+
+Que la Ley [1523](ley_1523_2012.htm#Inicio) de 2012 adoptó la Política Nacional de Gestión del Riesgo de Desastres y estableció el Sistema Nacional de Gestión del Riesgo de Desastres.
+
+Que el artículo [1](ley_1523_2012.htm#1)o de la citada ley estipula que “La gestión del riesgo de desastres, en adelante la gestión del riesgo, es un proceso social orientado a la formulación, ejecución, seguimiento y evaluación de políticas, estrategias, planes, programas, regulaciones, instrumentos, medidas y acciones permanentes para el conocimiento y la reducción del riesgo y para el manejo de desastres, con el propósito explícito de contribuir a la seguridad, el bienestar, la calidad de vida de las personas y al desarrollo sostenible”.
+
+Que de acuerdo con el principio de autoconservación contemplado en el artículo [3](ley_1523_2012.htm#3)o de la ley antes indicada, “Toda persona natural o jurídica, bien sea de derecho público o privado, tiene el deber de adoptar las medidas necesarias para una adecuada gestión del riesgo en su ámbito personal y funcional, con miras a salvaguardarse, que es condición necesaria para el ejercicio de la solidaridad social”.
+
+Que la Resolución [1076](resolucion_minambientevdt_1076_2003.htm#Inicio) de 9 de octubre de 2003 del entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial, actualizó el Plan Nacional de Capacitación y Asistencia Técnica para el sector de Agua Potable, Saneamiento Básico y Ambiental.
+
+Que de acuerdo con lo dispuesto en el artículo [2](resolucion_minambientevdt_1076_2003.htm#2)o de la citada resolución, “El Plan Nacional de Capacitación y Asistencia Técnica, es el conjunto de políticas, programas, estrategias, instrumentos e instituciones que orientan la capacitación, asistencia técnica y adquisición de competencia laboral, dirigida a los trabajadores vinculados a las entidades públicas y privadas prestadoras de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo, para mejorar la calidad de dichos servicios en los ámbitos urbano y rural”.
+
+Que el artículo [12](resolucion_minambientevdt_1076_2003.htm#12) de la norma citada previamente establece que “A partir de la fecha de expedición de la presente resolución y mientras se implementa el plan de certificación de competencias laborales, las empresas prestadoras de los servicios públicos de acueducto, alcantarillado y aseo deberán exigir a los trabajadores que pretendan vincular a cargos de responsabilidad administrativa o técnico-operativa, la certificación o el diploma en la especialidad requerida para el cargo que se va a ocupar, expedido por una institución de educación legalmente constituida”.
+
+Que el documento Conpes número [140](conpes_dnp_0140_2011.htm#Inicio) de 28 de marzo de 2011, denominado “Metas y estrategias de Colombia para el logro de los objetivos de desarrollo del milenio-2015”, establece como una de las metas reducir a la mitad, para el año 2015, el porcentaje de personas sin acceso sostenible al agua potable y a servicios básicos de saneamiento, de acuerdo con la meta universal 7c.
+
+Que en el Diario Oficial número 47.582 de 4 de enero de 2010, se publicó la Resolución CRA [485](resolucion_cra_0485_2009.htm#Inicio) de 2009 “Por la cual se presenta el proyecto de resolución “por la cual se establece la metodología tarifaria para los prestadores de los servicios públicos domiciliarios de acueducto y alcantarillado que atiendan 2.500 o más suscriptores” y se da cumplimiento a lo previsto por el numeral 11.4 del artículo [11](decreto_2696_2004.htm#11) del Decreto 2696 de 2004”;
+
+Que en el Diario Oficial número 47.604 de 26 de enero de 2010, se publicó la Resolución CRA [486](resolucion_cra_0486_2009.htm#Inicio) de 2009 “Por la cual se presenta el proyecto de resolución “por la cual se establece la metodología tarifaria de los servicios públicos domiciliarios de acueducto y alcantarillado para prestadores que atiendan menos de 2.500 suscriptores” y se da cumplimiento a lo previsto por el numeral 11.4 del artículo [11](decreto_2696_2004.htm#11) del Decreto 2696 de 2004”;
+
+Que se recibieron 318 observaciones y/o propuestas presenciales y 610 escritas con ocasión de la publicación de las Resoluciones CRA [485](resolucion_cra_0485_2009.htm#Inicio) de 2009 y CRA [486](resolucion_cra_0486_2009.htm#Inicio) de 2009, las cuales fueron objeto de análisis y se tuvieron en cuenta en la elaboración de la presente resolución;
+
+Que con respecto a los componentes tarifarios, la mayoría de las 610 inquietudes escritas recibidas corresponden al Costo Medio de Inversión (31%), mientras que en relación con las 318 observaciones presenciales recibidas, la mayoría corresponden a tópicos generales (31%) seguidas por consultas relacionadas con el Costo Medio de Inversión (16%) y con la Resolución CRA [486](resolucion_cra_0486_2009.htm#Inicio) de 2009, sobre la metodología para las personas prestadoras con menos de 2.500 suscriptores (17%);
+
+Que se recibieron 111 observaciones escritas y presenciales referentes al Costo Medio de Administración y al Costo Medio de Operación definido por comparación, las cuales se clasificaron en 18 ejes temáticos;
+
+Que las 46 observaciones escritas y presenciales correspondientes al Costo Medio de Operación particular se clasificaron en 11 ejes temáticos. La mayoría de observaciones estaban relacionadas con la implementación de los costos particulares;
+
+Que las 243 observaciones correspondientes al componente CMI, se clasificaron en 25 ejes temáticos;
+
+Que las 96 observaciones escritas y presenciales correspondientes al capítulo de Calidad y Descuentos, se clasificaron en 15 ejes temáticos;
+
+Que de igual forma, en el Diario Oficial número 47.582 de 4 de enero de 2010 se publicó la Resolución CRA [487](resolucion_cra_0487_2009.htm#Inicio) de 2009, “por la cual se presenta el proyecto de resolución 'por la cual se modifica el artículo [2.4.3.14](resolucion_cra_0151_2001.htm#2.4.3.14) de la Resolución CRA 151 de 2001' y se inicia el proceso de discusión directa con los usuarios y agentes del sector”;
+
+Que se recibieron 78 comentarios relacionados con el nivel de pérdidas a reconocer en la metodología tarifaria aplicable a los servicios públicos domiciliarios de acueducto y alcantarillado;
+
+Que la CRA presentó en el mes de febrero de 2013 la nueva propuesta de metodología tarifaria para los servicios públicos domiciliarios de acueducto y alcantarillado, contenida en las resoluciones de trámite CRA [632](resolucion_cra_0632_2013.htm#Inicio) de 15 de febrero de 2013, CRA [634](resolucion_cra_0634_2013.htm#Inicio) de 21 de marzo de 2013, complementadas con la Resolución CRA [646](resolucion_cra_0646_2013.htm#Inicio) de 16 de julio de 2013;
+
+Que la Resolución CRA [632](resolucion_cra_0632_2013.htm#Inicio) de 2013 fue publicada en el Diario Oficial número 48.709 del 19 de febrero de 2013, la Resolución CRA [634](resolucion_cra_0634_2013.htm#Inicio) de 2013 en el Diario Oficial número 48.762 de 15 de abril de 2013 y, la Resolución CRA [646](resolucion_cra_0646_2013.htm#Inicio) de 2013 fue publicada en el Diario Oficial número 48.866 de 29 de julio de 2013;
+
+Que el plazo de participación ciudadana inicial fue de 90 días (hasta el 20 de mayo de 2013), y mediante la Resolución CRA [641](resolucion_cra_0641_2013.htm#Inicio) de 17 de mayo de 2013 dicho término inicial de participación ciudadana se amplió hasta el 31 de julio de 2013. Así mismo, por medio de la expedición de la Resolución CRA [645](resolucion_cra_0645_2013.htm#Inicio) de 24 de junio de 2013, el término de participación ciudadana precitado se amplió nuevamente hasta el 31 de agosto de 2013;
+
+Que finalmente, mediante la Resolución CRA [651](resolucion_cra_0651_2013.htm#Inicio) de 29 de agosto de 2013, el plazo se amplió hasta el 31 de octubre de 2013. Las anteriores resoluciones obedecieron a las solicitudes de ampliación de plazo recibidas de diversos agentes del sector;
+
+Que a 31 de octubre de 2013 se recibieron 920 observaciones así: 697 observaciones en 75 comunicaciones enviadas por 48 participantes y 223 observaciones presenciales de 137 participantes;
+
+Que del total de observaciones recibidas el 24% corresponden a temas generales de la resolución, representando un 24% de las observaciones escritas, y un 32% de las observaciones presenciales, para un total de 220 observaciones;
+
+Que las observaciones generales corresponden a temas como: solicitudes de ampliación de plazo, reuniones y/o audiencias, respuesta a observaciones de la Resolución CRA [485](resolucion_cra_0485_2009.htm#Inicio) de 2009, vigilancia al comportamiento de los prestadores, mediciones de impacto y estudios socioeconómicos que acompañen la propuesta, mínimo vital, metodología para pequeños prestadores, entre otros;
+
+Que con respecto a los componentes tarifarios, de las 920 inquietudes recibidas, el 19% corresponden al Costo Medio de Inversión con 175 observaciones, seguidas por las relacionadas con el Costo Medio de Administración y el Costo Medio de Operación con 158 observaciones que corresponden al 17%, mientras que sobre los estándares de servicio y eficiencia se recibieron 109 observaciones, que representan el 12% del total de las inquietudes;
+
+Que las 175 observaciones escritas y presenciales correspondientes al Costo Medio de Inversión, se clasificaron en 23 ejes temáticos. La mayoría de observaciones estaban relacionadas con la autodeclaración de inversiones de la Resolución CRA [287](resolucion_cra_0287_2004.htm#Inicio) de 2004;
+
+Que las 158 observaciones escritas y presenciales correspondientes al Costo Medio de Administración y el Costo Medio de Operación, se clasificaron en 14 ejes temáticos. La mayoría de observaciones estaban relacionadas con el reconocimiento de los costos laborales;
+
+Que las 109 observaciones escritas y presenciales relacionadas con los estándares de servicio y eficiencia, se clasificaron en 10 ejes temáticos. La mayoría de observaciones estaban relacionadas con la meta de cobertura;
+
+Que el total de las observaciones recibidas y clasificadas en ejes temáticos, se consideraron, se analizaron y la Comisión determinó su procedencia en la elaboración de la presente resolución;
+
+Que el artículo [7](ley_1340_2009.htm#7)o de la Ley 1340 de 2009 señala: “Además de las disposiciones consagradas en el artículo [2](decreto_2153_1992.htm#2)o del Decreto 2153 de 1992, la Superintendencia de Industria y Comercio podrá rendir concepto previo sobre los proyectos de regulación estatal que puedan tener incidencia sobre la libre competencia en los mercados. Para estos efectos las autoridades de regulación informarán a la Superintendencia de Industria y Comercio de los actos administrativos que se pretendan expedir. El concepto emitido por la Superintendencia de Industria y Comercio en este sentido no será vinculante. Sin embargo, si la autoridad respectiva se apartara de dicho concepto, la misma deberá manifestar de manera expresa dentro de las consideraciones de la decisión los motivos por los cuales se aparta”.
+
+Que en virtud de lo anterior, la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA), remitió a la Superintendencia de Industria y Comercio (SIC) las Resoluciones CRA [632](resolucion_cra_0632_2013.htm#Inicio) de 2013, CRA [634](resolucion_cra_0634_2013.htm#Inicio) de 2013 y CRA [646](resolucion_cra_0646_2013.htm#Inicio) de 2013, contentivas del Proyecto del Nuevo Marco Tarifario de Acueducto y Alcantarillado para Grandes Prestadores, así como la matriz en formato Excel, mediante la cual se recopilaron en ejes temáticos, las 920 observaciones recibidas en el proceso de participación ciudadana surtido para las resoluciones precitadas, y
+
+Que por medio de radicado 20143210022302 de 21 de mayo de 2014, la Superintendencia de Industria y Comercio (SIC) rindió el correspondiente concepto de abogacía de la competencia;
+
+Que por lo expuesto, la Comisión de Regulación de Agua Potable y Saneamiento Básico,
+
+RESUELVE
+
+TÍTULO I.
+
+ASPECTOS GENERALES.
+
+ARTÍCULO 1o. ÁMBITO DE APLICACIÓN. <Artículo integrado y unificado en el artículo [2.1.2.1.1.1](resolucion_cra_0943_2021.htm#2.1.2.1.1.1) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> <Artículo modificado por el artículo [1](resolucion_cra_0735_2015.htm#1) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Esta resolución aplica a todas las personas prestadoras de los servicios públicos domiciliarios de acueducto y alcantarillado que a 31 de diciembre de 2013 cumplan alguna de las siguientes condiciones en las Áreas de Prestación del Servicio (APS) que atienden: contar con más de 5.000 suscriptores en el área urbana de un municipio; con más de 5.000 suscriptores en el área urbana de más de un municipio mediante un mismo sistema interconectado; o con más de 5.000 suscriptores en el área urbana y rural de uno o más municipios mediante un mismo sistema interconectado, en los cuales más del 50% de sus suscriptores sean urbanos.
+
+Lo anterior, salvo las excepciones contenidas en la ley, particularmente las señaladas en el parágrafo 1 del artículo [87](ley_0142_1994.htm#87) de la Ley 142 de 1994. En todo caso, cuando en los contratos suscritos por las personas prestadoras de los servicios públicos domiciliarios de acueducto y alcantarillado para la prestación de estos servicios, se pacte la sujeción del mismo a la metodología tarifaria que expida la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA), se aplicará la resolución vigente, siempre y cuando las partes del mismo sean prestadores que atiendan un número de suscriptores con las condiciones antes mencionadas.
+
+En los casos que una persona prestadora provea ambos servicios, deberá tener en cuenta aquel en el que tiene un mayor número de suscriptores para definir si se encuentra dentro del ámbito de aplicación de la presente resolución.
+
+PARÁGRAFO. Si una persona prestadora con APS sujetas a lo dispuesto en el presente artículo cuenta con otras APS que no hagan parte de este ámbito de aplicación, podrá aplicar en estas últimas la metodología establecida en la presente resolución teniendo en cuenta lo dispuesto en el parágrafo 3o del artículo [4](resolucion_cra_0688_2014.htm#4)o de la presente resolución.
+
+[Notas de Vigencia](javascript:insRow2\(\))
+
+[Legislación Anterior](javascript:insRow3\(\))
+
+[![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)](#documento_top "Ir al inicio")
+
+ARTÍCULO 2o. OBJETO. <Artículo integrado y unificado en el artículo [2.1.2.1.1.2](resolucion_cra_0943_2021.htm#2.1.2.1.1.2) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> La presente resolución tiene por objeto establecer la metodología tarifaria para las personas prestadoras de los servicios públicos domiciliarios de acueducto y alcantarillado, de acuerdo con su ámbito de aplicación.
+
+[Doctrina Concordante](javascript:insRow4\(\))
+
+[![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)](#documento_top "Ir al inicio")
+
+ARTÍCULO 3. DEFINICIONES. <Artículo integrado y unificado en el artículo [2.1.2.1.1.3](resolucion_cra_0943_2021.htm#2.1.2.1.1.3) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Para la aplicación de la presente resolución se tendrán en cuenta las siguientes definiciones, además de las consignadas en la normativa vigente:
+
+ac/al: <Definición adicionada por el artículo [2](resolucion_cra_0735_2015.htm#2) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Expresión para determinar que la misma fórmula debe ser utilizada tanto para el servicio público domiciliario de acueducto (ac) como para el servicio público domiciliario de alcantarillado (al).
+
+[Notas de Vigencia](javascript:insRow5\(\))
+
+Año base: Es el período de doce (12) meses utilizado por la persona prestadora con el fin de realizar las comparaciones y verificaciones que correspondan para calcular los costos de prestación del servicio.
+
+Año tarifario: <Definición adicionada por el artículo [2](resolucion_cra_0735_2015.htm#2) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Para efectos de las proyecciones y de la aplicación de la metodología establecida en la presente resolución corresponde al periodo comprendido entre el primero (1) de julio y el treinta (30) de junio del año siguiente.
+
+[Notas de Vigencia](javascript:insRow6\(\))
+
+Área de Prestación del Servicio (APS): Corresponde a las áreas geográficas del municipio en las cuales la persona prestadora proporciona los servicios públicos domiciliarios de acueducto y alcantarillado cubiertas por su infraestructura existente, más aquella planificada en su Plan de Obras e Inversiones Regulado (POIR).
+
+[Doctrina Concordante](javascript:insRow7\(\))
+
+Área rural: <Definición adicionada por el artículo [2](resolucion_cra_0735_2015.htm#2) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Para efectos de la presente resolución corresponde al total del área municipal, exceptuando su cabecera.
+
+[Notas de Vigencia](javascript:insRow8\(\))
+
+Área urbana: <Definición adicionada por el artículo [2](resolucion_cra_0735_2015.htm#2) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Para efectos de la presente resolución, corresponde a las cabeceras municipales.
+
+[Notas de Vigencia](javascript:insRow9\(\))
+
+Base de Capital Regulada (BCR): Corresponde al valor de los activos afectos a la prestación del servicio, netos de depreciaciones y bajas.
+
+Consumo Corregido por Pérdidas (CCP): Es el volumen de agua suministrada ajustado por el volumen de pérdidas permitidas para cada uno de los años de proyección, medido en metros cúbicos (m3).
+
+Costo económico de referencia: Corresponderá a los costos eficientes de las actividades asociadas a la prestación de los servicios públicos domiciliarios de acueducto y alcantarillado, en concordancia con las metas de servicio y de eficiencia, establecidos en el Título IV de la presente resolución.
+
+Costos de prestación unificados: <Definición adicionada por el artículo [2](resolucion_cra_0735_2015.htm#2) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Corresponden a los costos totales de prestación de varias APS atendidas por un mismo prestador mediante un sistema interconectado. Los costos de prestación unificados serán calculados para todos los componentes de la fórmula tarifaria, es decir, se deberá unificar los costos de administración, operación, inversión y de tasas ambientales del sistema interconectado.
+
+[Notas de Vigencia](javascript:insRow10\(\))
+
+[Doctrina Concordante](javascript:insRow11\(\))
+
+Costos Unitarios Particulares (CUP): Representa el costo por metro cúbico correspondiente a insumos químicos, energía eléctrica y la parte correspondiente de contratos de suministro de agua potable, en caso de existir, para el servicio público domiciliario de acueducto; así como a energía eléctrica y tratamiento de aguas residuales para el servicio público domiciliario de alcantarillado, medido en pesos por metro cúbico ($/m3).
+
+Fórmula tarifaria general: Expresión que permite a las personas prestadoras de los servicios públicos domiciliarios de acueducto y alcantarillado calcular los costos económicos de la prestación de estos servicios.
+
+Índice de Consumo de Agua Facturada por Suscriptor (ICUF): Representa el volumen de agua facturada por suscriptor, medido en m3/suscriptor/mes.
+
+Índice de Pérdidas por Suscriptor Facturado (IPUF): Representa el volumen de pérdidas de agua por suscriptor, medido en metros cúbicos por suscriptor al mes (m3/suscriptor/mes).
+
+Índice de Agua Suministrada por Suscriptor Facturado (ISUF): Representa el volumen de agua suministrada por suscriptor, medido en metros cúbicos por suscriptor al mes (m3/suscriptor/mes). Para un mismo período, es el resultado de la suma de los indicadores IPUF e ICUF.
+
+Indicador de Calidad del Agua Potable (ICAP): Refleja si el agua suministrada por la persona prestadora durante un período de seis (6) meses es apta para el consumo humano, con base en el promedio de los valores mensuales del Índice de Riesgo de la Calidad del Agua (IRCA).
+
+Indicador de Continuidad (ICON): Refleja la continuidad en la prestación del servicio público domiciliario de acueducto, con base en los días de suspensión del servicio durante un período de seis (6) meses.
+
+Indicador de Reclamos Comerciales (IQR): Evalúa el comportamiento de una empresa prestadora del servicio público domiciliario de acueducto, en relación con los reclamos comerciales por facturación, resueltos a favor del suscriptor en segunda instancia durante un período de evaluación de seis (6) meses.
+
+Nivel Económico de Pérdidas (NEP): Representa el volumen de pérdidas por suscriptor (IPUF) que se obtiene con la ejecución de todos los programas de reducción de pérdidas con una relación beneficio/costo mayor a uno (1).
+
+Período de análisis: El periodo de análisis de las proyecciones será de diez (10) años.
+
+Período de ejecución de inversiones de la Resolución CRA número 287 de 2004: <Definición adicionada por el artículo [2](resolucion_cra_0735_2015.htm#2) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Período comprendido entre el primer año fijado en el VPIRER de la persona prestadora y el 30 de junio de 2016, para la ejecución del VPIRER.
+
+[Notas de Vigencia](javascript:insRow12\(\))
+
+Plan de Calidad: Está conformado por el conjunto de metas de calidad del agua definido en el grupo de proyectos del POIR para la dimensión de calidad del agua. Para el servicio público domiciliario de alcantarillado corresponde a las metas de cumplimiento del Plan de Saneamiento y Manejo de Vertimientos (PSMV) a cargo de la persona prestadora y definidos en el POIR.
+
+[Doctrina Concordante](javascript:insRow13\(\))
+
+Plan de Cobertura: Está conformado por el conjunto de metas de cobertura del servicio en el APS, alcanzado por el grupo de proyectos definidos en el POIR para la dimensión de cobertura.
+
+[Doctrina Concordante](javascript:insRow14\(\))
+
+Plan de Continuidad: Está conformado por el conjunto de metas de continuidad del servicio, alcanzado por el grupo de proyectos definidos en el POIR para la dimensión de continuidad.
+
+[Doctrina Concordante](javascript:insRow15\(\))
+
+Plan de Obras e Inversiones Regulado (POIR): Conjunto de proyectos que la persona prestadora considera necesario llevar a cabo, para cumplir con las metas frente a los estándares del servicio exigidos durante el período de análisis.
+
+[Doctrina Concordante](javascript:insRow16\(\))
+
+Plan de Reducción de Pérdidas: Es el conjunto de actividades programadas, por parte de las personas prestadoras del servicio público domiciliario de acueducto, para la reducción de las pérdidas técnicas y comerciales, que tienen por objeto alcanzar el estándar de eficiencia.
+
+[Concordancias](javascript:insRow17\(\))
+
+Sistema interconectado: <Definición adicionada por el artículo [2](resolucion_cra_0735_2015.htm#2) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Para efectos de la presente resolución, corresponde a la infraestructura de acueducto y/o alcantarillado, de un mismo prestador, que se encuentra físicamente conectada entre sí para la prestación de estos servicios en un conjunto de municipios, es decir, dos (2) o más municipios.
+
+[Notas de Vigencia](javascript:insRow18\(\))
+
+Sistemas Urbanos de Drenaje Sostenible (SUDS): son aquellos sistemas que se utilizan en las ciudades para recolectar, reducir y transportar controladamente los flujos de escorrentía.
+
+[Doctrina Concordante](javascript:insRow19\(\))
+
+[![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)](#documento_top "Ir al inicio")
+
+ARTÍCULO 4o. SEGMENTACIÓN. <Artículo integrado y unificado en el artículo [2.1.2.1.1.4](resolucion_cra_0943_2021.htm#2.1.2.1.1.4) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> <Artículo modificado por el artículo [3](resolucion_cra_0735_2015.htm#3) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Para efectos de la aplicación de lo establecido en la presente resolución, la persona prestadora deberá identificar a que segmento pertenece cada una de las APS que atiende, teniendo en cuenta lo siguiente:
+
+Primer segmento. Se aplicará la metodología establecida para el primer segmento en:
+
+\-- Las APS con más de 100.000 suscriptores en el área urbana.
+
+\-- Las APS atendidas mediante un mismo sistema interconectado y que en conjunto sumen más de 100.000 suscriptores.
+
+\-- Las APS que atiendan más del 10% de los suscriptores del área urbana de las siguientes ciudades capitales: Armenia, Manizales, Montería, Neiva, Pasto, Popayán, Santa Marta, Sincelejo, Tunja, Valledupar y Villavicencio. Si alguna persona prestadora atiende estas APS y adicionalmente atiende otras APS con el mismo sistema interconectado, estas últimas también pertenecerán al primer segmento.
+
+Segundo segmento. Se aplicará la metodología establecida para el segundo segmento en las siguientes APS, con excepción de las ya incluidas en el primer segmento:
+
+\-- Las APS que tengan entre 5.001 y 100.000 suscriptores en el área urbana.
+
+\-- Las APS que tengan entre 5.001 y 100.000 suscriptores en el área urbana y rural, en las cuales más del 50% de sus suscriptores pertenecen al área urbana.
+
+\-- Las APS atendidas mediante un mismo sistema interconectado y que en conjunto sumen entre 5.001 y 100.000 suscriptores en el área urbana.
+
+\-- Las APS atendidas mediante un mismo sistema interconectado y que en conjunto sumen entre 5.001 y 100.000 suscriptores en el área urbana y rural, en las cuales más del 50% de sus suscriptores sean urbanos.
+
+PARÁGRAFO 1o. Las personas prestadoras con APS del segundo segmento podrán aplicar en estas la metodología correspondiente al primer segmento, para ello deberán tener en cuenta lo establecido en el parágrafo 3o del artículo 104 de la presente resolución. Una vez la persona prestadora informe que elige esta opción no podrá, en ningún caso, aplicar la metodología para el segundo segmento.
+
+PARÁGRAFO 2o. En aquellos casos en que con un mismo sistema la persona prestadora atienda suscriptores del área urbana y del área rural, deberá agregarlos para determinar el segmento que le corresponde.
+
+PARÁGRAFO 3o. Las personas prestadoras que opten por lo establecido en el parágrafo del artículo 1o de la presente resolución, deberán hacerlo utilizando en las APS que no hagan parte de este ámbito de aplicación, la metodología de cualquiera de los dos segmentos, teniendo en cuenta lo establecido en el parágrafo 4o del artículo [104](resolucion_cra_0688_2014.htm#104) de la presente resolución. Una vez la persona prestadora informe que elige esta opción no podrá, en ningún caso, aplicar la metodología que le correspondía inicialmente.
+
+[Notas de Vigencia](javascript:insRow20\(\))
+
+[Legislación Anterior](javascript:insRow21\(\))
+
+[![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)](#documento_top "Ir al inicio")
+
+ARTÍCULO 5o. AÑO BASE. <Artículo integrado y unificado en el artículo [2.1.2.1.1.5](resolucion_cra_0943_2021.htm#2.1.2.1.1.5) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015>
+
+<Inciso modificado por el artículo [4](resolucion_cra_0735_2015.htm#4) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Para efectos de la presente resolución, se considerará como año base el 2014. Las personas prestadoras deberán expresar los costos de referencia en pesos de diciembre de dicho año.
+
+[Notas de Vigencia](javascript:insRow22\(\))
+
+[Legislación Anterior](javascript:insRow23\(\))
+
+PARÁGRAFO 1o. Las personas prestadoras que tengan menos de un año de operación, podrán establecer los costos del año base estimando los costos del servicio con la información correspondiente al tiempo durante el cual hayan operado y teniendo en cuenta el cumplimiento de estándares de eficiencia y de servicio.
+
+PARÁGRAFO 2o. <Parágrafo modificado por el artículo [4](resolucion_cra_0735_2015.htm#4) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> En aquellos casos en que por la entrada en operación de un prestador, no existiera información para el año base, éste deberá aplicar de forma integral la metodología establecida en la presente resolución, teniendo en cuenta que el año base se entenderá como el año anterior de aplicación de la metodología tarifaria a partir del cual inicia la proyección de sus costos. En todo caso, deberá expresar los costos de referencia en pesos de diciembre de 2014.
+
+[Notas de Vigencia](javascript:insRow24\(\))
+
+[Concordancias](javascript:insRow25\(\))
+
+[Legislación Anterior](javascript:insRow26\(\))
+
+PARÁGRAFO 3o. En caso que un nuevo prestador entre a sustituir a un prestador anterior utilizando la misma infraestructura, deberá continuar con los mismos costos de referencia aprobados por la entidad tarifaria local, teniendo en cuenta la información relacionada con el cumplimiento de las metas y estándares de eficiencia a alcanzar en este período tarifario. Si la persona prestadora lo considera necesario, para efectos de garantizar la aplicación de los criterios señalados en el artículo [87](ley_0142_1994.htm#87) de la Ley 142 de 1994, podrá realizar un nuevo estudio de costos.
+
+[Concordancias](javascript:insRow27\(\))
+
+PARÁGRAFO 4o. <Parágrafo modificado por el artículo [4](resolucion_cra_0735_2015.htm#4) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Para expresar los costos administrativos y operativos del año 2013 en pesos de diciembre 2014, se tomarán los costos registrados en los estados financieros y se les aplicará un factor de 1,0387. Para expresar los costos administrativos y operativos del año 2014 en pesos de diciembre de 2014 se aplicará un factor de 1,0106.
+
+[Notas de Vigencia](javascript:insRow28\(\))
+
+[Legislación Anterior](javascript:insRow29\(\))
+
+PARÁGRAFO 5o. <Parágrafo modificado por el artículo [4](resolucion_cra_0735_2015.htm#4) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Para efectos de la aplicación de la presente resolución, se entiende como año 0 el año 2014. Para efectos del cálculo de los costos eficientes estándar del primer segmento, el valor base corresponde al promedio del año 2013 y del año 2014. El valor de la Base de Capital Regulada del Año Base corresponderá al saldo al 30 de junio de 2016, expresándola en pesos de diciembre de 2014
+
+[Notas de Vigencia](javascript:insRow30\(\))
+
+[Doctrina Concordante](javascript:insRow31\(\))
+
+[Legislación Anterior](javascript:insRow32\(\))
+
+ARTÍCULO 6o. PERIODO PREVIO A LA APLICACIÓN DEL MARCO TARIFARIO. <Artículo integrado y unificado en el artículo [2.1.2.1.1.6](resolucion_cra_0943_2021.htm#2.1.2.1.1.6) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> <Artículo modificado por el artículo [5](resolucion_cra_0735_2015.htm#5) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> El año 2015 y el primer semestre del año 2016, se consideran el periodo para realizar los estudios y acciones previas para la aplicación de la metodología tarifaria contenida en la presente resolución.
+
+Las metas para los estándares de servicio y de eficiencia establecidos en el artículo [9](resolucion_cra_0688_2014.htm#9)o de la presente resolución deberán definirse a partir del mes de julio del año 2016, e incluirán el avance logrado en el cumplimiento de las mismas hasta el mes de junio del 2016.
+
+Para efectos de la proyección de que trata la presente resolución, se entenderá que cada año i corresponde a cada año tarifario.
+
+[Notas de Vigencia](javascript:insRow33\(\))
+
+[Legislación Anterior](javascript:insRow34\(\))
+
+[![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)](#documento_top "Ir al inicio")
+
+ARTÍCULO 7o. ÁREA DE PRESTACIÓN DEL SERVICIO (APS). <Artículo integrado y unificado en el artículo [2.1.2.1.1.7](resolucion_cra_0943_2021.htm#2.1.2.1.1.7) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015>
+
+<Inciso modificado por el artículo [6](resolucion_cra_0735_2015.htm#6) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Las personas prestadoras deberán definir un Área de Prestación del Servicio (APS) en cada uno de los municipios que atiende, en concordancia con los Planes de Ordenamiento Territorial (POT) y con los Planes Maestros de Acueducto y Alcantarillado, y reportarla al municipio respectivo. En los casos en que la persona prestadora atienda más de un municipio, independiente de si lo hace mediante sistemas interconectados o no, definirá un APS por cada municipio. Dicha definición consistirá en la presentación de un mapa geo-referenciado en formato shape, el cual deberá presentarse en el sistema de referencia Magna-Sirgas o el sistema de coordenadas oficial que se encuentre vigente, delimitando exactamente el área en la cual cada persona prestadora prestará los servicios públicos domiciliarios de acueducto y alcantarillado, y dentro de la cual se compromete a cumplir los estándares de servicio establecidos en la presente resolución, así como a dar cumplimiento al Decreto número [1077](decreto_1077_2015.htm#inicio) del 26 de mayo de 2015, siempre que se den las condiciones previstas en el mismo, o la norma que lo modifique, adicione, sustituya o derogue.
+
+[Notas de Vigencia](javascript:insRow35\(\))
+
+[Concordancias](javascript:insRow36\(\))
+
+[Doctrina Concordante](javascript:insRow37\(\))
+
+[Legislación Anterior](javascript:insRow38\(\))
+
+PARÁGRAFO 1o. El APS que definan las personas prestadoras en ningún caso podrá ser menor al área en la que presta los servicios antes de la aplicación de la presente resolución.
+
+PARÁGRAFO 2o. Es responsabilidad del municipio garantizar la prestación de los servicios públicos domiciliarios de acueducto y alcantarillado en aquellas áreas que no sean reportadas como APS por ningún prestador.
+
+PARÁGRAFO 3. <Parágrafo modificado por el artículo [6](resolucion_cra_0735_2015.htm#6) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Las personas prestadoras deberán articular el POIR y la infraestructura existente con las decisiones de uso de suelo contenidas en los planes de ordenamiento territorial y los instrumentos que los desarrollen y complementen.
+
+[Notas de Vigencia](javascript:insRow39\(\))
+
+[Legislación Anterior](javascript:insRow40\(\))
+
+PARÁGRAFO 4. <Parágrafo adicionado por el artículo [6](resolucion_cra_0735_2015.htm#6) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Las personas prestadoras deberán calcular los costos de referencia de que trata la presente resolución para cada APS, salvo en aquellos eventos en que con un mismo sistema interconectado atienda varias APS, en cuyo caso podrá calcular los costos de prestación unificados para dicho sistema teniendo en cuenta que: el número de suscriptores, el ICTA, el ITO, la determinación de las metas para los estándares de servicio y el Plan de Obras e Inversiones Regulado (POIR), deberán proyectarse por APS.
+
+[Notas de Vigencia](javascript:insRow41\(\))
+
+PARÁGRAFO 5. <Parágrafo modificado por el artículo [9](resolucion_cra_0864_2018.htm#9) de la Resolución 864 de 2018. El nuevo texto es el siguiente:> En el caso en el que se genere una variación menor o igual al 10% del valor presente del POIR del APS definido para el cálculo de las tarifas, como efecto de una modificación en las normas urbanísticas o de lo establecido en el Decreto [1077](decreto_1077_2015.htm#Inicio) de 2015 o aquel que lo modifique, adicione, sustituya o derogue, este podrá ser ajustado por la persona prestadora. Para tal efecto, deberá cumplir con las disposiciones contenidas en la sección 5.1.1. de la Resolución CRA [151](resolucion_cra_0151_2001.htm#Inicio) de 2001, o la norma que la modifique, adicione, sustituya o derogue, para el reporte de las variaciones tarifarias, y así mismo deberá remitir a la Superintendencia de Servicios Públicos Domiciliarios los soportes que hayan generado tal variación.
+
+[Notas de Vigencia](javascript:insRow42\(\))
+
+[Concordancias](javascript:insRow43\(\))
+
+[Legislación Anterior](javascript:insRow44\(\))
+
+PARÁGRAFO 6. <Parágrafo adicionado por el artículo [6](resolucion_cra_0735_2015.htm#6) de la Resolución 735 de 2015. El nuevo texto es el siguiente:> Las personas prestadoras podrán definir APS diferentes para cada servicio únicamente en estos casos: cuando la empresa sólo preste uno de los dos servicios públicos domiciliarios, o cuando atienda suscriptores del servicio público domiciliario de alcantarillado que no sean suscriptores del servicio de acueducto porque disponen de fuentes alternas de abastecimiento, o cuando atienda suscriptores del servicio público domiciliario de acueducto pero estos dispongan de soluciones particulares de vertimientos que cumplan con los criterios ambientales establecidos por las autoridades competentes.
+
+[Notas de Vigencia](javascript:insRow45\(\))
+
+[![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)](#documento_top "Ir al inicio")
+
+ARTÍCULO 8o. IDENTIFICACIÓN DE VIVIENDAS SIN SERVICIO. <Artículo integrado y unificado en el artículo [2.1.2.1.1.8](resolucion_cra_0943_2021.htm#2.1.2.1.1.8) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> La persona prestadora deberá identificar, en el año base, las viviendas sin servicio en su APS.
+
+[![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)](#documento_top "Ir al inicio")
+
+ARTÍCULO 9o. DETERMINACIÓN DE LAS METAS PARA LOS ESTÁNDARES DE SERVICIO Y LOS ESTÁNDARES DE EFICIENCIA. <Artículo integrado y unificado en el artículo [2.1.2.1.1.9](resolucion_cra_0943_2021.htm#2.1.2.1.1.9) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Para efectos de calcular las proyecciones que permiten determinar los costos de prestación, las personas prestadoras deberán establecer metas anuales para reducir la diferencia entre el valor del año base y el estándar de servicio, con la gradualidad exigida, dentro de su APS:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Estándar de Servicio | Servicio público domiciliario de Acueducto | Servicio público domiciliario de Alcantarillado | Meta y Gradualidad (a partir de la entrada en vigencia de la presente resolución) |
+| Cobertura | Primer segmento 100% | Primer segmento 100% | El 100% de la diferencia debe lograrse en 5 años, y gradualidad según la ejecución programada para el POIR. |
+| Segundo segmento 100% | Segundo segmento 100% | El 70% de la diferencia debe lograrse en 5 años y el 100% de la diferencia en el año 7, y gradualidad según la ejecución programada para el POIR. |
+| Continuidad | Primer segmento  <br>  <br>\>= 98,36% | Primer segmento  <br>  <br>\>= 98,36% para el alcantarillado sanitario | El 100% de la diferencia debe lograrse en 5 años, y gradualidad según la ejecución programada para el POIR. |
+| Segundo segmento  <br>  <br>\>= 98,36% | Segundo segmento  <br>  <br>\>= 98,36% para el alcantarillado sanitario | El 70% de la diferencia debe lograrse en 5 años y el 100% de la diferencia en el año 7, y gradualidad según la ejecución programada para el POIR. |
+| Calidad | IRCA<=5% | 100% del cumplimiento de las obras a cargo del prestador estipuladas en el Plan de Saneamiento y Manejo de Vertimientos (PSMV) | Para el servicio de acueducto la meta será el 100% desde la entrada en vigencia de la presente resolución. Para el servicio de alcantarillado el 100% de la meta debe lograrse en 5 años. La gradualidad según la ejecución programada para el POIR. |
+| Estándar de Servicio | Servicio público domiciliario de Acueducto | Servicio público domiciliario de Alcantarillado | Meta y Gradualidad (a partir de la entrada en vigencia de la presente resolución) |
+| Reclamos comerciales (reclamos/1.000 suscriptores/por período de tiempo analizado). | <=4 reclamaciones comerciales por facturación resueltas a favor del suscriptor en segunda instancia por cada 1.000 suscriptores por año o <=2 reclamaciones comerciales por facturación resueltas a favor del suscriptor en segunda instancia por cada 1.000 suscriptores por semestre. | El 100% de la meta debe lograrse en 5 años, y gradualidad según avance programado por la persona prestadora. |
+
+En la determinación de las proyecciones para calcular los costos de prestación, las personas prestadoras de los servicios públicos domiciliarios de acueducto y alcantarillado, en el á
+
+(Content truncated. Fetch a more specific URL or section for the full text.)

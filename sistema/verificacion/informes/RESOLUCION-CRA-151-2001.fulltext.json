@@ -1,0 +1,221 @@
+{
+ "corpus": "RESOLUCION-CRA-151-2001.md",
+ "fuente": "/tmp/151_full.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 48,
+ "resultados": [
+  {
+   "articulo": "2o",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "1.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "1.2",
+   "estado": "divergente",
+   "similitud": 0.2072,
+   "corpus": "ARTÍCULO 1.2.1.1 DEFINICIONES. Artículo integrado y unificado en el artículo 1.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
+   "fuente": "ARTÍCULO 1.2.1.1 DEFINICIONES. Artículo integrado y unificado en el artículo 1.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
+   "diff": {
+    "corpus": "...tos de Conexión y por los Cargos por Expansión del Sistema. sección transversal es conocida y, de esta forma, establece ...",
+    "fuente": "...tos de Conexión y por los Cargos por Expansión del Sistema. Bienes aportados bajo condición a personas prestadoras de servicios públicos. Son los aportes que se realizan a las personas prestadoras de servicios públicos (y los derechos que dichos aportes confieren sobre el resto del patrimonio), con la condición de que los rendimientos que normalmente habrían producido, no se incluyan en el cálculo de las tarifas que se hayan de cobrar a los usuarios subsidiables en sus consumos básicos. Botadero. Definición derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha Cargo fijo. Es el Valor unitario por suscriptor o usuario, que refleja los costos económicos involucrados en garantizar la disponibilidad permanente del servicio, independientemente del nivel de uso. Cargos por Expansión del Sistema (CES). Son los cobros que la persona prestadora realiza cuando por razones de suficiencia financiera, sea necesario acelerar la recuperación de las inversiones en infraestructura. Cargo por unidad de consumo. Es el valor unitario por metro cúbico que refleja siempre tanto el nivel y la estructura de los costos económicos, como la demanda por el servicio. Catastro de usuarios. Es el listado de la respectiva persona prestadora, que contiene los usuarios del servicio con sus datos identificadores. Caudal. Es el volumen de agua que pasa por unidad de tiempo. Referido a un medidor, es el Cociente obtenido (no está en la resolución) entre el volumen de agua que circula a través de un medidor de agua y el tiempo que le toma hacerlo. Clase de Medidor. Hace referencia a la clasificación metrológica sobre la calidad del medidor establecida en la Norma Técnica Colombiana NTC 1063-1. Está determinada por los valores correspondientes al caudal mínimo y al caudal de transición. Se denomina por las cuatro primeras letras mayúsculas del abecedario A, B, C, o D, organizadas de menor a mayor calidad siendo clase A la de menor calidad y clase de la mayor calidad. Cobros no autorizados. Es el valor cobrado a los usuarios que incumple la normatividad vigente. Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA. Es una Unidad Administrativa Especial, con independencia administrativa, técnica y patrimonial, adscrita al Ministerio de Ambiente, Vivienda y Desarrollo Territorial, cuya facultad es la de regular los servicios públicos domiciliarios de acueducto, alcantarillado y aseo, mediante la expedición de normas de carácter general o particular, para someter la conducta de las personas que prestan los mencionados servicios a las reglas, principios y deberes establecidos en la ley y los reglamentos. Componente Domiciliario del Servicio Ordinario. Es la parte del servicio ordinario de aseo conformada por las actividades de recolección, transporte, transferencia y disposición final de residuos sólidos. Componente de Barrido y Limpieza del Servicio Ordinario. Es el conjunto de actividades que componen el servicio ordinario de aseo, asociado con las actividades de barrido y limpieza de áreas públicas, con el objeto de dejarlas libres de todo residuo sólido diseminado o acumulado. Componente de tratamiento y disposición final. Es el conjunto de actividades relacionadas con el tratamiento y la disposición final de residuos sólidos, que forma parte del servicio integral de aseo. Consumo Básico. Definición derogada por el artículo 7 de la Resolución 750 de 2016 Consumo Complementario (QC). Definición derogada por el artículo 7 de la Resolución 750 de 2016 Consumo Suntuario (QS). Definición derogada por el artículo 7 de la Resolución 750 de 2016 Costos adicionales de facturación conjunta. Son los que se generan como resultado de la facturación conjunta del proceso periódico de facturación. Estos costos estarán a cargo del solicitante, en caso de ser prestado el servicio de facturación por un tercero, este deberá ofrecer las mismas condiciones económicas y comerciales de la persona prestadora concedente a la persona prestadora solicitante y esta acogerse a ellas. Costos de facturación. Son aquellos en que incurre la persona prestadora del servicio público domiciliario para generar la factura, distribuirla a sus usuarios y hacer el recaudo. Costos de modificación por novedades. Son los derivados de la modificación o actualización de las bases de datos y/o registros en que incurre la persona prestadora concedente por actualizar la información de los usuarios de los servicios de agua potable y saneamiento básico, a petición de la persona prestadora solicitante. Costos de recuperación de cartera. Son los incurridos por la persona prestadora concedente en programas de recuperación de cartera de los que se beneficia directamente la persona prestadora solicitante. Costos de vinculación. Son los que se generan por vincular al sistema de facturación a la persona prestadora de servicios públicos solicitante. Son los necesarios para modificar el sistema de facturación existente de la persona prestadora a la cual se solicita la vinculación. Estos costos sólo se cobrarán por una vez y no podrán incluir valores como primas o derechos de vinculación, entre otros. Costos Directos de Conexión. Son los costos en que incurre la persona prestadora del servicio de acueducto o alcantarillado para conectar un inmueble al sistema o red de distribución existente, por concepto de medidor, materiales, accesorios, mano de obra y demás gastos necesarios. También se consideran como Costos Directos de Conexión los de diseño, interventoría, restauración de vías y del espacio público deteriorado por las obras de conexión, así como los estudios particularmente complejos, en caso de presentarse. En todo caso, sólo se podrán incluir, los costos directos relacionados con la conexión por primera vez de un inmueble o grupo de inmuebles. Costo económico de referencia del servicio. Es el resultante de aplicar los criterios y las metodologías que defina la Comisión de Regulación de Agua Potable y Saneamiento Básico de acuerdo con las disposiciones de la Ley 142 de 1994. Costo Medio de Inversión de Largo Plazo de Acueducto (CMI). Es el precio por metro cúbico ($/m3) que, aplicado a la proyección de demanda en un horizonte de largo plazo, permite reponer el sistema actual, realizar un plan óptimo de inversiones para atender esa demanda y remunerar el capital invertido. Costo Medio de Inversión de Largo Plazo de Alcantarillado (CMI). Es el precio por metro c úbico de agua vertida ($/m3) que, aplicado a la proyección de demanda en un horizonte de largo plazo, permite reponer el sistema actual, realizar un plan óptimo de inversiones para atender esa demanda y remunerar el capital invertido. Costo Medio de Largo Plazo (CMLP). Es la sumatoria del Costo Medio de Inversión de Largo Plazo y el Costo Medio Operacional. Costo Medio de operación, mantenimiento y administración del Componente Domiciliario (CMD). Es el valor mensual por usuario facturado ($/usuario facturado), asociado con los gastos de operación, mantenimiento y administración propios de las actividades que conforman el componente domiciliario del servicio de aseo. Costo Medio de operación, mantenimiento y administración del Componente de Barrido y Limpieza (CMB). Definición derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha Costo Medio de suministro del consumo básico. Es el costo en el que incurre una persona prestadora del servicio para suministrar el consumo básico incluido el cargo fijo. Costo Medio Operacional de Acueducto (CMO). Es el precio por metro cúbico ($/m3) calculado a partir de los gastos de operación, en un año base, asociados con el volumen de demanda de ese año. Costo Medio Operacional de Alcantarillado (CMO). Es el precio por metro cúbico de agua vertida ($/m3) calculado a partir de los gastos de operación, en un año base, asociados con el volumen de vertimiento de ese año. Dato Puntual. Es el registro realizado en una visita por el aforador de la producción de residuos presentados por el usuario, y constituye la base para determinar la producción semanal de residuos sólidos en el procedimiento de aforo. Demanda del servicio de alcantarillado (VPDL). Es el equivalente a la demanda del servicio de acueducto, más el estimativo de la disposición de aguas residuales de aquellos usuarios que posean fuentes alternas o adicionales de abastecimiento de agua que viertan al alcantarillado. La demanda del servicio de acueducto (VPD), deberá ser calculada siguiendo los lineamientos establecidos en el artículo 2.4.2.3 de la presente resolución. Dotación del sistema. Es la cantidad de agua promedio diaria por habitante que suministra el sistema de acueducto, expresada en litros habitante por día. Enterramiento. Definición derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha Entidad tarifaria local. Es la persona natural o jurídica que tiene la facultad de definir las tarifas de los servicios de acueducto, alcantarillado y/o aseo, a cobrar en un municipio para su mercado de usuarios. De acuerdo con lo previsto en el inciso anterior, son entidades tarifarias locales: a) El alcalde municipal, cuando sea el municipio el que preste directamente el servicio, o la Junta a que hace referencia el inciso 6º del artículo 6º de la Ley 142 de 1994; b ) La junta directiva de la persona prestadora, o quien haga sus veces, de conformidad con lo establecido en sus estatutos o reglamentos internos, cuando el responsable de la prestación del servicio sea alguno de los prestadores señalados en el artículo 15 de la Ley 142 de 1994. En ningún caso, el concejo municipal es entidad tarifaria local, y por lo tanto, no puede definir tarifas. Estratos subsidiables. Se consideran subsidiables los usuarios pertenecientes a los estratos 1 y 2. Se podrán asignar subsidios al estrato 3, en caso de cobertura efectiva del servicio mayor al 95% en la localidad para la cual se hace el aporte, a la fecha en la cual este se realiza. Estudios de Factibilidad de Proyectos. Se entiende por Estudios de Factibilidad de Proyectos de Acueducto, Alcantarillado y Aseo, para fines regulatorios de esta Comisión, aquellos que contienen los aspectos económicos, financieros, geológicos, ambientales e hidrológicos, que permiten estimar el valor del proyecto. Para ser considerados en el cálculo de tarifas, los proyectos a nivel de factibilidad deben corresponder a un plan de inversión de costo mínimo. Estudios particularmente complejos. Son todos aquellos estudios necesarios para atender una solicitud de conexión de un inmueble o grupo de inmuebles al servicio que, dadas las razones técnicas, económicas y las características particulares del sitio de ubicación de la conexión, son adicionales a los normalmente realizados por la persona prestadora. Estos estudios deben estar plenamente justificados por la persona prestadora y a disponibilidad de las verificaciones que realice la Superintendencia de Servicios Públicos Domiciliarios, en cumplimiento de sus funciones de inspección, vigilancia y control. Factor de contribución. Es el excedente que paga un usuario o suscriptor sobre el valor del servicio, para un servicio público domiciliario. Factor de Subsidio. Es el descuento que se le hace a un usuario o suscriptor sobre el valor del servicio en el rango de consumo básico, para un servicio público domiciliario. Factura conjunta. Es el documento en que se cobran dos o más servicios, los cuales deben ser cancelados en forma conjunta, salvo en la situación prevista en el parágrafo del artículo 147 de Ley 142 de 1994. Facturación conjunta. Es el conjunto de actividades tendientes a garantizar el recaudo de pagos por la prestación de los servicios de saneamiento básico y, consecuentemente, la continuidad de los mismos. Frecuencia modal de barrido. Es aquella con la cual se presta el servicio de barrido al mayor número de usuarios. Formato de aforo. Es el documento en el cual en cada una de las visitas efectuadas para medición o aforo se registran, entre otros, los siguientes datos: nombre de la persona prestadora, nombre del usuario, fecha en la que se realiza la toma del dato puntual, los tipos de recipientes en los cuales se presentan los residuos, el dato puntual, la conversión en metros cúbicos, nombre y firma del aforador y del usuario o el testigo. Gradualidad. Es el progresivo ajuste en las tarifas, de tal manera que en cada año se avance en el logro del objetivo de alcanzar las tarifas resultantes de la aplicación de las metodologías definidas por la Comisión de Regulación de Agua Potable y Saneamiento Básico. Gran Consumidor no residencial del Servicio de Acueducto. Es todo aquel usuario o suscriptor que durante seis (6) meses continuos supere en consumo los mil (1.000) metros cúbicos mensuales. Para los efectos del artículo 17 del Decreto 302 de 2000, es gran consumidor no residencial del servicio de acueducto. Gran Consumidor no residencial del Servicio de Alcantarillado. Para los efectos del artículo 17 del Decreto 302 de 2000 será gran consumidor del servicio de alcantarillado el suscriptor que se considere como tal en el servicio de acueducto. También se considerará gran consumidor, el usuario con fuentes propias de agua tales como pozos para extracción de aguas subterráneas o abastecimiento propio de aguas superficiales o proveídas por un tercero, cuando por aforo del suministro de estas fuentes se obtengan valores que permitirían considerarlo gran consumidor de acueducto. Sin embargo, si el usuario lo considera pertinente, podrá solicitar el aforo de sus vertimientos y, con base en ese resultado, se determinará el nivel real de estos y su inclusión o no como gran consumidor del servicio de alcantarillado. En consecuencia, será gran consumidor del servicio de alcantarillado todo usuario que vierta a la red ochocientos (800) o más metros cúbicos mensuales. Grave error de cálculo en los costos económicos de referencia. Definición derogada por el artículo 33 de la Resolución 864 de 2018 Grave error de cálculo en la fórmula tarifaria. Definición derogada por el artículo 33 de la Resolución 864 de 2018 Incorporación al sistema de facturación. Consiste en incorporar la información disponible en bases de datos o en cualquier otro medio que permita elaborar la cuenta de cobro del nuevo usuario, la cual deberá expedirse de conformidad con las disposiciones del artículo 1.3.21.2 de la presente resolución. Interrupción en la prestación de los servicios de acueducto, alcantarillado y aseo. Se entiende por interrupción en la prestación de los servicios de acueducto y alcantarillado, la no disponibilidad de los servicios en forma permanente o temporal por un término no menor a veinticuatro ( 24) horas continuas, derivada del incumplimiento del contrato. Por interrupción en el servicio de aseo, la no disponibilidad del servicio en forma permanente, o temporal que implique una reducción en más de un cincuenta por ciento (50%) de la frecuencia semanal de prestación del servicio, derivada del incumplimiento del contrato; y, por reducción en la calidad del agua, cuando por efectos del incumplimiento del contrato, no es posible para la persona prestadora cumplir con los parámetros establecidos en las normas expedidas por las autoridades competentes. Invitación pública. El procedimiento establecido en el artículo 1.3.5.1, acompañado de una invitación hecha por el municipio a través de los medios de divulgación de la Cámara de Comercio más cercana a la entidad, a personas prestadoras de servicios públicos domiciliarios, a municipios, al departamento del cual haga parte, a la Nación o a otras personas públicas o privadas, en el orden establecido en la Ley 142 de 1994, y de una publicación en periódico de amplia circulación en la zona, dirigida a las personas antes enunciadas, constituyen la invitación pública de que trata el artículo 6º de dicha ley. Local desocupado. Es un inmueble destinado al desarrollo de un negocio comercial, industrial o de servicios, en el cual no se está realizando ninguna de estas actividades. Macromedidor. Es un medidor instalado en uno o varios de los diferentes componentes del sistema de acueducto (captación, a la entrada y salida de plantas de tratamiento, estaciones de bombeo, en tanques de almacenamiento, en sectores geográficos estratégicos de un sistema de distribución, entre otros). Medición. Es un conjunto de normas y procedimientos que hacen posible medir, calcular, estandarizar y gestionar el abastecimiento de agua al sistema y el consumo a los usuarios. Medidor chorro único. Es aquel medidor de velocidad que tiene una hélice con cuatro paletas que se accionan gracias a un solo chorro que impacta sobre ellas. Medidor de velocidad. Es aquel dispositivo que tiene una parte móvil llamada hélice y que infiere el caudal de la velocidad con que es movida por el agua. Medidor electromagnético. Es el medidor que utiliza el principio de electromagnetismo, para determinar el caudal con base en el tiempo empleado por la señal para viajar entre los electrodos. El margen de error en todo el rango de consumo debe ser igual o menor al uno por ciento del caudal. Medidor Hélice Woltmann. Es aquel medidor de velocidad cuya hélice está conformada por una gran cantidad de aletas en forma helicoidal que garantizan registrar hasta los pequeños caudales. Medidor Mecánico. Es el medidor que utiliza un dispositivo de medida, ya sea de tipo volumétrico o de tipo inferencial (velocidad) con el cual mide el caudal que pasa y tiene, además, un dispositivo donde acumula o registra dichos caudales. La unión entre los dispositivos se hace a través de una transmisión que puede ser mecánica o magnética. Medidor Ultrasónico de Caudal. Es el medidor que, utilizando el principio de la velocidad del sonido en el medio acuoso, permite establecer la velocidad del agua por el conducto cuya sección transversal es conocida y, de esta forma, establece ..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "14",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "14o",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "1.3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "12",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "5",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "66",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "43",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "1",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "1.13",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "42",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "1.11",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "39",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "113",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "85",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "2.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "139",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "2.4",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "1.8",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "4",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "121",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "2.5",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.6",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "73",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "3.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3.2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3.3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3.4",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4.2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "23",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "4.3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4.4",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.7",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "4.5",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.4",
+   "estado": "divergente",
+   "similitud": 0.1792,
+   "corpus": "ARTÍCULO 5.4.1.1 PROCEDIMIENTO PARA HACER EFECTIVO EL TRATAMIENTO TARIFARIO DEFINIDO EN EL ARTÍCULO 4.2.11.1 Entiéndase derogado por el artículo 23 de la Resolución 233 de 2002.",
+   "fuente": "ARTÍCULO 5.4.1.1 PROCEDIMIENTO PARA HACER EFECTIVO EL TRATAMIENTO TARIFARIO DEFINIDO EN EL ARTÍCULO 4.2.11.1 Entiéndase derogado por el artículo 23 de la Resolución 233 de 2002. La",
+   "diff": {
+    "corpus": "...se derogado por el artículo 23 de la Resolución 233 de 2002....",
+    "fuente": "...se derogado por el artículo 23 de la Resolución 233 de 2002. La persona prestadora del servicio de aseo realiza la facturación normal al usuario, es decir sin considerar el estado de desocupación o deshabitación del inmueble en cuestión. El usuario, o quien éste designe sin necesidad de formalidades para el efecto, presentará ante la persona prestadora del servicio de aseo la factura del servicio de energía o el certificado de la inspección ocular. La persona prestadora del servicio de aseo, una vez verificado el requisito de que trata el Artículo 4.2.11.1 de la presente resolución, deberá tomar en forma inmediata las medidas que permitan al usuario pagar sólo el valor que le corresponde o que se le realicen los reembolsos por los pagos efectuados en exceso. PARÁGRAFO 1. La persona prestadora del servicio de aseo podrá aplicar de oficio la tarifa establecida en el Artículo 4.2.11.1 de la presente resolución. PARÁGRAFO 2. Cuando los períodos facturados por el servicio de energía no correspondan con los del servicio de aseo, se tomará como referencia la factura de energía que cubra el mayor número de días del mes para el cual se solicita la aplicación de la tarifa establecida en el Artículo 4.2.11.1 de esta resolución. PARÁGRAFO 3. No se aplicarán descuentos sobre facturas con más de cinco (5) meses de expedidas. CAPÍTULO 5. PROCEDIMIENTO PARA ATENDER LAS SOLICITUDES DE INFORMACIÓN EFECTUADAS POR LA COMISIÓN DE REGULACIÓN DE AGUA POTABLE Y SANEAMIENTO BÁSICO A LOS PRESTADORES DE LOS SERVICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO, ALCANTARILLADO Y ASEO, DE CONFORMIDAD CON LO ESTABLECIDO EN EL INCISO FINAL DEL ARTÍCULO 73 DE LA LEY 142 DE 1994. SECCIÓN 5.5.1..."
+   }
+  },
+  {
+   "articulo": "5.5",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "6.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "21",
+   "estado": "ausente_en_fuente"
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 22,
+  "casi": 0,
+  "divergentes": 26
+ }
+}

@@ -1,0 +1,1476 @@
+{
+ "corpus": "Resolucion_CRA_0853_2018.md",
+ "fuente": "sistema/verificacion/fuentes/Resolucion_CRA_0853_2018.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 128,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9995,
+   "corpus": "ARTÍCULO 1o. ÁMBITO DE APLICACIÓN. Artículo integrado y unificado en el artículo 5.3.5.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3",
+   "fuente": "ARTÍCULO 1o. ÁMBITO DE APLICACIÓN. Artículo integrado y unificado en el artículo 5.3.5.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La presente resolución aplica a las personas prestadoras del...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La presente resolución aplica a las personas prestadoras del..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.632,
+   "corpus": "ARTÍCULO 2o. OBJETO. Artículo integrado y unificado en el artículo 5.3.5.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del ",
+   "fuente": "ARTÍCULO 2o. OBJETO. Artículo integrado y unificado en el artículo 5.3.5.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Establecer el régimen tarifario y la metodología tarifaria a...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Establecer el régimen tarifario y la metodología tarifaria a..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.3075,
+   "corpus": "ARTÍCULO 5o. DEFINICIONES. Artículo integrado y unificado en el artículo 5.3.5.1.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
+   "fuente": "ARTÍCULO 5o. DEFINICIONES. Artículo integrado y unificado en el artículo 5.3.5.1.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para la aplicación de la presente resolución se tendrán en c...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para la aplicación de la presente resolución se tendrán en c..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "divergente",
+   "similitud": 0.9268,
+   "corpus": "ARTÍCULO 7o. ESQUEMAS DE PRESTACIÓN. Artículo integrado y unificado en el artículo 5.3.5.1.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2",
+   "fuente": "ARTÍCULO 7o. ESQUEMAS DE PRESTACIÓN. Artículo integrado y unificado en el artículo 5.3.5.1.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para efectos de la aplicación de lo establecido en la presen...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efectos de la aplicación de lo establecido en la presen..."
+   }
+  },
+  {
+   "articulo": "10",
+   "estado": "casi",
+   "similitud": 0.996,
+   "corpus": "ARTÍCULO 10. COSTO FIJO TOTAL (CFT). Artículo integrado y unificado en el artículo 5.3.5.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "fuente": "ARTÍCULO 10. COSTO FIJO TOTAL (CFT). Artículo integrado y unificado en el artículo 5.3.5.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo fijo total por suscriptor del APS se define de la s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo fijo total por suscriptor del APS se define de la s..."
+   }
+  },
+  {
+   "articulo": "11",
+   "estado": "divergente",
+   "similitud": 0.8228,
+   "corpus": "ARTÍCULO 11. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.2.1.2 de la Resolución CRA 943 de 2021. De",
+   "fuente": "ARTÍCULO 11. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.2.1.2 de la Resolución CRA 943 de 2021. De",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 1 de la Resolución 892 d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 1 de la Resolución 892 d..."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "divergente",
+   "similitud": 0.8789,
+   "corpus": "ARTÍCULO 15. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.2.2.1 de la Resolución CRA 943 de 2021",
+   "fuente": "ARTÍCULO 15. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.2.2.1 de la Resolución CRA 943 de 2021",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 3 de la Resolución 892 d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 3 de la Resolución 892 d..."
+   }
+  },
+  {
+   "articulo": "17",
+   "estado": "casi",
+   "similitud": 0.9992,
+   "corpus": "ARTÍCULO 17. COSTO DE REFERENCIA PARA LIMPIEZA URBANA POR SUSCRIPTOR (CRLUS). Artículo integrado y unificado en el artículo 5.3.5.2.3.1 de la Resolución CRA 943 de 2021. Debe tener",
+   "fuente": "ARTÍCULO 17. COSTO DE REFERENCIA PARA LIMPIEZA URBANA POR SUSCRIPTOR (CRLUS).Artículo integrado y unificado en el artículo 5.3.5.2.3.1 de la Resolución CRA 943 de 2021. Debe teners",
+   "diff": {
+    "corpus": "...O DE REFERENCIA PARA LIMPIEZA URBANA POR SUSCRIPTOR (CRLUS). Artículo integrado y unificado en el artículo 5.3.5.2.3.1 de...",
+    "fuente": "...O DE REFERENCIA PARA LIMPIEZA URBANA POR SUSCRIPTOR (CRLUS).Artículo integrado y unificado en el artículo 5.3.5.2.3.1 de..."
+   }
+  },
+  {
+   "articulo": "18",
+   "estado": "casi",
+   "similitud": 0.9968,
+   "corpus": "ARTÍCULO 18. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS POR SUSCRIPTOR (CBLS). Artículo integrado y unificado en el artículo 5.3.5.2.4.1 de la Resolución CRA 943 de 2021.",
+   "fuente": "ARTÍCULO 18. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS POR SUSCRIPTOR (CBLS). Artículo integrado y unificado en el artículo 5.3.5.2.4.1 de la Resolución CRA 943 de 2021.",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de barrido y limpieza de vías y áreas públicas mens...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de barrido y limpieza de vías y áreas públicas mens..."
+   }
+  },
+  {
+   "articulo": "19",
+   "estado": "casi",
+   "similitud": 0.9993,
+   "corpus": "ARTÍCULO 19. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.2.4.2 de la Resolución CRA 943 de 2021. Debe tenerse en",
+   "fuente": "ARTÍCULO 19. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.2.4.2 de la Resolución CRA 943 de 2021. Debe tenerse en",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las frecuencias de barrido y limpieza de vías y áreas públic...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las frecuencias de barrido y limpieza de vías y áreas públic..."
+   }
+  },
+  {
+   "articulo": "20",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "ARTÍCULO 20. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.2.4.3 de la Resolución CRA 943 de",
+   "fuente": "ARTÍCULO 20. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.2.4.3 de la Resolución CRA 943 de",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las labores de barrido y limpieza de vías y áreas públicas s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las labores de barrido y limpieza de vías y áreas públicas s..."
+   }
+  },
+  {
+   "articulo": "21",
+   "estado": "casi",
+   "similitud": 0.9897,
+   "corpus": "ARTÍCULO 21. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.2.5.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "fuente": "ARTÍCULO 21. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.2.5.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de recolección y transporte de residuos sólidos ser...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de recolección y transporte de residuos sólidos ser..."
+   }
+  },
+  {
+   "articulo": "23",
+   "estado": "casi",
+   "similitud": 0.998,
+   "corpus": "ARTÍCULO 23. COSTO DE DISPOSICIÓN FINAL TOTAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.2.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuest",
+   "fuente": "ARTÍCULO 23. COSTO DE DISPOSICIÓN FINAL TOTAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.2.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuest",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de disposición final total será el estimado de acue...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de disposición final total será el estimado de acue..."
+   }
+  },
+  {
+   "articulo": "24",
+   "estado": "divergente",
+   "similitud": 0.931,
+   "corpus": "ARTÍCULO 24. PRECIO MÁXIMO DE DISPOSICIÓN FINAL TOTAL (CDFTDd). Artículo integrado y unificado en el artículo 5.3.5.2.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
+   "fuente": "ARTÍCULO 24. PRECIO MÁXIMO DE DISPOSICIÓN FINAL TOTAL (CDFTDd). Artículo integrado y unificado en el artículo 5.3.5.2.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 5 de la Resolución 892 d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 5 de la Resolución 892 d..."
+   }
+  },
+  {
+   "articulo": "29",
+   "estado": "casi",
+   "similitud": 0.9956,
+   "corpus": "ARTÍCULO 29. COSTO DE TRATAMIENTO (CT). Artículo integrado y unificado en el artículo 5.3.5.2.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
+   "fuente": "ARTÍCULO 29. COSTO DE TRATAMIENTO (CT). Artículo integrado y unificado en el artículo 5.3.5.2.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de tratamiento por tonelada será como máximo el val...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de tratamiento por tonelada será como máximo el val..."
+   }
+  },
+  {
+   "articulo": "30",
+   "estado": "casi",
+   "similitud": 0.9924,
+   "corpus": "ARTÍCULO 30. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTABC). Artículo integrado y unificado en el artículo 5.3.5.2.7.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "fuente": "ARTÍCULO 30. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTABC). Artículo integrado y unificado en el artículo 5.3.5.2.7.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "31",
+   "estado": "casi",
+   "similitud": 0.9968,
+   "corpus": "ARTÍCULO 31. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). Artículo integrado y unificado en el artículo 5.3.5.2.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuent",
+   "fuente": "ARTÍCULO 31. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). Artículo integrado y unificado en el artículo 5.3.5.2.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuent",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La remuneración de la actividad de aprovechamiento, se calcu...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La remuneración de la actividad de aprovechamiento, se calcu..."
+   }
+  },
+  {
+   "articulo": "32",
+   "estado": "casi",
+   "similitud": 0.9963,
+   "corpus": "ARTÍCULO 32. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.2.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "fuente": "ARTÍCULO 32. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.2.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para actualizar los costos económicos resultantes de la apli...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para actualizar los costos económicos resultantes de la apli..."
+   }
+  },
+  {
+   "articulo": "33",
+   "estado": "casi",
+   "similitud": 0.9933,
+   "corpus": "ARTÍCULO 33. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.2.10.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "fuente": "ARTÍCULO 33. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.2.10.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para efecto de calcular la tarifa mensual final por suscript...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efecto de calcular la tarifa mensual final por suscript..."
+   }
+  },
+  {
+   "articulo": "34",
+   "estado": "casi",
+   "similitud": 0.9958,
+   "corpus": "ARTÍCULO 34. CÁLCULO DE TONELADAS POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.2.10.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto p",
+   "fuente": "ARTÍCULO 34. CÁLCULO DE TONELADAS POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.2.10.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto p",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las toneladas de residuos sólidos no aprovechables y aprovec...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las toneladas de residuos sólidos no aprovechables y aprovec..."
+   }
+  },
+  {
+   "articulo": "35",
+   "estado": "casi",
+   "similitud": 0.994,
+   "corpus": "ARTÍCULO 35. COSTO FIJO TOTAL (CFT). Artículo integrado y unificado en el artículo 5.3.5.3.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "fuente": "ARTÍCULO 35. COSTO FIJO TOTAL (CFT). Artículo integrado y unificado en el artículo 5.3.5.3.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo fijo total por suscriptor del APS se define de la s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo fijo total por suscriptor del APS se define de la s..."
+   }
+  },
+  {
+   "articulo": "36",
+   "estado": "divergente",
+   "similitud": 0.8226,
+   "corpus": "ARTÍCULO 36. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.3.1.2 de la Resolución CRA 943 de 2021. De",
+   "fuente": "ARTÍCULO 36. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.3.1.2 de la Resolución CRA 943 de 2021. De",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 6 de la Resolución 892 d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 6 de la Resolución 892 d..."
+   }
+  },
+  {
+   "articulo": "40",
+   "estado": "divergente",
+   "similitud": 0.8989,
+   "corpus": "ARTÍCULO 40. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.3.2.1 de la Resolución CRA 943 de 2021",
+   "fuente": "ARTÍCULO 40. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.3.2.1 de la Resolución CRA 943 de 2021",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 8 de la Resolución 892 d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 8 de la Resolución 892 d..."
+   }
+  },
+  {
+   "articulo": "42",
+   "estado": "divergente",
+   "similitud": 0.965,
+   "corpus": "ARTÍCULO 42. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS Y LIMPIEZA URBANA POR SUSCRIPTOR (CBLUS). Artículo integrado y unificado en el artículo 5.3.5.3.3.1 de la Resoluci",
+   "fuente": "ARTÍCULO 42. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS Y LIMPIEZA URBANA POR SUSCRIPTOR (CBLUS). Artículo integrado y unificado en el artículo 5.3.5.3.3.1 de la Resoluci",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 10 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 10 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "44",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "ARTÍCULO 44. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.3.3.3 de la Resolución CRA 943 de",
+   "fuente": "ARTÍCULO 44. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.3.3.3 de la Resolución CRA 943 de",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las labores de barrido y limpieza de vías y áreas públicas s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las labores de barrido y limpieza de vías y áreas públicas s..."
+   }
+  },
+  {
+   "articulo": "45",
+   "estado": "casi",
+   "similitud": 0.9994,
+   "corpus": "ARTÍCULO 45. RESPONSABILIDAD DE LA LIMPIEZA URBANA. Artículo integrado y unificado en el artículo 5.3.5.3.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto ",
+   "fuente": "ARTÍCULO 45. RESPONSABILIDAD DE LA LIMPIEZA URBANA. Artículo integrado y unificado en el artículo 5.3.5.3.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las labores de limpieza urbana son responsabilidad de los pr...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las labores de limpieza urbana son responsabilidad de los pr..."
+   }
+  },
+  {
+   "articulo": "46",
+   "estado": "casi",
+   "similitud": 0.9921,
+   "corpus": "ARTÍCULO 46. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.3.4.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "fuente": "ARTÍCULO 46. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.3.4.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 11 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 11 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "48",
+   "estado": "divergente",
+   "similitud": 0.847,
+   "corpus": "ARTÍCULO 48. COSTO DE DISPOSICIÓN FINAL TOTAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.3.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuest",
+   "fuente": "ARTÍCULO 48. COSTO DE DISPOSICIÓN FINAL TOTAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.3.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuest",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de disposición final total será el estimado de acue...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de disposición final total será el estimado de acue..."
+   }
+  },
+  {
+   "articulo": "52",
+   "estado": "casi",
+   "similitud": 0.9944,
+   "corpus": "ARTÍCULO 52. COSTO DE TRATAMIENTO DE LIXIVIADOS CON APORTE BAJO CONDICIÓN (CTLABCD). Artículo integrado y unificado en el artículo 5.3.5.3.5.5 de la Resolución CRA 943 de 2021. Deb",
+   "fuente": "ARTÍCULO 52. COSTO DE TRATAMIENTO DE LIXIVIADOS CON APORTE BAJO CONDICIÓN (CTLABCD). Artículo integrado y unificado en el artículo 5.3.5.3.5.5 de la Resolución CRA 943 de 2021. Deb",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "53",
+   "estado": "casi",
+   "similitud": 0.9995,
+   "corpus": "ARTÍCULO 53. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.3.5.6 de la Resolución CRA 943 de 2021. Debe tener",
+   "fuente": "ARTÍCULO 53. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.3.5.6 de la Resolución CRA 943 de 2021. Debe tener",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La persona prestadora de la actividad de disposición final d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La persona prestadora de la actividad de disposición final d..."
+   }
+  },
+  {
+   "articulo": "54",
+   "estado": "casi",
+   "similitud": 0.9955,
+   "corpus": "ARTÍCULO 54. COSTO DE TRATAMIENTO (CT). Artículo integrado y unificado en el artículo 5.3.5.3.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
+   "fuente": "ARTÍCULO 54. COSTO DE TRATAMIENTO (CT). Artículo integrado y unificado en el artículo 5.3.5.3.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de tratamiento por tonelada será como máximo el val...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de tratamiento por tonelada será como máximo el val..."
+   }
+  },
+  {
+   "articulo": "55",
+   "estado": "casi",
+   "similitud": 0.9928,
+   "corpus": "ARTÍCULO 55. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTABC). Artículo integrado y unificado en el artículo 5.3.5.3.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "fuente": "ARTÍCULO 55. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTABC). Artículo integrado y unificado en el artículo 5.3.5.3.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "56",
+   "estado": "casi",
+   "similitud": 0.9969,
+   "corpus": "ARTÍCULO 56. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). Artículo integrado y unificado en el artículo 5.3.5.3.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuent",
+   "fuente": "ARTÍCULO 56. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). Artículo integrado y unificado en el artículo 5.3.5.3.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuent",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La remuneración de la actividad de aprovechamiento, se calcu...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La remuneración de la actividad de aprovechamiento, se calcu..."
+   }
+  },
+  {
+   "articulo": "57",
+   "estado": "casi",
+   "similitud": 0.9963,
+   "corpus": "ARTÍCULO 57. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.3.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "fuente": "ARTÍCULO 57. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.3.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para actualizar los costos económicos resultantes de la apli...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para actualizar los costos económicos resultantes de la apli..."
+   }
+  },
+  {
+   "articulo": "58",
+   "estado": "casi",
+   "similitud": 0.9935,
+   "corpus": "ARTÍCULO 58. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.3.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el art",
+   "fuente": "ARTÍCULO 58. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.3.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el art",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para efecto de calcular la tarifa mensual final por suscript...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efecto de calcular la tarifa mensual final por suscript..."
+   }
+  },
+  {
+   "articulo": "59",
+   "estado": "casi",
+   "similitud": 0.996,
+   "corpus": "ARTÍCULO 59. CÁLCULO DE TONELADAS POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.3.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto po",
+   "fuente": "ARTÍCULO 59. CÁLCULO DE TONELADAS POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.3.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto po",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las toneladas de residuos sólidos no aprovechables y aprovec...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las toneladas de residuos sólidos no aprovechables y aprovec..."
+   }
+  },
+  {
+   "articulo": "60",
+   "estado": "casi",
+   "similitud": 0.9943,
+   "corpus": "ARTÍCULO 60. COSTO FIJO TOTAL (CFT). Artículo integrado y unificado en el artículo 5.3.5.4.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "fuente": "ARTÍCULO 60. COSTO FIJO TOTAL (CFT). Artículo integrado y unificado en el artículo 5.3.5.4.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo fijo total por suscriptor en el centro poblado rura...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo fijo total por suscriptor en el centro poblado rura..."
+   }
+  },
+  {
+   "articulo": "61",
+   "estado": "divergente",
+   "similitud": 0.8226,
+   "corpus": "ARTÍCULO 61. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.4.1.2 de la Resolución CRA 943 de 2021. De",
+   "fuente": "ARTÍCULO 61. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.4.1.2 de la Resolución CRA 943 de 2021. De",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 13 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 13 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "65",
+   "estado": "divergente",
+   "similitud": 0.8893,
+   "corpus": "ARTÍCULO 65. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.4.2.1 de la Resolución CRA 943 de 2021",
+   "fuente": "ARTÍCULO 65. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.4.2.1 de la Resolución CRA 943 de 2021",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 15 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 15 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "67",
+   "estado": "casi",
+   "similitud": 0.997,
+   "corpus": "ARTÍCULO 67. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS, MANTENIMIENTO E INSTALACIÓN DE CESTAS POR SUSCRIPTOR (CBICS). Artículo integrado y unificado en el artículo 5.3.5",
+   "fuente": "ARTÍCULO 67. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS, MANTENIMIENTO E INSTALACIÓN DE CESTAS POR SUSCRIPTOR (CBICS). Artículo integrado y unificado en el artículo 5.3.5",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de barrido y limpieza de vías y áreas públicas, man...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de barrido y limpieza de vías y áreas públicas, man..."
+   }
+  },
+  {
+   "articulo": "68",
+   "estado": "casi",
+   "similitud": 0.9994,
+   "corpus": "ARTÍCULO 68. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.4.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en",
+   "fuente": "ARTÍCULO 68. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.4.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las frecuencias de barrido y limpieza de vías y áreas públic...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las frecuencias de barrido y limpieza de vías y áreas públic..."
+   }
+  },
+  {
+   "articulo": "69",
+   "estado": "casi",
+   "similitud": 0.9917,
+   "corpus": "ARTÍCULO 69. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.4.4.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "fuente": "ARTÍCULO 69. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.4.4.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de recolección y transporte de residuos sólidos ser...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de recolección y transporte de residuos sólidos ser..."
+   }
+  },
+  {
+   "articulo": "71",
+   "estado": "casi",
+   "similitud": 0.9984,
+   "corpus": "ARTÍCULO 71. COSTO DE DISPOSICIÓN FINAL TOTAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.4.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuest",
+   "fuente": "ARTÍCULO 71. COSTO DE DISPOSICIÓN FINAL TOTAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.4.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuest",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El Costo de Disposición Final Total será el estimado de acue...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El Costo de Disposición Final Total será el estimado de acue..."
+   }
+  },
+  {
+   "articulo": "72",
+   "estado": "divergente",
+   "similitud": 0.9341,
+   "corpus": "ARTÍCULO 72. PRECIO MÁXIMO DE DISPOSICIÓN FINAL TOTAL (CDFTDD). Artículo integrado y unificado en el artículo 5.3.5.4.5.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
+   "fuente": "ARTÍCULO 72. PRECIO MÁXIMO DE DISPOSICIÓN FINAL TOTAL (CDFTDD). Artículo integrado y unificado en el artículo 5.3.5.4.5.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 17 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 17 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "75",
+   "estado": "casi",
+   "similitud": 0.9947,
+   "corpus": "ARTÍCULO 75. COSTO DE TRATAMIENTO DE LIXIVIADOS CON APORTE BAJO CONDICIÓN (CTLABCD). Artículo integrado y unificado en el artículo 5.3.5.4.5.5 de la Resolución CRA 943 de 2021. Deb",
+   "fuente": "ARTÍCULO 75. COSTO DE TRATAMIENTO DE LIXIVIADOS CON APORTE BAJO CONDICIÓN (CTLABCD). Artículo integrado y unificado en el artículo 5.3.5.4.5.5 de la Resolución CRA 943 de 2021. Deb",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "76",
+   "estado": "casi",
+   "similitud": 0.9983,
+   "corpus": "ARTÍCULO 76. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.4.5.6 de la Resolución CRA 943 de 2021. Debe tener",
+   "fuente": "ARTÍCULO 76. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.4.5.6 de la Resolución CRA 943 de 2021. Debe tener",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La persona prestadora de la actividad de disposición final d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La persona prestadora de la actividad de disposición final d..."
+   }
+  },
+  {
+   "articulo": "77",
+   "estado": "casi",
+   "similitud": 0.9963,
+   "corpus": "ARTÍCULO 77. COSTO DE TRATAMIENTO (CT). Artículo integrado y unificado en el artículo 5.3.5.4.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
+   "fuente": "ARTÍCULO 77. COSTO DE TRATAMIENTO (CT). Artículo integrado y unificado en el artículo 5.3.5.4.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de tratamiento por tonelada será como máximo el val...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de tratamiento por tonelada será como máximo el val..."
+   }
+  },
+  {
+   "articulo": "78",
+   "estado": "casi",
+   "similitud": 0.9924,
+   "corpus": "ARTÍCULO 78. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTABC). Artículo integrado y unificado en el artículo 5.3.5.4.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "fuente": "ARTÍCULO 78. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTABC). Artículo integrado y unificado en el artículo 5.3.5.4.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "79",
+   "estado": "casi",
+   "similitud": 0.9977,
+   "corpus": "ARTÍCULO 79. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). Artículo integrado y unificado en el artículo 5.3.5.4.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuent",
+   "fuente": "ARTÍCULO 79. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). Artículo integrado y unificado en el artículo 5.3.5.4.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuent",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La remuneración de la actividad de aprovechamiento, se calcu...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La remuneración de la actividad de aprovechamiento, se calcu..."
+   }
+  },
+  {
+   "articulo": "80",
+   "estado": "casi",
+   "similitud": 0.9963,
+   "corpus": "ARTÍCULO 80. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.4.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "fuente": "ARTÍCULO 80. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.4.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para actualizar los costos económicos resultantes de la apli...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para actualizar los costos económicos resultantes de la apli..."
+   }
+  },
+  {
+   "articulo": "81",
+   "estado": "casi",
+   "similitud": 0.9932,
+   "corpus": "ARTÍCULO 81. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.4.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el art",
+   "fuente": "ARTÍCULO 81. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.4.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el art",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para efecto de calcular la tarifa mensual final por suscript...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efecto de calcular la tarifa mensual final por suscript..."
+   }
+  },
+  {
+   "articulo": "82",
+   "estado": "casi",
+   "similitud": 0.9958,
+   "corpus": "ARTÍCULO 82. CÁLCULO DE TONELADAS POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.4.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto po",
+   "fuente": "ARTÍCULO 82. CÁLCULO DE TONELADAS POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.4.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto po",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las toneladas de residuos sólidos no aprovechables y aprovec...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las toneladas de residuos sólidos no aprovechables y aprovec..."
+   }
+  },
+  {
+   "articulo": "83",
+   "estado": "casi",
+   "similitud": 0.9963,
+   "corpus": "ARTÍCULO 83. COSTO FIJO TOTAL (CFT). Artículo integrado y unificado en el artículo 5.3.5.5.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "fuente": "ARTÍCULO 83. COSTO FIJO TOTAL (CFT). Artículo integrado y unificado en el artículo 5.3.5.5.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo fijo total por suscriptor del APS se define de la s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo fijo total por suscriptor del APS se define de la s..."
+   }
+  },
+  {
+   "articulo": "84",
+   "estado": "divergente",
+   "similitud": 0.8875,
+   "corpus": "ARTÍCULO 84. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.5.1.2 de la Resolución CRA 943 de 2021. De",
+   "fuente": "ARTÍCULO 84. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.5.1.2 de la Resolución CRA 943 de 2021. De",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 18 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 18 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "86",
+   "estado": "casi",
+   "similitud": 0.9858,
+   "corpus": "ARTÍCULO 86. PROMEDIO PARA LOS CÁLCULOS. Artículo integrado y unificado en el artículo 5.3.5.5.1.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artí",
+   "fuente": "ARTÍCULO 86. PROMEDIO PARA LOS CÁLCULOS. Artículo integrado y unificado en el artículo 5.3.5.5.1.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artí",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 19 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 19 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "88",
+   "estado": "divergente",
+   "similitud": 0.8827,
+   "corpus": "ARTÍCULO 88. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.5.2.1 de la Resolución CRA 943 de 2021",
+   "fuente": "ARTÍCULO 88. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.5.2.1 de la Resolución CRA 943 de 2021",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 20 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 20 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "90",
+   "estado": "casi",
+   "similitud": 0.9992,
+   "corpus": "ARTÍCULO 90. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS Y LIMPIEZA URBANA POR SUSCRIPTOR (CBLUS). Artículo integrado y unificado en el artículo 5.3.5.5.3.1 de la Resoluci",
+   "fuente": "ARTÍCULO 90. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS Y LIMPIEZA URBANA POR SUSCRIPTOR (CBLUS). Artículo integrado y unificado en el artículo 5.3.5.5.3.1 de la Resoluci",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de barrido y limpieza de vías y áreas públicas y li...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de barrido y limpieza de vías y áreas públicas y li..."
+   }
+  },
+  {
+   "articulo": "91",
+   "estado": "casi",
+   "similitud": 0.9993,
+   "corpus": "ARTÍCULO 91. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.5.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en",
+   "fuente": "ARTÍCULO 91. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.5.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las frecuencias de barrido y limpieza de vías y áreas públic...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las frecuencias de barrido y limpieza de vías y áreas públic..."
+   }
+  },
+  {
+   "articulo": "92",
+   "estado": "casi",
+   "similitud": 0.9997,
+   "corpus": "ARTÍCULO 92. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.5.3.3 de la Resolución CRA 943 de",
+   "fuente": "ARTÍCULO 92. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.5.3.3 de la Resolución CRA 943 de",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las labores de barrido y limpieza de vías y áreas públicas s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las labores de barrido y limpieza de vías y áreas públicas s..."
+   }
+  },
+  {
+   "articulo": "93",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "ARTÍCULO 93. RESPONSABILIDAD DE LA LIMPIEZA URBANA. Artículo integrado y unificado en el artículo 5.3.5.5.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto ",
+   "fuente": "ARTÍCULO 93. RESPONSABILIDAD DE LA LIMPIEZA URBANA. Artículo integrado y unificado en el artículo 5.3.5.5.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las labores de limpieza urbana son responsabilidad de los pr...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las labores de limpieza urbana son responsabilidad de los pr..."
+   }
+  },
+  {
+   "articulo": "94",
+   "estado": "casi",
+   "similitud": 0.9984,
+   "corpus": "ARTÍCULO 94. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.5.4.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "fuente": "ARTÍCULO 94. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.5.4.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de recolección y transporte de residuos sólidos ser...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de recolección y transporte de residuos sólidos ser..."
+   }
+  },
+  {
+   "articulo": "95",
+   "estado": "casi",
+   "similitud": 0.9948,
+   "corpus": "ARTÍCULO 95. COSTO DE DISPOSICIÓN FINAL TOTAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.5.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuest",
+   "fuente": "ARTÍCULO 95. COSTO DE DISPOSICIÓN FINAL TOTAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.5.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuest",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de disposición final total será como máximo el valo...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de disposición final total será como máximo el valo..."
+   }
+  },
+  {
+   "articulo": "96",
+   "estado": "casi",
+   "similitud": 0.994,
+   "corpus": "ARTÍCULO 96. COSTO DE DISPOSICIÓN FINAL TOTAL CON APORTE BAJO CONDICIÓN (CDFTABC). Artículo integrado y unificado en el artículo 5.3.5.5.5.2 de la Resolución CRA 943 de 2021. Debe ",
+   "fuente": "ARTÍCULO 96. COSTO DE DISPOSICIÓN FINAL TOTAL CON APORTE BAJO CONDICIÓN (CDFTABC). Artículo integrado y unificado en el artículo 5.3.5.5.5.2 de la Resolución CRA 943 de 2021. Debe ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "97",
+   "estado": "casi",
+   "similitud": 0.9988,
+   "corpus": "ARTÍCULO 97. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.5.5.3 de la Resolución CRA 943 de 2021. Debe tener",
+   "fuente": "ARTÍCULO 97. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.5.5.3 de la Resolución CRA 943 de 2021. Debe tener",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La persona prestadora de la actividad de disposición final d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La persona prestadora de la actividad de disposición final d..."
+   }
+  },
+  {
+   "articulo": "98",
+   "estado": "casi",
+   "similitud": 0.9963,
+   "corpus": "ARTÍCULO 98. COSTO DE TRATAMIENTO (CT). Artículo integrado y unificado en el artículo 5.3.5.5.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
+   "fuente": "ARTÍCULO 98. COSTO DE TRATAMIENTO (CT). Artículo integrado y unificado en el artículo 5.3.5.5.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de tratamiento por tonelada será como máximo el val...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de tratamiento por tonelada será como máximo el val..."
+   }
+  },
+  {
+   "articulo": "99",
+   "estado": "casi",
+   "similitud": 0.9924,
+   "corpus": "ARTÍCULO 99. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTABC). Artículo integrado y unificado en el artículo 5.3.5.5.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "fuente": "ARTÍCULO 99. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTABC). Artículo integrado y unificado en el artículo 5.3.5.5.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "100",
+   "estado": "casi",
+   "similitud": 0.9971,
+   "corpus": "ARTÍCULO 100. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). Artículo integrado y unificado en el artículo 5.3.5.5.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuen",
+   "fuente": "ARTÍCULO 100. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). Artículo integrado y unificado en el artículo 5.3.5.5.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuen",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La remuneración de la actividad de aprovechamiento, se calcu...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La remuneración de la actividad de aprovechamiento, se calcu..."
+   }
+  },
+  {
+   "articulo": "101",
+   "estado": "casi",
+   "similitud": 0.9968,
+   "corpus": "ARTÍCULO 101. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.5.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "fuente": "ARTÍCULO 101. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.5.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para actualizar los costos económicos resultantes de la apli...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para actualizar los costos económicos resultantes de la apli..."
+   }
+  },
+  {
+   "articulo": "102",
+   "estado": "casi",
+   "similitud": 0.993,
+   "corpus": "ARTÍCULO 102. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.5.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "fuente": "ARTÍCULO 102. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.5.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para efecto de calcular la tarifa mensual final por suscript...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efecto de calcular la tarifa mensual final por suscript..."
+   }
+  },
+  {
+   "articulo": "103",
+   "estado": "casi",
+   "similitud": 0.9962,
+   "corpus": "ARTÍCULO 103. CÁLCULO DE TONELADAS POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.5.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto p",
+   "fuente": "ARTÍCULO 103. CÁLCULO DE TONELADAS POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.5.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto p",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las toneladas de residuos sólidos no aprovechables y aprovec...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las toneladas de residuos sólidos no aprovechables y aprovec..."
+   }
+  },
+  {
+   "articulo": "104",
+   "estado": "casi",
+   "similitud": 0.9949,
+   "corpus": "ARTÍCULO 104. COSTO FIJO TOTAL (CFTZ). Artículo integrado y unificado en el artículo 5.3.5.6.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "fuente": "ARTÍCULO 104. COSTO FIJO TOTAL (CFTZ). Artículo integrado y unificado en el artículo 5.3.5.6.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo fijo total por suscriptor del APS se define de la s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo fijo total por suscriptor del APS se define de la s..."
+   }
+  },
+  {
+   "articulo": "105",
+   "estado": "divergente",
+   "similitud": 0.7494,
+   "corpus": "ARTÍCULO 105. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.6.1.2 de la Resolución CRA 943 de 2021. D",
+   "fuente": "ARTÍCULO 105. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.6.1.2 de la Resolución CRA 943 de 2021. D",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 22 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 22 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "109",
+   "estado": "divergente",
+   "similitud": 0.9156,
+   "corpus": "ARTÍCULO 109. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCSZ). Artículo integrado y unificado en el artículo 5.3.5.6.2.1 de la Resolución CRA 943 de 20",
+   "fuente": "ARTÍCULO 109. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCSZ). Artículo integrado y unificado en el artículo 5.3.5.6.2.1 de la Resolución CRA 943 de 20",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 24 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 24 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "111",
+   "estado": "casi",
+   "similitud": 0.9988,
+   "corpus": "ARTÍCULO 111. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS Y LIMPIEZA URBANA POR SUSCRIPTOR (CBLUSZ). Artículo integrado y unificado en el artículo 5.3.5.6.3.1 de la Resolu",
+   "fuente": "ARTÍCULO 111. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS Y LIMPIEZA URBANA POR SUSCRIPTOR (CBLUSZ). Artículo integrado y unificado en el artículo 5.3.5.6.3.1 de la Resolu",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Costo de Barrido y Limpieza de vías y áreas públicas y Limpi...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Costo de Barrido y Limpieza de vías y áreas públicas y Limpi..."
+   }
+  },
+  {
+   "articulo": "112",
+   "estado": "casi",
+   "similitud": 0.9993,
+   "corpus": "ARTÍCULO 112. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.6.3.2 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "fuente": "ARTÍCULO 112. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.6.3.2 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las frecuencias de barrido y limpieza de vías y áreas públic...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las frecuencias de barrido y limpieza de vías y áreas públic..."
+   }
+  },
+  {
+   "articulo": "113",
+   "estado": "casi",
+   "similitud": 0.9992,
+   "corpus": "ARTÍCULO 113. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.6.3.3 de la Resolución CRA 943 d",
+   "fuente": "ARTÍCULO 113. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.6.3.3 de la Resolución CRA 943 d",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las labores de barrido y limpieza de vías y en áreas pública...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las labores de barrido y limpieza de vías y en áreas pública..."
+   }
+  },
+  {
+   "articulo": "114",
+   "estado": "casi",
+   "similitud": 0.9994,
+   "corpus": "ARTÍCULO 114. RESPONSABILIDAD DE LA LIMPIEZA URBANA. Artículo integrado y unificado en el artículo 5.3.5.6.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto",
+   "fuente": "ARTÍCULO 114. RESPONSABILIDAD DE LA LIMPIEZA URBANA. Artículo integrado y unificado en el artículo 5.3.5.6.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las labores de limpieza urbana son responsabilidad de los pr...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las labores de limpieza urbana son responsabilidad de los pr..."
+   }
+  },
+  {
+   "articulo": "115",
+   "estado": "casi",
+   "similitud": 0.9981,
+   "corpus": "ARTÍCULO 115. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.6.4.1 de la Resolución CRA 943 de 2021. Debe tenerse ",
+   "fuente": "ARTÍCULO 115. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.6.4.1 de la Resolución CRA 943 de 2021. Debe tenerse ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de recolección y transporte de residuos sólidos ser...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de recolección y transporte de residuos sólidos ser..."
+   }
+  },
+  {
+   "articulo": "116",
+   "estado": "casi",
+   "similitud": 0.9986,
+   "corpus": "ARTÍCULO 116. COSTO DE DISPOSICIÓN FINAL TOTAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.6.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispues",
+   "fuente": "ARTÍCULO 116. COSTO DE DISPOSICIÓN FINAL TOTAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.6.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispues",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de disposición final total para todas las APS que i...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de disposición final total para todas las APS que i..."
+   }
+  },
+  {
+   "articulo": "117",
+   "estado": "divergente",
+   "similitud": 0.9344,
+   "corpus": "ARTÍCULO 117. PRECIO MÁXIMO DE DISPOSICIÓN FINAL TOTAL (CDFTDD). Artículo integrado y unificado en el artículo 5.3.5.6.5.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta ",
+   "fuente": "ARTÍCULO 117. PRECIO MÁXIMO DE DISPOSICIÓN FINAL TOTAL (CDFTDD). Artículo integrado y unificado en el artículo 5.3.5.6.5.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 26 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 26 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "120",
+   "estado": "casi",
+   "similitud": 0.9938,
+   "corpus": "ARTÍCULO 120. COSTO DE TRATAMIENTO DE LIXIVIADOS CON APORTE BAJO CONDICIÓN (CTLABCD). Artículo integrado y unificado en el artículo 5.3.5.6.5.5 de la Resolución CRA 943 de 2021. De",
+   "fuente": "ARTÍCULO 120. COSTO DE TRATAMIENTO DE LIXIVIADOS CON APORTE BAJO CONDICIÓN (CTLABCD). Artículo integrado y unificado en el artículo 5.3.5.6.5.5 de la Resolución CRA 943 de 2021. De",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "121",
+   "estado": "casi",
+   "similitud": 0.9983,
+   "corpus": "ARTÍCULO 121. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.6.5.6 de la Resolución CRA 943 de 2021. Debe tene",
+   "fuente": "ARTÍCULO 121. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.6.5.6 de la Resolución CRA 943 de 2021. Debe tene",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La persona prestadora de la actividad de disposición final d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La persona prestadora de la actividad de disposición final d..."
+   }
+  },
+  {
+   "articulo": "122",
+   "estado": "casi",
+   "similitud": 0.9959,
+   "corpus": "ARTÍCULO 122. COSTO DE TRATAMIENTO (CT). Artículo integrado y unificado en el artículo 5.3.5.6.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artí",
+   "fuente": "ARTÍCULO 122. COSTO DE TRATAMIENTO (CT). Artículo integrado y unificado en el artículo 5.3.5.6.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artí",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de tratamiento por tonelada para todas las APS que ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de tratamiento por tonelada para todas las APS que ..."
+   }
+  },
+  {
+   "articulo": "123",
+   "estado": "casi",
+   "similitud": 0.9924,
+   "corpus": "ARTÍCULO 123. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTABC). Artículo integrado y unificado en el artículo 5.3.5.6.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cu",
+   "fuente": "ARTÍCULO 123. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTABC). Artículo integrado y unificado en el artículo 5.3.5.6.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cu",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "124",
+   "estado": "casi",
+   "similitud": 0.9972,
+   "corpus": "ARTÍCULO 124. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBAZ). Artículo integrado y unificado en el artículo 5.3.5.6.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "fuente": "ARTÍCULO 124. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBAZ). Artículo integrado y unificado en el artículo 5.3.5.6.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La remuneración de la actividad de aprovechamiento por suscr...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La remuneración de la actividad de aprovechamiento por suscr..."
+   }
+  },
+  {
+   "articulo": "125",
+   "estado": "casi",
+   "similitud": 0.9963,
+   "corpus": "ARTÍCULO 125. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.6.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "fuente": "ARTÍCULO 125. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.6.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para actualizar los costos económicos resultantes de la apli...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para actualizar los costos económicos resultantes de la apli..."
+   }
+  },
+  {
+   "articulo": "126",
+   "estado": "casi",
+   "similitud": 0.9943,
+   "corpus": "ARTÍCULO 126. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.6.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "fuente": "ARTÍCULO 126. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.6.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para efecto de calcular la tarifa mensual final por suscript...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efecto de calcular la tarifa mensual final por suscript..."
+   }
+  },
+  {
+   "articulo": "127",
+   "estado": "casi",
+   "similitud": 0.9969,
+   "corpus": "ARTÍCULO 127. CÁLCULO DE TONELADAS POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.6.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto p",
+   "fuente": "ARTÍCULO 127. CÁLCULO DE TONELADAS POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.6.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto p",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las toneladas de residuos sólidos no aprovechables y aprovec...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las toneladas de residuos sólidos no aprovechables y aprovec..."
+   }
+  },
+  {
+   "articulo": "128",
+   "estado": "casi",
+   "similitud": 0.9945,
+   "corpus": "ARTÍCULO 128. COSTO FIJO TOTAL (CFTZ). Artículo integrado y unificado en el artículo 5.3.5.7.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "fuente": "ARTÍCULO 128. COSTO FIJO TOTAL (CFTZ). Artículo integrado y unificado en el artículo 5.3.5.7.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo fijo total por suscriptor del APS se define de la s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo fijo total por suscriptor del APS se define de la s..."
+   }
+  },
+  {
+   "articulo": "129",
+   "estado": "casi",
+   "similitud": 0.9948,
+   "corpus": "ARTÍCULO 129. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.7.1.2 de la Resolución CRA 943 de 2021. D",
+   "fuente": "ARTÍCULO 129. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.7.1.2 de la Resolución CRA 943 de 2021. D",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo variable por tonelada de residuos sólidos no aprove...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo variable por tonelada de residuos sólidos no aprove..."
+   }
+  },
+  {
+   "articulo": "130",
+   "estado": "casi",
+   "similitud": 0.9955,
+   "corpus": "ARTÍCULO 130. COSTO VARIABLE POR TONELADA DE RESIDUOS EFECTIVAMENTE APROVECHADOS (CVAZ). Artículo integrado y unificado en el artículo 5.3.5.7.1.3 de la Resolución CRA 943 de 2021.",
+   "fuente": "ARTÍCULO 130. COSTO VARIABLE POR TONELADA DE RESIDUOS EFECTIVAMENTE APROVECHADOS (CVAZ). Artículo integrado y unificado en el artículo 5.3.5.7.1.3 de la Resolución CRA 943 de 2021.",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo variable por tonelada de residuos sólidos efectivam...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo variable por tonelada de residuos sólidos efectivam..."
+   }
+  },
+  {
+   "articulo": "131",
+   "estado": "casi",
+   "similitud": 0.9998,
+   "corpus": "ARTÍCULO 131. PROMEDIO PARA LOS CÁLCULOS. Artículo integrado y unificado en el artículo 5.3.5.7.1.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el art",
+   "fuente": "ARTÍCULO 131. PROMEDIO PARA LOS CÁLCULOS. Artículo integrado y unificado en el artículo 5.3.5.7.1.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el art",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando en el presente Título se determine que los cálculos s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando en el presente Título se determine que los cálculos s..."
+   }
+  },
+  {
+   "articulo": "132",
+   "estado": "casi",
+   "similitud": 0.9997,
+   "corpus": "ARTÍCULO 132. CENTROIDE DE PRODUCCIÓN. Artículo integrado y unificado en el artículo 5.3.5.7.1.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "fuente": "ARTÍCULO 132. CENTROIDE DE PRODUCCIÓN. Artículo integrado y unificado en el artículo 5.3.5.7.1.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para efectos de lo establecido en el presente título, el cen...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efectos de lo establecido en el presente título, el cen..."
+   }
+  },
+  {
+   "articulo": "133",
+   "estado": "casi",
+   "similitud": 0.9979,
+   "corpus": "ARTÍCULO 133. ESTÁNDARES DEL SERVICIO. Artículo integrado y unificado en el artículo 5.3.5.7.1.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "fuente": "ARTÍCULO 133. ESTÁNDARES DEL SERVICIO. Artículo integrado y unificado en el artículo 5.3.5.7.1.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las personas prestadoras que apliquen el esquema de prestaci...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las personas prestadoras que apliquen el esquema de prestaci..."
+   }
+  },
+  {
+   "articulo": "134",
+   "estado": "divergente",
+   "similitud": 0.8727,
+   "corpus": "ARTÍCULO 134. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCSZ). Artículo integrado y unificado en el artículo 5.3.5.7.2.1 de la Resolución CRA 943 de 20",
+   "fuente": "ARTÍCULO 134. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCSZ). Artículo integrado y unificado en el artículo 5.3.5.7.2.1 de la Resolución CRA 943 de 20",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 27 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 27 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "136",
+   "estado": "casi",
+   "similitud": 0.996,
+   "corpus": "ARTÍCULO 136. COSTO DE LIMPIEZA URBANA POR SUSCRIPTOR (CLUSZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo",
+   "fuente": "ARTÍCULO 136. COSTO DE LIMPIEZA URBANA POR SUSCRIPTOR (CLUSZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de limpieza urbana por suscriptor para cada APS z, ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de limpieza urbana por suscriptor para cada APS z, ..."
+   }
+  },
+  {
+   "articulo": "137",
+   "estado": "casi",
+   "similitud": 0.999,
+   "corpus": "ARTÍCULO 137. COSTO DE PODA DE ÁRBOLES (CPJZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por e",
+   "fuente": "ARTÍCULO 137. COSTO DE PODA DE ÁRBOLES (CPJZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por e",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo máximo de poda de árboles de la persona prestadora,...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo máximo de poda de árboles de la persona prestadora,..."
+   }
+  },
+  {
+   "articulo": "138",
+   "estado": "casi",
+   "similitud": 0.9988,
+   "corpus": "ARTÍCULO 138. COSTO DE CORTE DE CÉSPED (CCCJZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por ",
+   "fuente": "ARTÍCULO 138. COSTO DE CORTE DE CÉSPED (CCCJZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de corte de césped de zonas verdes pertenecientes a...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de corte de césped de zonas verdes pertenecientes a..."
+   }
+  },
+  {
+   "articulo": "139",
+   "estado": "casi",
+   "similitud": 0.9971,
+   "corpus": "ARTÍCULO 139. COSTO DE LAVADO DE ÁREAS PÚBLICAS (CLAVJZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo disp",
+   "fuente": "ARTÍCULO 139. COSTO DE LAVADO DE ÁREAS PÚBLICAS (CLAVJZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo disp",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de lavado de áreas públicas adoptado por la persona...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de lavado de áreas públicas adoptado por la persona..."
+   }
+  },
+  {
+   "articulo": "140",
+   "estado": "casi",
+   "similitud": 0.9992,
+   "corpus": "ARTÍCULO 140. COSTO DE LIMPIEZA DE PLAYAS COSTERAS O RIBEREÑAS (CLPJZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en ",
+   "fuente": "ARTÍCULO 140. COSTO DE LIMPIEZA DE PLAYAS COSTERAS O RIBEREÑAS (CLPJZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de limpieza de playas costeras o ribereñas en áreas...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de limpieza de playas costeras o ribereñas en áreas..."
+   }
+  },
+  {
+   "articulo": "141",
+   "estado": "casi",
+   "similitud": 0.9995,
+   "corpus": "ARTÍCULO 141. COSTO DE SUMINISTRO, INSTALACIÓN Y MANTENIMIENTO DE CESTAS (CCEIJZ Y CCEMJZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.5 de la Resolución CRA 943 de 20",
+   "fuente": "ARTÍCULO 141. COSTO DE SUMINISTRO, INSTALACIÓN Y MANTENIMIENTO DE CESTAS (CCEIJZ Y CCEMJZ). Artículo integrado y unificado en el artículo 5.3.5.7.3.5 de la Resolución CRA 943 de 20",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo máximo a reconocer por cada cesta instalada en vías...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo máximo a reconocer por cada cesta instalada en vías..."
+   }
+  },
+  {
+   "articulo": "142",
+   "estado": "casi",
+   "similitud": 0.9965,
+   "corpus": "ARTÍCULO 142. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS POR SUSCRIPTOR (CBLSZ). Artículo integrado y unificado en el artículo 5.3.5.7.4.1 de la Resolución CRA 943 de 202",
+   "fuente": "ARTÍCULO 142. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS POR SUSCRIPTOR (CBLSZ). Artículo integrado y unificado en el artículo 5.3.5.7.4.1 de la Resolución CRA 943 de 202",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de barrido y limpieza de vías y áreas públicas mens...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de barrido y limpieza de vías y áreas públicas mens..."
+   }
+  },
+  {
+   "articulo": "143",
+   "estado": "casi",
+   "similitud": 0.994,
+   "corpus": "ARTÍCULO 143. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS CON APORTE BAJO CONDICIÓN (CBLABCJ). Artículo integrado y unificado en el artículo 5.3.5.7.4.2 de la Resolución C",
+   "fuente": "ARTÍCULO 143. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS CON APORTE BAJO CONDICIÓN (CBLABCJ). Artículo integrado y unificado en el artículo 5.3.5.7.4.2 de la Resolución C",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "144",
+   "estado": "casi",
+   "similitud": 0.9993,
+   "corpus": "ARTÍCULO 144. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.7.4.3 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "fuente": "ARTÍCULO 144. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.7.4.3 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las frecuencias de barrido y limpieza de vías y áreas públic...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las frecuencias de barrido y limpieza de vías y áreas públic..."
+   }
+  },
+  {
+   "articulo": "145",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "ARTÍCULO 145. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.7.4.4 de la Resolución CRA 943 d",
+   "fuente": "ARTÍCULO 145. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.5.7.4.4 de la Resolución CRA 943 d",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las labores de barrido y limpieza de vías y áreas públicas s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las labores de barrido y limpieza de vías y áreas públicas s..."
+   }
+  },
+  {
+   "articulo": "146",
+   "estado": "divergente",
+   "similitud": 0.9489,
+   "corpus": "ARTÍCULO 146. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.7.5.1 de la Resolución CRA 943 de 2021. Debe tenerse ",
+   "fuente": "ARTÍCULO 146. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.5.7.5.1 de la Resolución CRA 943 de 2021. Debe tenerse ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El Costo de Recolección y Transporte de residuos sólidos no ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El Costo de Recolección y Transporte de residuos sólidos no ..."
+   }
+  },
+  {
+   "articulo": "148",
+   "estado": "casi",
+   "similitud": 0.9939,
+   "corpus": "ARTÍCULO 148. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS CON APORTE BAJO CONDICIÓN (CRTABC). Artículo integrado y unificado en el artículo 5.3.5.7.5.3 de la Resolución C",
+   "fuente": "ARTÍCULO 148. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS CON APORTE BAJO CONDICIÓN (CRTABC). Artículo integrado y unificado en el artículo 5.3.5.7.5.3 de la Resolución C",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando una entidad pública realice aportes bajo condición so...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando una entidad pública realice aportes bajo condición so..."
+   }
+  },
+  {
+   "articulo": "149",
+   "estado": "casi",
+   "similitud": 0.9977,
+   "corpus": "ARTÍCULO 149. DESCUENTO AL CRT POR ANTIGüEDAD DE LOS VEHÍCULOS. Artículo integrado y unificado en el artículo 5.3.5.7.5.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
+   "fuente": "ARTÍCULO 149. DESCUENTO AL CRT POR ANTIGüEDAD DE LOS VEHÍCULOS. Artículo integrado y unificado en el artículo 5.3.5.7.5.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para las personas prestadoras que operen un (1) turno diario...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para las personas prestadoras que operen un (1) turno diario..."
+   }
+  },
+  {
+   "articulo": "150",
+   "estado": "casi",
+   "similitud": 0.9983,
+   "corpus": "ARTÍCULO 150. COSTO DE DISPOSICIÓN FINAL TOTAL DEL ESQUEMA DE PRESTACIÓN REGIONAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.7.6.1 de la Resolución CRA 943 de 2021",
+   "fuente": "ARTÍCULO 150. COSTO DE DISPOSICIÓN FINAL TOTAL DEL ESQUEMA DE PRESTACIÓN REGIONAL (CDFT). Artículo integrado y unificado en el artículo 5.3.5.7.6.1 de la Resolución CRA 943 de 2021",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de disposición final total del esquema de prestació...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de disposición final total del esquema de prestació..."
+   }
+  },
+  {
+   "articulo": "151",
+   "estado": "casi",
+   "similitud": 0.9906,
+   "corpus": "ARTÍCULO 151. COSTO DE DISPOSICIÓN FINAL TOTAL DEL SITIO DE DISPOSICIÓN FINAL (CDFTDD). Artículo integrado y unificado en el artículo 5.3.5.7.6.2 de la Resolución CRA 943 de 2021. ",
+   "fuente": "ARTÍCULO 151. COSTO DE DISPOSICIÓN FINAL TOTAL DEL SITIO DE DISPOSICIÓN FINAL (CDFTDD). Artículo integrado y unificado en el artículo 5.3.5.7.6.2 de la Resolución CRA 943 de 2021. ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 29 de la Resolución 892 ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 29 de la Resolución 892 ..."
+   }
+  },
+  {
+   "articulo": "155",
+   "estado": "casi",
+   "similitud": 0.9994,
+   "corpus": "ARTÍCULO 155. COSTO DE ALTERNATIVAS A LA DISPOSICIÓN FINAL. Artículo integrado y unificado en el artículo 5.3.5.7.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo di",
+   "fuente": "ARTÍCULO 155. COSTO DE ALTERNATIVAS A LA DISPOSICIÓN FINAL. Artículo integrado y unificado en el artículo 5.3.5.7.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo di",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Podrán emplearse alternativas a la disposición final en rell...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Podrán emplearse alternativas a la disposición final en rell..."
+   }
+  },
+  {
+   "articulo": "156",
+   "estado": "casi",
+   "similitud": 0.9971,
+   "corpus": "ARTÍCULO 156. COSTO DE TRATAMIENTO (CTZ). Artículo integrado y unificado en el artículo 5.3.5.7.7.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el art",
+   "fuente": "ARTÍCULO 156. COSTO DE TRATAMIENTO (CTZ). Artículo integrado y unificado en el artículo 5.3.5.7.7.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el art",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015El costo de tratamiento por tonelada para las APSz de hasta ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo de tratamiento por tonelada para las APSz de hasta ..."
+   }
+  },
+  {
+   "articulo": "157",
+   "estado": "casi",
+   "similitud": 0.992,
+   "corpus": "ARTÍCULO 157. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTZABC). Artículo integrado y unificado en el artículo 5.3.5.7.7.3 de la Resolución CRA 943 de 2021. Debe tenerse en c",
+   "fuente": "ARTÍCULO 157. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTZABC).Artículo integrado y unificado en el artículo 5.3.5.7.7.3 de la Resolución CRA 943 de 2021. Debe tenerse en cu",
+   "diff": {
+    "corpus": "...57. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTZABC). Artículo integrado y unificado en el artículo 5.3.5.7.7.3 de...",
+    "fuente": "...57. COSTO DE TRATAMIENTO CON APORTE BAJO CONDICIÓN (CTZABC).Artículo integrado y unificado en el artículo 5.3.5.7.7.3 de..."
+   }
+  },
+  {
+   "articulo": "158",
+   "estado": "casi",
+   "similitud": 0.9973,
+   "corpus": "ARTÍCULO 158. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBAZ). Artículo integrado y unificado en el artículo 5.3.5.7.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "fuente": "ARTÍCULO 158. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBAZ). Artículo integrado y unificado en el artículo 5.3.5.7.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015La remuneración de la actividad de aprovechamiento por suscr...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La remuneración de la actividad de aprovechamiento por suscr..."
+   }
+  },
+  {
+   "articulo": "159",
+   "estado": "casi",
+   "similitud": 0.9958,
+   "corpus": "ARTÍCULO 159. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.7.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "fuente": "ARTÍCULO 159. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.5.7.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015A partir de la entrada en vigencia de la fórmula tarifaria, ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 A partir de la entrada en vigencia de la fórmula tarifaria, ..."
+   }
+  },
+  {
+   "articulo": "160",
+   "estado": "casi",
+   "similitud": 0.9967,
+   "corpus": "ARTÍCULO 160. FACTOR DE ACTUALIZACIÓN DE COSTOS POR ACTIVIDAD (FAC). Artículo integrado y unificado en el artículo 5.3.5.7.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "fuente": "ARTÍCULO 160. FACTOR DE ACTUALIZACIÓN DE COSTOS POR ACTIVIDAD (FAC). Artículo integrado y unificado en el artículo 5.3.5.7.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para ajustar los costos de las actividades resultantes de lo...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para ajustar los costos de las actividades resultantes de lo..."
+   }
+  },
+  {
+   "articulo": "161",
+   "estado": "casi",
+   "similitud": 0.9947,
+   "corpus": "ARTÍCULO 161. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.7.10.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
+   "fuente": "ARTÍCULO 161. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.5.7.10.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Para efecto de calcular la tarifa mensual final por suscript...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efecto de calcular la tarifa mensual final por suscript..."
+   }
+  },
+  {
+   "articulo": "162",
+   "estado": "casi",
+   "similitud": 0.9963,
+   "corpus": "ARTÍCULO 162. CÁLCULO DE TONELADAS POR SUSCRIPTOR DEFINIDAS EN CONJUNTO POR PRESTADORES PARA FACTURACIÓN. Artículo integrado y unificado en el artículo 5.3.5.7.10.2 de la Resolució",
+   "fuente": "ARTÍCULO 162. CÁLCULO DE TONELADAS POR SUSCRIPTOR DEFINIDAS EN CONJUNTO POR PRESTADORES PARA FACTURACIÓN. Artículo integrado y unificado en el artículo 5.3.5.7.10.2 de la Resolució",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las personas prestadoras que se encuentran en áreas urbanas ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las personas prestadoras que se encuentran en áreas urbanas ..."
+   }
+  },
+  {
+   "articulo": "163",
+   "estado": "casi",
+   "similitud": 0.996,
+   "corpus": "ARTÍCULO 163. TONELADAS DE RESIDUOS SÓLIDOS NO APROVECHABLES POR TIPO DE SUSCRIPTOR (TRNAUZ). Artículo integrado y unificado en el artículo 5.3.5.7.10.3 de la Resolución CRA 943 de",
+   "fuente": "ARTÍCULO 163. TONELADAS DE RESIDUOS SÓLIDOS NO APROVECHABLES POR TIPO DE SUSCRIPTOR (TRNAUZ). Artículo integrado y unificado en el artículo 5.3.5.7.10.3 de la Resolución CRA 943 de",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las Toneladas de Residuos sólidos no Aprovechables por tipo ...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las Toneladas de Residuos sólidos no Aprovechables por tipo ..."
+   }
+  },
+  {
+   "articulo": "164",
+   "estado": "casi",
+   "similitud": 0.9993,
+   "corpus": "ARTÍCULO 164. FACTORES DE PRODUCCIÓN (FU). Artículo integrado y unificado en el artículo 5.3.5.7.10.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
+   "fuente": "ARTÍCULO 164. FACTORES DE PRODUCCIÓN (FU). Artículo integrado y unificado en el artículo 5.3.5.7.10.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Los factores de producción Fu para cada tipo de suscriptor s...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los factores de producción Fu para cada tipo de suscriptor s..."
+   }
+  },
+  {
+   "articulo": "165",
+   "estado": "casi",
+   "similitud": 0.9997,
+   "corpus": "ARTÍCULO 165. GRANDES PRODUCTORES. Artículo integrado y unificado en el artículo 5.3.5.7.10.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo ",
+   "fuente": "ARTÍCULO 165. GRANDES PRODUCTORES. Artículo integrado y unificado en el artículo 5.3.5.7.10.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Los grandes productores a los que se refiere el numeral 21 d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los grandes productores a los que se refiere el numeral 21 d..."
+   }
+  },
+  {
+   "articulo": "166",
+   "estado": "casi",
+   "similitud": 0.9997,
+   "corpus": "ARTÍCULO 166. REPORTE EN LÍNEA DEL PESAJE DE RESIDUOS SÓLIDOS. Artículo integrado y unificado en el artículo 5.3.5.7.10.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
+   "fuente": "ARTÍCULO 166. REPORTE EN LÍNEA DEL PESAJE DE RESIDUOS SÓLIDOS. Artículo integrado y unificado en el artículo 5.3.5.7.10.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las personas prestadoras deberán contar con sistemas e instr...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las personas prestadoras deberán contar con sistemas e instr..."
+   }
+  },
+  {
+   "articulo": "167",
+   "estado": "casi",
+   "similitud": 0.9994,
+   "corpus": "ARTÍCULO 167. DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO. Artículo integrado y unificado en el artículo 5.3.5.7.11.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo",
+   "fuente": "ARTÍCULO 167. DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO. Artículo integrado y unificado en el artículo 5.3.5.7.11.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Los descuentos asociados al nivel de cumplimiento de las met...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los descuentos asociados al nivel de cumplimiento de las met..."
+   }
+  },
+  {
+   "articulo": "168",
+   "estado": "casi",
+   "similitud": 0.9992,
+   "corpus": "ARTÍCULO 168. INCLUSIÓN DE INCENTIVOS ECONÓMICOS. Artículo integrado y unificado en el artículo 5.3.5.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por ",
+   "fuente": "ARTÍCULO 168. INCLUSIÓN DE INCENTIVOS ECONÓMICOS. Artículo integrado y unificado en el artículo 5.3.5.9.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por ",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Los incentivos económicos creados con ocasión de desarrollos...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los incentivos económicos creados con ocasión de desarrollos..."
+   }
+  },
+  {
+   "articulo": "169",
+   "estado": "casi",
+   "similitud": 0.9966,
+   "corpus": "ARTÍCULO 169. PORCENTAJE DE PROVISIÓN DE INVERSIONES PARA LAS ORGANIZACIONES DE RECICLADORES DE OFICIO EN PROCESO DE FORMALIZACIÓN. Artículo integrado y unificado en el artículo 5.",
+   "fuente": "ARTÍCULO 169. PORCENTAJE DE PROVISIÓN DE INVERSIONES PARA LAS ORGANIZACIONES DE RECICLADORES DE OFICIO EN PROCESO DE FORMALIZACIÓN. Artículo integrado y unificado en el artículo 5.",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Las organizaciones de recicladores de oficio que estén en pr...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las organizaciones de recicladores de oficio que estén en pr..."
+   }
+  },
+  {
+   "articulo": "170",
+   "estado": "divergente",
+   "similitud": 0.5828,
+   "corpus": "ARTÍCULO 170. CONTENIDO DE LA FACTURA. Artículo integrado y unificado en el artículo 5.3.5.9.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "fuente": "ARTÍCULO 170. CONTENIDO DE LA FACTURA. Artículo integrado y unificado en el artículo 5.3.5.9.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015En concordancia con lo establecido en los artículos 147 y 14...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 En concordancia con lo establecido en los artículos 147 y 14..."
+   }
+  },
+  {
+   "articulo": "174",
+   "estado": "casi",
+   "similitud": 0.9993,
+   "corpus": "ARTÍCULO 174. COSTO DE PEAJES EN RECOLECCIÓN Y TRANSPORTE. Artículo integrado y unificado en el artículo 5.3.5.9.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispu",
+   "fuente": "ARTÍCULO 174. COSTO DE PEAJES EN RECOLECCIÓN Y TRANSPORTE. Artículo integrado y unificado en el artículo 5.3.5.9.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispu",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Cuando en la vía empleada para el transporte de los residuos...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando en la vía empleada para el transporte de los residuos..."
+   }
+  },
+  {
+   "articulo": "175",
+   "estado": "divergente",
+   "similitud": 0.5857,
+   "corpus": "ARTÍCULO 175. VIGENCIA DEL RÉGIMEN TARIFARIO Y DE LAS METODOLOGÍAS TARIFARIAS. Artículo integrado y unificado en el artículo 5.3.5.9.8 de la Resolución CRA 943 de 2021. Debe teners",
+   "fuente": "ARTÍCULO 175. VIGENCIA DEL RÉGIMEN TARIFARIO Y DE LAS METODOLOGÍAS TARIFARIAS. Artículo integrado y unificado en el artículo 5.3.5.9.8 de la Resolución CRA 943 de 2021. Debe teners",
+   "diff": {
+    "corpus": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015Artículo modificado por el artículo 1 de la Resolución 883 d...",
+    "fuente": "...puesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 1 de la Resolución 883 d..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "3",
+  "4",
+  "6",
+  "8",
+  "9",
+  "12",
+  "13",
+  "14",
+  "16",
+  "22",
+  "25",
+  "26",
+  "27",
+  "28",
+  "37",
+  "38",
+  "39",
+  "41",
+  "43",
+  "47",
+  "49",
+  "50",
+  "51",
+  "62",
+  "63",
+  "64",
+  "66",
+  "70",
+  "73",
+  "74",
+  "85",
+  "87",
+  "89",
+  "106",
+  "107",
+  "108",
+  "110",
+  "118",
+  "119",
+  "135",
+  "147",
+  "152",
+  "153",
+  "154",
+  "171",
+  "172",
+  "173",
+  "175A",
+  "175B",
+  "175C",
+  "176",
+  "177"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 106,
+  "divergentes": 22
+ }
+}

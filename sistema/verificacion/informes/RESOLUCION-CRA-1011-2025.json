@@ -1,0 +1,321 @@
+{
+ "corpus": "RESOLUCION-CRA-1011-2025.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-1011-2025.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 38,
+ "resultados": [
+  {
+   "articulo": "5.12.1",
+   "estado": "casi",
+   "similitud": 0.9955,
+   "corpus": "Artículo 5.12.1. ÁMBITO DE APLICACIÓN. La presente resolución aplica para todas las personas prestadoras del servicio público de aseo de la actividad de recolección y transporte d",
+   "fuente": "Artículo 5.12.1. Ámbito de aplicación. La presente resolución aplica para todas las personas prestadoras del servicio público de aseo de la actividad de recolección y transporte de",
+   "diff": {
+    "corpus": "...n de Cuentas de que trata el artículo 2.3.2.5.4.8. del Decreto 1077 de 2015, independientemente de la metodología tarifa...",
+    "fuente": "... de Cuentas de que trata el artículo 2.3.2.5.4.8. del Decreto número 1077 de 2015, independientemente de la metodología tarifar..."
+   }
+  },
+  {
+   "articulo": "5.12.2",
+   "estado": "divergente",
+   "similitud": 0.4937,
+   "corpus": "Artículo 5.12.2. ACTUALIZACIÓN DE LOS REGLAMENTOS DE ACUERDO CON LAS MODIFICACIONES DEL DECRETO 1381 DE 2024. Las personas prestadoras que conforman los Comités de Conciliación de ",
+   "fuente": "Artículo 5.12.2. Actualización de los reglamentos de acuerdo con las modificaciones del decreto número 1381 de 2024. Las personas prestadoras que conforman los Comités de Conciliac",
+   "diff": {
+    "corpus": "...S REGLAMENTOS DE ACUERDO CON LAS MODIFICACIONES DEL DECRETO 1381 DE 2024. Las personas prestadoras que conforman los Com...",
+    "fuente": "...s reglamentos de acuerdo con las modificaciones del decreto número 1381 de 2024. Las personas prestadoras que conforman los Com..."
+   }
+  },
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9995,
+   "corpus": "Artículo 1. Objeto del Reglamento. El presente reglamento tiene por objeto la conformación y desarrollo del Comité de Conciliación de Cuentas a efectos de revisar y conciliar las c",
+   "fuente": "ARTÍCULO 1o. OBJETO DEL REGLAMENTO. El presente reglamento tiene por objeto la conformación y desarrollo del Comité de Conciliación de Cuentas a efectos de revisar y conciliar las ",
+   "diff": {
+    "corpus": "...Artículo 1. Objeto del Reglamento. El presente reglamento tiene por ob...",
+    "fuente": "...ARTÍCULO 1o. OBJETO DEL REGLAMENTO. El presente reglamento tiene por ob..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "casi",
+   "similitud": 0.9951,
+   "corpus": "Artículo 2. Definiciones: Para todos los efectos y a la luz de las disposiciones legales vigentes, se tendrán en cuenta las siguientes definiciones: 2.1. Aprovechamiento en la pres",
+   "fuente": "ARTÍCULO 2o. DEFINICIONES. Para todos los efectos y a la luz de las disposiciones legales vigentes, se tendrán en cuenta las siguientes definiciones: 2.1. Aprovechamiento en la pre",
+   "diff": {
+    "corpus": "...Artículo 2. Definiciones: Para todos los efectos y a la luz de las dis...",
+    "fuente": "...ARTÍCULO 2o. DEFINICIONES. Para todos los efectos y a la luz de las dis..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "casi",
+   "similitud": 0.9993,
+   "corpus": "Artículo 3. Criterios orientadores. Los prestadores de la actividad de aprovechamiento y el prestador de recolección y transporte de residuos sólidos no aprovechables deberán obser",
+   "fuente": "ARTÍCULO 3o. CRITERIOS ORIENTADORES. Los prestadores de la actividad de aprovechamiento y el prestador de recolección y transporte de residuos sólidos no aprovechables deberán obse",
+   "diff": {
+    "corpus": "...Artículo 3. Criterios orientadores. Los prestadores de la actividad de...",
+    "fuente": "...ARTÍCULO 3o. CRITERIOS ORIENTADORES. Los prestadores de la actividad de..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.974,
+   "corpus": "Artículo 4. Deberes aprovechamiento de la persona prestadora de la actividad de Página 11 de 22 a) b) c) d) e) f) g) h) i) j) k) l) m) n) o) Elaborar y mantener actualizada la base",
+   "fuente": "ARTÍCULO 4o. DEBERES DE LA PERSONA PRESTADORA DE LA ACTIVIDAD DE APROVECHAMIENTO. a) Elaborar y mantener actualizada la base de datos de usuarios; en el caso Organizaciones de Reci",
+   "diff": {
+    "corpus": "...Artículo 4. Deberes aprovechamiento de la persona prestadora de la act...",
+    "fuente": "...ARTÍCULO 4o. DEBERES DE LA PERSONA PRESTADORA DE LA ACTIVIDAD DE APROVE..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.9455,
+   "corpus": "Artículo 5. Deberes de la persona prestadora de recolección y transporte de residuos sólidos no aprovechables. Página 12 de 22 a) Informar a la Superintendencia de Servicios Públic",
+   "fuente": "ARTÍCULO 5o. DEBERES DE LA PERSONA PRESTADORA DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS NO APROVECHABLES. a) Informar a la Superintendencia de Servicios Públicos Domiciliario",
+   "diff": {
+    "corpus": "...Artículo 5. Deberes de la persona prestadora de recolección y transpor...",
+    "fuente": "...ARTÍCULO 5o. DEBERES DE LA PERSONA PRESTADORA DE RECOLECCIÓN Y TRANSPOR..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "casi",
+   "similitud": 0.9992,
+   "corpus": "Artículo 6. Prohibiciones. Las partes que conforman el Comité de Conciliación de Cuentas deberán abstenerse de incurrir en conductas que afecten el equilibrio de la relación contra",
+   "fuente": "ARTÍCULO 6o. PROHIBICIONES. Las partes que conforman el Comité de Conciliación de Cuentas deberán abstenerse de incurrir en conductas que afecten el equilibrio de la relación contr",
+   "diff": {
+    "corpus": "...Artículo 6. Prohibiciones. Las partes que conforman el Comité de Conci...",
+    "fuente": "...ARTÍCULO 6o. PROHIBICIONES. Las partes que conforman el Comité de Conci..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "Artículo 7. Informe de liquidación, facturación, recaudo, cartera y traslado de recursos. El prestador de recolección y transporte de residuos sólidos no aprovechables deberá remit",
+   "fuente": "ARTÍCULO 7o. INFORME DE LIQUIDACIÓN, FACTURACIÓN, RECAUDO, CARTERA Y TRASLADO DE RECURSOS. El prestador de recolección y transporte de residuos sólidos no aprovechables deberá remi",
+   "diff": {
+    "corpus": "...Artículo 7. Informe de liquidación, facturación, recaudo, cartera y tr...",
+    "fuente": "...ARTÍCULO 7o. INFORME DE LIQUIDACIÓN, FACTURACIÓN, RECAUDO, CARTERA Y TR..."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.8974,
+   "corpus": "Artículo 8. Información contenida en los informes de liquidación, facturación, recaudo, cartera y traslado de los recursos. Los informes presentados por el prestador de recolección",
+   "fuente": "ARTÍCULO 8o. INFORMACIÓN CONTENIDA EN LOS INFORMES DE LIQUIDACIÓN, FACTURACIÓN, RECAUDO, CARTERA Y TRASLADO DE LOS RECURSOS. Los informes presentados por el prestador de recolecció",
+   "diff": {
+    "corpus": "...Artículo 8. Información contenida en los informes de liquidación, fact...",
+    "fuente": "...ARTÍCULO 8o. INFORMACIÓN CONTENIDA EN LOS INFORMES DE LIQUIDACIÓN, FACT..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "casi",
+   "similitud": 0.9989,
+   "corpus": "Artículo 9. Novedades en el reporte de información de toneladas efectivamente aprovechadas. Con el objetivo de resolver las novedades que se presenten en el desarrollo en la liquid",
+   "fuente": "ARTÍCULO 9o. NOVEDADES EN EL REPORTE DE INFORMACIÓN DE TONELADAS EFECTIVAMENTE APROVECHADAS. Con el objetivo de resolver las novedades que se presenten en el desarrollo en la liqui",
+   "diff": {
+    "corpus": "...Artículo 9. Novedades en el reporte de información de toneladas efecti...",
+    "fuente": "...ARTÍCULO 9o. NOVEDADES EN EL REPORTE DE INFORMACIÓN DE TONELADAS EFECTI..."
+   }
+  },
+  {
+   "articulo": "10",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "11",
+   "estado": "casi",
+   "similitud": 0.9868,
+   "corpus": "Artículo 11. Recaudo. Los recursos de la facturación del servicio público de aseo, correspondientes a la actividad de aprovechamiento, deberán ser recaudados, en el marco de la fac",
+   "fuente": "ARTÍCULO 11. RECAUDO. Los recursos de la facturación del servicio público de aseo, correspondientes a la actividad de aprovechamiento, deberán ser recaudados, en el marco de la fac",
+   "diff": {
+    "corpus": "...uya, modifique o derogue. Capítulo 3. Disposiciones comunes. Página 15 de 22...",
+    "fuente": "...uya, modifique o derogue. CAPÍTULO 3. DISPOSICIONES COMUNES...."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "casi",
+   "similitud": 0.9993,
+   "corpus": "Artículo 12. Gestión de la cartera. Los procesos tendientes al recaudo y su registro, y los ajustes, conciliación y depuración contable de la cartera, serán de responsabilidad del ",
+   "fuente": "ARTÍCULO 12. GESTIÓN DE LA CARTERA. Los procesos tendientes al recaudo y su registro, y los ajustes, conciliación y depuración contable de la cartera, serán de responsabilidad del ",
+   "diff": {
+    "corpus": "...echamiento. Título. 5. Del Comité de Conciliación de Cuentas Capítulo 1. De los miembros del Comité de Conciliación de C...",
+    "fuente": "...echamiento. TÍTULO. 5. DEL COMITÉ DE CONCILIACIÓN DE CUENTAS. CAPÍTULO 1. DE LOS MIEMBROS DEL COMITÉ DE CONCILIACIÓN DE C..."
+   }
+  },
+  {
+   "articulo": "13",
+   "estado": "casi",
+   "similitud": 0.9992,
+   "corpus": "Artículo 13. Conformación del Comité de Conciliación de Cuentas. El Comité de Conciliación de Cuentas estará conformado por un (1) representante de cada uno de los prestadores debi",
+   "fuente": "ARTÍCULO 13. CONFORMACIÓN DEL COMITÉ DE CONCILIACIÓN DE CUENTAS. El Comité de Conciliación de Cuentas estará conformado por un (1) representante de cada uno de los prestadores debi",
+   "diff": {
+    "corpus": "...Cuentas, y se anexará al documento de relatoría. Parágrafo 1. El poder otorgado por los representantes legales de las pe...",
+    "fuente": "...Cuentas, y se anexará al documento de relatoría. PARÁGRAFO 1o. El poder otorgado por los representantes legales de las pe..."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "casi",
+   "similitud": 0.9933,
+   "corpus": "Artículo 15. Facultades y competencias de los miembros del Comité de Conciliación de Cuentas. 1. Presentar dudas, reclamaciones, solicitudes, peticiones, aclaraciones de los aspect",
+   "fuente": "ARTÍCULO 15. FACULTADES Y COMPETENCIAS DE LOS MIEMBROS DEL COMITÉ DE CONCILIACIÓN DE CUENTAS. 1. Presentar dudas, reclamaciones, solicitudes, peticiones, aclaraciones de los aspect",
+   "diff": {
+    "corpus": "...nados con la prestación de la actividad de aprovechamiento. Página 16 de 22 3. Presentar y socializar, en los casos que sea pertinente, ...",
+    "fuente": "...nados con la prestación de la actividad de aprovechamiento. 3. Presentar y socializar, en los casos que sea pertinente, ..."
+   }
+  },
+  {
+   "articulo": "16",
+   "estado": "casi",
+   "similitud": 0.9987,
+   "corpus": "Artículo 16. Facultades de los invitados. 1. Asistir a la sesión del Comité respectivo. 2. Participar en el desarrollo de la sesión del Comité, de acuerdo con el orden del día y su",
+   "fuente": "ARTÍCULO 16. FACULTADES DE LOS INVITADOS. 1. Asistir a la sesión del Comité respectivo. 2. Participar en el desarrollo de la sesión del Comité, de acuerdo con el orden del día y su",
+   "diff": {
+    "corpus": "...ulo 3. De las sesiones del Comité de Conciliación de Cuentas...",
+    "fuente": "...ULO 3. DE LAS SESIONES DEL COMITÉ DE CONCILIACIÓN DE CUENTAS...."
+   }
+  },
+  {
+   "articulo": "17",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "18",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "19",
+   "estado": "casi",
+   "similitud": 0.9909,
+   "corpus": "Artículo 19. Invitaciones a las sesiones del Comité de Conciliación de Cuentas. El prestador de recolección y transporte de residuos sólidos no aprovechables invitará a la sesión d",
+   "fuente": "ARTÍCULO 19. INVITACIONES A LAS SESIONES DEL COMITÉ DE CONCILIACIÓN DE CUENTAS. El prestador de recolección y transporte de residuos sólidos no aprovechables invitará a la sesión d",
+   "diff": {
+    "corpus": "...l prestador de recolección y transporte de residuos sólidos Página 17 de 22 no aprovechables, en donde se indique la razón de la citació...",
+    "fuente": "...l prestador de recolección y transporte de residuos sólidos no aprovechables, en donde se indique la razón de la citació..."
+   }
+  },
+  {
+   "articulo": "20",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "21",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "22",
+   "estado": "casi",
+   "similitud": 0.9926,
+   "corpus": "Artículo 22. Causales de suspensión de la sesión del Comité de Conciliación de Cuentas. Se consideran causales para la suspensión de la sesión del Comité de Conciliación de Cuentas",
+   "fuente": "ARTÍCULO 22. CAUSALES DE SUSPENSIÓN DE LA SESIÓN DEL COMITÉ DE CONCILIACIÓN DE CUENTAS. Se consideran causales para la suspensión de la sesión del Comité de Conciliación de Cuentas",
+   "diff": {
+    "corpus": "...ítulo 4. De las actas del Comité de Conciliación de Cuentas. Página 18 de 22...",
+    "fuente": "...ÍTULO 4. DE LAS ACTAS DEL COMITÉ DE CONCILIACIÓN DE CUENTAS...."
+   }
+  },
+  {
+   "articulo": "23",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "24",
+   "estado": "casi",
+   "similitud": 0.9987,
+   "corpus": "Artículo 24. Contenido de las actas. Las actas deberán contener como mínimo: la identificación de las partes, indicando nombre y número de identificación de la persona prestadora q",
+   "fuente": "ARTÍCULO 24. CONTENIDO DE LAS ACTAS. Las actas deberán contener como mínimo: la identificación de las partes, indicando nombre y número de identificación de la persona prestadora q",
+   "diff": {
+    "corpus": "...Comisión de Regulación de Agua Potable y Saneamiento Básico – CRA....",
+    "fuente": "...Comisión de Regulación de Agua Potable y Saneamiento Básico - CRA...."
+   }
+  },
+  {
+   "articulo": "25",
+   "estado": "casi",
+   "similitud": 0.9986,
+   "corpus": "Artículo 25. Firmas. Las actas de la sesión del Comité de Conciliación de Cuentas deberán ser suscritas por las partes. La firma del acta da fe de estar de acuerdo con los valores ",
+   "fuente": "ARTÍCULO 25. FIRMAS. Las actas de la sesión del Comité de Conciliación de Cuentas deberán ser suscritas por las partes. La firma del acta da fe de estar de acuerdo con los valores ",
+   "diff": {
+    "corpus": "...os medios permitidos en la normatividad vigente. Parágrafo 1. El acta deberá estar suscrita por el representante de cada...",
+    "fuente": "...os medios permitidos en la normatividad vigente. PARÁGRAFO 1o. El acta deberá estar suscrita por el representante de cada..."
+   }
+  },
+  {
+   "articulo": "26",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "27",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "28",
+   "estado": "casi",
+   "similitud": 0.995,
+   "corpus": "Artículo 28. Funciones de la secretaría técnica. 1. Preparar y concertar el orden del día de las sesiones del Comité de Conciliación de Cuentas. Página 19 de 22 2. Convocar las ses",
+   "fuente": "ARTÍCULO 28. FUNCIONES DE LA SECRETARÍA TÉCNICA. 1. Preparar y concertar el orden del día de las sesiones del Comité de Conciliación de Cuentas. 2. Convocar las sesiones del Comité",
+   "diff": {
+    "corpus": "...l día de las sesiones del Comité de Conciliación de Cuentas. Página 19 de 22 2. Convocar las sesiones del Comité de Conciliación de Cuen...",
+    "fuente": "...l día de las sesiones del Comité de Conciliación de Cuentas. 2. Convocar las sesiones del Comité de Conciliación de Cuen..."
+   }
+  },
+  {
+   "articulo": "30",
+   "estado": "divergente",
+   "similitud": 0.6025,
+   "corpus": "Artículo 30. Intereses de mora en el traslado de los recursos. En aplicación del principio de buena fe contractual contemplado en el artículo 871 de Decreto 410 de 1971 (Código de ",
+   "fuente": "ARTÍCULO 30. INTERESES DE MORA EN EL TRASLADO DE LOS RECURSOS. En aplicación del principio de buena fe contractual contemplado en el artículo 871 de Decreto 410 de 1971 (Código de ",
+   "diff": {
+    "corpus": "...dicione, sustituya, modifique o derogue. Los intereses de mora se causarán a una tasa mensual igual a 1,5 veces del interés bancario corriente efectivo anual, para la modalidad de crédito de consumo y ord...",
+    "fuente": "...dicione, sustituya, modifique o derogue. Los intereses de mo (Content truncated. Fetch a more specific URL or section for the full text.)..."
+   }
+  },
+  {
+   "articulo": "31",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "32",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "33",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "34",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "35",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "36",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "37",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "38",
+   "estado": "ausente_en_fuente"
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 8,
+  "casi": 17,
+  "divergentes": 13
+ }
+}

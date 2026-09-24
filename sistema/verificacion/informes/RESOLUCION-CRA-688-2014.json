@@ -1,0 +1,587 @@
+{
+ "corpus": "RESOLUCION-CRA-688-2014.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-688-2014.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 48,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.107,
+   "corpus": "ARTÍCULO 3. DEFINICIONES. Artículo integrado y unificado en el artículo 2.1.2.1.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.",
+   "fuente": "ARTÍCULO 3. DEFINICIONES. Artículo integrado y unificado en el artículo 2.1.2.1.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.",
+   "diff": {
+    "corpus": "...ra el servicio público domiciliario de alcantarillado (al). PARÁGRAFO 1o. Las personas prestadoras con APS del segundo segmento...",
+    "fuente": "...ra el servicio público domiciliario de alcantarillado (al). Año base: Es el período de doce (12) meses utilizado por la persona prestadora con el fin de realizar las comparaciones y verificaciones que corre..."
+   }
+  },
+  {
+   "articulo": "10",
+   "estado": "casi",
+   "similitud": 0.993,
+   "corpus": "ARTÍCULO 10. NÚMERO DE SUSCRIPTORES PROMEDIO POR FACTURAR EN EL AÑO i . Artículo integrado y unificado en el artículo 2.1.2.1.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "fuente": "ARTÍCULO 10. NÚMERO DE SUSCRIPTORES PROMEDIO POR FACTURAR EN EL AÑO i . Artículo integrado y unificado en el artículo 2.1.2.1.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "diff": {
+    "corpus": "...sponde a los suscriptores del último periodo de facturación....",
+    "fuente": "...sponde a los suscriptores del último periodo de facturación. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "11",
+   "estado": "casi",
+   "similitud": 0.9975,
+   "corpus": "ARTÍCULO 11. NÚMERO DE SUSCRIPTORES RESIDENCIALES POR FACTURAR AL CIERRE DEL AÑO i PARA ACUEDUCTO Y ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.2.1.2 de",
+   "fuente": "ARTÍCULO 11. NÚMERO DE SUSCRIPTORES RESIDENCIALES POR FACTURAR AL CIERRE DEL AÑO i PARA ACUEDUCTO Y ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.2.1.2 de",
+   "diff": {
+    "corpus": "...llos dejándolos a disposición de las autoridades de control....",
+    "fuente": "...llos dejándolos a disposición de las autoridades de control. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "divergente",
+   "similitud": 0.9705,
+   "corpus": "ARTÍCULO 12. NÚMERO DE SUSCRIPTORES NO RESIDENCIALES POR FACTURAR AL CIERRE DEL AÑO i PARA ACUEDUCTO. . Artículo integrado y unificado en el artículo 2.1.2.1.2.1.3 de la Resolución",
+   "fuente": "ARTÍCULO 12. NÚMERO DE SUSCRIPTORES NO RESIDENCIALES POR FACTURAR AL CIERRE DEL AÑO i PARA ACUEDUCTO. . Artículo integrado y unificado en el artículo 2.1.2.1.2.1.3 de la Resolución",
+   "diff": {
+    "corpus": "...zado para revisión de la autoridad de vigilancia y control. CAPÍTULO II. DEL CONSUMO FACTURADO Y LAS PÉRDIDAS....",
+    "fuente": "...zado para revisión de la autoridad de vigilancia y control. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "14",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "15",
+   "estado": "divergente",
+   "similitud": 0.9319,
+   "corpus": "ARTÍCULO 15. ÍNDICE DE CONSUMO DE AGUA FACTURADA POR SUSCRIPTOR DE ACUEDUCTO Y ALCANTARILLADO EN EL AÑO i. . Artículo integrado y unificado en el artículo 2.1.2.1.2.2.2 de la Resol",
+   "fuente": "ARTÍCULO 15. ÍNDICE DE CONSUMO DE AGUA FACTURADA POR SUSCRIPTOR DE ACUEDUCTO Y ALCANTARILLADO EN EL AÑO i. . Artículo integrado y unificado en el artículo 2.1.2.1.2.2.2 de la Resol",
+   "diff": {
+    "corpus": "...les de abastecimiento de agua que viertan al alcantarillado. PARÁGRAFO. Si el IPUF del año base es menor al IPUF estándar , la persona prestadora podrá utilizar para el cálculo tarifario cualquier valor que se encuentre entre el y el promedio del y el ....",
+    "fuente": "...les de abastecimiento de agua que viertan al alcantarillado...."
+   }
+  },
+  {
+   "articulo": "18",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "19",
+   "estado": "casi",
+   "similitud": 0.9944,
+   "corpus": "ARTÍCULO 19. CÁLCULO DEL CONSUMO CORREGIDO POR PÉRDIDAS. . Artículo integrado y unificado en el artículo 2.1.2.1.2.2.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo d",
+   "fuente": "ARTÍCULO 19. CÁLCULO DEL CONSUMO CORREGIDO POR PÉRDIDAS. . Artículo integrado y unificado en el artículo 2.1.2.1.2.2.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo d",
+   "diff": {
+    "corpus": "...VICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO Y ALCANTARILLADO....",
+    "fuente": "...VICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO Y ALCANTARILLADO. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "20",
+   "estado": "casi",
+   "similitud": 0.9875,
+   "corpus": "ARTÍCULO 20. TASA DE DESCUENTO PARA EL CÁLCULO DEL COSTO MEDIO DE INVERSIÓN (r). Artículo integrado y unificado en el artículo 2.1.2.1.3.1 de la Resolución CRA 943 de 2021. Debe te",
+   "fuente": "ARTÍCULO 20. TASA DE DESCUENTO PARA EL CÁLCULO DEL COSTO MEDIO DE INVERSIÓN (r). Artículo integrado y unificado en el artículo 2.1.2.1.3.1 de la Resolución CRA 943 de 2021. Debe te",
+   "diff": {
+    "corpus": "...segundo segmento: La tasa de descuento anual será de 12,76%....",
+    "fuente": "...segundo segmento: La tasa de descuento anual será de 12,76%. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "21",
+   "estado": "casi",
+   "similitud": 0.9852,
+   "corpus": "ARTÍCULO 21. TASA DE CAPITAL DE TRABAJO PARA EL CÁLCULO DEL COSTO MEDIO DE ADMINISTRACIÓN Y DEL COSTO MEDIO DE OPERACIÓN (RCT). Artículo integrado y unificado en el artículo 2.1.2.",
+   "fuente": "ARTÍCULO 21. TASA DE CAPITAL DE TRABAJO PARA EL CÁLCULO DEL COSTO MEDIO DE ADMINISTRACIÓN Y DEL COSTO MEDIO DE OPERACIÓN (RCT). Artículo integrado y unificado en el artículo 2.1.2.",
+   "diff": {
+    "corpus": "...E PRESTACIÓN. CAPÍTULO I. DEL COSTO MEDIO DE ADMINISTRACIÓN....",
+    "fuente": "...E PRESTACIÓN. CAPÍTULO I. DEL COSTO MEDIO DE ADMINISTRACIÓN. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "22",
+   "estado": "divergente",
+   "similitud": 0.2674,
+   "corpus": "ARTÍCULO 22. COSTO MEDIO DE ADMINISTRACIÓN. CMA. Artículo integrado y unificado en el artículo 2.1.2.1.4.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto p",
+   "fuente": "ARTÍCULO 22. COSTO MEDIO DE ADMINISTRACIÓN. CMA. Artículo integrado y unificado en el artículo 2.1.2.1.4.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto p",
+   "diff": {
+    "corpus": "...gún lo definido en el artículo 10 de la presente resolución. PARÁGRAFO. Para el cálculo de los costos administrativos eficientes por suscriptor mensual del año 1 la persona prestadora deberá tomar como costo administrativo eficiente por suscriptor mensual del año anterior el costo administrativo por suscriptor mensual del año base . PARÁGRAFO 1. Las personas prestadoras del primer segmento que presten los servicios públicos domiciliarios de acueducto y alcantarillado por separado y que tengan en común por lo menos el 60% de sus suscriptores, se unirán para efectos de calcular el puntaje de eficiencia comparativa simulando una empresa prestadora de los dos servicios mediante el siguiente tratamiento: a. Se sumarán los costos administrativos de cada prestador para generar la variable insumo del modelo DEA. b. Al insumo de costos administrativos del modelo DEA se le asociarán los productos de cada prestador definidos en el ANEXO II de la presente resolución, según corresponda, de tal forma que se constituya una unidad completa para incorporar al modelo. c. El puntaje resultante de la empresa simulada se asignará a los respectivos de cada prestador. PARÁGRAFO 2. Las personas prestadoras del primer segmento que no cumplan los parámetros mínimos de inclusión al modelo DEA, establecidos en el ANEXO II de la presente resolución, deberán tomar el menor resultante de las empresas que hagan parte del modelo, hasta tanto cumplan con dichos parámetros. PARÁGRAFO 3o. Parágrafo adicionado por el artículo 10 de la Resolución 735 de 2015. El nuevo texto es el siguiente: Para el cálculo del PDEA, la CRA evaluará la información reportada por las personas prestadoras con APS pertenecientes al primer segmento que se encuentran relacionadas en el numeral 8 del Anexo II de la presente resolución. A partir del cumplimiento de los parámetros mínimos para la inclusión en el modelo y la no presentación de datos atípicos en la información reportada en el SUI de cinco (5) o más personas prestadoras se realizará el cálculo del PDEA, las cuales constituirán el grupo básico para el cálculo del PDEA. Si entre una (1) y cuatro (4) personas prestadoras cumplen con los parámetros mínimos para la inclusión en el modelo y no presentan datos atípicos en la información reportada en el SUI, no se aplicará la metodología del DEA. Estas personas prestadoras tendrán un PDEA del 100% y el menor CAU resultante de ellas deberá ser aplicado por las demás personas prestadoras que cuenten con APS en las que apliquen la metodología del primer segmento. PARÁGRAFO 4o. Parágrafo adicionado por el artículo 10 de la Resolución 735 de 2015. El nuevo texto es el siguiente: En el evento que ningún prestador cumpla con los parámetros mínimos y se presenten datos atípicos en la información reportada en el SUI para la inclusión en el modelo, las personas prestadoras con APS del primer segmento y las que opten por aplicar la metodología correspondiente al primer segmento, deberán aplicar los siguientes costos administrativos eficientes estándar por suscriptor mensual para cada servicio público domiciliario, en la fórmula del artículo 25 de la presente resolución: Costos administrativos eficientes estándar por suscriptor mensual para el primer segmento (pesos de diciembre de 2014) CAUac $2.612 suscriptor/mes CAUal $1.517 suscriptor/mes PARÁGRAFO 5o. Parágrafo adicionado por el artículo 10 de la Resolución 735 de 2015. El nuevo texto es el siguiente: Aquellas personas prestadoras que atienden APS en las que opten por aplicar la metodología correspondiente al primer segmento, según lo establecido en los parágrafos 3 o 4 del artículo 104 de la presente resolución, y adicionalmente cuenten con APS del primer segmento, deberán aplicar el CAU obtenido por estas últimas. PARÁGRAFO 6o. Parágrafo adicionado por el artículo 10 de la Resolución 735 de 2015. El nuevo texto es el siguiente: El PDEA de costos administrativos para aquellas personas prestadoras con APS del segundo segmento, que optaron por aplicar la metodología correspondiente al primero, dando cumplimiento a lo establecido en el parágrafo 3o del artículo 104 de la presente resolución, se calculará de la siguiente manera: i) Si existe grupo básico y la persona prestadora cumple con los parámetros mínimos establecidos en el Anexo II de la presente resolución y no presenta datos atípicos en la información reportada en el SUI, el PDEA será estimado e informado por la CRA, sin modificar los puntajes de las APS pertenecientes al grupo básico. En el evento de no cumplir con los parámetros mínimos aplicará el menor CAU resultante del grupo básico. ii) Si no existe grupo básico y entre una (1) y cuatro (4) personas prestadoras cumplieron con los parámetros mínimos para la inclusión en el modelo, deberá aplicar el menor CAU resultante de ellas. Si ninguna persona prestadora cumplió con los parámetros mínimos, entonces aplicará el CAU definido en el parágrafo 4 del presente artículo. PARÁGRAFO 7o. Parágrafo adicionado por el artículo 10 de la Resolución 735 de 2015. El nuevo texto es el siguiente: Las personas prestadoras que cuenten con APS del primer segmento y/o con APS en las que optaron por aplicar la metodología correspondiente al primer segmento dando cumplimiento a lo establecido en los parágrafos 3o o 4o del artículo 104 de la presente resolución, deberán aplicar el PDEA utilizado para el cálculo de las tarifas de la Resolución CRA número 287 de 2004 en la fórmula del presente artículo, hasta tanto la CRA informe mediante resolución si se aplicó el modelo del DEA, los puntajes definitivos así como la fecha a partir de la cual regirán o si los prestadores deberán aplicar lo establecido en los parágrafos 3o o 4o del presente artículo, según corresponda. PARÁGRAFO 8o. Parágrafo adicionado por el artículo 10 de la Resolución 735 de 2015. El nuevo texto es el siguiente: Una vez la persona prestadora cumpla con los parámetros mínimos y no presente datos atípicos en la información reportada en el SUI para calcular los PDEA, podrá presentar una solicitud particular para modificar los costos administrativos eficientes estándar por suscriptor mensual, de conformidad con lo establecido en el artículo 126 de la Ley 142 de 1994, siempre y cuando se haya realizado el cálculo del PDEA. PARÁGRAFO 1. No se podrán incluir dentro de los costos administrativos aquellos que no guarden relación directa con la prestación de los servicios públicos domiciliarios de acueducto y alcantarillado, o aquellos que explícitamente se excluyan por disposición de esta resolución. PARÁGRAFO 2. Se deberán excluir todos los gastos que correspondan a gastos de actividades con ingreso asociado, tales como suministro de medidores, acometidas, conexiones, reconexiones, entre otros. PARÁGRAFO 3. Parágrafo modificado por el artículo 11 de la Resolución 735 de 2015. El nuevo texto es el siguiente: Las personas prestadoras podrán utilizar el criterio que consideren más idóneo para separar los costos administrativos por APS. En todo caso, la sumatoria de los costos administrativos por APS deberá corresponder a la totalidad de los costos antes de la separación. PARÁGRAFO 4. Parágrafo adicionado por el artículo 11 de la Resolución 735 de 2015. El nuevo texto es el siguiente: Las personas prestadoras podrán agregar la información de la totalidad de las APS que pertenezcan al mismo segmento, correspondan o no a sistemas interconectados, para que el cálculo del Costo Medio de Administración sea realizado de forma unificada por segmento. Para ello, calculará los costos administrativos con la metodología establecida para cada segmento y tendrá en cuenta que la proyección del número de suscriptores, así como la proyección del ICTA, deberá realizarse por APS manteniendo las condiciones de proyección que le corresponda a cada una. PARÁGRAFO. Ver modificaciones temporales en Notas de Vigencia Los aumentos o disminuciones en impuestos, tasas y contribuciones administrativas que no son captados al momento de la proyección del ICTA podrán ser ajustados por la persona prestadora. Para el efecto, la persona prestadora deberá cumplir con las disposiciones contenidas en la sección 5.1.1 de la Resolución CRA 151 de 2001, o la norma que la modifique, adicione o derogue, para el reporte de las variaciones tarifarias, y así mismo, deberá remitir a la Comisión de Regulación de Agua Potable y Saneamiento Básico y a la Superintendencia de Servicios Públicos Domiciliarios el acto administrativo o Ley que haya generado el mayor o menor valor referido en el presente parágrafo. CAPÍTULO II. DEL COSTO MEDIO DE OPERACIÓN....",
+    "fuente": "...gún lo definido en el artículo 10 de la presente resolución...."
+   }
+  },
+  {
+   "articulo": "29",
+   "estado": "divergente",
+   "similitud": 0.1509,
+   "corpus": "ARTÍCULO 29. COSTO MEDIO DE OPERACIÓN. . Artículo integrado y unificado en el artículo 2.1.2.1.4.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "fuente": "ARTÍCULO 29. COSTO MEDIO DE OPERACIÓN. . Artículo integrado y unificado en el artículo 2.1.2.1.4.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "diff": {
+    "corpus": "...ún lo definido en el artículo 19 de la presente resolución. PARÁGRAFO. Para el cálculo de los costos operativos comparables eficientes por suscriptor mensual del año 1 la persona prestadora deberá tomar como costo operativo comparable eficiente por suscriptor mensual del año anterior el costo operativo comparable por suscriptor mensual del año base . PARÁGRAFO 1. Las personas prestadoras del primer segmento que presten los servicios públicos domiciliarios de acueducto y alcantarillado por separado y que tengan en común por lo menos el 60% de sus suscriptores, se unirán para efectos de calcular el puntaje de eficiencia comparativa simulando una empresa prestadora de los dos servicios mediante el siguiente tratamiento: a. Se sumarán los costos operativos comparables de cada prestador para generar la variable insumo del modelo DEA. b. Al insumo de costos operativos comparables del modelo DEA se le asociarán los productos de cada prestador definidos en el ANEXO II de la presente resolución, según corresponda, de tal forma que se constituya una unidad completa para incorporar al modelo. c. El puntaje resultante de la empresa simulada se asignará a los respectivos de cada prestador. PARÁGRAFO 2. Las personas prestadoras del primer segmento que no cumplan los parámetros mínimos de inclusión al modelo DEA, establecidos en el ANEXO II de la presente resolución, deberán tomar el menor resultante de las empresas que hagan parte del modelo, hasta tanto cumplan con dichos parámetros. PARÁGRAFO 3o. Parágrafo adicionado por el artículo 13 de la Resolución 735 de 2015. El nuevo texto es el siguiente: Para el cálculo del PDEA la CRA evaluará la información reportada por las personas prestadoras con APS pertenecientes al primer segmento que se encuentran relacionadas en el numeral 8 del Anexo II de la presente resolución. A partir del cumplimiento de los parámetros mínimos para la inclusión en el modelo y la no presentación de datos atípicos en la información reportada en el SUI de cinco (5) o más personas prestadoras se realizará el cálculo del P...",
+    "fuente": "...ún lo definido en el artículo 19 de la presente resolución. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "43",
+   "estado": "divergente",
+   "similitud": 0.3637,
+   "corpus": "ARTÍCULO 43. COSTO MEDIO DE INVERSIÓN (CMI). Artículo integrado y unificado en el artículo 2.1.2.1.4.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por e",
+   "fuente": "ARTÍCULO 43. COSTO MEDIO DE INVERSIÓN (CMI). Artículo integrado y unificado en el artículo 2.1.2.1.4.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por e",
+   "diff": {
+    "corpus": "...análisis. Corresponde a un valor entre uno (1) y diez (10). PARÁGRAFO 1. La remuneración de los activos relacionados con la prestación de los servicios públicos domiciliarios de acueducto y alcantarillado se realiza únicamente a través de su inclusión en la BCR. PARÁGRAFO 2. Las personas prestadoras beneficiarias en los contratos de suministro de agua potable y/o interconexión de acueducto y alcantarillado deberán aplicar la siguiente fórmula: Donde: Pago total por concepto de contratos de suministro de agua potable y/o contratos de interconexión del año i (pesos de diciembre del año base), de acuerdo con el Artícul...",
+    "fuente": "...análisis. Corresponde a un valor entre uno (1) y diez (10). [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "46",
+   "estado": "divergente",
+   "similitud": 0.8475,
+   "corpus": "ARTÍCULO 46. BASE DE CAPITAL REGULADA DEL AÑO BASE. . Artículo integrado y unificado en el artículo 2.1.2.1.4.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispue",
+   "fuente": "ARTÍCULO 46. BASE DE CAPITAL REGULADA DEL AÑO BASE. . Artículo integrado y unificado en el artículo 2.1.2.1.4.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispue",
+   "diff": {
+    "corpus": "...tro de la BCR0 los activos incluidos en el CMA y en el CMO. PARÁGRAFO. El ajuste al valor del CMI por los aportes bajo condición se establece sin perjuicio...",
+    "fuente": "...tro de la BCR0 los activos incluidos en el CMA y en el CMO. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "50",
+   "estado": "divergente",
+   "similitud": 0.9121,
+   "corpus": "ARTÍCULO 50. PLAN DE OBRAS E INVERSIONES REGULADO (POIR). Artículo integrado y unificado en el artículo 2.1.2.1.4.3.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo di",
+   "fuente": "ARTÍCULO 50. PLAN DE OBRAS E INVERSIONES REGULADO (POIR). Artículo integrado y unificado en el artículo 2.1.2.1.4.3.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo di",
+   "diff": {
+    "corpus": "... modificarán como consecuencia de aportes de este tipo. PARÁGRAFO 1. En el evento que un proyecto incluido en el POIR re...",
+    "fuente": "... modificarán como consecuencia de aportes de este tipo. Para cada proyecto incluido en el POIR, se deberán especificar como mínimo, los siguientes elementos: 1. Nombre del proyecto. 2. Servicio. 3. ..."
+   }
+  },
+  {
+   "articulo": "54",
+   "estado": "divergente",
+   "similitud": 0.3291,
+   "corpus": "ARTÍCULO 54. COSTO MEDIO GENERADO POR TASAS AMBIENTALES PARA ACUEDUCTO. . Artículo integrado y unificado en el artículo 2.1.2.1.4.4.1 de la Resolución CRA 943 de 2021. Debe tenerse",
+   "fuente": "ARTÍCULO 54. COSTO MEDIO GENERADO POR TASAS AMBIENTALES PARA ACUEDUCTO. . Artículo integrado y unificado en el artículo 2.1.2.1.4.4.1 de la Resolución CRA 943 de 2021. Debe tenerse",
+   "diff": {
+    "corpus": "...ue, adicione, sustituya o derogue con la siguiente fórmula: PARÁGRAFO 1. En caso que la persona prestadora utilice varia...",
+    "fuente": "...ue, adicione, sustituya o derogue con la siguiente fórmula: Costo medio generado por tasas ambientales en el período i para el servicio público domiciliario de acueducto (pesos de diciembre del año base/m3). Monto a pagar en el período i por tasas ambientales para el servicio público domiciliario de acueducto de acuerdo con la normativa vigente (pesos de diciembre del año base). Consumo corregido por pérdidas en el período i para el servicio público domiciliario de acueducto, definido de acuerdo con el Artículo 19 de la presente resolución (m3). Período de facturación de tasas ambientales de acuerdo con la normatividad vigente. PARÁGRAFO 1. En caso que la persona prestadora utilice varia..."
+   }
+  },
+  {
+   "articulo": "56",
+   "estado": "casi",
+   "similitud": 0.993,
+   "corpus": "ARTÍCULO 56. PAGO TOTAL POR CONCEPTO DE CONTRATOS DE SUMINISTRO DE AGUA POTABLE Y/O INTERCONEXIÓN DE ACUEDUCTO Y ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1",
+   "fuente": "ARTÍCULO 56. PAGO TOTAL POR CONCEPTO DE CONTRATOS DE SUMINISTRO DE AGUA POTABLE Y/O INTERCONEXIÓN DE ACUEDUCTO Y ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1",
+   "diff": {
+    "corpus": "...mo se establece en el Artículo 57 de la presente resolución....",
+    "fuente": "...mo se establece en el Artículo 57 de la presente resolución. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "57",
+   "estado": "casi",
+   "similitud": 0.9925,
+   "corpus": "ARTÍCULO 57. PORCENTAJES DE DISTRIBUCIÓN DE LOS COSTOS EN LOS CONTRATOS DE SUMINISTRO DE AGUA POTABLE Y/O INTERCONEXIÓN DE ACUEDUCTO Y ALCANTARILLADO. Artículo integrado y unificad",
+   "fuente": "ARTÍCULO 57. PORCENTAJES DE DISTRIBUCIÓN DE LOS COSTOS EN LOS CONTRATOS DE SUMINISTRO DE AGUA POTABLE Y/O INTERCONEXIÓN DE ACUEDUCTO Y ALCANTARILLADO. Artículo integrado y unificad",
+   "diff": {
+    "corpus": "...s beneficiarios. CAPÍTULO VI. DE LA ACTUALIZACIÓN DE COSTOS....",
+    "fuente": "...s beneficiarios. CAPÍTULO VI. DE LA ACTUALIZACIÓN DE COSTOS. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "58",
+   "estado": "divergente",
+   "similitud": 0.5671,
+   "corpus": "ARTÍCULO 58. ACTUALIZACIÓN DE LOS COSTOS. Artículo integrado y unificado en el artículo 2.1.2.1.4.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
+   "fuente": "ARTÍCULO 58. ACTUALIZACIÓN DE LOS COSTOS. Artículo integrado y unificado en el artículo 2.1.2.1.4.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
+   "diff": {
+    "corpus": "...rsonas prestadoras deberán proceder de la siguiente manera: PARÁGRAFO 1. La aplicación del IPC se sujetará a lo establec...",
+    "fuente": "...rsonas prestadoras deberán proceder de la siguiente manera: Donde: Se refiere al costo de referencia con el cual la persona prestadora empezará a aplicar la metodología de cálculo establecida en la presente resolución, actualizado con el último Índice de Precios al Consumidor - IPC publicado por el DANE, expresado en términos unitarios. Se refiere al costo de referencia resultante de la aplicación de la presente metodología para cada uno de los componentes de los servicios públicos domiciliarios de acueducto y alcantarillado, el cual está expresado en pesos de diciembre del año base. Factor de Actualización al momento en que la persona prestadora empezará a aplicar la metodología de cálculo establecida en la presente resolución, utilizando el último IPC publicado por el DANE. Este factor será calculado de la siguiente manera: Último reporte del IPC publicado por el DANE del mes en el cual la persona prestadora empezará a aplicar la metodología tarifaria establecida en la presente resolución. IPC reportado por el DANE correspondiente al mes de diciembre del año base. Una vez actualizado el costo de referencia de los servicios públicos domiciliarios de acueducto y alcantarillado, la persona prestadora podrá aplicar un factor de actualización por IPC cada vez que el Índice de Precios al Consumidor, reportado por el DANE, acumule una variación de por lo menos tres por ciento (3%). Las personas prestadoras deberán iniciar las acumulaciones del IPC desde la fecha del , de conformidad con la siguiente fórmula: Donde: Se refiere al costo de referencia actualizado para el periodo i de los servicios públicos domiciliarios de acueducto y alcantarillado, expresado en términos unitarios. Factor de Actualización por IPC, el cual podrá ser aplicado cada vez que se acumule una variación de por lo menos el tres por ciento (3%) en el Índice de Precios al Consumidor reportado por el DANE. Este factor será calculado de la siguiente manera: Donde: IPC reportado por el DANE en el mes seleccionado por la persona prestadora, para efectos de realizar la actualización por concepto de IPC (mes final). IPC reportado por el DANE correspondiente al último mes en el cual se realizó la actualización por concepto de IPC o aquel que la persona prestadora seleccione como mes base para la actualización, el cual no podrá ser anterior al momento en el que se aplicó la última indexación. PARÁGRAFO 1. La aplicación del IPC se sujetará a lo establec..."
+   }
+  },
+  {
+   "articulo": "59",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "60",
+   "estado": "divergente",
+   "similitud": 0.7077,
+   "corpus": "ARTÍCULO 60. COSTO HASTA EL SUBSISTEMA DE SUMINISTRO DE AGUA POTABLE DEL SISTEMA DE ACUEDUCTO. Artículo integrado y unificado en el artículo 2.1.2.1.5.2 de la Resolución CRA 943 de",
+   "fuente": "ARTÍCULO 60. COSTO HASTA EL SUBSISTEMA DE SUMINISTRO DE AGUA POTABLE DEL SISTEMA DE ACUEDUCTO. Artículo integrado y unificado en el artículo 2.1.2.1.5.2 de la Resolución CRA 943 de",
+   "diff": {
+    "corpus": "...de las entradas por contratos de suministro de agua potable. PARÁGRAFO. Parágrafo modificado por el artículo 22 de la Resolución 735 de 2015. El nuevo texto es el siguiente: Para el cálculo del costo medio de operación comparable se deberá separar el costo de operación total asociado al subsistema de suministro en el año i (pesos de diciembre del año base) establecido en la fórmula como COTi,s,ac, entre costos comparables y particulares y aplicar en dicho cálculo el denominador establecido en el presente artículo. PARÁGRAFO. El costo hasta el subsistema de transporte de agua potable corresponde al costo de las actividades del subsistema de producción, las entradas por contratos de suministro de agua potable y las actividades del subsistema de transporte. PARÁGRAFO. Parágrafo modificado por el artículo 23 de la Resolución 735 de 2015. El nuevo texto es el siguiente: Para el cálculo del costo medio de operación comparable del subsistema se deberá separar, el costo de operación total asociado al subsistema de transporte en el año i (pesos de diciembre del año base) establecido en la fórmula como COTi,s+T entre costos comparables y particulares y aplicar en dicho cálculo el denominador establecido en el presente artículo. PARÁGRAFO. El costo hasta el subsistema de distribución de agua potable corresponde al costo de las actividades del subsistema de producción, las entradas por contratos de suministro de agua potable, las actividades del subsistema de transporte y las actividades del subsistema de distribución. PARÁGRAFO. El costo desde el subsistema de recolección de aguas residuales corresponde al costo de las actividades de los subsistemas de recolección, transporte, y tratamiento y/o disposición final....",
+    "fuente": "...de las entradas por contratos de suministro de agua potable...."
+   }
+  },
+  {
+   "articulo": "73",
+   "estado": "casi",
+   "similitud": 0.9941,
+   "corpus": "ARTÍCULO 73. COSTO MEDIO DE OPERACIÓN DESDE EL SUBSISTEMA DE RECOLECCIÓN DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.",
+   "fuente": "ARTÍCULO 73. COSTO MEDIO DE OPERACIÓN DESDE EL SUBSISTEMA DE RECOLECCIÓN DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.",
+   "diff": {
+    "corpus": "...gún lo definido en el Artículo 19 de la presente resolución....",
+    "fuente": "...gún lo definido en el Artículo 19 de la presente resolución. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "74",
+   "estado": "casi",
+   "similitud": 0.9942,
+   "corpus": "ARTÍCULO 74. COSTO MEDIO DE INVERSIÓN DESDE EL SUBSISTEMA DE RECOLECCIÓN DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.",
+   "fuente": "ARTÍCULO 74. COSTO MEDIO DE INVERSIÓN DESDE EL SUBSISTEMA DE RECOLECCIÓN DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.",
+   "diff": {
+    "corpus": "...gún lo definido en el Artículo 19 de la presente resolución....",
+    "fuente": "...gún lo definido en el Artículo 19 de la presente resolución. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "75",
+   "estado": "casi",
+   "similitud": 0.9929,
+   "corpus": "ARTÍCULO 75. COSTO DESDE EL SUBSISTEMA DE TRANSPORTE DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.5.21 de la Resolució",
+   "fuente": "ARTÍCULO 75. COSTO DESDE EL SUBSISTEMA DE TRANSPORTE DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.5.21 de la Resolució",
+   "diff": {
+    "corpus": "...te, y tratamiento y/o disposición final de aguas residuales....",
+    "fuente": "...te, y tratamiento y/o disposición final de aguas residuales. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "76",
+   "estado": "casi",
+   "similitud": 0.993,
+   "corpus": "ARTÍCULO 76. COSTO MEDIO DE OPERACIÓN DESDE EL SUBSISTEMA DE TRANSPORTE DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.5",
+   "fuente": "ARTÍCULO 76. COSTO MEDIO DE OPERACIÓN DESDE EL SUBSISTEMA DE TRANSPORTE DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.5",
+   "diff": {
+    "corpus": "...gún lo definido en el Artículo 19 de la presente resolución....",
+    "fuente": "...gún lo definido en el Artículo 19 de la presente resolución. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "77",
+   "estado": "casi",
+   "similitud": 0.9933,
+   "corpus": "ARTÍCULO 77. COSTO MEDIO DE INVERSIÓN DESDE EL SUBSISTEMA DE TRANSPORTE DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.5",
+   "fuente": "ARTÍCULO 77. COSTO MEDIO DE INVERSIÓN DESDE EL SUBSISTEMA DE TRANSPORTE DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.5",
+   "diff": {
+    "corpus": "...gún lo definido en el Artículo 19 de la presente resolución....",
+    "fuente": "...gún lo definido en el Artículo 19 de la presente resolución. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "78",
+   "estado": "casi",
+   "similitud": 0.9922,
+   "corpus": "ARTÍCULO 78. COSTO DEL SUBSISTEMA DE TRATAMIENTO Y/O DISPOSICIÓN FINAL DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.5.",
+   "fuente": "ARTÍCULO 78. COSTO DEL SUBSISTEMA DE TRATAMIENTO Y/O DISPOSICIÓN FINAL DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el artículo 2.1.2.1.5.",
+   "diff": {
+    "corpus": "...e/m3), definido en el Artículo 55 de la presente resolución....",
+    "fuente": "...e/m3), definido en el Artículo 55 de la presente resolución. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "79",
+   "estado": "casi",
+   "similitud": 0.9919,
+   "corpus": "ARTÍCULO 79. COSTO MEDIO DE OPERACIÓN DEL SUBSISTEMA DE TRATAMIENTO Y/O DISPOSICIÓN FINAL DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el ",
+   "fuente": "ARTÍCULO 79. COSTO MEDIO DE OPERACIÓN DEL SUBSISTEMA DE TRATAMIENTO Y/O DISPOSICIÓN FINAL DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el ",
+   "diff": {
+    "corpus": "...gún lo definido en el Artículo 19 de la presente resolución....",
+    "fuente": "...gún lo definido en el Artículo 19 de la presente resolución. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "80",
+   "estado": "casi",
+   "similitud": 0.9925,
+   "corpus": "ARTÍCULO 80. COSTO MEDIO DE INVERSIÓN DEL SUBSISTEMA DE TRATAMIENTO Y/O DISPOSICIÓN FINAL DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el ",
+   "fuente": "ARTÍCULO 80. COSTO MEDIO DE INVERSIÓN DEL SUBSISTEMA DE TRATAMIENTO Y/O DISPOSICIÓN FINAL DE AGUAS RESIDUALES DEL SISTEMA DE ALCANTARILLADO. . Artículo integrado y unificado en el ",
+   "diff": {
+    "corpus": "... la presente resolución. TÍTULO VI. DE LA FÓRMULA TARIFARIA....",
+    "fuente": "... la presente resolución. TÍTULO VI. DE LA FÓRMULA TARIFARIA. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "81",
+   "estado": "divergente",
+   "similitud": 0.7349,
+   "corpus": "ARTÍCULO 81. DEL CARGO FIJO. Artículo integrado y unificado en el artículo 2.1.2.1.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3",
+   "fuente": "ARTÍCULO 81. DEL CARGO FIJO. Artículo integrado y unificado en el artículo 2.1.2.1.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3",
+   "diff": {
+    "corpus": "...rcial definidos en el TÍTULO VII de la presente resolución. PARÁGRAFO 1o. Los valores unitarios y totales cobrados al usuario por concepto de las tasas ambientales para los servicios públicos domiciliarios de acueducto y alcantarillado deberán hacerse explícitos en la factura. PARÁGRAFO 2o. El cargo por consumo, en concordancia con las metas de servicio y de eficiencia establecidas en la presente resolución, está asociado a los descuentos por calidad del agua y continuidad del servicio definidos en el TÍTULO VII de la presente resolución. PARÁGRAFO 3o. Los valores unitarios y totales cobrados al usuario por concepto de las inversiones ambientales adicionales para la protección de cuencas y fuentes de agua para el servicio público domiciliario de acueducto deberán hacerse explícitos en la factura. TÍTULO VII. DE LA DEFINICIÓN DE DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO....",
+    "fuente": "...rcial definidos en el TÍTULO VII de la presente resolución. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "84",
+   "estado": "divergente",
+   "similitud": 0.7947,
+   "corpus": "ARTÍCULO 84. OBJETO. Artículo integrado y unificado en el artículo 2.1.2.1.7.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 ",
+   "fuente": "ARTÍCULO 84. OBJETO. Artículo integrado y unificado en el artículo 2.1.2.1.7.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 ",
+   "diff": {
+    "corpus": "... su desempeño en lo que respecta a la calidad del servicio. PARÁGRAFO. Los suscriptores a los cuales se les facture el servicio de alcantarillado con base en la medición de sus vertimientos, no les aplicará el descuento por reclamación comercial para el servicio público domiciliario de alcantarillado CAPÍTULO I. DE LA GESTIÓN ASOCIADA A LAS METAS DE CALIDAD DEL AGUA....",
+    "fuente": "... su desempeño en lo que respecta a la calidad del servicio. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "86",
+   "estado": "divergente",
+   "similitud": 0.6342,
+   "corpus": "ARTÍCULO 86. CÁLCULO DEL INDICADOR DE CALIDAD DEL AGUA POTABLE (ICAP). Artículo integrado y unificado en el artículo 2.1.2.1.7.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en",
+   "fuente": "ARTÍCULO 86. CÁLCULO DEL INDICADOR DE CALIDAD DEL AGUA POTABLE (ICAP). Artículo integrado y unificado en el artículo 2.1.2.1.7.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en",
+   "diff": {
+    "corpus": "...de sus funciones, adelantará las acciones a que haya lugar. Semestres consecutivos de incumplimiento Factor de reincidencia 1 0,20 2 0,60 3 o superior 1,00 ICAP: Indicador de Calidad del Agua Potable basado en el promedio semestral de los valores mensuales del IRCA, al que hace referencia el ARTÍCULO 86 de la presente resolución. DmaxICAP: Factor de descuento máximo asociado a la calidad de agua. Este factor se obtiene con la siguiente expresión: DmaxICAP – FP&iexcl;cap ((FdCM0 CMOac) + (FdCM&iexcl; CMIac)) FPicap: Factor de pond...",
+    "fuente": "...de sus funciones, adelantará las acciones a que haya lugar. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "89",
+   "estado": "divergente",
+   "similitud": 0.9311,
+   "corpus": "ARTÍCULO 89. CÁLCULO DE LOS INDICADORES DE CONTINUIDAD. (, y CICON). Artículo integrado y unificado en el artículo 2.1.2.1.7.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en c",
+   "fuente": "ARTÍCULO 89. CÁLCULO DE LOS INDICADORES DE CONTINUIDAD. (, y CICON). Artículo integrado y unificado en el artículo 2.1.2.1.7.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en c",
+   "diff": {
+    "corpus": "...General para el sistema en el APS analizada Donde: ICONml: Índice de continuidad acumulado para la ruta de lectura y el mes m. ICONm,TOTAL: Índice de continuidad acumulado y general de tod...",
+    "fuente": "...General para el sistema en el APS analizada Donde: ICONml: ICONm,TOTAL: Índice de continuidad acumulado y general de tod..."
+   }
+  },
+  {
+   "articulo": "92",
+   "estado": "divergente",
+   "similitud": 0.918,
+   "corpus": "ARTÍCULO 92. INDICADOR DE RECLAMOS COMERCIALES (IQR y CIQR). Artículo integrado y unificado en el artículo 2.1.2.1.7.4.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo",
+   "fuente": "ARTÍCULO 92. INDICADOR DE RECLAMOS COMERCIALES (IQR y CIQR). Artículo integrado y unificado en el artículo 2.1.2.1.7.4.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo",
+   "diff": {
+    "corpus": "... con una periodicidad mensual y discriminada por municipio. PARÁGRAFO. Los descuentos correspondientes al servicio público domiciliario de alcantarillado se basan en las reclamaciones comerciales por facturación que se resuelvan a favor del suscriptor en segunda instancia y en firme la decisión para el servicio de acueducto, durante el periodo de evaluación, por lo que el valor de incumplimiento para el servicio público domiciliario de alcantarillado se calculará con base en el indicador de cumplimiento correspondiente al servicio público domiciliario de acueducto, de que trata el ARTÍCULO 92 de la presente resolución. CAPÍTULO IV. TOTAL DE DESCUENTOS APLICABLES A CADA SUSCRIPTOR....",
+    "fuente": "... con una periodicidad mensual y discriminada por municipio. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "95",
+   "estado": "divergente",
+   "similitud": 0.7302,
+   "corpus": "ARTÍCULO 95. DESCUENTO TOTAL APLICABLE AL SUSCRIPTOR DEL SERVICIO. Artículo integrado y unificado en el artículo 2.1.2.1.7.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "fuente": "ARTÍCULO 95. DESCUENTO TOTAL APLICABLE AL SUSCRIPTOR DEL SERVICIO. Artículo integrado y unificado en el artículo 2.1.2.1.7.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "diff": {
+    "corpus": "...riptor durante el semestre de aplicación de los descuentos. PARÁGRAFO 1o. En todo caso la persona prestadora al momento de hacer efectivos los descuentos, reconocerá a cada...",
+    "fuente": "...riptor durante el semestre de aplicación de los descuentos. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "97",
+   "estado": "divergente",
+   "similitud": 0.7946,
+   "corpus": "ARTÍCULO 97. REPORTE DE LOS INDICADORES. Artículo integrado y unificado en el artículo 2.1.2.1.7.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "fuente": "ARTÍCULO 97. REPORTE DE LOS INDICADORES. Artículo integrado y unificado en el artículo 2.1.2.1.7.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "diff": {
+    "corpus": "...s Domiciliarios, para su ejercicio de vigilancia y control. PARÁGRAFO. Los artículos definidos en el presente capítulo serán aplicados sin perjuicio de las acciones que la Superintendencia de Servicios Públicos Domiciliarios pueda efectuar con respecto al reporte adecuado de información y su correspondiente verificación y aplicación. CAPÍTULO VI. DISPOSICIONES FINALES DEL TÍTULO DE LA CALIDAD DEL SERVICIO....",
+    "fuente": "...s Domiciliarios, para su ejercicio de vigilancia y control. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "101",
+   "estado": "divergente",
+   "similitud": 0.743,
+   "corpus": "ARTÍCULO 101. VALOR DE LOS INDICADORES POR NO REPORTE DE INFORMACIÓN. Artículo integrado y unificado en el artículo 2.1.2.1.7.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en ",
+   "fuente": "ARTÍCULO 101. VALOR DE LOS INDICADORES POR NO REPORTE DE INFORMACIÓN. Artículo integrado y unificado en el artículo 2.1.2.1.7.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en ",
+   "diff": {
+    "corpus": "...de la Superintendencia de Servicios Públicos Domiciliarios. PARÁGRAFO. En el evento que se presenten variaciones de la tarifa del estrato 4 durante el semestre de análisis, para el cálculo de los descuentos se utilizará el promedio de las tarifas, ponderado por los días del semestre durante los cuales estuvieron vigentes cada una de ellas. PARÁGRAFO 1o. No obstante lo anterior, los prestadores de los servicios públicos domiciliarios de acueducto y alcantarillado deberán realizar la captura de información y el cálculo de los indicadores de seguimiento y cumplimiento, referentes a calidad del agua potable, continuidad del servicio y reclamación comercial, enmarcados dentro de los descuentos asociados a la calidad del servicio establecidos en el Título VII de la Resolución CRA 688 de 2014, modificado parcialmente mediante la Resolución CRA 735 de 2015, a partir del 1o de enero de 2017. PARÁGRAFO 2o. Los descuentos asociados a la continuidad del servicio público domiciliario de acueducto para el segundo segmento, entrarán en vigencia a partir del inicio del tercer año, es decir a partir del mes de julio del año 2018, con base en la medición que se realice durante el semestre comprendido entre el 1o de enero y el 30 de junio de 2018. TÍTULO VIII. DE LA IMPLEMENTACIÓN DE LA METODOLOGÍA TARIFARIA....",
+    "fuente": "...de la Superintendencia de Servicios Públicos Domiciliarios. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "104",
+   "estado": "casi",
+   "similitud": 0.9914,
+   "corpus": "ARTÍCULO 104. REVISIÓN DE INFORMACIÓN Y PLAZOS. Artículo integrado y unificado en el artículo 2.1.2.1.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por ",
+   "fuente": "ARTÍCULO 104. REVISIÓN DE INFORMACIÓN Y PLAZOS. Artículo integrado y unificado en el artículo 2.1.2.1.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por ",
+   "diff": {
+    "corpus": "...o, aplicar la metodología que le correspondía inicialmente. TÍTULO IX. DEL SEGUIMIENTO A LAS METAS....",
+    "fuente": "...o, aplicar la metodología que le correspondía inicialmente. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "106",
+   "estado": "casi",
+   "similitud": 0.9958,
+   "corpus": "ARTÍCULO 106. TABLERO DE CONTROL DEL CUMPLIMIENTO DE LAS METAS DE LOS INDICADORES. Artículo integrado y unificado en el artículo 2.1.2.1.9.1 de la Resolución CRA 943 de 2021. Debe ",
+   "fuente": "ARTÍCULO 106. TABLERO DE CONTROL DEL CUMPLIMIENTO DE LAS METAS DE LOS INDICADORES. Artículo integrado y unificado en el artículo 2.1.2.1.9.1 de la Resolución CRA 943 de 2021. Debe ",
+   "diff": {
+    "corpus": "...ecursos efectivamente invertidos para alcanzar dichas metas....",
+    "fuente": "...ecursos efectivamente invertidos para alcanzar dichas metas. [ ](#documentotop)..."
+   }
+  },
+  {
+   "articulo": "107",
+   "estado": "divergente",
+   "similitud": 0.7901,
+   "corpus": "ARTÍCULO 107. SEGUIMIENTO DE LAS METAS PARA LOS INDICADORES. Artículo integrado y unificado en el artículo 2.1.2.1.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo d",
+   "fuente": "ARTÍCULO 107. SEGUIMIENTO DE LAS METAS PARA LOS INDICADORES. Artículo integrado y unificado en el artículo 2.1.2.1.9.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo d",
+   "diff": {
+    "corpus": "...evos suscriptores residenciales de acueducto. Suscriptores Artículo 11 ICUFi - Índice de Agua Consumida por Usuario Facturado Acueducto. (m3/suscriptor/mes) Artículo 15 Nuevos suscriptores residenciales de alcantarillado. Suscriptores Artículo 11 ICUFi - Índice de Agua Consumida por Usuario Facturado Alcantarillado. (m3/suscriptor/mes) Artículo 15 DACALi- Diferencia entre suscriptores de Acueducto y Alcantarillado. Suscriptores Metas anuales definidas por la persona prestadora con base en el POIR IPUFi - Índice de Pérdidas por Usuario Facturado. (m3/suscriptor/mes) Artículo 17...",
+    "fuente": "...evos suscriptores residenciales de acueducto. Suscriptores..."
+   }
+  },
+  {
+   "articulo": "27",
+   "estado": "divergente",
+   "similitud": 0.9528,
+   "corpus": "Artículo 27 CAUi –costos administrativos eficientes estándar por suscriptor mensual de alcantarillado. ($/suscriptor/mes) Artículo 25",
+   "fuente": "Artículo 27 CAUi –costos administrativos eficientes estándar por suscriptor mensual de alcantarillado. ($/suscriptor/mes)",
+   "diff": {
+    "corpus": "...por suscriptor mensual de alcantarillado. ($/suscriptor/mes) Artículo 25...",
+    "fuente": "...por suscriptor mensual de alcantarillado. ($/suscriptor/mes)..."
+   }
+  },
+  {
+   "articulo": "34",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "38",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "39",
+   "estado": "divergente",
+   "similitud": 0.9697,
+   "corpus": "Artículo 39 &iexcl;Error! No se encuentra el origen de la referencia. CUP - Costos Unitarios Particulares alcantarillado. ($/m3) ? ICUP",
+   "fuente": "Artículo 39 ¡Error! No se encuentra el origen de la referencia. CUP - Costos Unitarios Particulares alcantarillado. ($/m3) ? ICUP",
+   "diff": {
+    "corpus": "...Artículo 39 &iexcl;Error! No se encuentra el origen de la referencia. CUP - Cos...",
+    "fuente": "...Artículo 39 ¡Error! No se encuentra el origen de la referencia. CUP - Cos..."
+   }
+  },
+  {
+   "articulo": "37",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "40",
+   "estado": "divergente",
+   "similitud": 0.1375,
+   "corpus": "Artículo 40 IQR - Indicador de reclamos comerciales. (reclamos/1.000 suscriptores/periodo de tiempo analizado) Artículo 92 EBITDA ($/año) Utilidad Operacional + Depreciación + Amor",
+   "fuente": "Artículo 40 IQR - Indicador de reclamos comerciales. (reclamos/1.000 suscriptores/periodo de tiempo analizado)",
+   "diff": {
+    "corpus": "...s. (reclamos/1.000 suscriptores/periodo de tiempo analizado) Artículo 92 EBITDA ($/año) Utilidad Operacional + Depreciación + Amortizaciones + Provisiones Liquidez Razón Activo corriente/Pasivo corriente Endeudamiento total % Pasivo total /Activo Total Cobertura de acueducto (Viviendas geo-referenciadas) Nuevos suscriptores del servicio de acueducto Artículo 11 Calidad de acueducto Puntaje IRCA (%) Artículo 9 Continuidad de acueducto Días de prestación del servicio/ días totales del año Artículo 9 Cobertura de alcantarillado (Viviendas geo-referenciadas) Nuevos suscriptores del servicio de alcantarillado Artículo 11 Calidad de alcantarillado % de cumplimiento del PSMV Artículo 9 Continuidad de alcantarillado Días de prestación del servicio/ días totales del año Artículo 9 Para el cálculo de los costos de referencia se deben definir las metas anuales para los años 1 a 10, teniendo en cuenta los estándares de eficiencia establecidos en la presente resolución. Para las metas cuyo resultado eficiente debe aumentar el indicador de cumplimiento será: Cuando el resultado eficiente es disminuir el indicador se calculará: PARÁGRAFO. Los indicadores que no puedan ser calculados por falta de reporte de información por parte de la persona prestadora, se entenderán como incumplidos, sin perjuicio de las acciones a que haya lugar por parte de la Superintendencia de Servicios Públicos Domiciliarios. TÍTULO X. DISPOSICIONES FINALES....",
+    "fuente": "...s. (reclamos/1.000 suscriptores/periodo de tiempo analizado)..."
+   }
+  },
+  {
+   "articulo": "109",
+   "estado": "divergente",
+   "similitud": 0.7704,
+   "corpus": "ARTÍCULO 109. PROVISIÓN DE RECURSOS POR DIFERENCIAS ENTRE LAS INVERSIONES PLANEADAS Y EJECUTADAS DEL POIR. Artículo integrado y unificado en el artículo 2.1.2.1.10.1 de la Resoluci",
+   "fuente": "ARTÍCULO 109. PROVISIÓN DE RECURSOS POR DIFERENCIAS ENTRE LAS INVERSIONES PLANEADAS Y EJECUTADAS DEL POIR. Artículo integrado y unificado en el artículo 2.1.2.1.10.1 de la Resoluci",
+   "diff": {
+    "corpus": "...POIR actualizado, que hacen parte de la BCR hasta n activos. PARÁGRAFO. En los casos en que la persona prestadora no destine el saldo del encargo fiduciario de acuerdo con lo señalado en el presente artículo, o lo utilice parcialmente, deberá mantener el saldo remanente en dicho encargo hasta el año t, definido en el artículo 110 de la presente resolución. PARÁGRAFO 1. Para el cálculo de la , la persona prestadora deberá tener en cuenta las modificaciones que haya realizado al , durante el periodo de aplicación de la presente resolución, acorde con las disposiciones regulatorias. PARÁGRAFO 2. En aquellos casos en que el valor ejecutado en los proyectos del POIR es mayor al planeado, para el cálculo del valor , el valor total ejecutado de las inversiones del POIR en operación al año t, únicamente será tenido en cuenta en la cuando el prestador haya cumplido al año t con las metas establecidas de conformidad con el ARTÍCULO 9 de la presente resolución. En todo caso, el mayor valor ejecutado en los proyectos del POIR debe cumplir con lo establecido en los artículos 50, 51 y 52 de la presente resolución. La persona prestadora deberá tener a disposición de la Superintendencia de Servicios Públicos Domiciliarios los soportes respectivos. En el caso que el prestador no cumpla con las metas establecidas al año t, en la solo se reconocerá los activos del POIR en operación al año t hasta el valor planeado de los mismos. PARÁGRAFO 3. Para el cálculo del valor el valor total ejecutado de estas inversiones que hayan entrado en operación al año t, únicamente será tenido en cuenta en la , siempre que el prestador haya cumplido al año t, con las metas establecidas de conformidad con el ARTÍCULO 9 de la presente resolución. El valor de deberá corresponder al valor registrado en los estados financieros, depreciado hasta el día anterior a la finalización del año t. En todo caso, el valor ejecutado de los proyectos diferente al POIR debe cumplir con lo establecido en los artículos 50, 51 y 52 de la presente resolución. La persona prestadora deberá tener a disposición de la Superintendencia de Servicios Públicos Domiciliarios los soportes respectivos. En el caso que el prestador no cumpla con las metas establecidas al año t, en la no se reconocerán inversiones diferentes a las ejecutadas del POIR. PARÁGRAFO. La CRA revisará, dentro de los treinta (30) días siguientes al recibo del nuevo estudio de costos, si como resultado del mismo se mantienen o se modifican las condiciones que sustentaron la declaratoria del mercado regional y que no se afecten los elementos esenciales (indicadores, metas, plazo del mercado regional) previstos en la normativa vigente así como la integralidad de la tarifa. En caso de que se afecten se iniciará una actuación administrativa tendiente a revisar la declaratoria de tal mercado....",
+    "fuente": "...POIR actualizado, que hacen parte de la BCR hasta n activos...."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "2",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "13",
+  "16",
+  "17",
+  "23",
+  "24",
+  "25",
+  "26",
+  "28",
+  "30",
+  "31",
+  "32",
+  "33",
+  "35",
+  "36",
+  "41",
+  "42",
+  "44",
+  "45",
+  "47",
+  "48",
+  "49",
+  "51",
+  "52",
+  "53",
+  "55",
+  "55.A",
+  "55.B",
+  "55.C",
+  "55.D",
+  "55.E",
+  "55.F",
+  "55.G",
+  "55.H",
+  "55.I",
+  "55.J",
+  "55.K",
+  "61",
+  "61.A",
+  "62.A",
+  "62",
+  "63",
+  "64",
+  "65",
+  "65.A",
+  "66",
+  "66.A",
+  "67",
+  "68",
+  "69",
+  "69.A",
+  "70",
+  "70.A",
+  "71",
+  "72",
+  "82",
+  "83",
+  "85",
+  "87",
+  "88",
+  "90",
+  "91",
+  "93",
+  "94",
+  "96",
+  "98",
+  "99",
+  "100",
+  "102",
+  "103",
+  "105",
+  "108",
+  "109A",
+  "110",
+  "111",
+  "112",
+  "113",
+  "114",
+  "115",
+  "116",
+  "117",
+  "118",
+  "119",
+  "120",
+  "121",
+  "122"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 6,
+  "casi": 17,
+  "divergentes": 25
+ }
+}

@@ -5,15 +5,15 @@
  "articulos_corpus": 30,
  "resultados": [
   {
-   "articulo": "1o",
+   "articulo": "1",
    "estado": "exacto"
   },
   {
-   "articulo": "2o",
+   "articulo": "2",
    "estado": "exacto"
   },
   {
-   "articulo": "3o",
+   "articulo": "3",
    "estado": "casi",
    "similitud": 0.9995,
    "corpus": "ARTÍCULO 3o. DEFINICIONES. Para los efectos de la presente ley, se entiende por: a) Autorización: Consentimiento previo, expreso e informado del Titular para llevar a cabo el Trata",
@@ -24,27 +24,27 @@
    }
   },
   {
-   "articulo": "4o",
+   "articulo": "4",
    "estado": "exacto"
   },
   {
-   "articulo": "5o",
+   "articulo": "5",
    "estado": "exacto"
   },
   {
-   "articulo": "6o",
+   "articulo": "6",
    "estado": "exacto"
   },
   {
-   "articulo": "7o",
+   "articulo": "7",
    "estado": "exacto"
   },
   {
-   "articulo": "8o",
+   "articulo": "8",
    "estado": "exacto"
   },
   {
-   "articulo": "9o",
+   "articulo": "9",
    "estado": "exacto"
   },
   {
@@ -144,7 +144,7 @@
   {
    "articulo": "30",
    "estado": "divergente",
-   "similitud": 0.0079,
+   "similitud": 0.0078,
    "corpus": "ARTÍCULO 30. VIGENCIA. La presente ley rige a partir de su promulgación.",
    "fuente": "ARTÍCULO 30. VIGENCIA. La presente ley rige a partir de su promulgación. El Presidente del honorable Senado de la República, ROY LEONARDO BARRERAS MONTEALEGRE. El Secretario Genera",
    "diff": {

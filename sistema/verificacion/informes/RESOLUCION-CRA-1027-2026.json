@@ -1,0 +1,22 @@
+{
+ "corpus": "RESOLUCION-CRA-1027-2026.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-1027-2026.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 0,
+ "resultados": [],
+ "sin_contraparte": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7"
+ ],
+ "veredicto": "VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 0
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "corpus": "RESOLUCION-CRA-351-2005.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-351-2005.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 22,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.6239,
+   "corpus": "ARTÍCULO 1o. AMBITO DE APLICACIÓN. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Artículo modificado por el artículo 73 de ",
+   "fuente": "ARTÍCULO 1o. AMBITO DE APLICACIÓN. 177 de la Resolución 853 de 2018 73 de la Resolución 720 de 2015. Consultar el artículo 76 de la misma para la entrada en vigencia. El nuevo text",
+   "diff": {
+    "corpus": "...ARTÍCULO 1o. AMBITO DE APLICACIÓN. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Artículo modificado por el...",
+    "fuente": "...ARTÍCULO 1o. AMBITO DE APLICACIÓN. 177 de la Resolución 853 de 2018 73 de la Resolución 720 de..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "3",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "4",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "5",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "6",
+   "estado": "divergente",
+   "similitud": 0.8554,
+   "corpus": "ARTÍCULO 6o. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 La fórmula tarifaria para el cálculo de los costos máximos del s",
+   "fuente": "ARTÍCULO 6o. 177 de la Resolución 853 de 2018 La fórmula tarifaria para el cálculo de los costos máximos del servicio de aseo tendrá un costo fijo medio de referencia y un costo va",
+   "diff": {
+    "corpus": "...ARTÍCULO 6o. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 La fórmula tarifaria para ...",
+    "fuente": "...ARTÍCULO 6o. 177 de la Resolución 853 de 2018 La fórmula tarifaria para ..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "divergente",
+   "similitud": 0.9719,
+   "corpus": "ARTÍCULO 7o. COSTO FIJO MEDIO DE REFERENCIA, CFMR-. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 El costo fijo medio de re",
+   "fuente": "ARTÍCULO 7o. COSTO FIJO MEDIO DE REFERENCIA, CFMR-. 177 de la Resolución 853 de 2018 El costo fijo medio de referencia por suscriptor se calculará a partir de la sumatoria de los c",
+   "diff": {
+    "corpus": "...ARTÍCULO 7o. COSTO FIJO MEDIO DE REFERENCIA, CFMR-. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 El costo fijo medio de ref...",
+    "fuente": "...ARTÍCULO 7o. COSTO FIJO MEDIO DE REFERENCIA, CFMR-. 177 de la Resolución 853 de 2018 El costo fijo medio de ref..."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.9506,
+   "corpus": "ARTÍCULO 8o. COSTO VARIABLE MEDIO DE REFERENCIA, CVMR. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 El costo variable medi",
+   "fuente": "ARTÍCULO 8o. COSTO VARIABLE MEDIO DE REFERENCIA, CVMR. 177 de la Resolución 853 de 2018 El costo variable medio de referencia se calculará a partir de la sumatoria del costo de rec",
+   "diff": {
+    "corpus": "...ARTÍCULO 8o. COSTO VARIABLE MEDIO DE REFERENCIA, CVMR. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 El costo variable medio de...",
+    "fuente": "...ARTÍCULO 8o. COSTO VARIABLE MEDIO DE REFERENCIA, CVMR. 177 de la Resolución 853 de 2018 El costo variable medio de..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "divergente",
+   "similitud": 0.8352,
+   "corpus": "ARTÍCULO 9o. COSTO DE COMERCIALIZACIÓN POR FACTURA COBRADA AL SUSCRIPTOR, CCS. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 201",
+   "fuente": "ARTÍCULO 9o. COSTO DE COMERCIALIZACIÓN POR FACTURA COBRADA AL SUSCRIPTOR, CCS. 177 de la Resolución 853 de 2018 El costo de comercialización por suscriptor será, como máximo, de $6",
+   "diff": {
+    "corpus": "... DE COMERCIALIZACIÓN POR FACTURA COBRADA AL SUSCRIPTOR, CCS. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 El costo de comercializaci...",
+    "fuente": "... DE COMERCIALIZACIÓN POR FACTURA COBRADA AL SUSCRIPTOR, CCS. 177 de la Resolución 853 de 2018 El costo de comercializaci..."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "divergente",
+   "similitud": 0.502,
+   "corpus": "ARTÍCULO 12. COSTO DE RECOLECCIÓN Y TRANSPORTE, CRT. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 El costo de recolección ",
+   "fuente": "ARTÍCULO 12. COSTO DE RECOLECCIÓN Y TRANSPORTE, CRT. 177 de la Resolución 853 de 2018 El costo de recolección y transporte de la fórmula general será, como máximo, de $49.472 (peso",
+   "diff": {
+    "corpus": "...ARTÍCULO 12. COSTO DE RECOLECCIÓN Y TRANSPORTE, CRT. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 El costo de recolección y ...",
+    "fuente": "...ARTÍCULO 12. COSTO DE RECOLECCIÓN Y TRANSPORTE, CRT. 177 de la Resolución 853 de 2018 El costo de recolección y ..."
+   }
+  },
+  {
+   "articulo": "20",
+   "estado": "divergente",
+   "similitud": 0.5697,
+   "corpus": "ARTÍCULO 20. ACTUALIZACIÓN DE COSTOS. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Los costos resultantes de lo establecid",
+   "fuente": "ARTÍCULO 20. ACTUALIZACIÓN DE COSTOS. 177 de la Resolución 853 de 2018 Los costos resultantes de lo establecido en la presente resolución se actualizarán ajustando el costo resulta",
+   "diff": {
+    "corpus": "...ARTÍCULO 20. ACTUALIZACIÓN DE COSTOS. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Los costos resultantes de ...",
+    "fuente": "...ARTÍCULO 20. ACTUALIZACIÓN DE COSTOS. 177 de la Resolución 853 de 2018 Los costos resultantes de ..."
+   }
+  },
+  {
+   "articulo": "21",
+   "estado": "divergente",
+   "similitud": 0.8369,
+   "corpus": "ARTÍCULO 21. ACTUALIZACIÓN DE PRECIOS. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Artículo modificado por el artículo 7 ",
+   "fuente": "ARTÍCULO 21. ACTUALIZACIÓN DE PRECIOS. 177 de la Resolución 853 de 2018 7 de la Resolución 832 de 2018. El nuevo texto es el siguiente: Para ajustar los índices de precios se utili",
+   "diff": {
+    "corpus": "...ARTÍCULO 21. ACTUALIZACIÓN DE PRECIOS. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Artículo modificado por el...",
+    "fuente": "...ARTÍCULO 21. ACTUALIZACIÓN DE PRECIOS. 177 de la Resolución 853 de 2018 7 de la Resolución 832 de ..."
+   }
+  },
+  {
+   "articulo": "23",
+   "estado": "divergente",
+   "similitud": 0.9308,
+   "corpus": "ARTÍCULO 23. METODOLOGÍA TARIFARIA. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 La metodología tarifaria que se adopta de",
+   "fuente": "ARTÍCULO 23. METODOLOGÍA TARIFARIA. 177 de la Resolución 853 de 2018 La metodología tarifaria que se adopta de acuerdo con lo dispuesto en la presente resolución, es de precio tech",
+   "diff": {
+    "corpus": "...ARTÍCULO 23. METODOLOGÍA TARIFARIA. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 La metodología tarifaria q...",
+    "fuente": "...ARTÍCULO 23. METODOLOGÍA TARIFARIA. 177 de la Resolución 853 de 2018 La metodología tarifaria q..."
+   }
+  },
+  {
+   "articulo": "24",
+   "estado": "divergente",
+   "similitud": 0.9702,
+   "corpus": "ARTÍCULO 24. TARIFA PARA EL COMPONENTE DE BARRIDO Y LIMPIEZA DE VÍAS Y AREAS PÚBLICAS. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 85",
+   "fuente": "ARTÍCULO 24. TARIFA PARA EL COMPONENTE DE BARRIDO Y LIMPIEZA DE VÍAS Y AREAS PÚBLICAS. 177 de la Resolución 853 de 2018 Para efectos de calcular el valor de la tarifa del presente ",
+   "diff": {
+    "corpus": "...L COMPONENTE DE BARRIDO Y LIMPIEZA DE VÍAS Y AREAS PÚBLICAS. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Para efectos de calcular e...",
+    "fuente": "...L COMPONENTE DE BARRIDO Y LIMPIEZA DE VÍAS Y AREAS PÚBLICAS. 177 de la Resolución 853 de 2018 Para efectos de calcular e..."
+   }
+  },
+  {
+   "articulo": "25",
+   "estado": "divergente",
+   "similitud": 0.9775,
+   "corpus": "ARTÍCULO 25. TARIFA PARA EL COMPONENTE DE RECOLECCIÓN Y TRANSPORTE. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Para efec",
+   "fuente": "ARTÍCULO 25. TARIFA PARA EL COMPONENTE DE RECOLECCIÓN Y TRANSPORTE. 177 de la Resolución 853 de 2018 Para efectos de determinar el valor de la tarifa del presente componente, se ap",
+   "diff": {
+    "corpus": "...O 25. TARIFA PARA EL COMPONENTE DE RECOLECCIÓN Y TRANSPORTE. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Para efectos de determinar...",
+    "fuente": "...O 25. TARIFA PARA EL COMPONENTE DE RECOLECCIÓN Y TRANSPORTE. 177 de la Resolución 853 de 2018 Para efectos de determinar..."
+   }
+  },
+  {
+   "articulo": "26",
+   "estado": "divergente",
+   "similitud": 0.9673,
+   "corpus": "ARTÍCULO 26. TARIFA PARA EL COMPONENTE POR TRANSPORTE EXCEDENTE. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Para efectos",
+   "fuente": "ARTÍCULO 26. TARIFA PARA EL COMPONENTE POR TRANSPORTE EXCEDENTE. 177 de la Resolución 853 de 2018 Para efectos de calcular el valor de la tarifa del presente componente, se aplicar",
+   "diff": {
+    "corpus": "...CULO 26. TARIFA PARA EL COMPONENTE POR TRANSPORTE EXCEDENTE. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Para efectos de calcular e...",
+    "fuente": "...CULO 26. TARIFA PARA EL COMPONENTE POR TRANSPORTE EXCEDENTE. 177 de la Resolución 853 de 2018 Para efectos de calcular e..."
+   }
+  },
+  {
+   "articulo": "27",
+   "estado": "divergente",
+   "similitud": 0.9671,
+   "corpus": "ARTÍCULO 27. TARIFA PARA EL COMPONENTE DE TRATAMIENTO Y DISPOSICIÓN FINAL. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Pa",
+   "fuente": "ARTÍCULO 27. TARIFA PARA EL COMPONENTE DE TRATAMIENTO Y DISPOSICIÓN FINAL. 177 de la Resolución 853 de 2018 Para efectos de calcular el valor de la tarifa del presente componente, ",
+   "diff": {
+    "corpus": "...ARIFA PARA EL COMPONENTE DE TRATAMIENTO Y DISPOSICIÓN FINAL. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Para efectos de calcular e...",
+    "fuente": "...ARIFA PARA EL COMPONENTE DE TRATAMIENTO Y DISPOSICIÓN FINAL. 177 de la Resolución 853 de 2018 Para efectos de calcular e..."
+   }
+  },
+  {
+   "articulo": "28",
+   "estado": "divergente",
+   "similitud": 0.8373,
+   "corpus": "ARTÍCULO 28. TARIFA PARA EL COMPONENTE DE COMERCIALIZACIÓN Y MANEJO DEL RECAUDO. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2",
+   "fuente": "ARTÍCULO 28. TARIFA PARA EL COMPONENTE DE COMERCIALIZACIÓN Y MANEJO DEL RECAUDO. 177 de la Resolución 853 de 2018 9 de la Resolución 832 de 2018. El nuevo texto es el siguiente: Pa",
+   "diff": {
+    "corpus": "...PARA EL COMPONENTE DE COMERCIALIZACIÓN Y MANEJO DEL RECAUDO. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Artículo modificado por el...",
+    "fuente": "...PARA EL COMPONENTE DE COMERCIALIZACIÓN Y MANEJO DEL RECAUDO. 177 de la Resolución 853 de 2018 9 de la Resolución 832 de ..."
+   }
+  },
+  {
+   "articulo": "29",
+   "estado": "divergente",
+   "similitud": 0.8131,
+   "corpus": "ARTÍCULO 29. TARIFA FINAL. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Artículo modificado por el artículo 11 de la Resol",
+   "fuente": "ARTÍCULO 29. TARIFA FINAL. 177 de la Resolución 853 de 2018 11 de la Resolución 832 de 2018. El nuevo texto es el siguiente: Para efectos de calcular las tarifas de cada uno de los",
+   "diff": {
+    "corpus": "...ARTÍCULO 29. TARIFA FINAL. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Artículo modificado por el...",
+    "fuente": "...ARTÍCULO 29. TARIFA FINAL. 177 de la Resolución 853 de 2018 11 de la Resolución 832 de..."
+   }
+  },
+  {
+   "articulo": "30",
+   "estado": "divergente",
+   "similitud": 0.8798,
+   "corpus": "ARTÍCULO 30. GRANDES PRODUCTORES. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Los grandes productores a los que se refier",
+   "fuente": "ARTÍCULO 30. GRANDES PRODUCTORES. 177 de la Resolución 853 de 2018 Los grandes productores a los que se refiere el artículo 1o del Decreto 1713 de 2002, o el que lo modifique, sust",
+   "diff": {
+    "corpus": "...ARTÍCULO 30. GRANDES PRODUCTORES. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Los grandes productores a ...",
+    "fuente": "...ARTÍCULO 30. GRANDES PRODUCTORES. 177 de la Resolución 853 de 2018 Los grandes productores a ..."
+   }
+  },
+  {
+   "articulo": "31",
+   "estado": "divergente",
+   "similitud": 0.9735,
+   "corpus": "ARTÍCULO 31. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE ÁREAS PÚBLICAS. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 8",
+   "fuente": "ARTÍCULO 31. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE ÁREAS PÚBLICAS. 177 de la Resolución 853 de 2018 El área de barrido y limpieza de vías y áreas públicas que ",
+   "diff": {
+    "corpus": "...D DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE ÁREAS PÚBLICAS. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 El área de barrido y limpi...",
+    "fuente": "...D DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE ÁREAS PÚBLICAS. 177 de la Resolución 853 de 2018 El área de barrido y limpi..."
+   }
+  },
+  {
+   "articulo": "36",
+   "estado": "divergente",
+   "similitud": 0.3704,
+   "corpus": "ARTÍCULO 36. DESCUENTO POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 201",
+   "fuente": "ARTÍCULO 36. DESCUENTO POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. 177 de la Resolución 853 de 2018 Cuando existe imposibilidad técnica de la entrada de recolectores y ",
+   "diff": {
+    "corpus": "...ENTO POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Cuando existe imposibilida...",
+    "fuente": "...ENTO POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. 177 de la Resolución 853 de 2018 Cuando existe imposibilida..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 22
+ }
+}

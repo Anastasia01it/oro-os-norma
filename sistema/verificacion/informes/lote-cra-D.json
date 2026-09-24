@@ -1,0 +1,89 @@
+{
+ "lote": "D",
+ "archivos": [
+  {
+   "archivo": "RESOLUCION-CRA-351-2005.md",
+   "captura": "ok",
+   "resumen_line": "exactos=0 casi=0 divergentes=28 (10 ausente_en_fuente, 18 divergente) sin_contraparte_fuente=0",
+   "divergentes_top": [
+    {
+     "articulo": "3",
+     "estado": "ausente_en_fuente",
+     "similitud": null,
+     "diff_corpus": "",
+     "diff_fuente": ""
+    },
+    {
+     "articulo": "1o",
+     "estado": "divergente",
+     "similitud": 0.6239,
+     "diff_corpus": "...ARTÍCULO 1o. AMBITO DE APLICACIÓN. Resolución derogada, a partir del 1 de julio de 2021, por el artículo 177 de la Resolución 853 de 2018 Artículo ",
+     "diff_fuente": "...ARTÍCULO 1o. AMBITO DE APLICACIÓN. 177 de la Resolución 853 de 2018 73 de la Resolución 720 de..."
+    }
+   ]
+  },
+  {
+   "archivo": "RESOLUCION-CRA-720-2015.md",
+   "captura": "ok",
+   "resumen_line": "exactos=0 casi=0 divergentes=80 (41 ausente_en_fuente, 39 divergente) sin_contraparte_fuente=0",
+   "divergentes_top": [
+    {
+     "articulo": "370",
+     "estado": "ausente_en_fuente",
+     "similitud": null,
+     "diff_corpus": "",
+     "diff_fuente": ""
+    },
+    {
+     "articulo": "251",
+     "estado": "ausente_en_fuente",
+     "similitud": null,
+     "diff_corpus": "",
+     "diff_fuente": ""
+    }
+   ]
+  },
+  {
+   "archivo": "RESOLUCION-CRA-778-2016.md",
+   "captura": "ok",
+   "resumen_line": "exactos=0 casi=0 divergentes=18 (16 ausente_en_fuente, 2 divergente) sin_contraparte_fuente=6",
+   "divergentes_top": [
+    {
+     "articulo": "1",
+     "estado": "ausente_en_fuente",
+     "similitud": null,
+     "diff_corpus": "",
+     "diff_fuente": ""
+    },
+    {
+     "articulo": "2",
+     "estado": "ausente_en_fuente",
+     "similitud": null,
+     "diff_corpus": "",
+     "diff_fuente": ""
+    }
+   ]
+  },
+  {
+   "archivo": "Resolucion_CRA_0779_2016.md",
+   "captura": "ok",
+   "resumen_line": "exactos=0 casi=1 divergentes=3 (2 ausente_en_fuente, 1 divergente) sin_contraparte_fuente=0",
+   "divergentes_top": [
+    {
+     "articulo": "1o",
+     "estado": "ausente_en_fuente",
+     "similitud": null,
+     "diff_corpus": "",
+     "diff_fuente": ""
+    },
+    {
+     "articulo": "2o",
+     "estado": "ausente_en_fuente",
+     "similitud": null,
+     "diff_corpus": "",
+     "diff_fuente": ""
+    }
+   ]
+  }
+ ]
+}

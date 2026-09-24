@@ -1,0 +1,42 @@
+{
+ "corpus": "RESOLUCION-CRA-894-2019.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-894-2019.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 4,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.9798,
+   "corpus": "ARTÍCULO 2o. CONCEPTO DE LEGALIDAD. Artículo integrado y unificado en el artículo 5.4.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.",
+   "fuente": "ARTÍCULO 2o. CONCEPTO DE LEGALIDAD. Artículo integrado y unificado en el artículo 5.4.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.",
+   "diff": {
+    "corpus": "... 1o de la Resolución CRA 778 de 2016, no requerirán un nuevo...",
+    "fuente": "... 1o de la Resolución CRA 778 de 2016, no requerirán un nuevo concepto de legalidad...."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.6742,
+   "corpus": "ARTÍCULO 4o. VIGENCIA. La presente resolución rige a partir de la fecha de su publicación en el Diario Oficial. Publíquese y cúmplase. Dada en Bogotá, D. C., a los veintiocho (28) ",
+   "fuente": "ARTÍCULO 4o. VIGENCIA. La presente resolución rige a partir de la fecha de su publicación en el Diario Oficial. Publíquese y cúmplase. Dada en Bogotá, D. C., a los veintiocho (28) ",
+   "diff": null
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 2,
+  "casi": 0,
+  "divergentes": 2
+ }
+}

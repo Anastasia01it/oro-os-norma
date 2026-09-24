@@ -1,0 +1,35 @@
+{
+ "corpus": "RESOLUCION-CRA-845-2018.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-845-2018.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 3,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3",
+   "estado": "exacto"
+  }
+ ],
+ "sin_contraparte": [
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10"
+ ],
+ "veredicto": "VERIFICADA",
+ "resumen": {
+  "exactos": 3,
+  "casi": 0,
+  "divergentes": 0
+ }
+}

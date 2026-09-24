@@ -1,0 +1,116 @@
+{
+ "corpus": "RESOLUCION-CRA-304-2004.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-304-2004.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 11,
+ "resultados": [
+  {
+   "articulo": "11",
+   "estado": "casi",
+   "similitud": 0.9923,
+   "corpus": "Artículo 11. Indicador Financiero Agregado. El indicador financiero agregado (IFA) se obtendrá de acuerdo con la siguiente tabla:",
+   "fuente": "Artículo 11. Indicador Financiero Agregado. El indicador financiero agregado (IFA) se obtendrá de acuerdo con la siguiente tabla: !",
+   "diff": {
+    "corpus": "...gregado (IFA) se obtendrá de acuerdo con la siguiente tabla:...",
+    "fuente": "...gregado (IFA) se obtendrá de acuerdo con la siguiente tabla: !..."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "casi",
+   "similitud": 0.994,
+   "corpus": "Artículo 12. Indicador Técnico Operativo Agregado Acueducto. El indicador técnico operativo agregado de acueducto (ITOA) se obtendrá de acuerdo con la siguiente tabla:",
+   "fuente": "Artículo 12. Indicador Técnico Operativo Agregado Acueducto. El indicador técnico operativo agregado de acueducto (ITOA) se obtendrá de acuerdo con la siguiente tabla: !",
+   "diff": {
+    "corpus": "...educto (ITOA) se obtendrá de acuerdo con la siguiente tabla:...",
+    "fuente": "...educto (ITOA) se obtendrá de acuerdo con la siguiente tabla: !..."
+   }
+  },
+  {
+   "articulo": "13",
+   "estado": "casi",
+   "similitud": 0.9944,
+   "corpus": "Artículo 13. Indicador Técnico Operativo Agregado Alcantarillado. El indicador técnico operativo agregado de alcantarillado (ITOAL) se obtendrá de acuerdo con la siguiente tabla:",
+   "fuente": "Artículo 13. Indicador Técnico Operativo Agregado Alcantarillado. El indicador técnico operativo agregado de alcantarillado (ITOAL) se obtendrá de acuerdo con la siguiente tabla: !",
+   "diff": {
+    "corpus": "...llado (ITOAL) se obtendrá de acuerdo con la siguiente tabla:...",
+    "fuente": "...llado (ITOAL) se obtendrá de acuerdo con la siguiente tabla: !..."
+   }
+  },
+  {
+   "articulo": "14",
+   "estado": "casi",
+   "similitud": 0.9937,
+   "corpus": "Artículo 14. Indicador Técnico Operativo Agregado Aseo. El indicador técnico operativo agregado de aseo (ITOAS) se obtendrá de acuerdo con la siguiente tabla:",
+   "fuente": "Artículo 14. Indicador Técnico Operativo Agregado Aseo. El indicador técnico operativo agregado de aseo (ITOAS) se obtendrá de acuerdo con la siguiente tabla: !",
+   "diff": {
+    "corpus": "... aseo (ITOAS) se obtendrá de acuerdo con la siguiente tabla:...",
+    "fuente": "... aseo (ITOAS) se obtendrá de acuerdo con la siguiente tabla: !..."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "casi",
+   "similitud": 0.9916,
+   "corpus": "Artículo 15. Niveles de riesgo. El riesgo se obtiene de la combinación del agregado financiero con el agregado técnico operativo, es decir que una persona prestadora que preste los",
+   "fuente": "Artículo 15. Niveles de riesgo. El riesgo se obtiene de la combinación del agregado financiero con el agregado técnico operativo, es decir que una persona prestadora que preste los",
+   "diff": {
+    "corpus": "...r la cual tendrá 3 niveles de riesgo, uno por servicio, así:...",
+    "fuente": "...r la cual tendrá 3 niveles de riesgo, uno por servicio, así: ! ! !..."
+   }
+  },
+  {
+   "articulo": "16",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "17",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "18",
+   "estado": "casi",
+   "similitud": 0.984,
+   "corpus": "Artículo 18. Vigencia y derogatorias. Esta resolución rige a partir de la fecha de su publicación en el Diario Oficial y deroga todas las normas que le sean contrarias. Publíquese ",
+   "fuente": "Artículo 18. Vigencia y derogatorias. Esta resolución rige a partir de la fecha de su publicación en el Diario Oficial y deroga todas las normas que le sean contrarias. Publíquese ",
+   "diff": {
+    "corpus": "...z Suárez. El Director Ejecutivo, Carlos Eduardo Hernández C.&raquo;....",
+    "fuente": "...z Suárez. El Director Ejecutivo, Carlos Eduardo Hernández C.»...."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.252,
+   "corpus": "ARTÍCULO 4o. VIGENCIA. La presente resolución rige a partir de la fecha de su expedición. Dada en Bogotá, D. C., 19 de noviembre de 2004. Publíquese y cúmplase, La Presidenta, Carm",
+   "fuente": "ARTÍCULO 4o. VIGENCIA. La presente resolución rige a partir de la fecha de su expedición. Dada en Bogotá, D. C., 19 de noviembre de 2004. Publíquese y cúmplase, La Presidenta, Carm",
+   "diff": {
+    "corpus": "... Correa. El Director Ejecutivo, Carlos Eduardo Hernández C. &times; Reducir letra Aumentar letra Retornar valores Ir arriba Ir abajo Fin documento...",
+    "fuente": "... Correa. El Director Ejecutivo, Carlos Eduardo Hernández C. ! ISBN 978-628-95145-2-0 Comisión de Regulación de Agua Potable y Saneamiento Básico CRA - DRA © 2021 - 2025 Comisión de Regulación de Agua Potable y Saneamiento Básico Carrera 12 Nº 97-80, Piso 2, Bogotá D.C., Colombia Teléfono desde Colombia (60+1) 487 3820 Menú del pie Políticas Mapa del sitio ! ! ! !InicioInicio MÓDULOS [ !Opción documentos Resolución Única de AAA ](resolucionunicaaaa.html) [ !Opción documentos Resoluciones expedidas por la CRA ](resolucionesexpedidasporcra.html) [ !Opción documentos Circulares CRA ](circularescra.html) [ !Opción documentos Conceptos jurídicos seleccionados ](conceptosjuridicosseleccionados.html) [ !Opción documentos Compilación de normativa y jurisprudencia ](compilacionnormativajurisprudencia.htm..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "1",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 4,
+  "casi": 6,
+  "divergentes": 1
+ }
+}

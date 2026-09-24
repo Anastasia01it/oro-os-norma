@@ -1,0 +1,31 @@
+{
+ "corpus": "RESOLUCION-CRA-151-2001.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-151-2001.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 4,
+ "resultados": [
+  {
+   "articulo": "ARTÍCULO",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "Artículo",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "ARTICULO",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "Articulo",
+   "estado": "ausente_en_fuente"
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 1,
+  "casi": 0,
+  "divergentes": 3
+ }
+}

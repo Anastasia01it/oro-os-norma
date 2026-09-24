@@ -1,0 +1,99 @@
+{
+ "corpus": "Resolucion_CRA_0271_2003.md",
+ "fuente": "sistema/verificacion/fuentes/Resolucion_CRA_0271_2003.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 16,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9975,
+   "corpus": "ARTÍCULO 1o. Ver vigencia de este artículo directamente en la Resolución CRA 151 de 2001Modificar el artículo 1.2.1.1 del Título 1 del Capítulo 1 de la Resolución CRA 151 de 2001, ",
+   "fuente": "ARTÍCULO 1o. Ver vigencia de este artículo directamente en la Resolución CRA 151 de 2001 Modificar el artículo 1.2.1.1 del Título 1 del Capítulo 1 de la Resolución CRA 151 de 2001,",
+   "diff": {
+    "corpus": "... este artículo directamente en la Resolución CRA 151 de 2001Modificar el artículo 1.2.1.1 del Título 1 del Capítulo 1 de...",
+    "fuente": "... este artículo directamente en la Resolución CRA 151 de 2001 Modificar el artículo 1.2.1.1 del Título 1 del Capítulo 1 de..."
+   }
+  },
+  {
+   "articulo": "1.2.1.1",
+   "estado": "divergente",
+   "similitud": 0.4175,
+   "corpus": "Artículo 1.2.1.1 Definiciones. Para efectos de contribuir a la correcta interpretación de la presente Resolución, se adoptan las siguientes definiciones: Aforo de agua. Es el proce",
+   "fuente": "Artículo 1.2.1.1 Definiciones. Para efectos de contribuir a la correcta interpretación de la presente Resolución, se adoptan las siguientes definiciones: Aforo de agua. Es el proce",
+   "diff": null
+  },
+  {
+   "articulo": "5.2.1.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.4",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.6",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.7",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.8",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.9",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.10",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.11",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.12",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.13",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5.2.1.14",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.4145,
+   "corpus": "ARTÍCULO 3o. VIGENCIA Y DEROGATORIAS. Esta resolución rige a partir de su publicación en el Diario Oficial, deroga las disposiciones que le sean contrarias y modifica parcialmente ",
+   "fuente": "ARTÍCULO 3o. VIGENCIA Y DEROGATORIAS. Esta resolución rige a partir de su publicación en el Diario Oficial, deroga las disposiciones que le sean contrarias y modifica parcialmente ",
+   "diff": {
+    "corpus": "... ARBOLEDA. El Director Ejecutivo, CRISTIAN STAPPER BUITRAGO....",
+    "fuente": "... ARBOLEDA. El Director Ejecutivo, CRISTIAN STAPPER BUITRAGO. ! ISBN 978-628-95145-2-0 Comisión de Regulación de Agua Potable y Saneamiento Básico CRA - DRA © 2021 - 2025 Comisión de Regulación de Agua Potable y Saneamiento Básico Carrera 12 Nº 97-80, Piso 2, Bogotá D.C., Colombia Teléfono desde Colombia (60+1) 487 3820 ! ! ! ! ! Menú del pie Políticas Mapa del sitio ! !logo co !gov.co ! ! ! !InicioInicio MÓDULOS !Opción documentos Resolución Única de AAA !Opción documentos Resoluciones expedidas por la CRA !Opción documentos Circulares CRA !Opción documentos Conceptos jurídicos seleccionados !Opción documentos Compilación de normativa y jurisprudencia !Opción documentos Decreto Único Reglamentario - DUR !Opción documentos Contribuciones especiales !Opción documentos Resoluciones administrativas de carácter general !Opción documentos Proyectos de resolución CRA !Opción documentos Actualizaciones mensuales !Opción documentos Herramientas de búsqueda !Opción documentos Navegación temática !Opción documentos Normativa COVID 19 × !Contraste Contraste !Reducir Reducir letra !Aumentar Aumentar letra !Restaurar Retornar valores !Ir arriba Ir arriba !Ir abajo Ir abajo !Inicio documento Inicio documento !Fin documento Fin documento..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "2"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 13,
+  "casi": 1,
+  "divergentes": 2
+ }
+}

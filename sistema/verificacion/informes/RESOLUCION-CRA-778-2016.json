@@ -1,0 +1,128 @@
+{
+ "corpus": "RESOLUCION-CRA-778-2016.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-778-2016.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 15,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "2",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.9029,
+   "corpus": "ARTÍCULO 3. Concepto. El contrato del servicio público de aseo y/o sus actividades complementarias es un contrato uniforme, consensual, en virtud del cual una persona prestadora de",
+   "fuente": "ARTÍCULO 3o. CONCEPTO. 5.4.2.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El contrato del servicio ",
+   "diff": {
+    "corpus": "...ARTÍCULO 3. Concepto. El contrato del servicio público de aseo y/o sus actividade...",
+    "fuente": "...ARTÍCULO 3o. CONCEPTO. 5.4.2.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El contrato del servicio público de aseo y/o sus actividade..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.8742,
+   "corpus": "ARTÍCULO 4. Celebración del Contrato. Existe contrato desde que la persona prestadora define las condiciones uniformes en las que está dispuesta a prestar el servicio público de as",
+   "fuente": "ARTÍCULO 4o. CELEBRACIÓN DEL CONTRATO. 5.4.2.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Existe co",
+   "diff": {
+    "corpus": "...ARTÍCULO 4. Celebración del Contrato. Existe contrato desde que la per...",
+    "fuente": "...ARTÍCULO 4o. CELEBRACIÓN DEL CONTRATO. 5.4.2.4 de la Resolución CRA 943..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.9562,
+   "corpus": "ARTÍCULO 5. Vigencia del Contrato y permanencia mínima. El contrato de condiciones uniformes, se entiende celebrado por el término señalado en el mismo, si se opta por celebrarlo a",
+   "fuente": "ARTÍCULO 5o. VIGENCIA DEL CONTRATO Y PERMANENCIA MÍNIMA. 5.4.2.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077",
+   "diff": {
+    "corpus": "...ARTÍCULO 5. Vigencia del Contrato y permanencia mínima. El contrato ...",
+    "fuente": "...ARTÍCULO 5o. VIGENCIA DEL CONTRATO Y PERMANENCIA MÍNIMA. 5.4.2.5 de la Resolución CRA 943 de 2021. Debe tenerse en c..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "divergente",
+   "similitud": 0.1802,
+   "corpus": "ARTÍCULO 6. Régimen Legal del Contrato de Servicios Públicos. El contrato del servicio público de aseo y/o sus actividades complementarias se regirá por lo dispuesto en la Ley 142 ",
+   "fuente": "ARTÍCULO 6o. RÉGIMEN LEGAL DEL CONTRATO DE SERVICIOS PÚBLICOS. 5.4.2.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decret",
+   "diff": {
+    "corpus": "...ARTÍCULO 6. Régimen Legal del Contrato de Servicios Públicos. El contr...",
+    "fuente": "...ARTÍCULO 6o. RÉGIMEN LEGAL DEL CONTRATO DE SERVICIOS PÚBLICOS. 5.4.2.6 ..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "divergente",
+   "similitud": 0.9177,
+   "corpus": "ARTÍCULO 7. Abuso de Posición Dominante. Se presume que hay abuso de la posición dominante de la persona prestadora del servicio público de aseo y/o actividades complementarias, en",
+   "fuente": "ARTÍCULO 7o. ABUSO DE POSICIÓN DOMINANTE. 5.4.2.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Se pre",
+   "diff": {
+    "corpus": "...ARTÍCULO 7. Abuso de Posición Dominante. Se presume que hay abuso de la posición dominante de la per...",
+    "fuente": "...ARTÍCULO 7o. ABUSO DE POSICIÓN DOMINANTE. 5.4.2.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Se presume que hay abuso de la posición dominante de la per..."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.8816,
+   "corpus": "ARTÍCULO 8. Facturación Conjunta. El servicio público de aseo y/o sus actividades complementarias se podrá facturar de forma conjunta con cualquiera de los servicios públicos a los",
+   "fuente": "ARTÍCULO 8o. FACTURACIÓN CONJUNTA. 5.4.2.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El servicio p",
+   "diff": {
+    "corpus": "...ARTÍCULO 8. Facturación Conjunta. El servicio público de aseo y/o sus ...",
+    "fuente": "...ARTÍCULO 8o. FACTURACIÓN CONJUNTA. 5.4.2.8 de la Resolución CRA 943 de ..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "10",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "11",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "12",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "13",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "14",
+   "estado": "divergente",
+   "similitud": 0.819,
+   "corpus": "ARTÍCULO 14. Prueba Pericial. Cuando la Comisión de Regulación de Agua Potable y Saneamiento Básico CRA haya rendido concepto previo sobre un contrato de condiciones uniformes, o s",
+   "fuente": "ARTÍCULO 14. PRUEBA PERICIAL. 5.4.2.14 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando la Comisió",
+   "diff": {
+    "corpus": "...ARTÍCULO 14. Prueba Pericial. Cuando la Comisión de Regulación de Agua Potable y Saneamien...",
+    "fuente": "...ARTÍCULO 14. PRUEBA PERICIAL. 5.4.2.14 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando la Comisión de Regulación de Agua Potable y Saneamien..."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "divergente",
+   "similitud": 0.1119,
+   "corpus": "ARTÍCULO 15. Vigencia. La presente resolución rige a partir de su publicación en el Diario Oficial. PUBLÍQUESE Y CÚMPLASE. Dada en Bogotá, D.C., a los catorce (14) días del mes de ",
+   "fuente": "ARTÍCULO 15. VIGENCIA. La presente resolución rige a partir de su publicación en el Diario Oficial. Publíquese y cúmplase. Dada en Bogotá, D. C., a 14 de diciembre de 2016. El Pres",
+   "diff": null
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 15
+ }
+}

@@ -1,43 +1,244 @@
 {
-  "actualizado": "2026-09-23",
-  "metodo": "sistema/scripts/verificar_fuente.py (fold+plano, segmentacion por articulo, umbral casi=0.98, fail-closed)",
-  "archivos": {
-    "ley_1581_de_2012.md": {
-      "estado": "VERIFICADA_CON_EXCEPCION_DOCUMENTADA",
-      "fuente": "https://normas.cra.gov.co/gestor/docs/ley_1581_2012.htm",
-      "captura": "sistema/verificacion/fuentes/ley_1581_2012.gestorcra.txt (completa)",
-      "informe": "sistema/verificacion/informes/ley_1581_de_2012.json",
-      "articulos": 30, "exactos": 26, "casi": 3, "divergentes": 1,
-      "hallazgos": [
-        {"id": "H1", "clase": "contenido_perdido", "articulo": "26",
-         "detalle": "El corpus truncaba el art. 26: faltaban los literales d), e), f) y los parágrafos 1o y 2o presentes en la fuente oficial.",
-         "severidad": "critica",
-         "resolucion": "ERRATA APLICADA 2026-09-23 (aprobacion humana): literales y parágrafos restaurados desde la fuente; articulo verificado exacto tras la correccion; sello del corpus regenerado"},
-        {"id": "H2", "clase": "bloque_sancion_entre_espejos", "articulo": "30",
-         "detalle": "El bloque de firmas difiere entre espejos oficiales (gestor CRA: Barreras/Santos + nota C-748; corpus/SUIN: Londoño Ulloa + Director DAFP). El cuerpo de la norma es idéntico.",
-         "severidad": "documentar",
-         "resolucion": "ACEPTADA como excepcion documentada por decision humana 2026-09-23"}
-      ]
+ "actualizado": "2026-09-24",
+ "metodo": "sistema/scripts/verificar_fuente.py (fold+plano, segmentacion por articulo, umbral casi=0.98, fail-closed)",
+ "archivos": {
+  "ley_1581_de_2012.md": {
+   "estado": "VERIFICADA_CON_EXCEPCION_DOCUMENTADA",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ley_1581_2012.htm",
+   "captura": "sistema/verificacion/fuentes/ley_1581_2012.gestorcra.txt (completa)",
+   "informe": "sistema/verificacion/informes/ley_1581_de_2012.json",
+   "articulos": 30,
+   "exactos": 26,
+   "casi": 3,
+   "divergentes": 1,
+   "hallazgos": [
+    {
+     "id": "H1",
+     "clase": "contenido_perdido",
+     "articulo": "26",
+     "detalle": "El corpus truncaba el art. 26: faltaban los literales d), e), f) y los parágrafos 1o y 2o presentes en la fuente oficial.",
+     "severidad": "critica",
+     "resolucion": "ERRATA APLICADA 2026-09-23 (aprobacion humana): literales y parágrafos restaurados desde la fuente; articulo verificado exacto tras la correccion; sello del corpus regenerado"
     },
-    "resolucion_0412_de_2026.md": {
-      "estado": "PARCIAL",
-      "fuente": "https://normas.cra.gov.co/gestor/docs/resolucion_minviviendact_0412_2026.htm",
-      "captura": "sistema/verificacion/fuentes/resolucion_0412_2026.gestorcra.txt (truncada por limite de 5 MB del capturador)",
-      "informe": "sistema/verificacion/informes/resolucion_0412_de_2026.json",
-      "articulos": 50, "cubiertos_por_fuente": 21, "exactos": 17, "casi": 3,
-      "divergentes": [{"articulo": "21", "clase": "tabla_formato", "similitud": 0.4011}],
-      "sin_cobertura": "arts. 22-50 (captura truncada mid art. 21)",
-      "nota": "la propia fuente oficial muestra una corrupcion de texto en considerandos ('Decreto 1381 de 20e incorporan'): reportar al emisor, no heredar"
-    },
-    "LEY-142-1994.md": {
-      "estado": "PENDIENTE",
-      "fuente_identificada": "https://normas.cra.gov.co/gestor/docs/ley_0142_1994.htm",
-      "bloqueo": "pagina > 5 MB en una sola captura; requiere secciones o PDF"
+    {
+     "id": "H2",
+     "clase": "bloque_sancion_entre_espejos",
+     "articulo": "30",
+     "detalle": "El bloque de firmas difiere entre espejos oficiales (gestor CRA: Barreras/Santos + nota C-748; corpus/SUIN: Londoño Ulloa + Director DAFP). El cuerpo de la norma es idéntico.",
+     "severidad": "documentar",
+     "resolucion": "ACEPTADA como excepcion documentada por decision humana 2026-09-23"
     }
+   ]
   },
-  "canales": {
-    "accesibles": ["normas.cra.gov.co (gestor CRA)", "minvivienda.gov.co (PDF y paginas)"],
-    "bloqueados_desde_este_entorno": ["funcionpublica.gov.co", "suin.gov.co", "secretariasenado.gov.co"],
-    "nota": "los bloqueados pueden reintentarse con canal alterno (descarga directa, otro origen de red, verificacion humana)"
+  "resolucion_0412_de_2026.md": {
+   "estado": "PARCIAL",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/resolucion_minviviendact_0412_2026.htm",
+   "captura": "sistema/verificacion/fuentes/resolucion_0412_2026.gestorcra.txt (truncada por limite de 5 MB del capturador)",
+   "informe": "sistema/verificacion/informes/resolucion_0412_de_2026.json",
+   "articulos": 50,
+   "cubiertos_por_fuente": 21,
+   "exactos": 17,
+   "casi": 3,
+   "divergentes": [
+    {
+     "articulo": "21",
+     "clase": "tabla_formato",
+     "similitud": 0.4011
+    }
+   ],
+   "sin_cobertura": "arts. 22-50 (captura truncada mid art. 21)",
+   "nota": "la propia fuente oficial muestra una corrupcion de texto en considerandos ('Decreto 1381 de 20e incorporan'): reportar al emisor, no heredar"
+  },
+  "LEY-142-1994.md": {
+   "estado": "PENDIENTE",
+   "fuente_identificada": "https://normas.cra.gov.co/gestor/docs/ley_0142_1994.htm",
+   "bloqueo": "pagina > 5 MB en una sola captura; requiere secciones o PDF"
+  },
+  "RESOLUCION-CRA-1011-2025.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "anotaciones_gestor",
+   "articulos": 38,
+   "exactos": 8,
+   "casi": 17,
+   "divergentes": 13,
+   "nota": "8 exactos + 17 casi; 13 divergentes por aparato de anotaciones/glue; requiere depuracion por clases",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-1011-2025.json"
+  },
+  "RESOLUCION-CRA-1027-2026.md": {
+   "estado": "PENDIENTE",
+   "clase": "metodo_ocr",
+   "articulos": 0,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 0,
+   "nota": "corpus es extraccion OCR con articulos en palabras ('Artículo Primero'); requiere metodo OCR/palabras-a-digitos",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-1027-2026.json"
+  },
+  "RESOLUCION-CRA-151-2001.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "fuente_stub_y_estructura_compilada",
+   "articulos": 414,
+   "exactos": 4,
+   "casi": 0,
+   "divergentes": 410,
+   "nota": "oficial: stub de derogacion+integracion en Res.943/2021; corpus trae estructura compilada completa; verificar vs Diario Oficial",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-151-2001.json"
+  },
+  "RESOLUCION-CRA-304-2004.md": {
+   "estado": "VERIFICADA",
+   "clase": null,
+   "articulos": 11,
+   "exactos": 4,
+   "casi": 6,
+   "divergentes": 1,
+   "nota": "10/11 verificados (4 exactos+6 casi); 1 divergente menor documentado en informe",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-304-2004.json"
+  },
+  "RESOLUCION-CRA-351-2005.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "fuente_stub",
+   "articulos": 22,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 22,
+   "nota": "oficial solo trae aviso de derogacion/integracion (Res. 943/2021); verificar vs Diario Oficial",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-351-2005.json"
+  },
+  "RESOLUCION-CRA-376-2006.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "anotaciones_gestor",
+   "articulos": 5,
+   "exactos": 0,
+   "casi": 2,
+   "divergentes": 3,
+   "nota": "resolucion corta; divergencias por aparato de anotaciones",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-376-2006.json"
+  },
+  "RESOLUCION-CRA-688-2014.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "anotaciones_gestor",
+   "articulos": 48,
+   "exactos": 6,
+   "casi": 17,
+   "divergentes": 25,
+   "nota": "23/48 verificados; resto por anotaciones/glue",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-688-2014.json"
+  },
+  "RESOLUCION-CRA-720-2015.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "fuente_stub_y_estructura_compilada",
+   "articulos": 78,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 78,
+   "nota": "oficial: stub (integrada en Res. 943/2021); corpus trae texto completo; verificar vs Diario Oficial",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-720-2015.json"
+  },
+  "RESOLUCION-CRA-778-2016.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "fuente_stub",
+   "articulos": 15,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 15,
+   "nota": "oficial: stub de derogacion/integracion; verificar vs Diario Oficial",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-778-2016.json"
+  },
+  "Resolucion_CRA_0779_2016.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "fuente_parcial",
+   "articulos": 4,
+   "exactos": 0,
+   "casi": 1,
+   "divergentes": 3,
+   "nota": "pagina oficial solo contiene arts. 3o y 4o",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/Resolucion_CRA_0779_2016.json"
+  },
+  "RESOLUCION-CRA-845-2018.md": {
+   "estado": "VERIFICADA",
+   "clase": null,
+   "articulos": 3,
+   "exactos": 3,
+   "casi": 0,
+   "divergentes": 0,
+   "nota": "3/3 exactos",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-845-2018.json"
+  },
+  "RESOLUCION-CRA-894-2019.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "anotaciones_gestor",
+   "articulos": 4,
+   "exactos": 2,
+   "casi": 0,
+   "divergentes": 2,
+   "nota": "2 exactos; 2 divergentes por anotaciones",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-894-2019.json"
+  },
+  "RESOLUCION-CRA-943-2021.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "estructura_compilada_y_ratio_muestreado",
+   "articulos": 591,
+   "exactos": 4,
+   "casi": 1,
+   "divergentes": 586,
+   "nota": "resolucion-compilacion (591 arts. con decimales profundos); ratio por muestreo subestima; requiere metodo dedicado",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/RESOLUCION-CRA-943-2021.json"
+  },
+  "Resolucion_CRA_0271_2003.md": {
+   "estado": "VERIFICADA_CON_EXCEPCIONES",
+   "clase": null,
+   "articulos": 16,
+   "exactos": 13,
+   "casi": 1,
+   "divergentes": 2,
+   "nota": "14/16 verificados (13 exactos+1 casi); 2 divergentes documentados en informe",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/Resolucion_CRA_0271_2003.json"
+  },
+  "Resolucion_CRA_0853_2018.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "palabras_pegadas_por_conversion",
+   "articulos": 128,
+   "exactos": 0,
+   "casi": 106,
+   "divergentes": 22,
+   "nota": "106 casi + 22 divergentes TODOS por palabras pegadas en juntas de anotacion ('2015Establecer'); contenido presente; errata mecanica pendiente de aprobacion humana",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
+   "informe": "sistema/verificacion/informes/Resolucion_CRA_0853_2018.json"
   }
+ },
+ "canales": {
+  "accesibles": [
+   "normas.cra.gov.co (gestor CRA)",
+   "minvivienda.gov.co (PDF y paginas)"
+  ],
+  "bloqueados_desde_este_entorno": [
+   "funcionpublica.gov.co",
+   "suin.gov.co",
+   "secretariasenado.gov.co"
+  ],
+  "nota": "los bloqueados pueden reintentarse con canal alterno (descarga directa, otro origen de red, verificacion humana)"
+ },
+ "campaña_cra": {
+  "verificadas": 2,
+  "verificadas_con_excepciones": 1,
+  "no_verificadas_fuente_stub": 4,
+  "no_verificadas_anotaciones": 5,
+  "requieren_metodo_nuevo": 2,
+  "total_lote": 15,
+  "nota": "stub = la fuente oficial ya no publica el texto (derogada/integrada en Res. 943 de 2021); la verificacion de esas requiere Diario Oficial. anotaciones = divergencias por aparato de anotaciones/glue, contenido presente; erratas mecanicas pendientes de aprobacion humana por lote."
+ }
 }

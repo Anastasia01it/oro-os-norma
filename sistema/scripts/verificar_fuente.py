@@ -107,20 +107,66 @@ def limpiar(texto: str) -> str:
     return "\n".join(lineas)
 
 
+def norm_key(k: str) -> str:
+    """Clave canonica de articulo: '1o', '1°', '1º.' y '1.' -> '1'; los
+    decimales ('1.1.1') se preservan enteros. Sin esto, corpus y fuente
+    no emparejan aunque el texto sea identico (hallazgo del lote CRA)."""
+    k = k.rstrip(".")
+    k = re.sub(r"^(\d+)[oO°º]$", r"\1", k)
+    return k
+
+
 def segmentar(texto_limpio: str):
     """Devuelve {id: [textos]} (lista: una clave puede repetirse en la fuente,
     p.ej. marcador INEXEQUIBLE + articulo real). Cabecera bajo '__cabecera__'."""
     segmentos = {"__cabecera__": [[]]}
     actual = "__cabecera__"
     for ln in texto_limpio.split("\n"):
-        m = re.match(r"^\s*art[íi]culo\s+(\d\S{0,3}|nuevo)\b[\.\s,]", ln, re.I)
+        # Mayusculas (ARTICULO) o tipo titulo (Articulo) abren segmento; minusculas
+        # no: son envolturas duras de referencias cruzadas ("...los arts. 5 y 6 del
+        # articulo 2o de la Resolucion..." empieza linea al cortarse) -> claves falsas.
+        m = re.match(r"^\s*(ART[ÍI]CULO|Art[íi]culo)\s+(\d\S{0,9}|nuevo)(?=[\.\s,:;]|$)", ln)
         if m:
-            actual = m.group(1).rstrip(".")
+            actual = norm_key(m.group(2))
             segmentos.setdefault(actual, []).append([])
         segmentos[actual][-1].append(ln)
     return {k: [plano(" ".join(s)) for s in v]
             for k, v in segmentos.items()
             if k == "__cabecera__" or any(l.strip() for s in v for l in s)}
+
+
+def ratio_determinista(a: str, b: str) -> float:
+    """Similitud 0..1 determinista y acotada en tiempo. Textos medianos: trozos
+    posicionales (los iguales cuestan O(n), solo los distintos pagan difflib,
+    acotado por TOPE^2). Textos enormes (>100k): 5 ventanas fijas de 4000
+    caracteres (deterministas); es una aproximacion que tiende a SUBestimar
+    la similitud (fail-closed) y solo se usa donde difflib seria impractico."""
+    if a == b:
+        return 1.0
+    n = max(len(a), len(b), 1)
+    if n > 100_000:
+        W = 4000
+        puntos = [0, n // 4, n // 2, (3 * n) // 4, max(0, n - W)]
+        total, k = 0.0, 0
+        for ini in puntos:
+            x, y = a[ini:ini + W], b[ini:ini + W]
+            if x == y:
+                total += 1.0
+            else:
+                total += SequenceMatcher(None, x, y).ratio()
+            k += 1
+        return total / k
+    TOPE = 8000
+    total, peso = 0.0, 0
+    for ini in range(0, n, TOPE):
+        x, y = a[ini:ini + TOPE], b[ini:ini + TOPE]
+        m = max(len(x), len(y))
+        if m == 0:
+            continue
+        r = 1.0 if x == y else SequenceMatcher(None, x, y).ratio()
+        total += r * m
+        peso += m
+    return total / peso if peso else 1.0
 
 
 def main():
@@ -144,14 +190,17 @@ def main():
 
     def mejor_par(copias_c, copias_f):
         """Compara todas las copias de un articulo (lado corpus vs lado fuente);
-        toma el mejor emparejamiento. Devuelve (estado, similitud, corpus, fuente)."""
+        toma el mejor emparejamiento. Devuelve (estado, similitud, corpus, fuente).
+        Para textos largos, la similitud se calcula sobre un prefijo acotado
+        (difflib es cuadratico; un articulo de 100k caracteres agotaria el
+        tiempo). La igualdad exacta siempre se chequea completa."""
         best = None
         for a0 in copias_c:
             for b0 in copias_f:
                 a, b = fold(a0), fold(b0)
                 if a == b:
                     return ("exacto", 1.0, a0, b0)
-                r = SequenceMatcher(None, a, b).ratio()
+                r = ratio_determinista(a, b)
                 if best is None or r > best[1]:
                     best = (None, r, a0, b0)
         r = best[1]
@@ -171,7 +220,9 @@ def main():
             n_exactos += 1
             continue
         sm = SequenceMatcher(None, fold(a0), fold(b0))
-        diff = next((op for op in sm.get_opcodes() if op[0] != "equal"), None)
+        diff = None
+        if len(a0) + len(b0) <= 40000:           # difflib es cuadratico: acotar
+            diff = next((op for op in sm.get_opcodes() if op[0] != "equal"), None)
         trozo = None
         if diff:
             _, i1, i2, j1, j2 = diff
