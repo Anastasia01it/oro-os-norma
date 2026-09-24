@@ -241,6 +241,12 @@ def main():
     informe["veredicto"] = "VERIFICADA" if n_div == 0 else "NO_VERIFICADA"
     informe["sin_contraparte"] = [k for k in seg_f if k != "__cabecera__" and k not in seg_c]
 
+    # El JSON se escribe ANTES de imprimir: si un pipeline (| head) cierra la
+    # salida (SIGPIPE), el informe ya esta en disco (leccion del lote leyes).
+    INFORMES.mkdir(parents=True, exist_ok=True)
+    salida = args.salida or str(INFORMES / (Path(args.corpus).stem + ".json"))
+    Path(salida).write_text(json.dumps(informe, ensure_ascii=False, indent=1), encoding="utf-8")
+
     print(f"== {informe['veredicto']} ==  {Path(args.corpus).name} vs fuente")
     print(f"articulos corpus: {len(arts_c)} | exactos: {n_exactos} | casi: {n_casi} | divergentes: {n_div}")
     for r in informe["resultados"]:
@@ -251,10 +257,6 @@ def main():
                 print(f"     fuente: {r['fuente'][:140]}")
     if informe["sin_contraparte"]:
         print(f"en fuente pero no en corpus (anotaciones/extras, no afectan): {len(informe['sin_contraparte'])}")
-
-    INFORMES.mkdir(parents=True, exist_ok=True)
-    salida = args.salida or str(INFORMES / (Path(args.corpus).stem + ".json"))
-    Path(salida).write_text(json.dumps(informe, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"informe: {salida}")
     sys.exit(0 if informe["veredicto"] == "VERIFICADA" else 1)
 
