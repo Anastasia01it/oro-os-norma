@@ -69,9 +69,13 @@ Métricas del piloto:
 
 ## Decisiones del humano pendientes
 
-1. **Aceptación del piloto** (revisar `sistema/piloto/certificado.json`,
-   `puntaje-oro.json`, `ficha.json`).
-2. **Juicio semántico de las 16 respuestas citadas** del oro.
-3. **`git init`** para historial de todo lo construido (recomendado).
+1. **~~Aceptación del piloto~~** — **ACEPTADA 2026-09-23** (certificado
+   `sistema/piloto/certificado.json`, campo `aceptacion_humana`), incluidas las
+   16 respuestas citadas del oro por decisión expresa, con la tabla de
+   comparación disponible para revisión puntual.
+2. **Juicio semántico de las 16 respuestas citadas** — cubierto por la aceptación
+   anterior (revisión puntual siempre posible en `puntaje-oro.json`).
+3. **`git init`** — **HECHO 2026-09-23** (6 commits, historia en orden de
+   construcción; `.gitattributes` preserva los bytes del corpus).
 4. **Ampliación a ficha completa** (fases 3-7, 9) como primera corrida de
-   producción, si el piloto se acepta.
+   producción — propuesta siguiente a esta aceptación.

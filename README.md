@@ -43,6 +43,8 @@ fuente del procesador consistente, documentos narrativos sin desfase.
 
 ## Estado
 
-- Pasos 1–5 completados (ver `DECISIONES/`). Backlog M1–M6 cerrado en versión piloto.
-- Pendiente decisión humana: aceptación del piloto, juicio semántico del oro,
-  fuente primaria del corpus, `parametros.yml`.
+- Pasos 1–5 completados y **piloto M6 aceptado por el humano (2026-09-23)**.
+- Backlog M1–M6 cerrado en versión piloto.
+- Pendiente decisión humana: fuente primaria del corpus (verificación externa),
+  `parametros.yml`, y la primera corrida de producción (ficha completa de la
+  Ley 142, fases 3-7 y 9).
