@@ -1,0 +1,22 @@
+{"ts": "2026-09-23T19:40:33-0500", "tarea": "T01", "entrega": 1, "extracciones": 1, "no_aplica": 0, "resultado": "aceptada"}
+{"ts": "2026-09-23T19:41:45-0500", "tarea": "T02", "entrega": 1, "resultado": "rechazada", "errores": ["A.19: verbatim NO presente en LEY-142-1994.md#L30"]}
+{"ts": "2026-09-23T19:42:04-0500", "tarea": "T02", "entrega": 1, "extracciones": 18, "no_aplica": 9, "resultado": "aceptada"}
+{"ts": "2026-09-23T19:43:00-0500", "tarea": "T02", "entrega": 2, "resultado": "verificacion-sin-cambios"}
+{"ts": "2026-09-23T19:44:33-0500", "tarea": "T03", "entrega": 1, "extracciones": 9, "no_aplica": 13, "resultado": "aceptada"}
+{"ts": "2026-09-23T19:44:33-0500", "tarea": "T03", "entrega": 2, "resultado": "verificacion-sin-cambios"}
+{"ts": "2026-09-23T19:45:01-0500", "tarea": "T04", "entrega": 1, "extracciones": 5, "no_aplica": 1, "resultado": "aceptada"}
+{"ts": "2026-09-23T19:45:01-0500", "tarea": "T04", "entrega": 2, "resultado": "verificacion-sin-cambios"}
+{"ts": "2026-09-23T19:45:21-0500", "tarea": "T05", "entrega": 1, "resultado": "verificacion-sin-cambios"}
+{"ts": "2026-09-23T19:45:29-0500", "tarea": "T05", "entrega": 2, "extracciones": 1, "no_aplica": 0, "resultado": "aceptada"}
+{"ts": "2026-09-23T19:45:29-0500", "tarea": "T05", "entrega": 3, "resultado": "verificacion-sin-cambios"}
+{"ts": "2026-09-23T19:46:44-0500", "tarea": "T05", "entrega": 4, "extracciones": 2, "no_aplica": 17, "resultado": "aceptada"}
+{"ts": "2026-09-23T19:46:56-0500", "resultado": "correccion", "detalle": [{"campo": "A.8", "antes": "na", "cita": "LEY-142-1994.md#L3118"}, {"campo": "A.11", "antes": "na", "cita": "LEY-142-1994.md#L3118"}, {"campo": "A.17", "antes": "na", "cita": "LEY-142-1994.md#L3087-L3116"}]}
+{"ts": "2026-09-23T19:47:19-0500", "tarea": "T06", "entrega": 1, "extracciones": 5, "no_aplica": 5, "resultado": "aceptada"}
+{"ts": "2026-09-23T19:47:19-0500", "tarea": "T06", "entrega": 2, "resultado": "verificacion-sin-cambios"}
+{"ts": "2026-09-23T19:47:19-0500", "tarea": "T06", "entrega": 3, "resultado": "verificacion-sin-cambios"}
+{"ts": "2026-09-23T19:47:27-0500", "tarea": "T07", "entrega": 1, "resultado": "verificacion-sin-cambios"}
+{"ts": "2026-09-23T19:48:16-0500", "tarea": "T07", "entrega": 2, "resultado": "rechazada", "errores": ["L.3: verbatim NO presente en LEY-142-1994.md#L1726"]}
+{"ts": "2026-09-23T19:48:29-0500", "tarea": "T07", "entrega": 2, "extracciones": 8, "no_aplica": 12, "resultado": "aceptada"}
+{"ts": "2026-09-23T19:48:41-0500", "tarea": "T07", "entrega": 3, "resultado": "verificacion-sin-cambios"}
+{"ts": "2026-09-23T19:48:41-0500", "resultado": "correccion", "detalle": [{"campo": "C.10", "antes": "na", "cita": "LEY-142-1994.md#L1698"}]}
+{"ts": "2026-09-23T19:49:54-0500", "tarea": "T08", "resultado": "oro-aceptada", "respuestas": 25}

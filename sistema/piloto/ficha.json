@@ -1,0 +1,1086 @@
+{
+  "meta": {
+    "id_ficha": "NP-FICHA-LEY-142-1994-001",
+    "version": "1.0.0-beta.1",
+    "fecha_analisis": "2026-09-23T19:40:14-0500",
+    "analista": "k2p6 (piloto v0, IA conductida por piloto_runner.py)",
+    "organizacion": "piloto Norma",
+    "proposito": "Demostrar lectura por entregas con evidencia obligatoria (M1) y medir contra el oro",
+    "estado": "completada",
+    "norma_archivo": "LEY-142-1994.md",
+    "corpus_set_hash": "ed71c7223adca6c26a2d9940e7381ba584895aefca26cf8b56d677ef347e6114",
+    "fecha_cierre": "2026-09-23T19:50:01-0500"
+  },
+  "fases": {
+    "0": {
+      "G.4": {
+        "completado": true,
+        "na": false,
+        "valor": "Analisis estructurado de la Ley 142 de 1994 para demostrar el pipeline de lectura por entregas con evidencia obligatoria: extraer identificacion formal, estructura, vigencia y regimen tarifario, dejando cada afirmacion comprobable contra el corpus",
+        "ref_articulo": "",
+        "notas": "El proposito es procedimental (definido por el piloto M6 v0); la cita ancla el objeto de la norma analizada."
+      }
+    },
+    "1": {
+      "A.1": {
+        "completado": true,
+        "na": false,
+        "valor": "Ley",
+        "ref_articulo": "Encabezado",
+        "notas": ""
+      },
+      "A.2": {
+        "completado": true,
+        "na": false,
+        "valor": "142",
+        "ref_articulo": "Encabezado",
+        "notas": ""
+      },
+      "A.3": {
+        "completado": true,
+        "na": false,
+        "valor": "Ley de Servicios Públicos Domiciliarios",
+        "ref_articulo": "Subtitulo",
+        "notas": ""
+      },
+      "A.4": {
+        "completado": true,
+        "na": false,
+        "valor": "Ley 142 de 1994",
+        "ref_articulo": "Encabezado",
+        "notas": "Abreviatura de uso general = Ley 142 de 1994"
+      },
+      "A.5": {
+        "completado": true,
+        "na": false,
+        "valor": "Congreso de Colombia",
+        "ref_articulo": "Salutacion",
+        "notas": ""
+      },
+      "A.6": {
+        "completado": true,
+        "na": false,
+        "valor": "Departamento Administrativo de la Funcion Publica (fuente del extracto); el Diario Oficial de publicacion no consta en el corpus",
+        "ref_articulo": "",
+        "notas": "El extracto registra la fuente que lo publica; el organo oficial de publicacion no aparece en el fragmento"
+      },
+      "A.7": {
+        "completado": true,
+        "na": false,
+        "valor": "11 de julio de 1994",
+        "ref_articulo": "Encabezado",
+        "notas": "El ano 1994 consta en el encabezado (L1/L12)"
+      },
+      "A.9": {
+        "completado": true,
+        "na": false,
+        "valor": "No consta en portada ni articulo 1; las clausulas de vigencia se examinan en la fase 2 (T05) con el cierre de la ley",
+        "ref_articulo": "",
+        "notas": "Fecha diferida a T05 (fragmento con las clausulas finales)"
+      },
+      "A.13": {
+        "completado": true,
+        "na": false,
+        "valor": "Espanol",
+        "ref_articulo": "",
+        "notas": "Texto integro en espanol"
+      },
+      "A.14": {
+        "completado": true,
+        "na": false,
+        "valor": "Nacional (Colombia)",
+        "ref_articulo": "Salutacion",
+        "notas": "Congreso de Colombia = ambito territorial nacional"
+      },
+      "A.15": {
+        "completado": true,
+        "na": false,
+        "valor": "Servicios publicos domiciliarios: acueducto, alcantarillado, aseo, energia electrica, distribucion de gas combustible, telefonia fija publica basica conmutada y telefonia local movil en el sector rural",
+        "ref_articulo": "Art. 1",
+        "notas": "Lista completa del art. 1 en L28-L30"
+      },
+      "A.16": {
+        "completado": true,
+        "na": false,
+        "valor": "Ley (rango legislativo nacional)",
+        "ref_articulo": "Formula de sancion",
+        "notas": "Formula legislativa 'El Congreso de Colombia decreta'; el texto no declara caracter estatutario"
+      },
+      "A.18": {
+        "completado": true,
+        "na": false,
+        "valor": "Publicada (texto oficial difundido por la Funcion Publica, con anotaciones de modificacion)",
+        "ref_articulo": "",
+        "notas": "El extracto se presenta como dato publicado oficialmente"
+      },
+      "A.19": {
+        "completado": true,
+        "na": false,
+        "valor": "Personas prestadoras de servicios publicos y usuarios de los servicios domiciliarios",
+        "ref_articulo": "Art. 1",
+        "notas": ""
+      },
+      "A.22": {
+        "completado": true,
+        "na": false,
+        "valor": "Texto con valor de ley; la fuente advierte propositos exclusivamente informativos y no se hace responsable de la vigencia",
+        "ref_articulo": "",
+        "notas": "Valor legal de la norma vs. responsabilidad de la fuente del dato"
+      },
+      "A.23": {
+        "completado": true,
+        "na": false,
+        "valor": "Departamento Administrativo de la Funcion Publica (titular del extracto publicado)",
+        "ref_articulo": "",
+        "notas": "Sobre el extracto; titular de la norma misma no explicito"
+      },
+      "A.25": {
+        "completado": true,
+        "na": false,
+        "valor": "Texto digital plano en formato Markdown (extracto)",
+        "ref_articulo": "",
+        "notas": "Formato del archivo del corpus"
+      },
+      "A.30": {
+        "completado": true,
+        "na": false,
+        "valor": "Norma de regimen permanente (régimen de los servicios publicos domiciliarios), no transitoria en su objeto",
+        "ref_articulo": "Objeto de la ley",
+        "notas": ""
+      },
+      "A.8": {
+        "completado": true,
+        "na": false,
+        "valor": "11 de julio de 1994 (publicada en Diario Oficial N. 41.433)",
+        "ref_articulo": "Nota de la fuente",
+        "notas": "ERRATA del piloto: dato hallado en el cierre (T05); T02 declaro 'no consta' porque su fragmento no lo incluia"
+      },
+      "A.10": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] El vacatio legis no consta en el fragmento; depende de la clausula de vigencia final (se revisa en T05, fase 2)"
+      },
+      "A.11": {
+        "completado": true,
+        "na": false,
+        "valor": "Diario Oficial N. 41.433",
+        "ref_articulo": "Nota de la fuente",
+        "notas": "ERRATA del piloto: hallado en T05"
+      },
+      "A.12": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] No se observan identificadores URN/ELI en el fragmento"
+      },
+      "A.17": {
+        "completado": true,
+        "na": false,
+        "valor": "Autenticada por: Presidente del Senado (Jorge Ramon Elias Nader), Secretario General del Senado (Pedro Pumarejo Vega), Presidente de la Camara (Francisco Jose Jattin Safar), Secretario de la Camara (Diego Vivas Tafur); sancion: Cesar Gaviria Trujillo (Presidente de la Republica); refrendan ministros",
+        "ref_articulo": "Bloque de firmas",
+        "notas": "ERRATA del piloto: bloque de firmas hallado en el cierre (T05); T02 declaro 'no consta' a falta del fragmento"
+      },
+      "A.20": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] La fecha de aplicabilidad no consta en el fragmento; se cruza con las clausulas finales en T05"
+      },
+      "A.21": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] La primera fecha de entrada en vigor no consta en el fragmento; se cruza con las clausulas finales en T05"
+      },
+      "A.24": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Licencia de uso del texto no declarada en el fragmento"
+      },
+      "A.31": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Reglas de publicidad de actos administrativos no presentes en portada ni art. 1"
+      },
+      "B.1": {
+        "completado": true,
+        "na": false,
+        "valor": "Referenciado: el texto remite a la Exposicion de Motivos pero no la incluye en el extracto",
+        "ref_articulo": "Nota previa",
+        "notas": "Solo la referencia; el contenido de la exposicion no esta en el corpus"
+      },
+      "B.2": {
+        "completado": true,
+        "na": false,
+        "valor": "6 titulos (incluido TITULO PRELIMINAR)",
+        "ref_articulo": "Estructura",
+        "notas": "Conteo del director: patron ^### titulo = 6"
+      },
+      "B.3": {
+        "completado": true,
+        "na": false,
+        "valor": "15 capitulos",
+        "ref_articulo": "Estructura",
+        "notas": "Conteo del director: patron ^#### capitulo = 15"
+      },
+      "B.5": {
+        "completado": true,
+        "na": false,
+        "valor": "189 articulos numerados + 2 encabezados 'ARTICULO NUEVO' agregados por Ley 689 de 2001",
+        "ref_articulo": "Estructura",
+        "notas": "Conteos del director: 189 numerados + 2 ARTICULO NUEVO"
+      },
+      "B.6": {
+        "completado": true,
+        "na": false,
+        "valor": "48 lineas mencionan paragrafo (sin distinguir mayusculas ni acentos)",
+        "ref_articulo": "Estructura",
+        "notas": "Conteo del director sobre la palabra 'paragrafo'; cita representativa verificada"
+      },
+      "B.7": {
+        "completado": true,
+        "na": false,
+        "valor": "Numerales decimales de definiciones (14.1, 14.2, ...) en el articulo 14",
+        "ref_articulo": "Art. 14",
+        "notas": "Estructura de numerales tipo 14.1 (Acometida) verificada"
+      },
+      "B.14": {
+        "completado": true,
+        "na": false,
+        "valor": "Articulo 14 'Definiciones': glosario de terminos del sector",
+        "ref_articulo": "Art. 14",
+        "notas": ""
+      },
+      "B.19": {
+        "completado": true,
+        "na": false,
+        "valor": "No es anexo: norma principal (Ley 142 de 1994)",
+        "ref_articulo": "Encabezado",
+        "notas": ""
+      },
+      "B.21": {
+        "completado": true,
+        "na": false,
+        "valor": "Existe norma de formato unico de informacion: articulo adicionado por Ley 689 de 2001",
+        "ref_articulo": "ARTICULO NUEVO (Ley 689 de 2001)",
+        "notas": "Encabezado ARTICULO NUEVO, adicionado por art. 15, Ley 689 de 2001"
+      },
+      "B.4": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] No constan secciones/apartados como encabezados en el fragmento entregado"
+      },
+      "B.8": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Literales/letras no verificados en el fragmento entregado"
+      },
+      "B.9": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Director computo 0 encabezados de disposiciones adicionales"
+      },
+      "B.10": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Director computo 0 encabezados de disposiciones transitorias"
+      },
+      "B.11": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin disposicion derogatoria formal como encabezado (0); las derogaciones son anotaciones inline (14 menciones de 'derogad')"
+      },
+      "B.12": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Director computo 0 encabezados de disposicion final"
+      },
+      "B.13": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Anexos/apendices no constan en el fragmento entregado"
+      },
+      "B.15": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Considerandos/Visto/Resuelvo ausentes: la ley abre con formula legislativa directa (EL CONGRESO DE COLOMBIA, DECRETA:)"
+      },
+      "B.16": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Consideraciones/fundamentos no distinguibles en el extracto entregado"
+      },
+      "B.17": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Clausula de extincion/termino: se verifica en el cierre de la ley (tarea T05, fase 2)"
+      },
+      "B.18": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Clausula de revision periodica: se verifica en el cierre de la ley (tarea T05, fase 2)"
+      },
+      "B.20": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Anexos tecnicos con contenido matematico no constan en el fragmento"
+      },
+      "B.22": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Version de formatos no declarada en el fragmento"
+      },
+      "I.1": {
+        "completado": true,
+        "na": false,
+        "valor": "Ley nacional: rango legislativo bajo la Constitucion, cuyos arts. 334, 336 y 365 a 370 son su marco de intervencion estatal",
+        "ref_articulo": "Art. 2",
+        "notas": ""
+      },
+      "I.2": {
+        "completado": true,
+        "na": false,
+        "valor": "Congreso de Colombia",
+        "ref_articulo": "Formula de sancion",
+        "notas": ""
+      },
+      "I.3": {
+        "completado": true,
+        "na": false,
+        "valor": "Procedimiento legislativo ordinario: sancion y promulgacion con formula 'EL CONGRESO DE COLOMBIA, DECRETA:'; remision a Exposicion de Motivos",
+        "ref_articulo": "Salutacion y formula",
+        "notas": "El detalle del tramite no consta en el extracto"
+      },
+      "I.4": {
+        "completado": true,
+        "na": false,
+        "valor": "Ningun vicio formal detectado en el extracto (texto presentado como oficial por la fuente)",
+        "ref_articulo": "",
+        "notas": "Sin observaciones de vicio en el fragmento; la verificacion formal profunda excede el corpus"
+      },
+      "I.6": {
+        "completado": true,
+        "na": false,
+        "valor": "Control posterior documentado en anotaciones: Fallo Consejo de Estado 917 de 2011; Sentencia Corte Constitucional T-273 de 2012; Fallo Tribunal Administrativo de Cundinamarca 1371 de 2012; Decreto 958 de 2001",
+        "ref_articulo": "Notas de vigencia",
+        "notas": "Lista completa en L17-L19"
+      },
+      "I.5": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Control previo de constitucionalidad no registrado en el extracto; las referencias juridicas citadas (L17-L19) son controles posteriores"
+      }
+    },
+    "2": {
+      "C.4": {
+        "completado": true,
+        "na": false,
+        "valor": "Si: la ley registra derogaciones parciales anotadas en el propio texto (14 menciones de 'derogad'; ejemplo: parrafo 2 derogado por Ley 286 de 1996)",
+        "ref_articulo": "Parrafo 2 (anotacion)",
+        "notas": "Conteo del director: anotaciones_derogada = 14"
+      },
+      "C.2": {
+        "completado": true,
+        "na": false,
+        "valor": "Si: la norma se presenta vigente con modificaciones (derogaciones parciales y adiciones anotadas; texto corregido por fe de erratas); la fuente declara que no se hace responsable de la vigencia",
+        "ref_articulo": "Notas finales de la fuente",
+        "notas": "Cierre examinado: formula de sancion, firmas y notas de publicacion/erratas; sin clausula de vigencia diferida"
+      },
+      "C.14": {
+        "completado": true,
+        "na": false,
+        "valor": "Texto consolidado de facto: corregido por fe de erratas (DO 41.925 de 1995) y anotado con modificaciones y referencias posteriores",
+        "ref_articulo": "Nota de la fuente",
+        "notas": "Consolidacion a cargo de la fuente, no texto oficial unico"
+      },
+      "C.1": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] No aplica 'sin modificaciones': el texto registra modificaciones (14 anotaciones de derogacion, 2 de supresion, 2 ARTICULO NUEVO)"
+      },
+      "C.3": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin derogacion total anotada; el texto se presenta como vigente con anotaciones parciales"
+      },
+      "C.5": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin clausula de caducidad ni expiracion en el extracto"
+      },
+      "C.6": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin anotacion de suspension de eficacia"
+      },
+      "C.7": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin anotacion de nulidad"
+      },
+      "C.8": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Es norma expedida (1994), no proyecto"
+      },
+      "C.9": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin reservas anotadas"
+      },
+      "C.10": {
+        "completado": true,
+        "na": false,
+        "valor": "Si: existe declaratoria de inexequibilidad parcial anotada — texto subrayado del articulo 87 declarado INEXEQUIBLE por la Corte Constitucional, Sentencia C-150 de 2003",
+        "ref_articulo": "Art. 87 (nota de inexequibilidad)",
+        "notas": "ERRATA del piloto: anotacion hallada leyendo arts. 86-88 (T07); T05 declaro 'sin inexequibilidad' por no estar en sus fragmentos"
+      },
+      "C.11": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin sentencia de inconstitucionalidad condicionada anotada (T-273/2012 citada no es condicionada)"
+      },
+      "C.12": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin interpretacion autorizada anotada"
+      },
+      "C.13": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin indicio de derogacion tacita registrado en el extracto"
+      },
+      "C.15": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin entrada en vigor aplazada: publicada el 11-07-1994 sin vacatio visible"
+      },
+      "C.16": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin vigencia escalonada anotada"
+      },
+      "C.17": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin eficacia diferida anotada"
+      },
+      "C.18": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin interpretacion conforme anotada"
+      },
+      "C.19": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin efectos retroactivos establecidos en el extracto"
+      },
+      "C.20": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin efectos ultraactivos establecidos en el extracto"
+      },
+      "K.1": {
+        "completado": true,
+        "na": false,
+        "valor": "Eficacia inmediata presumida: publicada el 11-07-1994 (DO 41.433) sin clausula de entrada diferida visible en el extracto",
+        "ref_articulo": "Nota de publicacion",
+        "notas": "Sin vacatio consta; cierre examinado en T05"
+      },
+      "K.6": {
+        "completado": true,
+        "na": false,
+        "valor": "Personas prestadoras de servicios publicos y usuarios",
+        "ref_articulo": "Art. 1",
+        "notas": "Fragmento art. 1 leido en T02"
+      },
+      "K.7": {
+        "completado": true,
+        "na": false,
+        "valor": "Servicios publicos domiciliarios: acueducto, alcantarillado, aseo, energia, gas, telefonia fija y movil rural",
+        "ref_articulo": "Art. 1",
+        "notas": "Fragmento art. 1 leido en T02"
+      },
+      "K.8": {
+        "completado": true,
+        "na": false,
+        "valor": "Temporal: desde el 11 de julio de 1994, sin termino final consta en el extracto",
+        "ref_articulo": "Nota de publicacion",
+        "notas": ""
+      },
+      "K.9": {
+        "completado": true,
+        "na": false,
+        "valor": "Territorial: nacional (Republica de Colombia)",
+        "ref_articulo": "Encabezado y cierre",
+        "notas": "L3119 confirma Republica de Colombia - Gobierno Nacional"
+      },
+      "K.2": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin eficacia diferida anotada (publicacion inmediata, sin vacatio visible)"
+      },
+      "K.3": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin eficacia condicionada a hecho futuro en el extracto"
+      },
+      "K.4": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin efectos retroactivos establecidos"
+      },
+      "K.5": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin ultraactividad (vigencia de normas derogadas) establecida en el extracto"
+      },
+      "K.10": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin anotacion de inaplicabilidad por inconstitucionalidad en el extracto; las sentencias citadas (T-273/2012, etc.) no declaran inconstitucionalidad general"
+      }
+    },
+    "8": {
+      "L.1": {
+        "completado": true,
+        "na": false,
+        "valor": "Problema: ausencia de un regimen unificado para los servicios publicos domiciliarios (acueducto, alcantarillado, aseo, energia, gas, telefonia), que la ley ordena",
+        "ref_articulo": "Objeto de la ley",
+        "notas": "Fines de la intervencion estatal en art. 2 (leido en T04)"
+      },
+      "L.2": {
+        "completado": true,
+        "na": false,
+        "valor": "Objetivos: establecer el regimen de los servicios publicos domiciliarios y fijar criterios de intervencion estatal conforme a los arts. 334, 336 y 365 a 370 de la Constitucion",
+        "ref_articulo": "Objeto y art. 2",
+        "notas": "Art. 2 leido en T04"
+      },
+      "L.3": {
+        "completado": true,
+        "na": false,
+        "valor": "Alternativas regulatorias explicitas en el propio texto: regimen de regulacion, libertad regulada, libertad vigilada o regimen de libertad tarifaria, segun condiciones de mercado",
+        "ref_articulo": "Art. 88",
+        "notas": "Condiciones de libertad en 88.2-88.3 (L1731-L1734)"
+      },
+      "L.7": {
+        "completado": true,
+        "na": false,
+        "valor": "Beneficios: subsidios para personas de menores ingresos (86.2); tarifas eficientes que no trasladan costos de gestion ineficiente (87.1); suficiencia financiera para operacion y expansion (87.4)",
+        "ref_articulo": "Arts. 86-87",
+        "notas": ""
+      },
+      "L.8": {
+        "completado": true,
+        "na": false,
+        "valor": "Impacto distributivo: medidas de solidaridad y redistribucion — usuarios de estratos altos y comerciales/industriales ayudan a estratos bajos via fondos de solidaridad y redistribucion",
+        "ref_articulo": "Art. 87.3",
+        "notas": ""
+      },
+      "L.9": {
+        "completado": true,
+        "na": false,
+        "valor": "Impacto sectorial: sector de servicios publicos domiciliarios regulado en integralidad (listado del art. 1); regimen tarifario completo (arts. 86-96)",
+        "ref_articulo": "Art. 1 y art. 86",
+        "notas": ""
+      },
+      "L.16": {
+        "completado": true,
+        "na": false,
+        "valor": "Eficiencia normativa: eficiencia economica y suficiencia financiera son criterios prioritarios del regimen tarifario (87.7)",
+        "ref_articulo": "Art. 87.7",
+        "notas": ""
+      },
+      "L.17": {
+        "completado": true,
+        "na": false,
+        "valor": "Carga administrativa: criterio de simplicidad — formulas tarifarias elaboradas para facilitar su comprension, aplicacion y control (87.5)",
+        "ref_articulo": "Art. 87.5",
+        "notas": "No hay medicion de carga; el criterio normativo es el regla disponible"
+      },
+      "L.4": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Costos de cumplimiento para particulares no cuantificados en la ley ni en el extracto"
+      },
+      "L.5": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Costos de cumplimiento para el Estado no cuantificados en el extracto"
+      },
+      "L.6": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Costos de oportunidad no abordados en la norma"
+      },
+      "L.10": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin reglas ambientales en el extracto entregado"
+      },
+      "L.11": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Consulta publica no consta (ley de 1994, previa al regimen de participacion AIR)"
+      },
+      "L.12": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] No existe AIR en la norma: ley de 1994 anterior al regimen de Analisis de Impacto Regulatorio"
+      },
+      "L.13": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin evaluacion ex post en la norma"
+      },
+      "L.14": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin indicadores de desempeno normativo en el extracto"
+      },
+      "L.15": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin sunset clause: el cierre (examinado en T05) no contiene clausula de caducidad"
+      },
+      "L.18": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin propuesta de simplificacion administrativa posterior (87.5 es criterio, no programa de simplificacion)"
+      },
+      "L.19": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin mecanismos de innovacion regulatoria (sandbox, etc.) en el extracto"
+      },
+      "L.20": {
+        "completado": false,
+        "na": true,
+        "valor": "",
+        "ref_articulo": "",
+        "notas": "[no aplica] Sin seccion de lecciones aprendidas en la norma"
+      }
+    }
+  },
+  "evidencia": [
+    {
+      "campo": "G.4",
+      "cita": "LEY-142-1994.md#L15",
+      "tipo": "texto",
+      "verbatim": "Por la cual se establece el régimen de los servicios públicos domiciliarios y se dictan otras disposiciones."
+    },
+    {
+      "campo": "A.1",
+      "cita": "LEY-142-1994.md#L1",
+      "tipo": "texto",
+      "verbatim": "LEY 142 DE 1994"
+    },
+    {
+      "campo": "A.2",
+      "cita": "LEY-142-1994.md#L1",
+      "tipo": "texto",
+      "verbatim": "LEY 142 DE 1994"
+    },
+    {
+      "campo": "A.3",
+      "cita": "LEY-142-1994.md#L3",
+      "tipo": "texto",
+      "verbatim": "Ley de Servicios Públicos Domiciliarios"
+    },
+    {
+      "campo": "A.4",
+      "cita": "LEY-142-1994.md#L12",
+      "tipo": "texto",
+      "verbatim": "LEY 142 DE 1994"
+    },
+    {
+      "campo": "A.5",
+      "cita": "LEY-142-1994.md#L16",
+      "tipo": "texto",
+      "verbatim": "EL CONGRESO DE COLOMBIA"
+    },
+    {
+      "campo": "A.6",
+      "cita": "LEY-142-1994.md#L7",
+      "tipo": "texto",
+      "verbatim": "Departamento Administrativo de la Función Pública"
+    },
+    {
+      "campo": "A.7",
+      "cita": "LEY-142-1994.md#L14",
+      "tipo": "texto",
+      "verbatim": "(Julio 11)"
+    },
+    {
+      "campo": "A.9",
+      "cita": "LEY-142-1994.md#L15",
+      "tipo": "texto",
+      "verbatim": "Por la cual se establece el régimen de los servicios públicos domiciliarios y se dictan otras disposiciones."
+    },
+    {
+      "campo": "A.13",
+      "cita": "LEY-142-1994.md#L15",
+      "tipo": "texto",
+      "verbatim": "Por la cual se establece el régimen de los servicios públicos domiciliarios y se dictan otras disposiciones."
+    },
+    {
+      "campo": "A.14",
+      "cita": "LEY-142-1994.md#L16",
+      "tipo": "texto",
+      "verbatim": "EL CONGRESO DE COLOMBIA"
+    },
+    {
+      "campo": "A.15",
+      "cita": "LEY-142-1994.md#L28-L30",
+      "tipo": "texto",
+      "verbatim": "de acueducto, alcantarillado, aseo, energía"
+    },
+    {
+      "campo": "A.16",
+      "cita": "LEY-142-1994.md#L20",
+      "tipo": "texto",
+      "verbatim": "DECRETA:"
+    },
+    {
+      "campo": "A.18",
+      "cita": "LEY-142-1994.md#L8",
+      "tipo": "texto",
+      "verbatim": "Ley 142 de 1994"
+    },
+    {
+      "campo": "A.19",
+      "cita": "LEY-142-1994.md#L31",
+      "tipo": "texto",
+      "verbatim": "que realicen las personas prestadoras de servicios públicos"
+    },
+    {
+      "campo": "A.22",
+      "cita": "LEY-142-1994.md#L9-L10",
+      "tipo": "texto",
+      "verbatim": "Los datos publicados tienen propósitos exclusivamente informativos"
+    },
+    {
+      "campo": "A.23",
+      "cita": "LEY-142-1994.md#L7",
+      "tipo": "texto",
+      "verbatim": "Departamento Administrativo de la Función Pública"
+    },
+    {
+      "campo": "A.25",
+      "cita": "LEY-142-1994.md#L7",
+      "tipo": "texto",
+      "verbatim": "Departamento Administrativo de la Función Pública"
+    },
+    {
+      "campo": "A.30",
+      "cita": "LEY-142-1994.md#L15",
+      "tipo": "texto",
+      "verbatim": "Por la cual se establece el régimen de los servicios públicos domiciliarios"
+    },
+    {
+      "campo": "B.1",
+      "cita": "LEY-142-1994.md#L17",
+      "tipo": "texto",
+      "verbatim": "Ver Exposición de Motivos Ley 142 de 1994"
+    },
+    {
+      "campo": "B.2",
+      "cita": "LEY-142-1994.md#L22",
+      "tipo": "calculo",
+      "verbatim": "### TITULO PRELIMINAR"
+    },
+    {
+      "campo": "B.3",
+      "cita": "LEY-142-1994.md#L24",
+      "tipo": "calculo",
+      "verbatim": "#### CAPITULO I"
+    },
+    {
+      "campo": "B.5",
+      "cita": "LEY-142-1994.md#L28",
+      "tipo": "calculo",
+      "verbatim": "ARTÍCULO 1. Ámbito de aplicación de la ley"
+    },
+    {
+      "campo": "B.6",
+      "cita": "LEY-142-1994.md#L841",
+      "tipo": "calculo",
+      "verbatim": "PARÁGRAFO 2. Derogado por el art. 7, Ley 286 de 1996."
+    },
+    {
+      "campo": "B.7",
+      "cita": "LEY-142-1994.md#L246",
+      "tipo": "texto",
+      "verbatim": "ARTÍCULO 14. Deﬁniciones. Para interpretar y aplicar esta Ley se tendrán en cuenta las siguientes deﬁniciones:"
+    },
+    {
+      "campo": "B.14",
+      "cita": "LEY-142-1994.md#L246",
+      "tipo": "texto",
+      "verbatim": "Para interpretar y aplicar esta Ley se tendrán en cuenta las siguientes deﬁniciones"
+    },
+    {
+      "campo": "B.19",
+      "cita": "LEY-142-1994.md#L1",
+      "tipo": "texto",
+      "verbatim": "LEY 142 DE 1994"
+    },
+    {
+      "campo": "B.21",
+      "cita": "LEY-142-1994.md#L3064",
+      "tipo": "texto",
+      "verbatim": "Del formato único de informaci"
+    },
+    {
+      "campo": "I.1",
+      "cita": "LEY-142-1994.md#L36",
+      "tipo": "texto",
+      "verbatim": "en el marco de lo dispuesto en los artículos 334, 336, y 365 a 370 de la Constitución Política"
+    },
+    {
+      "campo": "I.2",
+      "cita": "LEY-142-1994.md#L16",
+      "tipo": "texto",
+      "verbatim": "EL CONGRESO DE COLOMBIA"
+    },
+    {
+      "campo": "I.3",
+      "cita": "LEY-142-1994.md#L20",
+      "tipo": "texto",
+      "verbatim": "DECRETA:"
+    },
+    {
+      "campo": "I.4",
+      "cita": "LEY-142-1994.md#L16",
+      "tipo": "texto",
+      "verbatim": "EL CONGRESO DE COLOMBIA"
+    },
+    {
+      "campo": "I.6",
+      "cita": "LEY-142-1994.md#L17",
+      "tipo": "texto",
+      "verbatim": "Ver el Fallo del Consejo de Estado 917 de 2011"
+    },
+    {
+      "campo": "C.4",
+      "cita": "LEY-142-1994.md#L841",
+      "tipo": "texto",
+      "verbatim": "PARÁGRAFO 2. Derogado por el art. 7, Ley 286 de 1996."
+    },
+    {
+      "campo": "C.2",
+      "cita": "LEY-142-1994.md#L3118-L3119",
+      "tipo": "texto",
+      "verbatim": "Publicada en el Diario Oﬁcial N 41.433 de 11 de julio de 1994"
+    },
+    {
+      "campo": "C.14",
+      "cita": "LEY-142-1994.md#L3119",
+      "tipo": "texto",
+      "verbatim": "El presente texto fue corregido de acuerdo a la FE DE ERRATAS"
+    },
+    {
+      "campo": "A.8",
+      "cita": "LEY-142-1994.md#L3118",
+      "tipo": "texto",
+      "verbatim": "Publicada en el Diario Oﬁcial N 41.433 de 11 de julio de 1994"
+    },
+    {
+      "campo": "A.11",
+      "cita": "LEY-142-1994.md#L3118",
+      "tipo": "texto",
+      "verbatim": "Publicada en el Diario Oﬁcial N 41.433 de 11 de julio de 1994"
+    },
+    {
+      "campo": "A.17",
+      "cita": "LEY-142-1994.md#L3087-L3116",
+      "tipo": "texto",
+      "verbatim": "EL PRESIDENTE DEL HONORABLE SENADO DE LA REPÚBLICA"
+    },
+    {
+      "campo": "K.1",
+      "cita": "LEY-142-1994.md#L3118",
+      "tipo": "texto",
+      "verbatim": "Publicada en el Diario Oﬁcial N 41.433 de 11 de julio de 1994"
+    },
+    {
+      "campo": "K.6",
+      "cita": "LEY-142-1994.md#L31",
+      "tipo": "texto",
+      "verbatim": "que realicen las personas prestadoras de servicios públicos"
+    },
+    {
+      "campo": "K.7",
+      "cita": "LEY-142-1994.md#L28",
+      "tipo": "texto",
+      "verbatim": "de acueducto, alcantarillado, aseo, energía"
+    },
+    {
+      "campo": "K.8",
+      "cita": "LEY-142-1994.md#L3118",
+      "tipo": "texto",
+      "verbatim": "de 11 de julio de 1994"
+    },
+    {
+      "campo": "K.9",
+      "cita": "LEY-142-1994.md#L16",
+      "tipo": "texto",
+      "verbatim": "EL CONGRESO DE COLOMBIA"
+    },
+    {
+      "campo": "L.1",
+      "cita": "LEY-142-1994.md#L15",
+      "tipo": "texto",
+      "verbatim": "Por la cual se establece el régimen de los servicios públicos domiciliarios y se dictan otras disposiciones."
+    },
+    {
+      "campo": "L.2",
+      "cita": "LEY-142-1994.md#L36",
+      "tipo": "texto",
+      "verbatim": "en el marco de lo dispuesto en los artículos 334, 336, y 365 a 370 de la Constitución Política"
+    },
+    {
+      "campo": "L.3",
+      "cita": "LEY-142-1994.md#L1726",
+      "tipo": "texto",
+      "verbatim": "podrá incluir las modalidades de libertad regulada y libertad vigilada"
+    },
+    {
+      "campo": "L.7",
+      "cita": "LEY-142-1994.md#L1662",
+      "tipo": "texto",
+      "verbatim": "El sistema de subsidios, que se otorgarán para que las personas de menores ingresos puedan pagar las tarifas"
+    },
+    {
+      "campo": "L.8",
+      "cita": "LEY-142-1994.md#L1681",
+      "tipo": "texto",
+      "verbatim": "fondos de solidaridad y redistribución"
+    },
+    {
+      "campo": "L.9",
+      "cita": "LEY-142-1994.md#L1654",
+      "tipo": "texto",
+      "verbatim": "El régimen tarifario en los servicios públicos a los que esta Ley se reﬁere, está compuesto por reglas relativas"
+    },
+    {
+      "campo": "L.16",
+      "cita": "LEY-142-1994.md#L1691",
+      "tipo": "texto",
+      "verbatim": "Los criterios de eﬁciencia y suﬁciencia ﬁnanciera tendrán prioridad en la deﬁnición del régimen tarifario"
+    },
+    {
+      "campo": "L.17",
+      "cita": "LEY-142-1994.md#L1688",
+      "tipo": "texto",
+      "verbatim": "Por simplicidad se entiende que las fórmulas de tarifas se elaborarán en tal forma que se facilite su comprensión, aplicación y control"
+    },
+    {
+      "campo": "C.10",
+      "cita": "LEY-142-1994.md#L1698",
+      "tipo": "texto",
+      "verbatim": "El texto subrayado fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-150 de 2003"
+    }
+  ]
+}

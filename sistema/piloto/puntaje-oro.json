@@ -1,0 +1,161 @@
+{
+  "total": 25,
+  "mecanicamente_correctas": 9,
+  "pendientes_humanas": 16,
+  "detalle": [
+    {
+      "id": "ORO-001",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-002",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-003",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-004",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-005",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-006",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-007",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-011",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-012",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-013",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-014",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-015",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-016",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-017",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-018",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-020",
+      "estado": "citada-y-resuelta",
+      "tipo": "cita",
+      "nota": "juicio semantico (respuesta vs esperado) para el humano"
+    },
+    {
+      "id": "ORO-008",
+      "estado": "correcta",
+      "tipo": "conteo",
+      "respondido": "189",
+      "esperado": "189"
+    },
+    {
+      "id": "ORO-009",
+      "estado": "correcta",
+      "tipo": "conteo",
+      "respondido": "6",
+      "esperado": "6"
+    },
+    {
+      "id": "ORO-010",
+      "estado": "correcta",
+      "tipo": "conteo",
+      "respondido": "15",
+      "esperado": "15"
+    },
+    {
+      "id": "ORO-019",
+      "estado": "correcta",
+      "tipo": "conteo",
+      "respondido": "48",
+      "esperado": "48"
+    },
+    {
+      "id": "ORO-N01",
+      "estado": "correcta",
+      "tipo": "negativo",
+      "regla": "la respuesta declara ausencia y no cita nada"
+    },
+    {
+      "id": "ORO-N02",
+      "estado": "correcta",
+      "tipo": "negativo",
+      "regla": "la respuesta declara ausencia y no cita nada"
+    },
+    {
+      "id": "ORO-N03",
+      "estado": "correcta",
+      "tipo": "negativo",
+      "regla": "la respuesta declara ausencia y no cita nada"
+    },
+    {
+      "id": "ORO-N04",
+      "estado": "correcta",
+      "tipo": "negativo",
+      "regla": "la respuesta declara ausencia y no cita nada"
+    },
+    {
+      "id": "ORO-N05",
+      "estado": "correcta",
+      "tipo": "negativo",
+      "regla": "la respuesta declara ausencia y no cita nada"
+    }
+  ]
+}
