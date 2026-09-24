@@ -1,0 +1,139 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Schema de validacion para elementos.json — Normativa-Procesador",
+  "description": "Valida estructura, tipos, campos obligatorios, unicidad de IDs y dependencias resueltas",
+  "type": "object",
+  "required": [
+    "meta",
+    "elementos"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": [
+        "version",
+        "fecha"
+      ],
+      "properties": {
+        "version": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+(-[a-zA-Z0-9.]+)?$"
+        },
+        "fecha": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "_nota": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "elementos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "categoria",
+          "nombre",
+          "descripcion",
+          "fase_lectura",
+          "estado",
+          "origen",
+          "tipo_campo",
+          "requiere_ref_articulo",
+          "dependencias",
+          "glosario_terminos"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[A-Z]\\.\\d+[a-z]?$",
+            "description": "Identificador unico, ej: A.1, F.30, F.30a"
+          },
+          "categoria": {
+            "type": "string",
+            "enum": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I",
+              "J",
+              "K",
+              "L",
+              "M"
+            ]
+          },
+          "nombre": {
+            "type": "string",
+            "minLength": 1
+          },
+          "descripcion": {
+            "type": "string",
+            "minLength": 1
+          },
+          "fase_lectura": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9
+          },
+          "estado": {
+            "type": "string",
+            "enum": [
+              "validado",
+              "pendiente",
+              "borrador",
+              "deprecado"
+            ]
+          },
+          "origen": {
+            "type": "string",
+            "enum": [
+              "base",
+              "CRA",
+              "SSPD",
+              "campo",
+              "usuario"
+            ]
+          },
+          "tipo_campo": {
+            "type": "string",
+            "enum": [
+              "checkbox",
+              "texto",
+              "numero",
+              "fecha",
+              "lista",
+              "formula",
+              "tabla"
+            ]
+          },
+          "requiere_ref_articulo": {
+            "type": "boolean"
+          },
+          "dependencias": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Z]\\.\\d+[a-z]?$"
+            }
+          },
+          "glosario_terminos": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id_ficha": "NP-FICHA-LEY-142-1994-001",
+    "version": "1.0.0-beta.1",
+    "fecha_analisis": "2026-09-23T18:30:00-05:00",
+    "analista": "demo-valida",
+    "organizacion": "prueba M1",
+    "proposito": "Ejemplo de ficha con evidencia honesta (rojo->verde)",
+    "estado": "completada",
+    "norma_archivo": "LEY-142-1994.md",
+    "corpus_set_hash": "ed71c7223adca6c26a2d9940e7381ba584895aefca26cf8b56d677ef347e6114"
+  },
+  "fases": {
+    "1": {
+      "A.1": {
+        "completado": true,
+        "na": false,
+        "valor": "Ley",
+        "ref_articulo": "Titulo de la norma",
+        "notas": "Ejemplo de prueba M1"
+      }
+    }
+  },
+  "evidencia": [
+    {
+      "campo": "A.1",
+      "cita": "LEY-142-1994.md#L1-L3",
+      "tipo": "texto",
+      "verbatim": "Ley de Servicios Públicos Domiciliarios"
+    }
+  ]
+}

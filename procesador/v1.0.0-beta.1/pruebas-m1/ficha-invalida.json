@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "id_ficha": "NP-FICHA-LEY-142-1994-002",
+    "version": "1.0.0-beta.1",
+    "fecha_analisis": "2026-09-23T18:30:00-05:00",
+    "analista": "demo-invalida",
+    "organizacion": "prueba M1",
+    "proposito": "Ejemplo con afirmaciones sin sustento (debe ser RECHAZADA)",
+    "estado": "completada",
+    "norma_archivo": "LEY-142-1994.md",
+    "corpus_set_hash": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "fases": {
+    "1": {
+      "A.1": {
+        "completado": true,
+        "na": false,
+        "valor": "Ley",
+        "ref_articulo": "",
+        "notas": ""
+      },
+      "A.2": {
+        "completado": true,
+        "na": false,
+        "valor": "142",
+        "ref_articulo": "Titulo",
+        "notas": ""
+      }
+    }
+  },
+  "evidencia": [
+    {
+      "campo": "A.1",
+      "cita": "LEY-142-1994.md#L1-L2",
+      "tipo": "texto",
+      "verbatim": "La presente ley regula todo lo relacionado con servicios publicos domiciliarios"
+    },
+    {
+      "campo": "A.2",
+      "cita": "LEY-INEXISTENTE-9999.md#L5",
+      "tipo": "texto",
+      "verbatim": "142"
+    }
+  ]
+}
