@@ -1,0 +1,3 @@
+# El corpus se hashea byte-por-byte: prohibida cualquier transformación de Git
+# (CRLF/LF, etc.) — integrity_check fallaría tras un clone en otra plataforma.
+normas_procesar/** -text
