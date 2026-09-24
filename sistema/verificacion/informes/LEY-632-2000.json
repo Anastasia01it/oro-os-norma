@@ -1,0 +1,46 @@
+{
+ "corpus": "LEY-632-2000.md",
+ "fuente": "sistema/verificacion/fuentes/LEY-632-2000.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 2,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.7506,
+   "corpus": "ARTICULO 1o. El numeral 24 del art&iacute;culo 14 de la Ley 142 de 1994, quedar&aacute; as&iacute;: \"14.24 Servicio P&uacute;blico de Aseo. Es el servicio de recolecci&oacute;n mun",
+   "fuente": "ARTICULO 1o. El numeral 24 del artículo 14 de la Ley 142 de 1994, quedará así: \"14.24 Servicio Público de Aseo. Es el servicio de recolección municipal de residuos, principalmente ",
+   "diff": {
+    "corpus": "...ARTICULO 1o. El numeral 24 del art&iacute;culo 14 de la Ley 142 de 1994, quedar&aacute; as&iacute;: \"1...",
+    "fuente": "...ARTICULO 1o. El numeral 24 del artículo 14 de la Ley 142 de 1994, quedará así: \"14.24 Servicio ..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.8783,
+   "corpus": "ARTICULO 2o. SUBSIDIOS Y CONTRIBUCIONES PARA LOS SERVICIOS DE ACUEDUCTO, ALCANTARILLADO Y ASEO. Ver Notas del Editor Las entidades prestadoras de estos servicios deber&aacute;n alc",
+   "fuente": "ARTICULO 2o. SUBSIDIOS Y CONTRIBUCIONES PARA LOS SERVICIOS DE ACUEDUCTO, ALCANTARILLADO Y ASEO. Ver Notas del Editor Las entidades prestadoras de estos servicios deberán alcanzar l",
+   "diff": {
+    "corpus": "...el Editor Las entidades prestadoras de estos servicios deber&aacute;n alcanzar los l&iacute;mites establecidos en el art&iacute;...",
+    "fuente": "...el Editor Las entidades prestadoras de estos servicios deberán alcanzar los límites establecidos en el artículo 99-6 de l..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 2
+ }
+}

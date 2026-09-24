@@ -1,0 +1,831 @@
+![gov.co](../images/logo_gov.png)
+
+![](../images/Logo_CRA.png)
+
+[GESTOR NORMATIVO - CRA](../../index.html)
+
+[Inicio](../../index.html)
+
+[Transparencia
+y Acceso
+a Informcion Pública](https://www.cra.gov.co/transparencia)
+
+[Atención
+y servicios a
+la ciudadanía](https://www.cra.gov.co/atencion-y-servicio-a-la-ciudadania)
+
+[Participa](https://www.cra.gov.co/participa)
+
+[La CRA](https://www.cra.gov.co/)
+
+[Nuestra regulación](https://normas.cra.gov.co/)
+
+[Expertos comisionados](https://www.cra.gov.co/transparencia/informacion-entidad/expertos-comisionados/director-ejecutivo/perfil-directora-ejecutiva)
+
+[Prensa](https://www.cra.gov.co/prensa/noticias)
+
+[Participación
+- Nuevos Marcos
+Tarifarios](https://cartacymmaclaus.my.canva.site/nuevos-marcos)
+
+![Menú principal](../images/icon-menu.svg)
+
+[Inicio](../../index.html)
+[Transparencia
+y Acceso
+a Informcion Pública](https://www.cra.gov.co/transparencia)
+[Atención
+y servicios a
+la ciudadanía](http://outlook.office365.com/book/AgendamientodecitaspresencialCRA1@cra.gov.co/)
+[Participa](https://www.cra.gov.co/participa)
+[La CRA](https://www.cra.gov.co/transparencia/informacion-entidad/quienes-somos)
+[Nuestra regulación](https://normas.cra.gov.co/)
+[Expertos comisionados](https://www.cra.gov.co/transparencia/informacion-entidad/expertos-comisionados/director-ejecutivo/perfil-directora-ejecutiva)
+[Prensa](https://www.cra.gov.co/prensa/noticias)
+[Participación - Nuevos MarcosTarifarios](https://cartacymmaclaus.my.canva.site/nuevos-marcos)
+
+Ley 689 de 2001
+
+![Anotaciones](../images/noun-invisible-2037770-FFFFFF.svg)Anotaciones
+
+![SUIN - Juriscol](../images/suinJuriscolLogoTransparente.png)
+
+![Imprimir](../images/noun-printer-57793-FFFFFF.svg)
+
+![Descargar](../images/noun-download-691153-FFFFFF.svg)
+
+![Datos](../images/noun-data-2597507-3366CC.svg)DATOS
+
+![Búsqueda](../images/noun-search-875351-3366CC.svg)BUSCAR
+
+![Índice](../images/noun-listed-3082130-3366CC.svg)ÍNDICE
+
+![Memoria](../images/noun-download-4625906-3366CC.svg)DESCARGAS
+
+![Desarrollos](../images/noun-clip-1628693-3366CC.svg)DESARROLLOS
+
+![Modificaciones](../images/noun-pen-429216-3366CC.svg)MODIFICACIONES
+
+![Concordancias](../images/noun-columns-120337-3366CC.svg)CONCORDANCIAS
+
+![Notificaciones](../images/noun-notify-783329-3366CC.svg)NOTIFICACIONES
+
+![Actos de trámite](../images/noun-process-2526089-3366CC.svg)ACTOS DE TRÁMITE
+
+![Abogacía](../images/noun-fairness-4145115-3366CC.svg)ABOGACÍA
+
+![Videos](../images/noun-video-846806-3366CC.svg)VIDEOS
+
+LEY 689 DE 2001
+
+(agosto 28)
+
+Diario Oficial No. 44.537, de agosto 31 de 2001
+
+por la cual se modifica parcialmente la Ley 142 de 1994.
+
+[Resumen de Notas de Vigencia](javascript:insRow1())
+
+EL CONGRESO DE COLOMBIA
+
+DECRETA:
+
+TITULO PRELIMINAR.
+
+DEFINICIONES ESPECIALES.
+
+ARTÍCULO 1o. Modifícanse los numerales 15 y 24 del artículo [14](ley_0142_1994.htm#14) de la Ley 142 de 1994, el cual quedará así:
+
+"**Artículo 14.** Definiciones.
+
+**14.15** Productor marginal independiente o para uso particular. Es la persona natural o jurídica que utilizando recursos propios y técnicamente aceptados por la normatividad vigente para cada servicio, produce bienes o servicios propios del objeto de las empresas de servicios públicos para sí misma o para una clientela compuesta exclusivamente por quienes tienen vinculación económica directa con ella o con sus socios o miembros o como subproducto de otra actividad principal.
+
+**14.24** Servicio público de aseo. Es el servicio de recolección municipal de residuos, principalmente sólidos. También se aplicará esta ley a las actividades complementarias de transporte, tratamiento, aprovechamiento y disposición final de tales residuos.
+
+Igualmente incluye, entre otras, las actividades complementarias de corte de césped y poda de árboles ubicados en las vías y áreas públicas; de lavado de estas áreas, transferencia, tratamiento y aprovechamiento".
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 2o. Modifícase el numeral 20 del artículo [14](ley_0142_1994.htm#14) de la Ley 142 de 1994 el cual quedará así:
+
+"**14.20** Servicios Públicos. Son todos los servicios y actividades complementarias a los que se aplica esta ley".
+
+TITULO II.
+
+REGIMEN DE ACTOS Y CONTRATOS DE LAS EMPRESAS.
+
+CAPITULO I.
+
+NORMAS GENERALES.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 3o. Modifícase el artículo [31](ley_0142_1994.htm#31) de la Ley 142 de 1994 el cual quedará así:
+
+"**Artículo 31.** Régimen de la contratación. Los contratos que celebren las entidades estatales que prestan los servicios públicos a los que se refiere esta ley no estarán sujetos a las disposiciones del Estatuto General de Contratación de la Administración Pública, salvo en lo que la presente ley disponga otra cosa.
+
+Las Comisiones de Regulación podrán hacer obligatoria la inclusión, en ciertos tipos de contratos de cualquier empresa de servicios públicos, de cláusulas exorbitantes y podrán facultar, previa consulta expresa por parte de las empresas de servicios públicos domiciliarios, que se incluyan en los demás. Cuando la inclusión sea forzosa, todo lo relativo a tales cláusulas se regirá, en cuanto sea pertinente, por lo dispuesto en la Ley 80 de 1993, y los actos y contratos en los que se utilicen esas cláusulas y/o se ejerciten esas facultades estarán sujetos al control de la jurisdicción contencioso administrativa. Las Comisiones de Regulación contarán con quince (15) días para responder las solicitudes elevadas por las empresas de servicios públicos domiciliarios sobre la inclusión de las cláusulas excepcionales en los respectivos contratos, transcurrido este término operará el silencio administrativo positivo.
+
+PARÁGRAFO. Los contratos que celebren los entes territoriales con las empresas de servicios públicos con el objeto de que estas últimas asuman la prestación de uno o de varios servicios públicos domiciliarios, o para que sustituyan en la prestación a otra que entre en causal de disolución o liquidación, se regirán para todos sus efectos por el Estatuto General de Contratación de la Administración Pública, en todo caso la selección siempre deberá realizarse previa licitación pública, de conformidad con la Ley 80 de 1993".
+
+[Notas de Vigencia](javascript:insRow2())
+
+[Jurisprudencia Concordante](javascript:insRow3())
+
+[Doctrina Concordante](javascript:insRow4())
+
+CAPITULO II.
+
+CONTRATOS ESPECIALES PARA LA GESTIÓN DE LOS SERVICIOS PÚBLICOS.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 4o. El parágrafo del artículo [39](ley_0142_1994.htm#39) de la Ley 142 de 1994, quedará así:
+
+"Parágrafo. Salvo los contratos de que tratan el parágrafo del artículo [39](ley_0142_1994.htm#39) <sic> y el numeral 39.1 de la presente ley, todos aquellos a los que se refiere este artículo se regirán por el derecho privado.
+
+Los que contemplan los numerales 39.1, 39.2 y el 39.3 no podrán ser cedidos a ningún título, ni podrán darse como garantía, ni ser objeto de ningún otro contrato, sin previa y expresa aprobación de la otra parte.
+
+Cuando cualquiera de los contratos a que este capítulo se refiere permitan al contratista cobrar tarifas al público, que estén sujetas a regulación, el proponente debe incluir en su oferta la fórmula tarifaria que aplicaría".
+
+TITULO III.
+
+OTRAS DISPOSICIONES.
+
+CAPITULO I.
+
+DEL CONTROL DE GESTIÓN Y RESULTADOS.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 5o. Modifícase el artículo [50](ley_0142_1994.htm#50) de la Ley 142 de 1994 el cual quedará así:
+
+**"Artículo 50. **Control fiscal en las empresas de servicios públicos domiciliarios con participación del Estado.<Aparte tachado INEXEQUIBLE> **Dentro de los tres (3) meses siguientes a la expedición de la presente ley, el Contralor General de la República expedirá el reglamento general sobre el sistema único de control fiscal en las empresas de servicios públicos domiciliarios con participación del Estado, al cual deben someterse las contralorías departamentales, distritales y municipales. El incumplimiento a la sujeción a este reglamento será causal de mala conducta para los contralores departamentales, distritales y municipales**. El control de las empresas de servicios públicos domiciliarios con participación estatal se ejercerá sobre los aportes y los actos o contratos que versen sobre las gestiones del Estado en su calidad de accionista. **Para el cumplimiento de dicha función, la Contraloría competente tendrá acceso exclusivamente a los documentos que al final de cada ejercicio la empresa coloca a disposición del accionista en los términos del Código de Comercio para la aprobación de los estados financieros correspondientes**.
+
+[Jurisprudencia Vigencia](javascript:insRow5())
+
+<Aparte subrayado CONDICIONALMENTE exequible, tachado INEXEQUIBLE> Por tanto, el control se ejercerá sobre la documentación que soporte los actos y contratos celebrados por el accionista o socio estatal y no sobre la empresa de servicios públicos domiciliarios. **Por razones de eficiencia, el Contralor General de la República podrá acumular en su despacho las funciones de las otras contralorías, de forma prevalente**, **mediante acto administrativo motivado, expedido con sujeción estricta a los alcances que concede el presente artículo y la ley de control fiscal en aquellos eventos en los que al menos uno de los socios o accionistas sea de los que están sujetos a su control**".
+
+[Jurisprudencia Vigencia](javascript:insRow6())
+
+[Doctrina Concordante](javascript:insRow7())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 6o. Modifícase el artículo [51](ley_0142_1994.htm#51) de la Ley 142 de 1994, el cual quedará así:
+
+"**Artículo 51.** Auditoría externa. <Aparte subrayado CONDICIONALMENTE EXEQUIBLE> Independientemente del control interno, todas las Empresas de Servicios Públicos están obligadas a contratar una auditoría externa de gestión y resultados permanente con personas privadas especializadas. Cuando una Empresa de Servicios Públicos quiera cambiar a sus auditores externos, deberá solicitar permiso a la Superintendencia, informándole sobre las causas que la llevaron a esa decisión. La Superintendencia podrá negar la solicitud mediante resolución motivada.
+
+[Jurisprudencia Vigencia](javascript:insRow8())
+
+No obstante cuando se presente el vencimiento del plazo del contrato las empresas podrán determinar si lo prorrogan o inician un nuevo proceso de selección del contratista, de lo cual informará previamente a la Superintendencia.
+
+El Superintendente de Servicios Públicos podrá, cada trimestre, solicitar a la Empresa de Servicios Públicos Domiciliarios informes acerca de la gestión del auditor externo, y en caso de encontrar que éste no cumple a cabalidad con sus funciones, podrá recomendar a la empresa su remoción.
+
+La auditoría externa obrará en función tanto de los intereses de la empresa y de sus socios como del beneficio que efectivamente reciben los usuarios y, en consecuencia, está obligada a informar a la Superintendencia las situaciones que pongan en peligro la viabilidad financiera de una empresa, las fallas que encuentren en el control interno, y en general, las apreciaciones de evaluación sobre el manejo de la empresa. En todo caso, deberán elaborar además, al menos una vez al año, una evaluación del manejo de la entidad prestadora.
+
+**PARÁGRAFO 1o.** Las Empresas de Servicios Públicos celebrarán los contratos de auditoría externa de gestión y resultados con personas jurídicas privadas especializadas por períodos mínimos de un año.
+
+[Jurisprudencia Vigencia](javascript:insRow9())
+
+No estarán obligados a contratar auditoría externa de gestión y resultados, los siguientes prestadores de servicios públicos domiciliarios:
+
+[Jurisprudencia Vigencia](javascript:insRow10())
+
+a) <Apartes tachados declarados INEXEQUIBLES> A criterio de la Superintendencia, las entidades oficiales que presten los servicios públicos de que trata la Ley 142 de 1994, si demuestran que el control fiscal e interno de que son objeto satisfacen a cabalidad los requerimientos de un control eficiente. Las comisiones de regulación definirán de manera general las metodologías para determinar los casos en que las entidades oficiales no requieran de una auditoría externa;
+
+[Jurisprudencia Vigencia](javascript:insRow11())
+
+b) Las empresas de servicios públicos que atiendan menos de dos mil quinientos (2.500) usuarios;
+
+c) Las personas naturales o jurídicas que produzcan para ellas mismas los bienes y servicios propios del objeto de las empresas de servicios públicos;
+
+d) Las empresas de servicios públicos que operen exclusivamente en uno de los municipios clasificados como menores según la ley o en zonas rurales;
+
+e) Las organizaciones autorizadas de que trata el artículo [15](ley_0142_1994.htm#15) numeral 15.4 de la Ley 142 de 1994 para la prestación de servicios públicos;
+
+f) Los productores de servicios marginales.
+
+PARÁGRAFO 2o. En los municipios menores de categoría 5 y 6 de acuerdo con la Ley 136 de 1994 (Régimen Municipal), que sean prestadores directos de un servicio público domiciliario, las funciones de auditoría externa quedarán en cabeza del Jefe de la Oficina de Control Interno del municipio.
+
+PARÁGRAFO 3o. La Superintendencia concederá o negará, mediante resolución motivada, el permiso al que se refiere el presente artículo".
+
+[Concordancias](javascript:insRow12())
+
+[Doctrina Concordante](javascript:insRow13())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 7o. Modifícase el artículo [52](ley_0142_1994.htm#52) de la Ley 142 de 1994, el cual quedará así:
+
+**"Artículo 52.** Concepto de control de gestión y resultados. El control de gestión y resultados es un proceso, que dentro de las directrices de planeación estratégica, busca que las metas sean congruentes con las previsiones.
+
+Las comisiones de regulación definirán los criterios, metodologías, indicadores, parámetros y modelos de carácter obligatorio que permitan evaluar la gestión y resultados de las entidades prestadoras. Así mismo, establecerán las metodologías para clasificar las personas prestadoras de los servicios públicos, de acuerdo con el nivel de riesgo, características y condiciones, con el propósito de determinar cuáles de ellas requieren de una inspección y vigilancia especial o detallada por parte de la Superintendencia de Servicios Públicos Domiciliarios. Para el diseño de esta metodología, las comisiones de regulación tendrán un plazo de un año contado a partir de la vigencia de la presente ley.
+
+[Concordancias](javascript:insRow14())
+
+La Superintendencia de Servicios Públicos Domiciliarios deberá adoptar las categorías de clasificación respectivas que establezcan las comisiones de regulación y clasificar a las personas prestadoras de los servicios públicos sujetas a su control, inspección y vigilancia dentro de los seis (6) meses siguientes a la expedición de la clasificación por parte de cada una de las comisiones de regulación.
+
+PARÁGRAFO. Las Empresas de Servicios Públicos deberán tener un plan de gestión y resultados de corto, mediano y largo plazo que sirva de base para el control que se ejerce sobre ellas. Este plan deberá evaluarse y actualizarse anualmente teniendo como base esencial lo definido por las comisiones de regulación de acuerdo con el inciso anterior".
+
+[Concordancias](javascript:insRow15())
+
+CAPITULO II.
+
+LIQUIDACIÓN DE LAS EMPRESAS DE SERVICIOS PÚBLICOS.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 8o. Modifícase el artículo [60](ley_0142_1994.htm#60) de la Ley 142 de 1994, el cual quedará así:
+
+**"Artículo 60.** Efectos de la toma de posesión. Como consecuencia de la toma de posesión se producirán los siguientes efectos:
+
+1. El Superintendente al tomar posesión podrá celebrar un contrato de fiducia, en virtud del cual se encargue a una entidad fiduciaria la administración de la empresa en forma temporal.
+
+2. Cuando la toma de posesión tenga como causa circunstancias imputables a los administradores o accionistas de la empresa, el Superintendente definirá un tiempo prudencial para que se superen los problemas que dieron origen a la medida. Si transcurrido ese lapso no se ha solucionado la situación, el Superintendente ordenará la liquidación de la empresa.
+
+3. Si se encuentra que la empresa ha perdido cualquier parte de su capital, previo concepto de la Comisión de Regulación respectiva, el Superintendente podrá ordenar la reducción simplemente nominal del capital social, la cual se hará sin necesidad de recurrir a su asamblea o a la aceptación de los acreedores.
+
+PARÁGRAFO. El Superintendente, al tomar posesión, podrá designar o contratar una persona a la cual se le encargue la administración de la empresa en forma temporal".
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 9o. Adiciónase el siguiente parágrafo al artículo [61](ley_0142_1994.htm#61) de la Ley 142 de 1994:
+
+PARÁGRAFO. Al ordenar la liquidación de una empresa de servicios públicos del orden municipal que preste el servicio en forma monopolística, el Superintendente de Servicios Públicos fijará un plazo prudencial, que en todo caso no excederá a seis (6) meses, para que el alcalde del respectivo municipio otorgue, mediante contrato y previo cumplimiento de los trámites establecidos para las licitaciones públicas, la prestación del correspondiente servicio a otra empresa.
+
+Si el alcalde no celebrare el respectivo contrato dentro del término fijado, el Superintendente de Servicios Públicos fijará un plazo adicional de cuatro (4) meses, para que el Gobernador adjudique la prestación del servicio, mediante contrato y previo cumplimiento de los trámites establecidos para las licitaciones públicas.
+
+En caso de que el Gobernador no realice la adjudicación, el Superintendente deberá adjudicar la prestación del servicio por el tiempo que considere necesario, mediante contrato y previo cumplimiento de los trámites establecidos para las licitaciones públicas.
+
+En todo caso, la adjudicación que haga el Alcalde, el Gobernador o el Superintendente comprenderá la constitución de las servidumbres necesarias sobre todos los bienes afectos al servicio que sean de propiedad del municipio".
+
+TITULO IV.
+
+REGULACION CONTROL Y VIGILANCIA DEL ESTADO EN LOS SERVICIOS PUBLICOS.
+
+CAPITULO I.
+
+CONTROL SOCIAL DE LOS SERVICIOS PÚBLICOS DOMICILIARIOS.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 10. Modifícase el artículo [62](ley_0142_1994.htm#62) de la Ley 142 de 1994 el cual quedará así:
+
+**"Artículo 62.** Organización. En desarrollo del artículo [369](constitucion_politica_1991.htm#369) de la Constitución Política de Colombia, en todos los municipios deberán existir "Comités de Desarrollo y Control Social de los Servicios Públicos Domiciliario" compuestos por usuarios, suscriptores o suscriptores potenciales de uno (1) o más de los servicios públicos a los que se refiere esta ley, sin que por el ejercicio de sus funciones se causen honorarios.
+
+La iniciativa para la conformación de los comités corresponde a los usuarios, suscriptores o suscriptores potenciales. El número mínimo de miembros de los comités será el que resulte de dividir la población del respectivo municipio o distrito por diez mil (10.000), pero no podrá ser inferior a cincuenta (50). Para el Distrito Capital el número mínimo será de doscientos (200).
+
+Para ser miembro de un "Comité de Desarrollo y Control Social", se requiere ser usuario, suscriptor o suscriptor potencial del respectivo servicio público domiciliario que vaya a vigilar, lo cual se acreditará ante la asamblea de constitución del correspondiente comité, con el último recibo de cobro, o en el caso de los suscriptores potenciales, con la solicitud debidamente radicada en la empresa de que se trate o con constancia de residencia expedida por la autoridad competente para el caso de los usuarios cuando no dispongan de recibo. Igualmente, se requiere haber asistido y figurar en el listado de asistentes de la asamblea de constitución del comité o de cualquiera de las sucesivas asambleas de usuarios.
+
+La participación de un usuario, suscriptor o de un suscriptor potencial en todas las asambleas y deliberaciones de un "Comité de Desarrollo y Control Social", será personal e indelegable.
+
+Los comités se darán su propio reglamento y se reunirán en el día, lugar y hora que acuerden sus miembros según registro firmado por los asistentes que debe quedar en el acta de la reunión; el período de los miembros del comité será de dos (2) años, pero podrán continuar desempeñando sus funciones mientras se renueva.
+
+Una vez constituido un comité, es deber de las autoridades municipales y de las empresas de servicios públicos domiciliarios ante quienes solicite inscripción reconocerlo como tal, para lo cual se verificará, entre otras cosas, que un mismo usuario, suscriptor o suscriptor potencial no pertenezca a más de un Comité de un mismo servicio público domiciliario. Será causal de mala conducta para los alcaldes municipales y los funcionarios de las empresas prestadoras, no reconocerlos dentro de los términos definidos en el artículo [158](ley_0142_1994.htm#158) de la Ley 142 de 1994; igualmente, vencido el término se entenderá que el comité ha sido inscrito y reconocido.
+
+Cada uno de los comités elegirá entre sus miembros para un período un "vocal de control", quien actuará como representante del comité ante la prestadora de servicios públicos domiciliarios que vaya a vigilar la organización, ante las entidades territoriales y ante las autoridades nacionales, en lo que tiene que ver con dichos servicios públicos, y podrá ser removido en cualquier momento por el comité, por decisión mayoritaria de sus miembros.
+
+El período de los vocales de control será de dos (2) años, pero podrán continuar en ejercicio de sus funciones hasta tanto no se realice nueva elección.
+
+La constitución de los comités y las elecciones de sus juntas directivas podrán impugnarse ante el Personero del municipio donde se realicen. Las decisiones de este serán apelables ante la Superintendencia de Servicios Públicos Domiciliarios.
+
+En las elecciones a que se refiere el presente artículo, será causal de mala conducta para cualquier servidor público y en general para cualquier funcionario de una persona prestadora de uno o varios de los servicios públicos a que se refiere la presente ley, entorpecer o dilatar la elección, coartar la libertad de los electores o intervenir de cualquier manera a favor o en contra de los candidatos.
+
+Corresponderá al Alcalde de cada municipio o distrito velar por la conformación de los comités, quien garantizará que tres (3) meses contados a partir de la entrada en vigencia de la presente ley exista en su municipio, por lo menos, un comité.
+
+PARÁGRAFO. En los municipios en que las prestadoras de servicios públicos atiendan menos de dos mil quinientos (2.500) usuarios, podrá constituirse un solo comité de desarrollo y control social para todos los servicios".
+
+[Concordancias](javascript:insRow16())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 11. Modifícase el artículo [66](ley_0142_1994.htm#66) de la Ley 142 de 1994, el cual quedará así:
+
+**"Artículo 66.** Incompatibilidades e inhabilidades. Las personas que cumplan la función de vocales de control de los comités de desarrollo y control social, sus cónyuges o compañeros permanentes, y sus parientes dentro del segundo grado de consanguinidad, primero de afinidad o único civil, así como quienes sean sus socios en sociedades de personas, no podrán ser socios ni participar en la administración de las Empresas de Servicios Públicos que vigilen, ni contratar con ellas, con la comisión o comisiones de regulación competentes en el servicio o los servicios públicos domiciliarios que vigilen, ni con la Superintendencia de Servicios Públicos Domiciliarios, por el período de desempeño de sus funciones y un año más.
+
+Los ediles, concejales, diputados y congresistas no podrán ser elegidos vocales de control de los Comités de Desarrollo y Control Social.
+
+La celebración de los contratos de servicios públicos o, en general, de los que se celebren en igualdad de condiciones con quien los solicite, no dan lugar a aplicar estas inhabilidades e incompatibilidades".
+
+CAPITULO II.
+
+DE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 12. Modifícase el artículo [77](ley_0142_1994.htm#77) de la Ley 142 de 1994, el cual quedará así:
+
+**"Artículo 77.** Dirección de la Superintendencia. La dirección y representación legal de la Superintendencia de Servicios Públicos Domiciliarios corresponde al Superintendente de Servicios Públicos Domiciliarios. Este desempeñará sus funciones específicas de control, inspección y vigilancia con independencia de las Comisiones de Regulación de los servicios públicos domiciliarios y con la inmediata colaboración de los Superintendentes Delegados. El Superintendente será de libre nombramiento y remoción del Presidente de la República. El Superintendente de Servicios Públicos es la primera autoridad técnica y administrativa en el ramo del control, inspección y vigilancia de los servicios públicos domiciliarios, sus actividades complementarias e inherentes.
+
+PARÁGRAFO. Los Superintendentes Delegados serán de libre nombramiento y remoción por parte del Superintendente de Servicios Públicos Domiciliarios".
+
+[Concordancias](javascript:insRow17())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 13. Modifícase el artículo [79](ley_0142_1994.htm#79) de la Ley 142 de 1994, el cual quedará así:
+
+**"Artículo 79.** Funciones de la Superintendencia. Las personas prestadoras de servicios públicos y aquellas que, en general, realicen actividades que las haga sujetos de aplicación de las Leyes 142 y 143 de 1994, estarán sujetos al control y vigilancia de la Superintendencia de Servicios Públicos. Son funciones de esta las siguientes:
+
+1. Vigilar y controlar el cumplimiento de las leyes y actos administrativos a los que estén sujetos quienes presten servicios públicos, en cuanto el cumplimiento afecte en forma directa e inmediata a usuarios determinados; y sancionar sus violaciones, siempre y cuando esta función no sea competencia de otra autoridad.
+
+2. Vigilar y controlar el cumplimiento de los contratos entre las empresas de servicios públicos y los usuarios, y apoyar las labores que en este mismo sentido desarrollan los "comités municipales de desarrollo y control social de los servicios públicos domiciliarios"; y sancionar sus violaciones.
+
+3. Dar conceptos, no obligatorios, a petición de parte interesada, sobre el cumplimiento de los contratos relacionados con los servicios a los que se refiere esta ley; y hacer, a solicitud de todos los interesados, designaciones de personas que puedan colaborar en la mejor prestación de los servicios públicos o en la solución de controversias que puedan incidir en su prestación oportuna, cobertura o calidad.
+
+4. Establecer los sistemas uniformes de información y contabilidad que deben aplicar quienes presten servicios públicos, según la naturaleza del servicio y el monto de sus activos, y con sujeción siempre a los principios de contabilidad generalmente aceptados.
+
+[Concordancias](javascript:insRow18())
+
+5. Definir por vía general las tarifas de las contribuciones a las que se refiere el artículo [85](ley_0142_1994.htm#85) de la Ley 142 de 1994, liquidar y cobrar a cada contribuyente lo que le corresponda.
+
+[Concordancias](javascript:insRow19())
+
+6. Dar concepto a las Comisiones de Regulación y a los ministerios sobre las medidas que se estudien en relación con los servicios públicos.
+
+7. Vigilar que los subsidios presupuestales que la Nación, los departamentos y los municipios destinan a las personas de menores ingresos, se utilicen en la forma prevista en las normas pertinentes.
+
+8. Solicitar documentos, inclusive contables; y practicar las visitas, inspecciones y pruebas que sean necesarias para el cumplimiento de sus funciones.
+
+9. Mantener un registro actualizado de las entidades que prestan los servicios públicos.
+
+10. Tomar posesión de las empresas de servicios públicos, en los casos y para los propósitos que contemplan el artículo [59](ley_0142_1994.htm#59) de la Ley 142 de 1994 y las disposiciones concordantes.
+
+11. Evaluar la gestión financiera, técnica y administrativa de los prestadores de servicios públicos sujetos a su control, inspección y vigilancia, de acuerdo con los indicadores definidos por las Comisiones de Regulación; publicar sus evaluaciones y proporcionar, en forma oportuna, toda la información disponible a quienes deseen hacer evaluaciones independientes. El Superintendente podrá acordar con las empresas que amenacen de forma grave la prestación continua y eficiente de un servicio, programas de gestión.
+
+12. Adjudicar a las personas que iniciaron, impulsaron o colaboraron en un procedimiento administrativo, tendiente a corregir violaciones de las normas relacionadas especialmente con los servicios públicos, una parte de las multas a la que se refiere el numeral 81.2 del artículo [81](ley_0142_1994.htm#81) de la Ley 142 de 1994, para resarcirlos por el tiempo, el esfuerzo y los gastos y costos en que hayan incurrido o por los perjuicios que se les hayan ocasionado. Las decisiones respectivas podrán ser consultadas a la Comisión de Regulación del servicio público de que se trate. Esta adjudicación será obligatoria cuando la violación haya consistido en el uso indebido o negligente de las facturas de servicios públicos, y la persona que inició o colaboró en el procedimiento haya sido el perjudicado.
+
+13. Verificar que las obras, equipos y procedimientos de las empresas cumplan con los requisitos técnicos que hayan señalado los ministerios.
+
+14. Definir por vía general la información que las empresas deben proporcionar sin costo al público; y señalar en concreto los valores que deben pagar las personas por la información especial que pidan a las empresas de servicios públicos, si no hay acuerdo entre el solicitante y la empresa.
+
+15. Organizar todos los servicios administrativos indispensables para el funcionamiento de la Superintendencia de Servicios Públicos.
+
+16. Señalar, de conformidad con la Constitución y la ley, los requisitos y condiciones para que los usuarios puedan solicitar y obtener información completa, precisa y oportuna, sobre todas las actividades y operaciones directas o indirectas que se realicen para la prestación de los servicios públicos, siempre y cuando no se trate de información calificada como secreta o reservada por la ley.
+
+17. En los términos previstos en el parágrafo del artículo [16](ley_0142_1994.htm#16) de la Ley 142 de 1994, determinar si la alternativa propuesta por los productores de servicios marginales no causa perjuicios a la comunidad, cuando haya servicios públicos disponibles de acueducto y saneamiento básico.
+
+18. Supervisar el cumplimiento del balance de control, en los términos del artículo [45](ley_0142_1994.htm#45) de la Ley 142 de 1994.
+
+19. Velar por la progresiva incorporación y aplicación del control interno en las personas que presten servicios públicos sometidos a su control, inspección y vigilancia. Para ello vigilará que se cumplan los criterios, evaluaciones, indicadores y modelos que definan las Comisiones de Regulación, y podrá apoyarse en otras entidades oficiales o particulares.
+
+20. Velar por que las personas que presten servicios públicos sometidos a su control, inspección y vigilancia, contraten una auditoría externa permanente con personas privadas especializadas.
+
+21. Conceder o negar, mediante resolución motivada, el permiso a que se refiere el artículo [51](ley_0142_1994.htm#51) de la Ley 142 de 1994.
+
+22. Verificar la consistencia y la calidad de la información que sirve de base para efectuar la evaluación permanente de la gestión y resultados de las personas que presten servicios públicos sometidos a su control, inspección y vigilancia, así como de aquella información del prestador de servicios públicos que esté contenida en el Sistema Unico Información de los servicios públicos.
+
+[Concordancias](javascript:insRow20())
+
+23. Solicitar a los auditores externos la información indispensable para apoyar su función de control, inspección y vigilancia y para evaluar la gestión y resultados de las personas prestadoras de servicios públicos, conforme con los criterios, características, indicadores y modelos que definan las Comisiones de Regulación de acuerdo con lo dispuesto por el artículo [52](ley_0142_1994.htm#52) de la Ley 142 de 1994.
+
+24. Eximir a las entidades que presten servicios públicos sujetos a su control, inspección y vigilancia, de contratar la auditoría externa con personas privadas especializadas en la forma y condiciones previstas en esta ley.
+
+25. Sancionar a las empresas que no respondan en forma oportuna y adecuada las quejas de los usuarios.
+
+26. Dar traslado al Departamento Nacional de Planeación de la notificación que le efectúen los alcaldes en desarrollo de lo establecido en el artículo [101.3](ley_0142_1994.htm#101) de la Ley 142 de 1994.
+
+27. Pedir a las autoridades competentes, en el evento de toma de posesión, que declaren la caducidad de los contratos de concesión, en los términos del artículo [121](ley_0142_1994.htm#121) de la Ley 142 de 1994.
+
+28. Designar o contratar al liquidador de las empresas de servicios públicos.
+
+29. Resolver los recursos de apelación que interpongan los usuarios conforme a lo establecido en el artículo [159](ley_0142_1994.htm#159) de la Ley 142 de 1994.
+
+30. Emitir el concepto a que hace referencia el artículo [63](ley_0143_1994.htm#63) de la Ley 143 de 1994.
+
+31. Podrá ordenar en el acto administrativo que resuelva el recurso de apelación de que tratan los artículos [154](ley_0142_1994.htm#154) y [159](ley_0142_1994.htm#159) de la Ley 142 de 1994, la devolución de los dineros que una empresa de servicios públicos retenga sin justa causa a un usuario, dentro de los quince (15) días siguientes a la comunicación de la decisión respectiva.
+
+32. Adelantar las investigaciones por competencia desleal y prácticas restrictivas de la competencia de los prestadores de servicios públicos domiciliarios e imponer las sanciones respectivas, de conformidad con el artículo [34](ley_0142_1994.htm#34) de la Ley 142 de 1994.
+
+33. Todas las demás que le asigne la ley.
+
+PARÁGRAFO 1o. En ningún caso, el Superintendente podrá exigir que ningún acto o contrato de una empresa de servicios públicos se someta a aprobación previa suya. El Superintendente podrá, pero no está obligado, <sic> visitar las empresas sometidas a su vigilancia, o pedirles informaciones, sino cuando haya un motivo especial que lo amerite.
+
+La Superintendencia de Servicios Públicos ejercerá igualmente las funciones de control, inspección y vigilancia que contiene la Ley 142 de 1994, en todo lo relativo al servicio de larga distancia nacional e internacional.
+
+Salvo cuando se trate de las funciones a las que se refieren los numerales 3, 4 y 14 del presente artículo, el Superintendente y sus delegados no producirán actos de carácter general para crear obligaciones a quienes estén sujetos a su vigilancia.
+
+[Doctrina Concordante](javascript:insRow21())
+
+PARÁGRAFO 2o. Funciones del Superintendente de Servicios Públicos Domiciliarios. Son funciones del Superintendente de Servicios Públicos Domiciliarios las siguientes:
+
+1. Aprobar los estudios a que hace referencia el artículo [6.3](ley_0142_1994.htm#6) de la Ley 142 de 1994, en los términos y con el alcance previsto en dicho artículo.
+
+2. Sancionar, en defensa de los usuarios y para proteger la salud y bienestar de la comunidad, a los alcaldes y administradores de aquellos municipios que presten en forma directa uno o más servicios públicos cuando incumplan las normas de calidad que las Comisiones de Regulación exijan de modo general, o cuando suspendan el pago de sus obligaciones, o cuando carezcan de contabilidad adecuada o, cuando violen en forma grave las obligaciones que ella contiene.
+
+3. Efectuar recomendaciones a las Comisiones de Regulación en cuanto a la regulación y promoción del balance de los mecanismos de control, y en cuanto a las bases para efectuar la evaluación de la gestión y resultados de las personas prestadoras de los servicios públicos sujetos a su control, inspección y vigilancia.
+
+4. Asistir, con voz, a las Comisiones de Regulación, y delegar la asistencia únicamente en los Superintendentes Delegados.
+
+5. Adelantar las investigaciones, cuando las Comisiones de Regulación se lo soliciten en los términos del artículo [73.18](ley_0142_1994.htm#73) de la Ley 142 de 1994, e imponer las sanciones de su competencia. En este caso el Superintendente informará a las Comisiones de Regulación sobre el estado y avance de dichas investigaciones, cuando éstas así se lo soliciten.
+
+6. Autorizar, de conformidad con la ley, la delegación de algunas funciones en otras autoridades administrativas del orden departamental o municipal, o la celebración de contratos con otras entidades públicas o privadas para el mejor cumplimiento de ellas.
+
+7. Imponer las sanciones a quienes violen las normas a las que deben estar sujetas, en los términos de los artículos [81](ley_0142_1994.htm#81) de la Ley 142 de 1994 y [43](ley_0143_1994.htm#43) de la Ley 143 de 1994".
+
+[Concordancias](javascript:insRow22())
+
+[Doctrina Concordante](javascript:insRow23())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 14. Adiciónase el siguiente artículo nuevo a la Ley 142 de 1994.
+
+**"Artículo [nuevo](ley_0142_1994.htm#nuevo).** Del sistema único de información. Corresponde a la Superintendencia de Servicios Públicos Domiciliarios, en desarrollo de sus funciones de inspección y vigilancia, establecer, administrar, mantener y operar un sistema de información que se surtirá de la información proveniente de los prestadores de servicios públicos sujetos a su control, inspección y vigilancia, para que su presentación al público sea confiable, conforme a lo establecido en el artículo [53](ley_0142_1994.htm#53) de la Ley 142 de 1994.
+
+El sistema de información que desarrolle la Superintendencia de Servicios Públicos será único para cada uno de los servicios públicos, actividades inherentes y actividades complementarias de que tratan las Leyes 142 y 143 de 1994, y tendrá como propósitos:
+
+1. Evitar la duplicidad de funciones en materia de información relativa a los servicios públicos.
+
+2. Servir de base a la Superintendencia de Servicios Públicos en el cumplimiento de sus funciones de control, inspección y vigilancia.
+
+3. Apoyar las funciones que deben desarrollar los agentes o personas encargadas de efectuar el control interno, el control fiscal, el control social, la revisoría fiscal y la auditoría externa.
+
+4. Apoyar las funciones asignadas a las Comisiones de Regulación.
+
+5. Servir de base a las funciones asignadas a los Ministerios y demás autoridades que tengan competencias en el sector de los servicios públicos de que tratan las Leyes 142 y 143 de 1994.
+
+6. Facilitar el ejercicio del derecho de los usuarios de obtener información completa, precisa y oportuna, sobre todas las actividades y operaciones directas o indirectas que se realicen para la prestación de los servicios públicos, conforme a lo establecido en el artículo [9.4](ley_0142_1994.htm#9) de la Ley 142 de 1994.
+
+7. Apoyar las tareas de los comités de desarrollo y control social de los servicios públicos domiciliarios, de acuerdo con lo establecido en el artículo [80.1](ley_0142_1994.htm#80) de la Ley 142 de 1994, y servir de apoyo técnico a las funciones de los departamentos, distritos y municipios en sus funciones de promoción de la participación de la comunidad en las tareas de vigilancia de los servicios públicos.
+
+8. Mantener un registro actualizado de las personas que presten servicios públicos sometidos al control, inspección y vigilancia de la Superintendencia de Servicios Públicos.
+
+[Concordancias](javascript:insRow24())
+
+PARÁGRAFO 1o. Los sistemas de información que deben organizar y mantener actualizados las personas que presten servicios públicos sometidos al control, inspección y vigilancia de la Superintendencia de Servicios Públicos de acuerdo con lo establecido en el artículo [53](ley_0142_1994.htm#53) de la Ley 142 de 1994, deben servir de base de información y ser concordantes con el Sistema Unico de Información de que trata el presente artículo".
+
+[Jurisprudencia Vigencia](javascript:insRow25())
+
+[Concordancias](javascript:insRow26())
+
+[Doctrina Concordante](javascript:insRow27())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 15. Adiciónase el siguiente artículo nuevo a la Ley 142 de 1994.
+
+**"Artículo [nuevo](ley_0142_1994.htm#nuevoa).** Del formato único de información. La Superintendencia de Servicios Públicos elaborará el Formato Unico de Información que sirva de base para alimentar el Sistema Unico de Información, para lo cual tendrá en cuenta:
+
+1. Los criterios, características, indicadores y modelos de carácter obligatorio que permitan evaluar la gestión y resultados de los prestadores de servicios públicos sujetos al control, inspección y vigilancia de la Superintendencia de Servicios Públicos, que definan las Comisiones de Regulación conforme a lo establecido en el artículo [52](ley_0142_1994.htm#52) de la Ley 142 de 1994.
+
+2. Las necesidades y requerimientos de información de las Comisiones de Regulación.
+
+3. Las necesidades y requerimientos de información de los ministerios y demás autoridades que tengan competencias en el sector de los servicios públicos de que tratan las Leyes 142 y 143 de 1994.
+
+4. El tipo de servicio público y las características que señalen las Comisiones de Regulación para cada prestador de servicios públicos sujeto al control, inspección y vigilancia de la Superintendencia de Servicios Públicos, conforme a lo establecido en el artículo [52](ley_0142_1994.htm#52) de la Ley 142 de 1994 y el presente decreto <sic>.
+
+PARÁGRAFO 1o. La Superintendencia de Servicios Públicos elaborará el Formato Unico de Información de que trata el presente artículo dentro del año siguiente a la vigencia de la presente ley, previo concepto de los Ministerios de Desarrollo Económico, Minas y Energía y de Comunicaciones y de las Comisiones de Regulación de Agua Potable y Saneamiento Básico, Energía y Gas y Telecomunicaciones, para sus respectivas competencias.
+
+PARÁGRAFO 2o. El Formato Unico de Información se actualizará de acuerdo con los objetivos asignados por la Constitución y la ley a la Superintendencia de Servicios Públicos Domiciliarios, y conforme con las necesidades de los ministerios y de las Comisiones de Regulación, para lo cual se deberá obtener el concepto de que trata el parágrafo anterior".
+
+[Concordancias](javascript:insRow28())
+
+TITULO V.
+
+EL REGIMEN TARIFARIO DE LAS EMPRESAS DE SERVICIOS PUBLICOS.
+
+CAPITULO UNICO.
+
+ESTRATIFICACIÓN SOCIOECONÓMICA.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 16. Adiciónase un inciso al artículo [102](ley_0142_1994.htm#102) de la Ley 142 de 1994 el cual quedará así:
+
+Artículo 102. Estratos y metodología. Los inmuebles residenciales se clasificarán máximo en seis (6) estratos socioeconómicos (1, bajo-bajo; 2, bajo; 3, medio-bajo; 4, medio; 5, medio-alto; 6, alto) dependiendo de las características particulares de los municipios y distritos y en atención, exclusivamente, a la puesta en práctica de las metodologías de estratificación de que trata esta ley.
+
+Para tal efecto se emplearán las metodologías que elabore el Departamento Nacional de Planeación, las cuales deberán ser suministradas directamente a los alcaldes con seis (6) meses de antelación a las fechas previstas por esta ley para la adopción de la estratificación urbana y de centros poblados rurales, y con tres (3) meses de antelación a la adopción de la estratificación de fincas y viviendas dispersas rurales. Dichas metodologías contendrán las variables, factores, ponderaciones, y método estadístico, teniendo en cuenta la dotación de servicios públicos domiciliarios. Ninguna zona residencial urbana que carezca de la prestación de por lo menos dos (2) servicios públicos domiciliarios básicos podrá ser clasificada en un estrato superior al cuatro (4).
+
+Los asentamientos indígenas ubicados en la zona rural dispersa recibirán un tratamiento especial en cuanto a subsidios y contribuciones, que dependa de su clasificación según condiciones socioeconómicas y culturales, aspectos que definirá el Departamento Nacional de Planeación a más tardar doce (12) meses contados a partir de la vigencia de esta ley".
+
+[Doctrina Concordante](javascript:insRow29())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 17. Modifícase el artículo [104](ley_0142_1994.htm#104) de la Ley 142 de 1994 el cual quedará así:
+
+"Artículo 104. Recursos de los usuarios. Toda persona o grupo de personas podrá solicitar por escrito la revisión del estrato urbano o rural que se le asigne. Los reclamos serán atendidos y resueltos en primera instancia por la alcaldía municipal, en un término no superior a dos (2) meses, y las apelaciones se surtirán ante el Comité Permanente de Estratificación de su municipio o distrito quien deberá resolverlo en un término no superior a dos (2) meses. En ambos casos, si la autoridad competente no se pronuncia en el término de dos (2) meses, operará el silencio administrativo positivo".
+
+TITULO VI.
+
+EL CONTRATO DE SERVICIOS PUBLICOS.
+
+CAPITULO I.
+
+NATURALEZA Y CARACTERÍSTICAS DEL CONTRATO.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 18. Modifícase el artículo [130](ley_0142_1994.htm#130) de la Ley 142 de 1994, el cual quedará así:
+
+"Artículo 130. Partes del contrato. Son partes del contrato la empresa de servicios públicos, el suscriptor y/o usuario.
+
+El propietario o poseedor del inmueble, el suscriptor y los usuarios del servicio son solidarios en sus obligaciones y derechos en el contrato de servicios públicos.
+
+[Jurisprudencia Vigencia](javascript:insRow30())
+
+Las deudas derivadas de la prestación de los servicios públicos podrán ser cobradas ejecutivamente ante la jurisdicción ordinaria o bien ejerciendo la jurisdicción coactiva por las empresas industriales y comerciales del Estado prestadoras de servicios públicos. La factura expedida por la empresa y debidamente firmada por el representante legal de la entidad prestará mérito ejecutivo de acuerdo con las normas del Derecho Civil y Comercial. Lo prescrito en este inciso se aplica a las facturas del servicio de energía eléctrica con destino al alumbrado público. El no pago del servicio mencionado acarrea para los responsables la aplicación del artículo que trata sobre los "deberes especiales de los usuarios del sector oficial".
+
+[Jurisprudencia Vigencia](javascript:insRow31())
+
+PARÁGRAFO. Si el usuario o suscriptor incumple su obligación de pagar oportunamente los servicios facturados dentro del término previsto en el contrato, el cual no excederá dos períodos consecutivos de facturación, la empresa de servicios públicos estará en la obligación de suspender el servicio. Si la empresa incumple la obligación de la suspensión del servicio se romperá la solidaridad prevista en esta norma".
+
+[Jurisprudencia Vigencia](javascript:insRow32())
+
+[Concordancias](javascript:insRow33())
+
+[Jurisprudencia Concordante](javascript:insRow34())
+
+[Doctrina Concordante](javascript:insRow35())
+
+CAPITULO II.
+
+EL CUMPLIMIENTO Y LA PRESTACIÓN DEL SERVICIO.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 19. Modifícase el artículo [140](ley_0142_1994.htm#140) de la Ley 142 de 1994, el cual quedará así:
+
+"Artículo 140. Suspensión por incumplimiento. El incumplimiento del contrato por parte del suscriptor o usuario da lugar a la suspensión del servicio en los eventos señalados en las condiciones uniformes del contrato de servicios y en todo caso en los siguientes:
+
+La falta de pago por el término que fije la entidad prestadora, sin exceder en todo caso de dos (2) períodos de facturación en el evento en que ésta sea bimestral y de tres (3) períodos cuando sea mensual y el fraude a las conexiones, acometidas, medidores o líneas.
+
+[Jurisprudencia Vigencia](javascript:insRow36())
+
+Es causal también de suspensión, la alteración inconsulta y unilateral por parte del usuario o suscriptor de las condiciones contractuales de prestación del servicio.
+
+[Jurisprudencia Vigencia](javascript:insRow37())
+
+Durante la suspensión, ninguna de las partes puede tomar medidas que hagan imposible el cumplimiento de las obligaciones recíprocas tan pronto termine la causal de suspensión.
+
+[Jurisprudencia Vigencia](javascript:insRow38())
+
+Haya o no suspensión, la entidad prestadora puede ejercer todos los derechos que las leyes y el contrato uniforme le conceden para el evento del incumplimiento.
+
+[Jurisprudencia Vigencia](javascript:insRow39())
+
+[Concordancias](javascript:insRow40())
+
+[Doctrina Concordante](javascript:insRow41())
+
+CAPITULO III.
+
+DEFENSA DE LOS USUARIOS EN SEDE DE LA EMPRESA.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 20. Modifícase el artículo [159](ley_0142_1994.htm#159) de la Ley 142 de 1994, el cual quedará así:
+
+"Artículo 159. De la notificación de la decisión sobre peticiones y recursos. La notificación de la decisión sobre un recurso o una petición se efectuará en la forma prevista por el Código Contencioso Administrativo. El recurso de apelación sólo se puede interponer como subsidiario del de reposición ante el Gerente o el representante legal de la Empresa, quien deberá en tal caso remitir el expediente a la Superintendencia de Servicios Públicos Domiciliarios. Una vez presentado este recurso al mismo se le dará el trámite establecido en el Código Contencioso Administrativo.
+
+Si dentro del trámite de la apelación, la Superintendencia de Servicios Públicos estima necesario practicar pruebas o el recurrente las solicita, deberá informar por correo certificado a las partes, con la indicación de la fecha exacta en que vence el término probatorio, que no puede ser superior a treinta (30) días hábiles, prorrogables hasta por otro tanto.
+
+PARÁGRAFO. Una vez presentado en forma subsidiaria el recurso de apelación, las partes podrán sustentar y aportar pruebas a la Superintendencia para que sean tenidas en cuenta al momento de resolver en segunda instancia".
+
+[Jurisprudencia Vigencia](javascript:insRow42())
+
+[Jurisprudencia Concordante](javascript:insRow43())
+
+CAPITULO I.
+
+NORMAS ESPECIALES REFERENTES AL GAS LICUADO PETRÓLEO, GLP.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 21. RESPONSABILIDADES. Las empresas productoras, distribuidoras, comercializadoras y transportadoras del GLP serán responsables por la calidad y seguridad del servicio al consumidor final.
+
+[Jurisprudencia Vigencia](javascript:insRow44())
+
+[Concordancias](javascript:insRow45())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 22. UTILIZACIÓN DEL GLP COMO CARBURANTE. Autorízase a las empresas distribuidoras la utilización de GLP para consumo interno operativo, como carburante de los vehículos destinados exclusivamente al reparto de gas.
+
+[Notas del Editor](javascript:insRow46())
+
+[Jurisprudencia Vigencia](javascript:insRow47())
+
+[Concordancias](javascript:insRow48())
+
+[Legislación Anterior](javascript:insRow49())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 23. MARGEN DE SEGURIDAD. <Ver Notas de Vigencia> Por razones de seguridad dentro del precio de venta del GLP la Comisión de Regulación de Energía y Gas (CREG) incluirá un rubro denominado "Margen de Seguridad", con destino exclusivo al mantenimiento y reposición de los cilindros y tanques estacionarios utilizados en la comercialización del GLP. El recaudo y administración de dicho rubro será reglamentado por la Comisión de Regulación de Energía y Gas dentro de los seis (6) meses siguientes a la expedición de la presente ley y será reajustado anualmente de acuerdo con el IPC. En cualquier caso, la CREG deberá otorgar participación a los distribuidores de GLP en la reglamentación que se expida. En dicha reglamentación se buscará en forma concertada un mecanismo que permita que los distribuidores tengan participación en el recaudo y administración de los recursos, estableciendo todos los controles necesarios.
+
+La reposición y mantenimiento de los cilindros serán realizados de acuerdo con la regulación que al efecto expida la Comisión de Regulación de Energía y Gas (CREG), dentro de los seis (6) meses siguientes a la entrada en vigencia de la presente ley, para garantizar el buen estado de los cilindros en el tiempo y la seguridad para el usuario.
+
+[Notas de Vigencia](javascript:insRow50())
+
+[Jurisprudencia Vigencia](javascript:insRow51())
+
+[Concordancias](javascript:insRow52())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 24. COMITÉ DE SEGURIDAD GLP. Créase el Comité de Seguridad GLP presidido por el Superintendente de Servicios Públicos Domiciliarios, del cual formarán parte un delegado del Ministerio de Minas y Energía, un delegado de la Comisión de Energía y Gas, un delegado del Superintendente de Industria y Comercio, un delegado del Instituto Colombiano de Normas Técnicas (Icontec), un representante del Consejo de Normas y Calidades, un representante por cada una de las agremiaciones de los distribuidores con una participación en el mercado del GLP mayor al veinte por ciento (20%), otro de los comercializadores mayoristas y otro de los fabricantes de cilindros.
+
+[Jurisprudencia Vigencia](javascript:insRow53())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 25. VIGENCIA. Esta ley entrará a regir dos (2) meses después de su promulgación, y deroga todas las normas que le sean contrarias.
+
+El Presidente del honorable Senado de la República,
+
+CARLOS GARCÍA ORJUELA.
+
+El Secretario General del honorable Senado de la República,
+
+MANUEL ENRÍQUEZ ROSERO.
+
+El Presidente de la honorable Cámara de Representantes,
+
+GUILLERMO GAVIRIA ZAPATA.
+
+El Secretario General de la honorable Cámara de Representantes,
+
+ANGELINO LIZCANO RIVERA.
+
+REPUBLICA DE COLOMBIA - GOBIERNO NACIONAL
+
+Publíquese y cúmplase.
+
+Dada en Bogotá, D. C., a 28 de agosto de 2001.
+
+ANDRES PASTRANA ARANGO
+
+El Ministro de Hacienda y Crédito Público,
+
+JUAN MANUEL SANTOS CALDERÓN.
+
+El Ministro de Desarrollo Económico,
+
+EDUARDO PIZANO DE NARVÁEZ.
+
+El Ministro de Minas y Energía,
+
+RAMIRO VALENCIA COSSIO.
+
+La Ministra de Comunicaciones,
+
+ANGELA MONTOYA HOLGUÍN.
+
+El Director del Departamento Nacional de Planeación,
+
+JUAN CARLOS ECHEVERRI GARZÓN.
+
+Ministerio del Interior
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+![](../images/logo_AJ.svg)
+
+Gestor Normativo de la Comisión de Regulación de Agua Potable y
+Saneamiento Básico - CRA
+
+ISBN 978-628-95145-2-0
+
+Última actualización:
+
+[Control de versiones](control_versiones.html)
+
+[Créditos y reserva de derechos de autor](../creditos.html)
+
+Comisión de Regulación de Agua Potable y Saneamiento Básico
+CRA - DRA © 2021 - 2025
+
+Comisión de
+Regulación de Agua Potable y Saneamiento Básico
+
+Sede principal
+
+Carrera 12 Nº 97-80, Piso 2, Bogotá D.C.,
+Colombia
+
+Horario de atención: lunes a viernes de 8:00 am. a
+4:00 pm.
+
+Teléfono desde Colombia (60+1) 487 3820
+
+Línea anticorrupción (60+1) 4873820 Ext. 001
+
+Correo institucional: correo@cra.gov.co
+
+Correo notificaciones judiciales:
+notificacionesjudiciales@cra.gov.co
+
+Soy transparente: soytransparente@cra.gov.co
+
+![](../images/Logo Face.svg)
+
+![](../images/Logo X.svg)
+
+![](../images/Logo Linkedin.svg)
+
+![](../images/Logo IG.svg)
+
+![](../images/Logo Youtube.svg)
+
+Menú del pie
+
+[Políticas](/)
+
+[Mapa del sitio](/)
+
+![](../images/Aviso_importante.png)
+
+![logo co](../images/logo_co_footer.png)
+
+![gov.co](../images/logo_gov.png)
+
+![](../images/menu_lateral.svg)
+
+![](../images/icono_x_menu.svg)
+
+![](../images/Logo-Vivienda.png)
+
+![Inicio](../images/icono_casa_menu.svg)Inicio
+
+MÓDULOS
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Resolución Única de AAA](resolucion_unica_aaa.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Resoluciones expedidas por la CRA](resoluciones_expedidas_por_cra.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Circulares CRA](circulares_cra.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Conceptos jurídicos seleccionados](conceptos_juridicos_seleccionados.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Compilación de normativa y jurisprudencia](compilacion_normativa_jurisprudencia.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Decreto Único Reglamentario - DUR](decreto_unico_reglamentario_dur.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Contribuciones especiales](contribuciones_especiales.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Resoluciones administrativas de carácter general](resoluciones_administrativas_caracter_general_cra.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Proyectos de resolución CRA](proyectos_resolucion_cra.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Actualizaciones mensuales](actualizaciones_mensuales.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Herramientas de búsqueda](herramientas_busqueda.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Navegación temática](navegacion_tematica.html)
+
+![Opción documentos](../images/carpeta_gris.svg)
+
+[Normativa COVID 19](normativa_covid_19.html)
+
+×
+
+![Contraste](../images/noun-contrast-305554-FFFFFF.svg)
+Contraste
+
+![Reducir](../images/noun-decrease-font-size-65990-FFFFFF.svg)
+Reducir letra
+
+![Aumentar](../images/noun-increase-font-size-65982-FFFFFF.svg)
+Aumentar letra
+
+![Restaurar](../images/noun-reset-3323634-FFFFFF.svg)
+Retornar valores
+
+![Ir arriba](../images/noun-up-1358855-FFFFFF.svg)
+Ir arriba
+
+![Ir abajo](../images/noun-down-1358861-FFFFFF.svg)
+Ir abajo
+
+![Inicio documento](../images/noun-increment-list-1358827-FFFFFF.svg)
+Inicio documento
+
+![Fin documento](../images/noun-decrement-list-1358824-FFFFFF.svg)
+Fin documento

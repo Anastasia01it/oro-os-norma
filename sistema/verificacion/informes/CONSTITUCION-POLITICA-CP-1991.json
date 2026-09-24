@@ -1,0 +1,2596 @@
+{
+ "corpus": "CONSTITUCION-POLITICA-CP-1991.md",
+ "fuente": "sistema/verificacion/fuentes/CONSTITUCION-POLITICA-CP-1991.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 381,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9971,
+   "corpus": "Artículo 1 Colombia es un Estado social de derecho, organizado en forma de República unitaria, descentralizada, con autonomía de sus entidades territoriales, democrática, participa",
+   "fuente": "ARTICULO 1o. Colombia es un Estado social de derecho, organizado en forma de República unitaria, descentralizada, con autonomía de sus entidades territoriales, democrática, partici",
+   "diff": {
+    "corpus": "...Artículo 1 Colombia es un Estado social de derecho, organizado en form...",
+    "fuente": "...ARTICULO 1o. Colombia es un Estado social de derecho, organizado en form..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "casi",
+   "similitud": 0.9987,
+   "corpus": "Artículo 2 Son fines esenciales del Estado: servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en ",
+   "fuente": "ARTICULO 2o. Son fines esenciales del Estado: servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados e",
+   "diff": {
+    "corpus": "...Artículo 2 Son fines esenciales del Estado: servir a la comunidad, pro...",
+    "fuente": "...ARTICULO 2o. Son fines esenciales del Estado: servir a la comunidad, pro..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "casi",
+   "similitud": 0.9953,
+   "corpus": "Artículo 3 La soberanía reside exclusivamente en el pueblo, del cual emana el poder público. El pueblo la ejerce en forma directa o por medio de sus representantes, en los términos",
+   "fuente": "ARTICULO 3o. La soberanía reside exclusivamente en el pueblo, del cual emana el poder público. El pueblo la ejerce en forma directa o por medio de sus representantes, en los términ",
+   "diff": {
+    "corpus": "...Artículo 3 La soberanía reside exclusivamente en el pueblo, del cual e...",
+    "fuente": "...ARTICULO 3o. La soberanía reside exclusivamente en el pueblo, del cual e..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.546,
+   "corpus": "Artículo 4 La Constitución es norma de normas. En todo caso de incompatibilidad entre la Constitución y la ley u otra norma jurídica, se aplicarán las disposiciones constitucionale",
+   "fuente": "ARTICULO 4o. La Constitución es norma de normas. En todo caso de incompatibilidad entre la Constitución y la ley u otra norma jurídica, se aplicarán las disposiciones constituciona",
+   "diff": {
+    "corpus": "...Artículo 4 La Constitución es norma de normas. En todo caso de incompatibilidad entre la Constitución y l...",
+    "fuente": "...ARTICULO 4o. La Constitución es norma de normas. En todo caso de incomp..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "6",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "7",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.9106,
+   "corpus": "Artículo 8 Es obligación del Estado y de las personas proteger las riquezas culturales y naturales de la Nación. Grupo(s) regionales",
+   "fuente": "ARTICULO 8o. Es obligación del Estado y de las personas proteger las riquezas culturales y naturales de la Nación.",
+   "diff": {
+    "corpus": "...Artículo 8 Es obligación del Estado y de las personas proteger las riq...",
+    "fuente": "...ARTICULO 8o. Es obligación del Estado y de las personas proteger las riq..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "10",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "11",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "12",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "13",
+   "estado": "divergente",
+   "similitud": 0.0193,
+   "corpus": "Artículo 13 Igualdad sin distinción de origen, Garantía general de igualdad, Igualdad sin distinción de religión, Igualdad sin distinción de género, Igualdad sin distinción de idio",
+   "fuente": "ARTICULO 13. Todas las personas nacen libres e iguales ante la ley, recibirán la misma protección y trato de las autoridades y gozarán de los mismos derechos, libertades y oportuni",
+   "diff": {
+    "corpus": "...Artículo 13 Igualdad sin distinción de origen, Garantía general de igualdad, Igualdad sin distinción de religión, Igualdad sin distinción de género, Igualdad sin distinción de idioma, Igualdad sin distinción de fe o creencias, Igualdad sin distinción de raza, Igualdad s...",
+    "fuente": "...ARTICULO 13. Todas las personas nacen libres e iguales ante la ley, recibirán la misma protección y trato de las autoridades y gozarán de los mismos derechos, libertades y oportunidades sin ninguna discriminación por razones de sexo, raza, origen nacional o familiar, lengua, religión, opinión política o filosófica. ..."
+   }
+  },
+  {
+   "articulo": "14",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "15",
+   "estado": "divergente",
+   "similitud": 0.059,
+   "corpus": "Artículo 15 Derecho a proteger la propia reputación, Derecho a la información Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado d",
+   "fuente": "ARTÍCULO 15. Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derech",
+   "diff": {
+    "corpus": "...Artículo 15 Derecho a proteger la propia reputación, Derecho a la infor...",
+    "fuente": "...ARTÍCULO 15. Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nomb..."
+   }
+  },
+  {
+   "articulo": "16",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "17",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "18",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "19",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "20",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "21",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "22",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "23",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "24",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "25",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "26",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "27",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "28",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "29",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "30",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "31",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "32",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "33",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "34",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "35",
+   "estado": "divergente",
+   "similitud": 0.8169,
+   "corpus": "Artículo 35 Derecho internacional La extradición se podrá solicitar, conceder u ofrecer de acuerdo con los tratados públicos y, en su defecto, con la ley. Además, la extradición de",
+   "fuente": "ARTICULO 35. Artículo modificado por el artículo 1o. del Acto Legislativo No. 1 de 1997. El nuevo texto es el siguiente: La extradición se podrá solicitar, conceder u ofrecer de ac",
+   "diff": {
+    "corpus": "...Artículo 35 Derecho internacional La extradición se podrá solicitar, conceder u ofrecer de ac...",
+    "fuente": "...ARTICULO 35. Artículo modificado por el artículo 1o. del Acto Legislativo No. 1 de 1997. El nuevo texto es el siguiente: La extradición se podrá solicitar, conceder u ofrecer de ac..."
+   }
+  },
+  {
+   "articulo": "36",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "37",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "38",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "39",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "40",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "41",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "42",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "43",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "44",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "45",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "46",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "47",
+   "estado": "casi",
+   "similitud": 0.9977,
+   "corpus": "Artículo 47 El Estado adelantará una política de previsión, rehabilitación e integración social para los disminuidos físicos, sensoriales y psíquicos, a quienes se prestará la aten",
+   "fuente": "ARTICULO 47. El Estado adelantará una política de previsión, rehabilitación e integración social para los disminuidos físicos, sensoriales y psíquicos, a quienes se prestará la ate",
+   "diff": {
+    "corpus": "...Artículo 47 El Estado adelantará una política de previsión, rehabilitac...",
+    "fuente": "...ARTICULO 47. El Estado adelantará una política de previsión, rehabilitac..."
+   }
+  },
+  {
+   "articulo": "48",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "49",
+   "estado": "divergente",
+   "similitud": 0.0273,
+   "corpus": "Artículo 49 Protección del medio ambiente La atención de la salud y el saneamiento ambiental son servicios públicos a cargo del Estado. Se garantiza a todas las personas el acceso ",
+   "fuente": "ARTICULO 49. Artículo modificado por el artículo 1 del Acto Legislativo 2 de 2009. El nuevo texto es el siguiente: La atención de la salud y el saneamiento ambiental son servicios ",
+   "diff": {
+    "corpus": "...Artículo 49 Protección del medio ambiente La atención de la salud y el saneamiento ambienta...",
+    "fuente": "...ARTICULO 49. Artículo modificado por el artículo 1 del Acto Legislativo 2 de 2009. El nuevo texto es el siguiente: La atención de la salud y el saneamiento ambiental son servicios públicos a cargo del Estado. Se ga..."
+   }
+  },
+  {
+   "articulo": "50",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "51",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "52",
+   "estado": "divergente",
+   "similitud": 0.5523,
+   "corpus": "Artículo 52 El ejercicio del deporte, sus manifestaciones recreativas, competitivas y autóctonas tienen como función la formación integral de las personas, preservar y desarrollar ",
+   "fuente": "ARTICULO 52. Artículo modificado por el artículo 1 del Acto Legislativo No. 2 de 2000. El nuevo texto es el siguiente: El ejercicio del deporte, sus manifestaciones recreativas, co",
+   "diff": {
+    "corpus": "...Artículo 52 El ejercicio del deporte, sus manifestaciones recreativas, ...",
+    "fuente": "...ARTICULO 52. Artículo modificado por el artículo 1 del Acto Legislativo No. 2 de 2000. El nuevo texto es el siguiente: El ejercicio del deporte, sus manifestaciones recreativas, ..."
+   }
+  },
+  {
+   "articulo": "53",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "54",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "55",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "56",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "57",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "58",
+   "estado": "divergente",
+   "similitud": 0.4832,
+   "corpus": "Artículo 58 Se garantizan la propiedad privada y los demás derechos adquiridos con arreglo a las leyes civiles, los cuales no pueden ser desconocidos ni vulnerados por leyes poster",
+   "fuente": "ARTICULO 58. Artículo modificado por el artículo 1o. del Acto Legislativo 1 de 1999. El nuevo texto es el siguiente: Se garantizan la propiedad privada y los demás derechos adquiri",
+   "diff": {
+    "corpus": "...Artículo 58 Se garantizan la propiedad privada y los demás derechos adquiri...",
+    "fuente": "...ARTICULO 58. Artículo modificado por el artículo 1o. del Acto Legislativo 1 de 1999. El nuevo texto es el siguiente: Se gara..."
+   }
+  },
+  {
+   "articulo": "59",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "60",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "61",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "62",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "63",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "64",
+   "estado": "divergente",
+   "similitud": 0.1361,
+   "corpus": "Artículo 64 Es deber del Estado promover el acceso progresivo a la propiedad de la tierra de los trabajadores agrarios, en forma individual o asociativa, y a los servicios de educa",
+   "fuente": "ARTICULO 64. Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2023. El nuevo texto es el siguiente: Es deber del Estado promover el acceso progresivo a la propiedad ",
+   "diff": {
+    "corpus": "...Artículo 64 Es deber del Estado promover el acceso progresivo a la prop...",
+    "fuente": "...ARTICULO 64. Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2023. El nuevo texto es el siguiente: Es deber del Estado promover el acceso progresivo a la prop..."
+   }
+  },
+  {
+   "articulo": "65",
+   "estado": "divergente",
+   "similitud": 0.3286,
+   "corpus": "Artículo 65 La producción de alimentos gozará de la especial protección del Estado. Para tal efecto, se otorgará prioridad al desarrollo integral de las actividades agrícolas, pecu",
+   "fuente": "ARTICULO 65. Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2025. El nuevo texto es el siguiente: El Estado garantizará el derecho humano a la alimentación adecuad",
+   "diff": {
+    "corpus": "...Artículo 65 La producción de alimentos gozará de la especial protección del Estado. Para tal efecto, ...",
+    "fuente": "...ARTICULO 65. Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2025. El nuevo texto es el siguiente: El Estado garantizará el derecho humano a la alimentación adecuada, de manera..."
+   }
+  },
+  {
+   "articulo": "66",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "67",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "68",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "69",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "70",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "71",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "72",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "73",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "74",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "75",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "76",
+   "estado": "divergente",
+   "similitud": 0.7692,
+   "corpus": "Artículo 76 [Derogado por el art. 1, Acto legislativo 002 de 2011] Televisión",
+   "fuente": "ARTICULO 76. Artículo derogado por el artículo 1 del Acto Legislativo 2 de 2011",
+   "diff": {
+    "corpus": "...Artículo 76 [Derogado por el art. 1, Acto legislativo 002 de 2011] Tele...",
+    "fuente": "...ARTICULO 76. Artículo derogado por el artículo 1 del Acto Legislativo 2 ..."
+   }
+  },
+  {
+   "articulo": "77",
+   "estado": "divergente",
+   "similitud": 0.7117,
+   "corpus": "Artículo 77 El Congreso de la República expedirá la ley que fijará la política en materia de televisión. CAPITULO 3. DE LOS DERECHOS COLECTIVOS Y DEL AMBIENTE Protección al consumi",
+   "fuente": "ARTICULO 77. Artículo modificado por el artículo 2 del Acto Legislativo 2 de 2011. El nuevo texto es el siguiente: El Congreso de la República expedirá la ley que fijará la polític",
+   "diff": {
+    "corpus": "...Artículo 77 El Congreso de la República expedirá la ley que fijará la p...",
+    "fuente": "...ARTICULO 77. Artículo modificado por el artículo 2 del Acto Legislativo 2 de 2011. El nuevo texto es el siguiente: El Congreso de la República expedirá la ley que fijará la p..."
+   }
+  },
+  {
+   "articulo": "78",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "79",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "80",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "81",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "82",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "83",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "84",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "85",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "86",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "87",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "88",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "89",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "90",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "91",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "92",
+   "estado": "divergente",
+   "similitud": 0.8791,
+   "corpus": "Artículo 92 Cualquier persona natural o jurídica podrá solicitar de la autoridad competente la aplicación de las sanciones penales o disciplinarias derivadas de la conducta de las ",
+   "fuente": "ARTICULO 92.Cualquier persona natural o jurídica podrá solicitar de la autoridad competente la aplicación de las sanciones penales o disciplinarias derivadas de la conducta de las ",
+   "diff": {
+    "corpus": "...Artículo 92 Cualquier persona natural o jurídica podrá solicitar de la a...",
+    "fuente": "...ARTICULO 92.Cualquier persona natural o jurídica podrá solicitar de la a..."
+   }
+  },
+  {
+   "articulo": "93",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "94",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "95",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "96",
+   "estado": "divergente",
+   "similitud": 0.1973,
+   "corpus": "Artículo 96 Son nacionales colombianos: Requisitos para obtener nacionalidad por nacimiento Por nacimiento: Los naturales de Colombia, con una de dos condiciones: que el padre o la",
+   "fuente": "ARTICULO 96. Artículo modificado por el artículo 1 del Acto Legislativo No. 1 de 2002. El nuevo texto es el siguiente: Son nacionales colombianos: 1. Por nacimiento: a) Los natural",
+   "diff": {
+    "corpus": "...Artículo 96 Son nacionales colombianos: Requisitos para obtener nacionalidad por nacimiento Por na...",
+    "fuente": "...ARTICULO 96. Artículo modificado por el artículo 1 del Acto Legislativo No. 1 de 2002. El nuevo texto es el siguiente: Son nacionales colombianos: 1. Por nacimiento: a) Los natu..."
+   }
+  },
+  {
+   "articulo": "97",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "98",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "99",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "100",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "101",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "102",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "103",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "104",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "105",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "106",
+   "estado": "divergente",
+   "similitud": 0.8078,
+   "corpus": "Artículo 106 Previo el cumplimiento de los requisitos que la ley señale y en los casos que ésta determine, los habitantes de las entidades territoriales podrán presentar proyectos ",
+   "fuente": "ARTICULO 106. Artículo corregido según Aclaración publicada en la Gaceta No. 125 Previo el cumplimiento de los requisitos que la ley señale y en los casos que ésta determine, los h",
+   "diff": {
+    "corpus": "...Artículo 106 Previo el cumplimiento de los requisitos que la ley señale ...",
+    "fuente": "...ARTICULO 106. Artículo corregido según Aclaración publicada en la Gaceta No. 125 Previo el cumplimiento de los requisitos que la ley señale ..."
+   }
+  },
+  {
+   "articulo": "107",
+   "estado": "divergente",
+   "similitud": 0.8235,
+   "corpus": "Artículo 107 Derecho a formar partidos políticos Se garantiza a todos los ciudadanos el derecho a fundar, organizar y desarrollar partidos y movimientos políticos, y la libertad de",
+   "fuente": "ARTICULO 107. Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2009. El nuevo texto es el siguiente: Se garantiza a todos los ciudadanos el derecho a fundar, organiz",
+   "diff": {
+    "corpus": "...Artículo 107 Derecho a formar partidos políticos Se garantiza a todos los ciudadano...",
+    "fuente": "...ARTICULO 107. Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2009. El ..."
+   }
+  },
+  {
+   "articulo": "108",
+   "estado": "divergente",
+   "similitud": 0.9666,
+   "corpus": "Artículo 108 El Consejo Nacional Electoral reconocerá Personería Jurídica a los partidos, movimientos políticos y grupos significativos de ciudadanos. Estos podrán obtenerlas con v",
+   "fuente": "ARTICULO 108. Artículo modificado por el artículo 2 del Acto Legislativo 1 de 2009. El nuevo texto es el siguiente: El Consejo Nacional Electoral reconocerá Personería Jurídica a l",
+   "diff": {
+    "corpus": "...Artículo 108 El Consejo Nacional Electoral reconocerá Personería Jurídic...",
+    "fuente": "...ARTICULO 108. Artículo modificado por el artículo 2 del Acto Legislativo 1 de 2009. El nuevo texto es el siguiente: El Consejo Nacional Electoral reconocerá Personería Jurídic..."
+   }
+  },
+  {
+   "articulo": "109",
+   "estado": "divergente",
+   "similitud": 0.9493,
+   "corpus": "Artículo 109 El Estado concurrirá a la financiación política y electoral de los Partidos y Movimientos Políticos con personería jurídica, de conformidad con la ley. Las campañas el",
+   "fuente": "ARTICULO 109. Artículo modificado por el artículo 3 del Acto Legislativo 1 de 2009. El nuevo texto es el siguiente: El Estado concurrirá a la financiación política y electoral de l",
+   "diff": {
+    "corpus": "...Artículo 109 El Estado concurrirá a la financiación política y electoral...",
+    "fuente": "...ARTICULO 109. Artículo modificado por el artículo 3 del Acto Legislativo 1 de 2009. El nuevo texto es el siguiente: El Estado concurrirá a la financiación política y electoral..."
+   }
+  },
+  {
+   "articulo": "110",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "111",
+   "estado": "divergente",
+   "similitud": 0.8889,
+   "corpus": "Artículo 111 Los partidos y movimientos políticos con personería jurídica tienen derecho a utilizar los medios de comunicación que hagan uso del espectro electromagnético, en todo ",
+   "fuente": "ARTICULO 111. Artículo modificado por el artículo 4 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: Los partidos y movimientos políticos con personería jurídica tie",
+   "diff": {
+    "corpus": "...Artículo 111 Los partidos y movimientos políticos con personería jurídic...",
+    "fuente": "...ARTICULO 111. Artículo modificado por el artículo 4 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: Los partidos y movimientos políticos con personería jurídic..."
+   }
+  },
+  {
+   "articulo": "112",
+   "estado": "divergente",
+   "similitud": 0.0484,
+   "corpus": "Artículo 112 Los partidos y movimientos políticos con personería jurídica que se declaren en oposición al Gobierno, podrán ejercer libremente la función crítica frente a este, y pl",
+   "fuente": "ARTICULO 112. Artículo modificado por el artículo 5 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: Los partidos y movimientos políticos con personería jurídica que",
+   "diff": {
+    "corpus": "...Artículo 112 Los partidos y movimientos políticos con personería jurídica que se declaren ...",
+    "fuente": "...ARTICULO 112. Artículo modificado por el artículo 5 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: Los partidos y..."
+   }
+  },
+  {
+   "articulo": "113",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "114",
+   "estado": "divergente",
+   "similitud": 0.6926,
+   "corpus": "Artículo 114 Corresponde al Congreso de la República reformar la Constitución, hacer las leyes y ejercer control político sobre el gobierno y la administración. Estructura de las c",
+   "fuente": "ARTICULO 114.Corresponde al Congreso de la República reformar la Constitución, hacer las leyes y ejercer control político sobre el gobierno y la administración. El Congreso de la R",
+   "diff": {
+    "corpus": "...Artículo 114 Corresponde al Congreso de la República reformar la Constitu...",
+    "fuente": "...ARTICULO 114.Corresponde al Congreso de la República reformar la Constitu..."
+   }
+  },
+  {
+   "articulo": "115",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "116",
+   "estado": "divergente",
+   "similitud": 0.4686,
+   "corpus": "Artículo 116 Establecimiento de un consejo judicial, Estructura de los tribunales, Establecimiento de tribunales militares, Establecimiento del Tribunal Constitucional, Establecimi",
+   "fuente": "ARTICULO 116. Artículo modificado por el artículo 1 del Acto Legislativo No. 3 de 2002. El nuevo texto es el siguiente: Inciso modificado por el artículo 1 del Acto Legislativo 3 d",
+   "diff": {
+    "corpus": "...Artículo 116 Establecimiento de un consejo judicial, Estructura de los tribun...",
+    "fuente": "...ARTICULO 116. Artículo modificado por el artículo 1 del Acto Legislativo No. 3 de 2002. El nuevo texto es el siguiente: Inciso modificado por el artículo 1 del Acto Legislativo 3 de 2023. El nuevo texto es el siguiente: La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, la Comisión Nacional de Disciplina Judicial, la Fiscalía General de la Nación, los Tribunales y los Jueces, administran Justicia. También lo hace ..."
+   }
+  },
+  {
+   "articulo": "117",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "118",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "119",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "120",
+   "estado": "casi",
+   "similitud": 0.9984,
+   "corpus": "Artículo 120 La organización electoral está conformada por el Consejo Nacional Electoral, por la Registraduría Nacional del Estado Civil y por los demás organismos que establezca l",
+   "fuente": "ARTICULO 120. La organización electoral está conformada por el Consejo Nacional Electoral, por la Registraduría Nacional del Estado Civil y por los demás organismos que establezca ",
+   "diff": {
+    "corpus": "...Artículo 120 La organización electoral está conformada por el Consejo Na...",
+    "fuente": "...ARTICULO 120. La organización electoral está conformada por el Consejo Na..."
+   }
+  },
+  {
+   "articulo": "121",
+   "estado": "casi",
+   "similitud": 0.9937,
+   "corpus": "Artículo 121 Ninguna autoridad del Estado podrá ejercer funciones distintas de las que le atribuyen la Constitución y la ley. CAPITULO 2. DE LA FUNCIóN PÚBLICA",
+   "fuente": "ARTICULO 121.Ninguna autoridad del Estado podrá ejercer funciones distintas de las que le atribuyen la Constitución y la ley. CAPITULO 2. DE LA FUNCION PUBLICA",
+   "diff": {
+    "corpus": "...Artículo 121 Ninguna autoridad del Estado podrá ejercer funciones distint...",
+    "fuente": "...ARTICULO 121.Ninguna autoridad del Estado podrá ejercer funciones distint..."
+   }
+  },
+  {
+   "articulo": "122",
+   "estado": "divergente",
+   "similitud": 0.3069,
+   "corpus": "Artículo 122 No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respec",
+   "fuente": "ARTICULO 122. Artículo corregido por Aclaración publicada en la Gaceta No. 125 No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de c",
+   "diff": {
+    "corpus": "...Artículo 122 No habrá empleo público que no tenga funciones detalladas e...",
+    "fuente": "...ARTICULO 122. Artículo corregido por Aclaración publicada en la Gaceta No. 125 No habrá empleo público que no tenga funciones detalladas e..."
+   }
+  },
+  {
+   "articulo": "123",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "124",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "125",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "126",
+   "estado": "divergente",
+   "similitud": 0.5329,
+   "corpus": "Artículo 126 Los servidores públicos no podrán en ejercicio de sus funciones, nombrar, postular, ni contratar con personas con las cuales tengan parentesco hasta el cuarto grado de",
+   "fuente": "ARTICULO 126. Artículo modificado por el artículo 2 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente: Los servidores públicos no podrán en ejercicio de sus funciones,",
+   "diff": {
+    "corpus": "...Artículo 126 Los servidores públicos no podrán en ejercicio de sus funciones, no...",
+    "fuente": "...ARTICULO 126. Artículo modificado por el artículo 2 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente: Los servidores..."
+   }
+  },
+  {
+   "articulo": "127",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "128",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "129",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "130",
+   "estado": "casi",
+   "similitud": 0.9975,
+   "corpus": "Artículo 130 Habrá una Comisión Nacional del Servicio Civil responsable de la administración y vigilancia de las carreras de los servidores públicos, excepción hecha de las que ten",
+   "fuente": "ARTICULO 130. Habrá una Comisión Nacional del Servicio Civil responsable de la administración y vigilancia de las carreras de los servidores públicos, excepción hecha de las que te",
+   "diff": {
+    "corpus": "...Artículo 130 Habrá una Comisión Nacional del Servicio Civil responsable ...",
+    "fuente": "...ARTICULO 130. Habrá una Comisión Nacional del Servicio Civil responsable ..."
+   }
+  },
+  {
+   "articulo": "131",
+   "estado": "divergente",
+   "similitud": 0.8943,
+   "corpus": "Artículo 131 Compete a la ley la reglamentación del servicio público que prestan los notarios y registradores, la definición del régimen laboral para sus empleados y lo relativo a ",
+   "fuente": "ARTICULO 131.Compete a la ley la reglamentación del servicio público que prestan los notarios y registradores, la definición del régimen laboral para sus empleados y lo relativo a ",
+   "diff": {
+    "corpus": "...Artículo 131 Compete a la ley la reglamentación del servicio público que ...",
+    "fuente": "...ARTICULO 131.Compete a la ley la reglamentación del servicio público que ..."
+   }
+  },
+  {
+   "articulo": "132",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "133",
+   "estado": "divergente",
+   "similitud": 0.6621,
+   "corpus": "Artículo 133 Los miembros de cuerpos colegiados de elección directa representan al pueblo, y deberán actuar consultando la justicia y el bien común. El voto de sus miembros será no",
+   "fuente": "ARTICULO 133. Artículo modificado por el artículo 5 del Acto Legislativo 1 de 2009. El nuevo texto es el siguiente: Los miembros de cuerpos colegiados de elección directa represent",
+   "diff": {
+    "corpus": "...Artículo 133 Los miembros de cuerpos colegiados de elección directa repr...",
+    "fuente": "...ARTICULO 133. Artículo modificado por el artículo 5 del Acto Legislativo 1 de 2009. El nuevo texto es el siguiente: Los miembros de cuerpos colegiados de elección directa repr..."
+   }
+  },
+  {
+   "articulo": "134",
+   "estado": "divergente",
+   "similitud": 0.9677,
+   "corpus": "Artículo 134 Los miembros de las Corporaciones Públicas de elección popular no tendrán suplentes. Solo podrán ser reemplazados en los casos de faltas absolutas o temporales que det",
+   "fuente": "ARTICULO 134. Artículo modificado por el artículo 4 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente: Los miembros de las Corporaciones Públicas de elección popular n",
+   "diff": {
+    "corpus": "...Artículo 134 Los miembros de las Corporaciones Públicas de elección popu...",
+    "fuente": "...ARTICULO 134. Artículo modificado por el artículo 4 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente: Los miembros de las Corporaciones Públicas de elección popu..."
+   }
+  },
+  {
+   "articulo": "135",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "136",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "137",
+   "estado": "casi",
+   "similitud": 0.9866,
+   "corpus": "Artículo 137 Cualquier comisión permanente podrá emplazar a toda persona natural o jurídica, para que en sesión especial rinda declaraciones orales o escritas, que podrán exigirse ",
+   "fuente": "ARTICULO 137. Ver Notas del Editor Cualquier comisión permanente podrá emplazar a toda persona natural o jurídica, para que en sesión especial rinda declaraciones orales o escritas",
+   "diff": {
+    "corpus": "...Artículo 137 Cualquier comisión permanente podrá emplazar a toda persona...",
+    "fuente": "...ARTICULO 137. Ver Notas del Editor Cualquier comisión permanente podrá emplazar a toda persona..."
+   }
+  },
+  {
+   "articulo": "138",
+   "estado": "divergente",
+   "similitud": 0.2394,
+   "corpus": "Artículo 138 Duración de sesiones legislativas El Congreso, por derecho propio, se reunirá en sesiones ordinarias, durante dos períodos por año, que constituirán una sola legislatu",
+   "fuente": "ARTICULO 138. Artículo modificado por el artículo 1 del Acto Legislativo 2 de 2023. El nuevo texto es el siguiente: El Congreso, por derecho propio se reunirá en sesiones ordinaria",
+   "diff": {
+    "corpus": "...Artículo 138 Duración de sesiones legislativas El Congreso, por derecho propio, se reunirá en...",
+    "fuente": "...ARTICULO 138. Artículo modificado por el artículo 1 del Acto Legislativo 2 de 2023. El nuevo texto es el siguiente: El C..."
+   }
+  },
+  {
+   "articulo": "139",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "140",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "141",
+   "estado": "divergente",
+   "similitud": 0.959,
+   "corpus": "Artículo 141 El Congreso se reunirá en un solo cuerpo únicamente para la instalación y clausura de sus sesiones, para dar posesión al Presidente de la República, para recibir a Jef",
+   "fuente": "ARTICULO 141. Ver Notas del Editor El Congreso se reunirá en un solo cuerpo únicamente para la instalación y clausura de sus sesiones, para dar posesión al Presidente de la Repúbli",
+   "diff": {
+    "corpus": "...Artículo 141 El Congreso se reunirá en un solo cuerpo únicamente para la...",
+    "fuente": "...ARTICULO 141. Ver Notas del Editor El Congreso se reunirá en un solo cuerpo únicamente para la..."
+   }
+  },
+  {
+   "articulo": "142",
+   "estado": "divergente",
+   "similitud": 0.9553,
+   "corpus": "Artículo 142 Cada Cámara elegirá, para el respectivo período constitucional, comisiones permanentes que tramitarán en primer debate los proyectos de acto legislativo o de ley. La l",
+   "fuente": "ARTICULO 142. Ver Notas del Editor Cada Cámara elegirá, para el respectivo período constitucional, comisiones permanentes que tramitarán en primer debate los proyectos de acto legi",
+   "diff": {
+    "corpus": "...Artículo 142 Cada Cámara elegirá, para el respectivo período constitucio...",
+    "fuente": "...ARTICULO 142. Ver Notas del Editor Cada Cámara elegirá, para el respectivo período constitucio..."
+   }
+  },
+  {
+   "articulo": "143",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "144",
+   "estado": "divergente",
+   "similitud": 0.6782,
+   "corpus": "Artículo 144 Sesiones públicas o privadas, Comisiones legislativas Las sesiones de las Cámaras y de sus Comisiones Permanentes serán públicas, con las limitaciones a que haya lugar",
+   "fuente": "ARTICULO 144. Artículo modificado por el artículo 7 del Acto Legislativo 1 de 2009. El nuevo texto es el siguiente: Las sesiones de las Cámaras y de sus Comisiones Permanentes será",
+   "diff": {
+    "corpus": "...Artículo 144 Sesiones públicas o privadas, Comisiones legislativas Las sesiones d...",
+    "fuente": "...ARTICULO 144. Artículo modificado por el artículo 7 del Acto Legislativo 1 de 2009. El nuevo ..."
+   }
+  },
+  {
+   "articulo": "145",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "146",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "147",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "148",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "149",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "150",
+   "estado": "divergente",
+   "similitud": 0.5787,
+   "corpus": "Artículo 150 Corresponde al Congreso hacer las leyes. Por medio de ellas ejerce las siguientes funciones: Interpretar, reformar y derogar las leyes. Expedir códigos en todos los ra",
+   "fuente": "ARTICULO 150. Corresponde al Congreso hacer las leyes. Por medio de ellas ejerce las siguientes funciones: 1. Interpretar, reformar y derogar las leyes. 2. Expedir códigos en todos",
+   "diff": {
+    "corpus": "...Artículo 150 Corresponde al Congreso hacer las leyes. Por medio de ellas...",
+    "fuente": "...ARTICULO 150. Corresponde al Congreso hacer las leyes. Por medio de ellas..."
+   }
+  },
+  {
+   "articulo": "151",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "152",
+   "estado": "divergente",
+   "similitud": 0.8433,
+   "corpus": "Artículo 152 Mediante las leyes estatutarias, el Congreso de la República regulará las siguientes materias: Derechos y deberes fundamentales de las personas y los procedimientos y ",
+   "fuente": "ARTICULO 152.Mediante las leyes estatutarias, el Congreso de la República regulará las siguientes materias: a) Derechos y deberes fundamentales de las personas y los procedimientos",
+   "diff": {
+    "corpus": "...Artículo 152 Mediante las leyes estatutarias, el Congreso de la República...",
+    "fuente": "...ARTICULO 152.Mediante las leyes estatutarias, el Congreso de la República..."
+   }
+  },
+  {
+   "articulo": "153",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "154",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "155",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "156",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "157",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "158",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "159",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "160",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "161",
+   "estado": "divergente",
+   "similitud": 0.8972,
+   "corpus": "Artículo 161 Comisiones legislativas Cuando surgieren discrepancias en las Cámaras respecto de un proyecto, ambas integrarán comisiones de conciliadores conformadas por un mismo nú",
+   "fuente": "ARTICULO 161. Artículo modificado por el artículo 9 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: Cuando surgieren discrepancias en las Cámaras respecto de un pro",
+   "diff": {
+    "corpus": "...Artículo 161 Comisiones legislativas Cuando surgieren discrepancias en las Cámaras ...",
+    "fuente": "...ARTICULO 161. Artículo modificado por el artículo 9 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: Cuan..."
+   }
+  },
+  {
+   "articulo": "162",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "163",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "164",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "165",
+   "estado": "divergente",
+   "similitud": 0.9095,
+   "corpus": "Artículo 165 Aprobado un proyecto de ley por ambas cámaras, pasará al Gobierno para su sanción. Si éste no lo objetare, dispondrá que se promulgue como ley; si lo objetare, lo devo",
+   "fuente": "ARTICULO 165.Aprobado un proyecto de ley por ambas cámaras, pasará al Gobierno para su sanción. Si éste no lo objetare, dispondrá que se promulgue como ley; si lo objetare, lo devo",
+   "diff": {
+    "corpus": "...Artículo 165 Aprobado un proyecto de ley por ambas cámaras, pasará al Gob...",
+    "fuente": "...ARTICULO 165.Aprobado un proyecto de ley por ambas cámaras, pasará al Gob..."
+   }
+  },
+  {
+   "articulo": "166",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "167",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "168",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "169",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "170",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "171",
+   "estado": "divergente",
+   "similitud": 0.0223,
+   "corpus": "Artículo 171 Tamaño de la segunda cámara El Senado de la República estará integrado por cien miembros elegidos en circunscripción nacional. Cuotas de representación en la segunda c",
+   "fuente": "ARTICULO 171. Ver Notas del Editor El Senado de la República estará integrado por cien miembros elegidos en circunscripción nacional. Habrá un número adicional de dos senadores ele",
+   "diff": {
+    "corpus": "...Artículo 171 Tamaño de la segunda cámara El Senado de la República estará integrado por cien miembros elegidos en circunscripción nacional. Cuotas de representación en la segunda cámara, Tamaño de l...",
+    "fuente": "...ARTICULO 171. Ver Notas del Editor El Senado de la República estará inte..."
+   }
+  },
+  {
+   "articulo": "172",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "173",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "174",
+   "estado": "divergente",
+   "similitud": 0.6231,
+   "corpus": "Artículo 174 Corresponde al Senado conocer de las acusaciones que formule la Cámara de Representantes contra el Presidente de la República o quien haga sus veces y contra los miemb",
+   "fuente": "ARTICULO 174.Corresponde al Senado conocer de las acusaciones que formule la Cámara de Representantes contra el Presidente de la República o quien haga sus veces; contra los Magist",
+   "diff": {
+    "corpus": "...Artículo 174 Corresponde al Senado conocer de las acusaciones que formule...",
+    "fuente": "...ARTICULO 174.Corresponde al Senado conocer de las acusaciones que formule..."
+   }
+  },
+  {
+   "articulo": "175",
+   "estado": "divergente",
+   "similitud": 0.9698,
+   "corpus": "Artículo 175 En los juicios que se sigan ante el Senado, se observarán estas reglas: El acusado queda de hecho suspenso de su empleo, siempre que una acusación sea públicamente adm",
+   "fuente": "ARTICULO 175. En los juicios que se sigan ante el Senado, se observarán estas reglas: 1. El acusado queda de hecho suspenso de su empleo, siempre que una acusación sea públicamente",
+   "diff": {
+    "corpus": "...Artículo 175 En los juicios que se sigan ante el Senado, se observarán e...",
+    "fuente": "...ARTICULO 175. En los juicios que se sigan ante el Senado, se observarán e..."
+   }
+  },
+  {
+   "articulo": "176",
+   "estado": "divergente",
+   "similitud": 0.6877,
+   "corpus": "Artículo 176 La Cámara de Representantes se elegirá en circunscripciones territoriales, circunscripciones especiales y una circunscripción internacional. Tamaño de la primera cámar",
+   "fuente": "ARTICULO 176. Ver Notas del Editor Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2013. El nuevo texto es el siguiente: La Cámara de Representantes se elegirá en c",
+   "diff": {
+    "corpus": "...Artículo 176 La Cámara de Representantes se elegirá en circunscripciones territoriales, circunscripciones...",
+    "fuente": "...ARTICULO 176. Ver Notas del Editor Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2013. El nuevo texto es el siguiente: La Cá..."
+   }
+  },
+  {
+   "articulo": "177",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "178",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "178-A",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "179",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "180",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "181",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "182",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "183",
+   "estado": "divergente",
+   "similitud": 0.1888,
+   "corpus": "Artículo 183 Los congresistas perderán su investidura: Por violación del régimen de inhabilidades e incompatibilidades, o del régimen de conflicto de intereses. Asistencia de los l",
+   "fuente": "ARTICULO 183. Ver Notas del Editor en relación con la nueva causal de pérdida de investidura incorporada por el Acto Legislativo 1 de 2009 Los congresistas perderán su investidura:",
+   "diff": {
+    "corpus": "...Artículo 183 Los congresistas perderán su investidura: Por violación del régimen...",
+    "fuente": "...ARTICULO 183. Ver Notas del Editor en relación con la nueva causal de pérdida de investidura incorporada por el Acto Legislativo 1 de 2009 Los congresistas perderán su investidura..."
+   }
+  },
+  {
+   "articulo": "184",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "185",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "186",
+   "estado": "divergente",
+   "similitud": 0.471,
+   "corpus": "Artículo 186 De los delitos que cometan los congresistas, conocerá en forma privativa la Corte Suprema de Justicia, única autoridad que podrá ordenar su detención. En caso de flagr",
+   "fuente": "ARTICULO 186. Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2018. El nuevo texto es el siguiente: De los delitos que cometan los Congresistas, conocerá en forma p",
+   "diff": {
+    "corpus": "...Artículo 186 De los delitos que cometan los congresistas, conocerá en fo...",
+    "fuente": "...ARTICULO 186. Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2018. El nuevo texto es el siguiente: De los delitos que cometan los Congresistas, conocerá en fo..."
+   }
+  },
+  {
+   "articulo": "187",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "188",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "189",
+   "estado": "divergente",
+   "similitud": 0.4577,
+   "corpus": "Artículo 189 Corresponde al Presidente de la República como Jefe de Estado, Jefe del Gobierno y Suprema Autoridad Administrativa: Remoción del gabinete, Selección del gabinete Nomb",
+   "fuente": "ARTICULO 189.Corresponde al Presidente de la República como Jefe de Estado, Jefe del Gobierno y Suprema Autoridad Administrativa: 1. Nombrar y separar libremente a los Ministros de",
+   "diff": {
+    "corpus": "...Artículo 189 Corresponde al Presidente de la República como Jefe de Estad...",
+    "fuente": "...ARTICULO 189.Corresponde al Presidente de la República como Jefe de Estad..."
+   }
+  },
+  {
+   "articulo": "190",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "191",
+   "estado": "divergente",
+   "similitud": 0.8634,
+   "corpus": "Artículo 191 Para ser Presidente de la República se requiere ser colombiano por nacimiento, ciudadano en ejercicio y mayor de treinta años. Juramentos de obediencia a la constituci",
+   "fuente": "ARTICULO 191. Para ser Presidente de la República se requiere ser colombiano por nacimiento, ciudadano en ejercicio y mayor de treinta años.",
+   "diff": {
+    "corpus": "...Artículo 191 Para ser Presidente de la República se requiere ser colombi...",
+    "fuente": "...ARTICULO 191. Para ser Presidente de la República se requiere ser colombi..."
+   }
+  },
+  {
+   "articulo": "192",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "193",
+   "estado": "divergente",
+   "similitud": 0.9544,
+   "corpus": "Artículo 193 Corresponde al Senado conceder licencia al Presidente de la República para separarse temporalmente del cargo. Por motivo de enfermedad, el Presidente de la República p",
+   "fuente": "ARTICULO 193.Corresponde al Senado conceder licencia al Presidente de la República para separarse temporalmente del cargo. Por motivo de enfermedad, el Presidente de la República p",
+   "diff": {
+    "corpus": "...Artículo 193 Corresponde al Senado conceder licencia al Presidente de la ...",
+    "fuente": "...ARTICULO 193.Corresponde al Senado conceder licencia al Presidente de la ..."
+   }
+  },
+  {
+   "articulo": "194",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "195",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "196",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "197",
+   "estado": "divergente",
+   "similitud": 0.9384,
+   "corpus": "Artículo 197 Límites a los periodos del jefe de estado No podrá ser elegido Presidente de la República el ciudadano que a cualquier título hubiere ejercido la Presidencia. Esta pro",
+   "fuente": "ARTICULO 197. Artículo modificado por el artículo 9 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente: No podrá ser elegido Presidente de la República el ciudadano que",
+   "diff": {
+    "corpus": "...Artículo 197 Límites a los periodos del jefe de estado No podrá ser elegido Presidente de la República...",
+    "fuente": "...ARTICULO 197. Artículo modificado por el artículo 9 del Acto Legislativo 2 de 2015. El ..."
+   }
+  },
+  {
+   "articulo": "198",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "199",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "200",
+   "estado": "divergente",
+   "similitud": 0.561,
+   "corpus": "Artículo 200 Corresponde al Gobierno, en relación con el Congreso: Concurrir a la formación de las leyes, presentando proyectos por intermedio de los ministros, ejerciendo el derec",
+   "fuente": "ARTICULO 200.Corresponde al Gobierno, en relación con el Congreso: 1. Concurrir a la formación de las leyes, presentando proyectos por intermedio de los ministros, ejerciendo el de",
+   "diff": {
+    "corpus": "...Artículo 200 Corresponde al Gobierno, en relación con el Congreso: Concur...",
+    "fuente": "...ARTICULO 200.Corresponde al Gobierno, en relación con el Congreso: 1. Con..."
+   }
+  },
+  {
+   "articulo": "201",
+   "estado": "divergente",
+   "similitud": 0.9055,
+   "corpus": "Artículo 201 Corresponde al Gobierno, en relación con la Rama Judicial: Prestar a los funcionarios judiciales, con arreglo a las leyes, los auxilios necesarios para hacer efectivas",
+   "fuente": "ARTICULO 201.Corresponde al Gobierno, en relación con la Rama Judicial: 1. Prestar a los funcionarios judiciales, con arreglo a las leyes, los auxilios necesarios para hacer efecti",
+   "diff": {
+    "corpus": "...Artículo 201 Corresponde al Gobierno, en relación con la Rama Judicial: P...",
+    "fuente": "...ARTICULO 201.Corresponde al Gobierno, en relación con la Rama Judicial: 1..."
+   }
+  },
+  {
+   "articulo": "202",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "203",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "204",
+   "estado": "divergente",
+   "similitud": 0.5032,
+   "corpus": "Artículo 204 Para ser elegido Vicepresidente se requieren las mismas calidades que para ser Presidente de la República.",
+   "fuente": "ARTICULO 204. Artículo modificado por el artículo 3 del Acto Legislativo 2 de 2004. El nuevo texto es el siguiente: Para ser elegido Vicepresidente se requieren las mismas calidade",
+   "diff": {
+    "corpus": "...Artículo 204 Para ser elegido Vicepresidente se requieren las mismas cal...",
+    "fuente": "...ARTICULO 204. Artículo modificado por el artículo 3 del Acto Legislativo 2 de 2004. El nuevo texto es el siguiente: Para ser elegido Vicepresidente se requieren las mismas cal..."
+   }
+  },
+  {
+   "articulo": "205",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "206",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "207",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "208",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "209",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "210",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "211",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "212",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "213",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "214",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "215",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "216",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "217",
+   "estado": "divergente",
+   "similitud": 0.2585,
+   "corpus": "Artículo 217 La Nación tendrá para su defensa unas Fuerzas Militares permanentes constituidas por el Ejército, la Armada y la Fuerza Aérea. Las Fuerzas Militares tendrán como final",
+   "fuente": "ARTICULO 217. Inciso modificado por el artículo 1 del Acto Legislativo 2 de 2023. El nuevo texto es el siguiente: La Nación tendrá para su defensa unas Fuerzas Militares permanente",
+   "diff": {
+    "corpus": "...Artículo 217 La Nación tendrá para su defensa unas Fuerzas Militares per...",
+    "fuente": "...ARTICULO 217. Inciso modificado por el artículo 1 del Acto Legislativo 2 de 2023. El nuevo texto es el siguiente: La Nación tendrá para su defensa unas Fuerzas Militares per..."
+   }
+  },
+  {
+   "articulo": "218",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "219",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "220",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "221",
+   "estado": "divergente",
+   "similitud": 0.8121,
+   "corpus": "Artículo 221 De las conductas punibles cometidas por los miembros de la Fuerza Pública encservicio activo, y en relación con el mismo servicio¡ conocerán las cortes marciales o tri",
+   "fuente": "ARTICULO 221. Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2015. El nuevo texto es el siguiente: De las conductas punibles cometidas por los miembros de la Fuerz",
+   "diff": {
+    "corpus": "...Artículo 221 De las conductas punibles cometidas por los miembros de la Fuerza Pública encservicio activo, y en relación con el mism...",
+    "fuente": "...ARTICULO 221. Artículo modificado por el artículo 1 del Acto Legislativo 1 de 2015. El ..."
+   }
+  },
+  {
+   "articulo": "222",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "223",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "224",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "225",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "226",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "227",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "228",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "229",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "230",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "231",
+   "estado": "divergente",
+   "similitud": 0.7608,
+   "corpus": "Artículo 231 Establecimiento de un consejo judicial Los Magistrados de la Corte Suprema de Justicia y del Consejo de Estado serán elegidos por la respectiva Corporación, previa aud",
+   "fuente": "ARTICULO 231. Artículo modificado por el artículo 11 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente: Apartes tachados INEXEQUIBLES, el aparte en letra cursiva corre",
+   "diff": {
+    "corpus": "...Artículo 231 Establecimiento de un consejo judicial Los Magistrados de la Cor...",
+    "fuente": "...ARTICULO 231. Artículo modificado por el artículo 11 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente: Apartes tachados INEXEQUIBLES, el aparte en letra cursiva corresponde a la corrección..."
+   }
+  },
+  {
+   "articulo": "232",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "233",
+   "estado": "divergente",
+   "similitud": 0.7096,
+   "corpus": "Artículo 233 Los Magistrados de la Corte Constitucional, de la Corte Suprema de Justicia y del Consejo de Estado serán elegidos para períodos individuales de ocho años, no podrán s",
+   "fuente": "ARTICULO 233. Artículo corregido según Aclaración publicada en la Gaceta No. 125 Los Magistrados de la Corte Constitucional, de la Corte Suprema de Justicia, y del Consejo de Estad",
+   "diff": {
+    "corpus": "...Artículo 233 Los Magistrados de la Corte Constitucional, de la Corte Sup...",
+    "fuente": "...ARTICULO 233. Artículo corregido según Aclaración publicada en la Gaceta No. 125 Los Magistrados de la Corte Constitucional, de la Corte Sup..."
+   }
+  },
+  {
+   "articulo": "234",
+   "estado": "divergente",
+   "similitud": 0.3176,
+   "corpus": "Artículo 234 La Corte Suprema de Justicia es el máximo tribunal de la jurisdicción ordinaria y se compondrá del número impar de magistrados que determine la ley. Esta dividirá la C",
+   "fuente": "ARTICULO 234. Artículo modificado por el artículo 2 del Acto Legislativo 1 de 2018. El nuevo texto es el siguiente: La Corte Suprema de Justicia es el máximo Tribunal de la Jurisdi",
+   "diff": {
+    "corpus": "...Artículo 234 La Corte Suprema de Justicia es el máximo tribunal de la ju...",
+    "fuente": "...ARTICULO 234. Artículo modificado por el artículo 2 del Acto Legislativo 1 de 2018. El nuevo texto es el siguiente: La Corte Suprema de Justicia es el máximo Tribunal de la Ju..."
+   }
+  },
+  {
+   "articulo": "235",
+   "estado": "divergente",
+   "similitud": 0.1092,
+   "corpus": "Artículo 235 Son atribuciones de la Corte Suprema de Justicia: Actuar como tribunal de casación. Remoción del jefe de estado Juzgar al Presidente de la República o a quien haga sus",
+   "fuente": "ARTICULO 235. Artículo modificado por el artículo 3 del Acto Legislativo 1 de 2018. El nuevo texto es el siguiente: Son atribuciones de la Corte Suprema de Justicia: 1. Actuar como",
+   "diff": {
+    "corpus": "...Artículo 235 Son atribuciones de la Corte Suprema de Justicia: Actuar co...",
+    "fuente": "...ARTICULO 235. Artículo modificado por el artículo 3 del Acto Legislativo 1 de 2018. El nuevo texto es el siguiente: Son atribuciones de la Corte Suprema de Justicia: 1. Actuar..."
+   }
+  },
+  {
+   "articulo": "236",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "237",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "238",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "239",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "240",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "241",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "242",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "243",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "244",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "245",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "246",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "247",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "248",
+   "estado": "divergente",
+   "similitud": 0.9487,
+   "corpus": "Artículo 248 Únicamente las condenas proferidas en sentencias judiciales en forma definitiva tienen la calidad de antecedentes penales y contravencionales en todos los órdenes lega",
+   "fuente": "ARTICULO 248.Unicamente sic las condenas proferidas en sentencias judiciales en forma definitiva tienen la calidad de antecedentes penales y contravencionales en todos los órdenes ",
+   "diff": {
+    "corpus": "...Artículo 248 Únicamente las condenas proferidas en sentencias judiciales ...",
+    "fuente": "...ARTICULO 248.Unicamente sic las condenas proferidas en sentencias judicia..."
+   }
+  },
+  {
+   "articulo": "249",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "250",
+   "estado": "divergente",
+   "similitud": 0.8531,
+   "corpus": "Artículo 250 La Fiscalía General de la Nación está obligada a adelantar el ejercicio de la acción penal y realizar la investigación de los hechos que revistan las características d",
+   "fuente": "ARTICULO 250. Artículo modificado por el artículo 2 del Acto Legislativo No. 3 de 2002. El nuevo texto es el siguiente: La Fiscalía General de la Nación está obligada a adelantar e",
+   "diff": {
+    "corpus": "...Artículo 250 La Fiscalía General de la Nación está obligada a adelantar el e...",
+    "fuente": "...ARTICULO 250. Artículo modificado por el artículo 2 del Acto Legislativo No. 3 de 2002...."
+   }
+  },
+  {
+   "articulo": "251",
+   "estado": "divergente",
+   "similitud": 0.9017,
+   "corpus": "Artículo 251 Son funciones especiales del Fiscal General de la Nación: Investigar y acusar, si hubiere lugar, directamente o por conducto del Vicefiscal General de la Nación o de s",
+   "fuente": "ARTICULO 251. Artículo modificado por el artículo 3 del Acto Legislativo No. 3 de 2002. El nuevo texto es el siguiente: Son funciones especiales del Fiscal General de la Nación: 1.",
+   "diff": {
+    "corpus": "...Artículo 251 Son funciones especiales del Fiscal General de la Nación: Invest...",
+    "fuente": "...ARTICULO 251. Artículo modificado por el artículo 3 del Acto Legislativo No. 3 de 2002...."
+   }
+  },
+  {
+   "articulo": "252",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "253",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "254",
+   "estado": "divergente",
+   "similitud": 0.0108,
+   "corpus": "Artículo 254 El Gobierno y la administración de la Rama Judicial estarán a cargo del Consejo de Gobierno Judicial y la Gerencia de la Rama Judicial. Estos órganos ejercerán las fun",
+   "fuente": "ARTICULO 254. Redacción después del fallo de la Sentencia C-285-16 El Consejo Superior de la Judicatura estará integrado por seis magistrados elegidos para un período de ocho años,",
+   "diff": {
+    "corpus": "...Artículo 254 El Gobierno y la administración de la Rama Judicial estarán a c...",
+    "fuente": "...ARTICULO 254. Redacción después del fallo de la Sentencia C-285-16 El Consejo Superior de la Judicatura estará integrado por seis magistrados elegidos para un período de ocho ..."
+   }
+  },
+  {
+   "articulo": "255",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "256",
+   "estado": "divergente",
+   "similitud": 0.0593,
+   "corpus": "Artículo 256 [Derogado por el art. 17, Acto Legislativo 02 de 2015]",
+   "fuente": "ARTICULO 256. El artículo 17 del Acto Legislativo 2 de 2015 que derogó este artículo fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-285-16, salvo en lo ",
+   "diff": {
+    "corpus": "...Artículo 256 [Derogado por el art. 17, Acto Legislativo 02 de 2015]...",
+    "fuente": "...ARTICULO 256. El artículo 17 del Acto Legislativo 2 de 2015 que derogó este artículo ..."
+   }
+  },
+  {
+   "articulo": "257",
+   "estado": "divergente",
+   "similitud": 0.0239,
+   "corpus": "Artículo 257 La Comisión Nacional de Disciplina Judicial ejercerá la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial. Reunión conjunta d",
+   "fuente": "ARTÍCULO 257. Texto original revivido según la Sentencia C-285-16 Con sujeción a la ley, el Consejo Superior de la Judicatura cumplirá las siguientes funciones: 1. Fijar la divisió",
+   "diff": {
+    "corpus": "...Artículo 257 La Comisión Nacional de Disciplina Judicial ejercerá la función jurisdiccional disciplinaria sobre los funcionarios...",
+    "fuente": "...ARTÍCULO 257. Texto original revivido según la Sentencia C-285-16 Con sujeción a la ley, el Consejo Superior de la Judicatura cumplirá las siguientes funciones: 1. Fijar la división del territorio para efectos..."
+   }
+  },
+  {
+   "articulo": "258",
+   "estado": "divergente",
+   "similitud": 0.9236,
+   "corpus": "Artículo 258 El voto es un derecho y un deber ciudadano. El Estado velará porque se ejerza sin ningún tipo de coacción y en forma secreta por los ciudadanos en cubículos individual",
+   "fuente": "ARTICULO 258. Artículo modificado por el artículo 11 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: El voto es un derecho y un deber ciudadano. El Estado velará po",
+   "diff": {
+    "corpus": "...Artículo 258 El voto es un derecho y un deber ciudadano. El Estado velar...",
+    "fuente": "...ARTICULO 258. Artículo modificado por el artículo 11 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: El voto es un derecho y un deber ciudadano. El Estado velar..."
+   }
+  },
+  {
+   "articulo": "259",
+   "estado": "divergente",
+   "similitud": 0.7042,
+   "corpus": "Artículo 259 Quienes elijan gobernadores y alcaldes, imponen por mandato al elegido el programa que presentó al inscribirse como candidato. La ley reglamentará el ejercicio del vot",
+   "fuente": "ARTICULO 259.Quienes elijan gobernadores y alcaldes, imponen por mandato al elegido el programa que presentó al inscribirse como candidato. La ley reglamentará el ejercicio del vot",
+   "diff": {
+    "corpus": "...Artículo 259 Quienes elijan gobernadores y alcaldes, imponen por mandato ...",
+    "fuente": "...ARTICULO 259.Quienes elijan gobernadores y alcaldes, imponen por mandato ..."
+   }
+  },
+  {
+   "articulo": "260",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "261",
+   "estado": "divergente",
+   "similitud": 0.6479,
+   "corpus": "Artículo 261 La elección del Presidente y Vicepresidente no podrá coincidir con otra elección. La de Congreso se hará en fecha separada de la elección de autoridades departamentale",
+   "fuente": "ARTICULO 261. Artículo renumerado por el artículo 26 del Acto Legislativo 2 de 2015, anteriormente era el artículo 262 La elección del Presidente y Vicepresidente no podrá coincidi",
+   "diff": {
+    "corpus": "...Artículo 261 La elección del Presidente y Vicepresidente no podrá coinci...",
+    "fuente": "...ARTICULO 261. Artículo renumerado por el artículo 26 del Acto Legislativo 2 de 2015, anteriormente era el artículo 262 La elección del Presidente y Vicepresidente no podrá coinci..."
+   }
+  },
+  {
+   "articulo": "262",
+   "estado": "divergente",
+   "similitud": 0.9525,
+   "corpus": "Artículo 262 Los partidos, movimientos políticos y grupos significativos de ciudadanos que decidan participar en procesos de elección popular, inscribirán candidatos y listas única",
+   "fuente": "ARTÍCULO 262. Artículo modificado por el artículo 20 del Acto Legislativo 2 de 2015, anteriormente era el artículo 263. El nuevo texto es el siguiente: Los partidos, movimientos po",
+   "diff": {
+    "corpus": "...Artículo 262 Los partidos, movimientos políticos y grupos significativos...",
+    "fuente": "...ARTÍCULO 262. Artículo modificado por el artículo 20 del Acto Legislativo 2 de 2015, anteriormente era el artículo 263. El nuevo texto es el siguiente: Los partidos, movimientos políticos y grupos significativos..."
+   }
+  },
+  {
+   "articulo": "263",
+   "estado": "divergente",
+   "similitud": 0.9467,
+   "corpus": "Artículo 263 Para garantizar la equitativa representación de los Partidos y Movimientos Políticos y grupos significativos de ciudadanos, las curules de las Corporaciones Públicas s",
+   "fuente": "ARTÍCULO 263. Artículo modificado por el artículo 21 del Acto Legislativo 2 de 2015, anteriormente era el artículo 263-A. El nuevo texto es el siguiente: Para garantizar la equitat",
+   "diff": {
+    "corpus": "...Artículo 263 Para garantizar la equitativa representación de los Partido...",
+    "fuente": "...ARTÍCULO 263. Artículo modificado por el artículo 21 del Acto Legislativo 2 de 2015, anteriormente era el artículo 263-A. El nuevo texto es el siguiente: Para garantizar la equitativa representación de los Partido..."
+   }
+  },
+  {
+   "articulo": "264",
+   "estado": "divergente",
+   "similitud": 0.7699,
+   "corpus": "Artículo 264 Reunión conjunta de cámaras legislativas El Consejo Nacional Electoral se compondrá de nueve (9) miembros elegidos por el Congreso de la República en pleno, para un pe",
+   "fuente": "ARTICULO 264. Artículo modificado por el artículo 14 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: Inciso modificado por el artículo 26 del Acto Legislativo 2 de ",
+   "diff": {
+    "corpus": "...Artículo 264 Reunión conjunta de cámaras legislativas El Consejo Nacional Electoral se compondrá de ...",
+    "fuente": "...ARTICULO 264. Artículo modificado por el artículo 14 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: Inci..."
+   }
+  },
+  {
+   "articulo": "265",
+   "estado": "divergente",
+   "similitud": 0.9547,
+   "corpus": "Artículo 265 El Consejo Nacional Electoral regulará, inspeccionará, vigilará y controlará toda la actividad electoral de los partidos y movimientos políticos, de los grupos signifi",
+   "fuente": "ARTICULO 265. Artículo modificado por el artículo 12 del Acto Legislativo 1 de 2009. El nuevo texto es el siguiente: El Consejo Nacional Electoral regulará, inspeccionará, vigilará",
+   "diff": {
+    "corpus": "...Artículo 265 El Consejo Nacional Electoral regulará, inspeccionará, vigi...",
+    "fuente": "...ARTICULO 265. Artículo modificado por el artículo 12 del Acto Legislativo 1 de 2009. El nuevo texto es el siguiente: El Consejo Nacional Electoral regulará, inspeccionará, vigi..."
+   }
+  },
+  {
+   "articulo": "266",
+   "estado": "divergente",
+   "similitud": 0.9182,
+   "corpus": "Artículo 266 El Registrador Nacional del Estado Civil será escogido por los Presidentes de la Corte Constitucional, la Corte Suprema de Justicia y el Consejo de Estado, mediante co",
+   "fuente": "ARTICULO 266. Artículo modificado por el Artículo 15 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: El Registrador Nacional del Estado Civil será escogido por los ",
+   "diff": {
+    "corpus": "...Artículo 266 El Registrador Nacional del Estado Civil será escogido por ...",
+    "fuente": "...ARTICULO 266. Artículo modificado por el Artículo 15 del Acto Legislativo 1 de 2003. El nuevo texto es el siguiente: El Registrador Nacional del Estado Civil será escogido por ..."
+   }
+  },
+  {
+   "articulo": "267",
+   "estado": "divergente",
+   "similitud": 0.3077,
+   "corpus": "Artículo 267 El control fiscal es una función pública que ejercerá la Contraloría General de la República, la cual vigila la gestión fiscal de la administración y de los particular",
+   "fuente": "ARTICULO 267. Artículo modificado por el artículo 1 del Acto Legislativo 4 de 2019. El nuevo texto es el siguiente: La vigilancia y el control fiscal son una función pública que ej",
+   "diff": {
+    "corpus": "...Artículo 267 El control fiscal es una función pública que ejercerá la Contraloría Ge...",
+    "fuente": "...ARTICULO 267. Artículo modificado por el artículo 1 del Acto Legislativo 4 de 2019. El ..."
+   }
+  },
+  {
+   "articulo": "268",
+   "estado": "divergente",
+   "similitud": 0.3668,
+   "corpus": "Artículo 268 El Contralor General de la República tendrá las siguientes atribuciones: Prescribir los métodos y la forma de rendir cuentas los responsables del manejo de fondos o bi",
+   "fuente": "ARTICULO 268. Artículo modificado por el artículo 2 del Acto Legislativo 4 de 2019. El nuevo texto es el siguiente: El Contralor General de la República tendrá las siguientes atrib",
+   "diff": {
+    "corpus": "...Artículo 268 El Contralor General de la República tendrá las siguientes atribuciones: ...",
+    "fuente": "...ARTICULO 268. Artículo modificado por el artículo 2 del Acto Legislativo 4 de 2019. El nuevo texto es el siguiente: El Cont..."
+   }
+  },
+  {
+   "articulo": "269",
+   "estado": "casi",
+   "similitud": 0.9986,
+   "corpus": "Artículo 269 En las entidades públicas, las autoridades correspondientes están obligadas a diseñar y aplicar, según la naturaleza de sus funciones, métodos y procedimientos de cont",
+   "fuente": "ARTÍCULO 269. En las entidades públicas, las autoridades correspondientes están obligadas a diseñar y aplicar, según la naturaleza de sus funciones, métodos y procedimientos de con",
+   "diff": {
+    "corpus": "...Artículo 269 En las entidades públicas, las autoridades correspondientes...",
+    "fuente": "...ARTÍCULO 269. En las entidades públicas, las autoridades correspondientes..."
+   }
+  },
+  {
+   "articulo": "270",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "271",
+   "estado": "divergente",
+   "similitud": 0.2401,
+   "corpus": "Artículo 271 Los resultados de las indagaciones preliminares adelantadas por la Contraloría tendrán valor probatorio ante la Fiscalía General de la Nación y el juez competente.",
+   "fuente": "ARTICULO 271. Artículo modificado por el artículo 3 del Acto Legislativo 4 de 2019. El nuevo texto es el siguiente: Los resultados de los ejercicios de vigilancia y control fiscal,",
+   "diff": {
+    "corpus": "...Artículo 271 Los resultados de las indagaciones preliminares adelantadas por la Contraloría tendrán valor probato...",
+    "fuente": "...ARTICULO 271. Artículo modificado por el artículo 3 del Acto Legislativo 4 de 2019...."
+   }
+  },
+  {
+   "articulo": "272",
+   "estado": "divergente",
+   "similitud": 0.29,
+   "corpus": "Artículo 272 La vigilancia de la gestión fiscal de los departamentos, distritos y municipios donde haya contralorías, corresponde a éstas y se ejercerá en forma posterior y selecti",
+   "fuente": "ARTICULO 272. Artículo modificado por el artículo 4 del Acto Legislativo 4 de 2019. El nuevo texto es el siguiente: La vigilancia de la gestión fiscal de los departamentos, distrit",
+   "diff": {
+    "corpus": "...Artículo 272 La vigilancia de la gestión fiscal de los departamentos, distri...",
+    "fuente": "...ARTICULO 272. Artículo modificado por el artículo 4 del Acto Legislativo 4 de 2019. El nuevo texto es el siguiente: La vigilancia ..."
+   }
+  },
+  {
+   "articulo": "273",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "274",
+   "estado": "divergente",
+   "similitud": 0.2828,
+   "corpus": "Artículo 274 La vigilancia de la gestión fiscal de la Contraloría General de la República se ejercerá por un auditor elegido para períodos de dos años por el Consejo de Estado, de ",
+   "fuente": "ARTICULO 274. Artículo modificado por el artículo 5 del Acto Legislativo 4 de 2019. El nuevo texto es el siguiente: La vigilancia de la gestión fiscal de la Contraloría General de ",
+   "diff": {
+    "corpus": "...Artículo 274 La vigilancia de la gestión fiscal de la Contraloría General de...",
+    "fuente": "...ARTICULO 274. Artículo modificado por el artículo 5 del Acto Legislativo 4 de 2019. El nuevo texto es el siguiente: La vigilancia ..."
+   }
+  },
+  {
+   "articulo": "275",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "276",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "277",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "278",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "279",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "280",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "281",
+   "estado": "divergente",
+   "similitud": 0.7742,
+   "corpus": "Artículo 281 El Defensor del Pueblo ejercerá sus funciones de manera autónoma. Será elegido por la Cámara de Representantes para un periodo institucional de cuatro años de terna el",
+   "fuente": "ARTICULO 281. Artículo modificado por el artículo 24 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente: El Defensor del Pueblo ejercerá sus funciones de manera autónom",
+   "diff": {
+    "corpus": "...Artículo 281 El Defensor del Pueblo ejercerá sus funciones de manera autónoma....",
+    "fuente": "...ARTICULO 281. Artículo modificado por el artículo 24 del Acto Legislativo 2 de 2015. El..."
+   }
+  },
+  {
+   "articulo": "282",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "283",
+   "estado": "divergente",
+   "similitud": 0.7385,
+   "corpus": "Artículo 283 La ley determinará lo relativo a la organización y funcionamiento de la Defensoría del Pueblo como ente autónomo administrativa y presupuestalmente. Ombudsman",
+   "fuente": "ARTICULO 283. Artículo modificado por el artículo 25 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente: La ley determinará lo relativo a la organización y funcionamien",
+   "diff": {
+    "corpus": "...Artículo 283 La ley determinará lo relativo a la organización y funciona...",
+    "fuente": "...ARTICULO 283. Artículo modificado por el artículo 25 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente: La ley determinará lo relativo a la organización y funciona..."
+   }
+  },
+  {
+   "articulo": "284",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "285",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "286",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "287",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "288",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "289",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "290",
+   "estado": "casi",
+   "similitud": 0.998,
+   "corpus": "Artículo 290 Con el cumplimiento de los requisitos y formalidades que señale la ley, y en los casos que ésta determine, se realizará el examen periódico de los límites de las entid",
+   "fuente": "ARTICULO 290. Con el cumplimiento de los requisitos y formalidades que señale la ley, y en los casos que ésta determine, se realizará el examen periódico de los límites de las enti",
+   "diff": {
+    "corpus": "...Artículo 290 Con el cumplimiento de los requisitos y formalidades que se...",
+    "fuente": "...ARTICULO 290. Con el cumplimiento de los requisitos y formalidades que se..."
+   }
+  },
+  {
+   "articulo": "291",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "292",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "293",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "294",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "295",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "296",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "297",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "298",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "299",
+   "estado": "divergente",
+   "similitud": 0.9439,
+   "corpus": "Artículo 299 En cada departamento habrá una corporación político-administrativa de elección popular que se denominará asamblea departamental, la cual estará integrada por no menos ",
+   "fuente": "ARTICULO 299. Artículo modificado por el artículo 3 del Acto Legislativo 1 de 2007. El nuevo texto es el siguiente: En cada departamento habrá una corporación político-administrati",
+   "diff": {
+    "corpus": "...Artículo 299 En cada departamento habrá una corporación político-adminis...",
+    "fuente": "...ARTICULO 299. Artículo modificado por el artículo 3 del Acto Legislativo 1 de 2007. El nuevo texto es el siguiente: En cada departamento habrá una corporación político-adminis..."
+   }
+  },
+  {
+   "articulo": "300",
+   "estado": "divergente",
+   "similitud": 0.5408,
+   "corpus": "Artículo 300 Corresponde a las Asambleas Departamentales, por medio de ordenanzas: Reglamentar el ejercicio de las funciones y la prestación de los servicios a cargo del Departamen",
+   "fuente": "ARTICULO 300. Artículo modificado por el artículo 2o. del Acto Legislativo No. 1 de 1996. El nuevo texto es el siguiente: Corresponde a las Asambleas Departamentales, por medio de ",
+   "diff": {
+    "corpus": "...Artículo 300 Corresponde a las Asambleas Departamentales, por medio de o...",
+    "fuente": "...ARTICULO 300. Artículo modificado por el artículo 2o. del Acto Legislativo No. 1 de 1996. El nuevo texto es el siguiente: Corresponde a las Asambleas Departamentales, por medio de o..."
+   }
+  },
+  {
+   "articulo": "301",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "302",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "303",
+   "estado": "divergente",
+   "similitud": 0.9575,
+   "corpus": "Artículo 303 En cada uno de los departamentos habrá un Gobernador que será jefe de la administración seccional y representante legal del departamento; el gobernador será agente del",
+   "fuente": "ARTICULO 303. Artículo modificado por el artículo 1 del Acto Legislativo No. 2 de 2002. El nuevo texto es el siguiente: En cada uno de los departamentos habrá un Gobernador que ser",
+   "diff": {
+    "corpus": "...Artículo 303 En cada uno de los departamentos habrá un Gobernador que se...",
+    "fuente": "...ARTICULO 303. Artículo modificado por el artículo 1 del Acto Legislativo No. 2 de 2002. El nuevo texto es el siguiente: En cada uno de los departamentos habrá un Gobernador que se..."
+   }
+  },
+  {
+   "articulo": "304",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "305",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "306",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "307",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "308",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "309",
+   "estado": "divergente",
+   "similitud": 0.9316,
+   "corpus": "Artículo 309 Erígense en departamento las Intendencias de Arauca, Casanare, Putumayo, el Archipiélago de San Andrés, Providencia y Santa Catalina, y las Comisarías del Amazonas, Gu",
+   "fuente": "ARTICULO 309.Erígense en departamento las Intendencias de Arauca, Casanare, Putumayo, el Archipiélago de San Andrés, Providencia y Santa Catalina, y las Comisarías del Amazonas, Gu",
+   "diff": {
+    "corpus": "...Artículo 309 Erígense en departamento las Intendencias de Arauca, Casanar...",
+    "fuente": "...ARTICULO 309.Erígense en departamento las Intendencias de Arauca, Casanar..."
+   }
+  },
+  {
+   "articulo": "310",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "311",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "312",
+   "estado": "divergente",
+   "similitud": 0.9233,
+   "corpus": "Artículo 312 En cada municipio habrá una corporación político-administrativa elegida popularmente para períodos de cuatro (4) años que se denominará concejo municipal, integrado po",
+   "fuente": "ARTICULO 312. Artículo modificado por el artículo 5 del Acto Legislativo 1 de 2007. El nuevo texto es el siguiente: En cada municipio habrá una corporación político-administrativa ",
+   "diff": {
+    "corpus": "...Artículo 312 En cada municipio habrá una corporación político-administra...",
+    "fuente": "...ARTICULO 312. Artículo modificado por el artículo 5 del Acto Legislativo 1 de 2007. El nuevo texto es el siguiente: En cada municipio habrá una corporación político-administra..."
+   }
+  },
+  {
+   "articulo": "313",
+   "estado": "divergente",
+   "similitud": 0.9651,
+   "corpus": "Artículo 313 Corresponde a los concejos: Reglamentar las funciones y la eficiente prestación de los servicios a cargo del municipio. Adoptar los correspondientes planes y programas",
+   "fuente": "ARTICULO 313.Corresponde a los concejos: 1. Reglamentar las funciones y la eficiente prestación de los servicios a cargo del municipio. 2. Adoptar los correspondientes planes y pro",
+   "diff": {
+    "corpus": "...Artículo 313 Corresponde a los concejos: Reglamentar las funciones y la e...",
+    "fuente": "...ARTICULO 313.Corresponde a los concejos: 1. Reglamentar las funciones y l..."
+   }
+  },
+  {
+   "articulo": "314",
+   "estado": "divergente",
+   "similitud": 0.9297,
+   "corpus": "Artículo 314 En cada municipio habrá un alcalde, jefe de la administración local y representante legal del municipio, que será elegido popularmente para períodos institucionales de",
+   "fuente": "ARTICULO 314. Artículo modificado por el artículo 3 del Acto Legislativo No. 2 de 2002. El nuevo texto es el siguiente: En cada municipio habrá un alcalde, jefe de la administració",
+   "diff": {
+    "corpus": "...Artículo 314 En cada municipio habrá un alcalde, jefe de la administraci...",
+    "fuente": "...ARTICULO 314. Artículo modificado por el artículo 3 del Acto Legislativo No. 2 de 2002. El nuevo texto es el siguiente: En cada municipio habrá un alcalde, jefe de la administraci..."
+   }
+  },
+  {
+   "articulo": "315",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "316",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "317",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "318",
+   "estado": "casi",
+   "similitud": 0.9854,
+   "corpus": "Artículo 318 Con el fin de mejorar la prestación de los servicios y asegurar la participación de la ciudadanía en el manejo de los asuntos públicos de carácter local, los concejos ",
+   "fuente": "ARTICULO 318. Ver Notas de Vigencia Con el fin de mejorar la prestación de los servicios y asegurar la participación de la ciudadanía en el manejo de los asuntos públicos de caráct",
+   "diff": {
+    "corpus": "...Artículo 318 Con el fin de mejorar la prestación de los servicios y aseg...",
+    "fuente": "...ARTICULO 318. Ver Notas de Vigencia Con el fin de mejorar la prestación de los servicios y aseg..."
+   }
+  },
+  {
+   "articulo": "319",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "320",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "321",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "322",
+   "estado": "divergente",
+   "similitud": 0.9369,
+   "corpus": "Artículo 322 Bogotá, Capital de la República y el Departamento de Cundinamarca, se organiza como Distrito Capital. Su régimen político, fiscal y administrativo será el que determin",
+   "fuente": "ARTICULO 322. Inciso 1o. modificado por el artículo 1 del Acto Legislativo No. 1 de 2000. El nuevo texto es el siguiente: Bogotá, Capital de la República y del departamento de Cund",
+   "diff": {
+    "corpus": "...Artículo 322 Bogotá, Capital de la República y el Departamento de Cundin...",
+    "fuente": "...ARTICULO 322. Inciso 1o. modificado por el artículo 1 del Acto Legislativo No. 1 de 2000. El nuevo texto es el siguiente: Bogotá, Capital de la República y del departamento de Cundi..."
+   }
+  },
+  {
+   "articulo": "323",
+   "estado": "divergente",
+   "similitud": 0.7245,
+   "corpus": "Artículo 323 El Concejo Distrital se compondrá de cuarenta y cinco (45) concejales. En cada una de las localidades habrá una junta administradora elegida popularmente para períodos",
+   "fuente": "ARTICULO 323. Artículo modificado por el artículo 1 del Acto Legislativo 3 de 2019. El nuevo texto es el siguiente: El Concejo Distrital se compondrá de cuarenta y cinco (45) conce",
+   "diff": {
+    "corpus": "...Artículo 323 El Concejo Distrital se compondrá de cuarenta y cinco (45) ...",
+    "fuente": "...ARTICULO 323. Artículo modificado por el artículo 1 del Acto Legislativo 3 de 2019. El nuevo texto es el siguiente: El Concejo Distrital se compondrá de cuarenta y cinco (45) ..."
+   }
+  },
+  {
+   "articulo": "324",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "325",
+   "estado": "divergente",
+   "similitud": 0.0991,
+   "corpus": "Artículo 325 Con el fin de garantizar la ejecución de planes y programas de desarrollo integral y la prestación oportuna y eficiente de los servicios a su cargo, dentro de las cond",
+   "fuente": "ARTICULO 325. Artículo modificado por el artículo 1 del Acto Legislativo 2 de 2020. El nuevo texto es el siguiente: Créese la Región Metropolitana Bogotá, Cundinamarca como entidad",
+   "diff": {
+    "corpus": "...Artículo 325 Con el fin de garantizar la ejecución de planes y programas de desa...",
+    "fuente": "...ARTICULO 325. Artículo modificado por el artículo 1 del Acto Legislativo 2 de 2020. El ..."
+   }
+  },
+  {
+   "articulo": "326",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "327",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "328",
+   "estado": "divergente",
+   "similitud": 0.3592,
+   "corpus": "Artículo 328 El Distrito Turístico y Cultural de Cartagena de Indias, el Distrito Turístico, Cultural e histórico de Santa Marta y Barranquilla conservarán su régimen y carácter, y",
+   "fuente": "ARTICULO 328. Artículo modificado por el artículo 2 del Acto Legislativo 2 de 2018. El nuevo texto es el siguiente: El Distrito Turístico y Cultural de Cartagena de Indias, el Dist",
+   "diff": {
+    "corpus": "...Artículo 328 El Distrito Turístico y Cultural de Cartagena de Indias, el...",
+    "fuente": "...ARTICULO 328. Artículo modificado por el artículo 2 del Acto Legislativo 2 de 2018. El nuevo texto es el siguiente: El Distrito Turístico y Cultural de Cartagena de Indias, el..."
+   }
+  },
+  {
+   "articulo": "329",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "330",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "331",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "332",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "333",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "334",
+   "estado": "divergente",
+   "similitud": 0.0177,
+   "corpus": "Artículo 334 Protección del medio ambiente, Derecho a un estándar razonable de vida La dirección general de la economía estará a cargo del Estado. Este intervendrá, por mandato de ",
+   "fuente": "ARTICULO 334. Artículo modificado por el artículo 1o. del Acto Legislativo 3 de 2011. El nuevo texto es el siguiente: La dirección general de la economía estará a cargo del Estado.",
+   "diff": {
+    "corpus": "...Artículo 334 Protección del medio ambiente, Derecho a un estándar razonable de vida La dirección general de l...",
+    "fuente": "...ARTICULO 334. Artículo modificado por el artículo 1o. del Acto Legislativo 3 de 2011. El nuevo texto es el siguiente: La dirección general de la economía estará a cargo del Estado. Este intervendrá, por mandato de la ley, en la explotación de los recursos naturales, en el uso del suelo, en la producción, distribución, utilización y consumo de los bienes, y en los servicios públicos y privados, para racionalizar la economía con el fin de conseguir en el plano nacional y territorial, en un marco de sostenibilidad fiscal, el mejoramiento de la calidad de vida de los habitantes, la distribución equitativa de las oportunidades ..."
+   }
+  },
+  {
+   "articulo": "335",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "336",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "337",
+   "estado": "divergente",
+   "similitud": 0.8592,
+   "corpus": "Artículo 337 La ley podrá establecer para las zonas de frontera, terrestres y marítimas, normas especiales en materias económicas y sociales tendientes a promover su desarrollo. Un",
+   "fuente": "ARTICULO 337. La Ley podrá establecer para las zonas de frontera, terrestres y marítimas, normas especiales en materias ecónomicas sic y sociales tendientes a promover su desarroll",
+   "diff": {
+    "corpus": "...Artículo 337 La ley podrá establecer para las zonas de frontera, terrest...",
+    "fuente": "...ARTICULO 337. La Ley podrá establecer para las zonas de frontera, terrest..."
+   }
+  },
+  {
+   "articulo": "338",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "339",
+   "estado": "divergente",
+   "similitud": 0.9562,
+   "corpus": "Artículo 339 Habrá un Plan Nacional de Desarrollo conformado por una parte general y un plan de inversiones de las entidades públicas del orden nacional. En la parte general se señ",
+   "fuente": "ARTICULO 339. Inciso 1o. modificado por el artículo 2o. del Acto Legislativo 3 de 2011. El nuevo texto es siguiente: Habrá un Plan Nacional de Desarrollo conformado por una parte g",
+   "diff": {
+    "corpus": "...Artículo 339 Habrá un Plan Nacional de Desarrollo conformado por una par...",
+    "fuente": "...ARTICULO 339. Inciso 1o. modificado por el artículo 2o. del Acto Legislativo 3 de 2011. El nuevo texto es siguiente: Habrá un Plan Nacional de Desarrollo conformado por una par..."
+   }
+  },
+  {
+   "articulo": "340",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "341",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "342",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "343",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "344",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "345",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "346",
+   "estado": "divergente",
+   "similitud": 0.9122,
+   "corpus": "Artículo 346 El Gobierno formulará anualmente el presupuesto de rentas y ley de apropiaciones, que será presentado al Congreso dentro de los primeros diez días de cada legislatura.",
+   "fuente": "ARTICULO 346. Inciso 1o. modificado por el artículo 3o. del Acto Legislativo 3 de 2011. El nuevo texto es el siguiente: El Gobierno formulará anualmente el presupuesto de rentas y ",
+   "diff": {
+    "corpus": "...Artículo 346 El Gobierno formulará anualmente el presupuesto de rentas y ley...",
+    "fuente": "...ARTICULO 346. Inciso 1o. modificado por el artículo 3o. del Acto Legislativo 3 de 2011. El nuevo texto es el siguiente: El Gobi..."
+   }
+  },
+  {
+   "articulo": "347",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "348",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "349",
+   "estado": "casi",
+   "similitud": 0.9977,
+   "corpus": "Artículo 349 Durante los tres primeros meses de cada legislatura, y estrictamente de acuerdo con las reglas de la Ley Orgánica, el Congreso discutirá y expedirá el Presupuesto Gene",
+   "fuente": "ARTICULO 349.Durante los tres primeros meses de cada legislatura, y estrictamente de acuerdo con las reglas de la Ley Orgánica, el Congreso discutirá y expedirá el Presupuesto Gene",
+   "diff": {
+    "corpus": "...Artículo 349 Durante los tres primeros meses de cada legislatura, y estri...",
+    "fuente": "...ARTICULO 349.Durante los tres primeros meses de cada legislatura, y estri..."
+   }
+  },
+  {
+   "articulo": "350",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "351",
+   "estado": "casi",
+   "similitud": 0.9994,
+   "corpus": "Artículo 351 El Congreso no podrá aumentar ninguna de las partidas del presupuesto de gastos propuestas por el Gobierno, ni incluir una nueva, sino con la aceptación escrita del mi",
+   "fuente": "ARTICULO 351. El Congreso no podrá aumentar ninguna de las partidas del presupuesto de gastos propuestas por el Gobierno, ni incluir una nueva, sino con la aceptación escrita del m",
+   "diff": {
+    "corpus": "...Artículo 351 El Congreso no podrá aumentar ninguna de las partidas del p...",
+    "fuente": "...ARTICULO 351. El Congreso no podrá aumentar ninguna de las partidas del p..."
+   }
+  },
+  {
+   "articulo": "352",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "353",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "354",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "355",
+   "estado": "casi",
+   "similitud": 0.9984,
+   "corpus": "Artículo 355 Ninguna de las ramas u órganos del poder público podrá decretar auxilios o donaciones en favor de personas naturales o jurídicas de derecho privado. El Gobierno, en lo",
+   "fuente": "ARTICULO 355.Ninguna de las ramas u órganos del poder público podrá decretar auxilios o donaciones en favor de personas naturales o jurídicas de derecho privado. El Gobierno, en lo",
+   "diff": {
+    "corpus": "...Artículo 355 Ninguna de las ramas u órganos del poder público podrá decre...",
+    "fuente": "...ARTICULO 355.Ninguna de las ramas u órganos del poder público podrá decre..."
+   }
+  },
+  {
+   "articulo": "356",
+   "estado": "divergente",
+   "similitud": 0.0293,
+   "corpus": "Artículo 356 Salvo lo dispuesto por la Constitución, la ley, a iniciativa del Gobierno, fijará los servicios a cargo de la Nación y de los Departamentos, Distritos, y Municipios. P",
+   "fuente": "ARTICULO 356. Artículo modificado por el artículo 1 del Acto Legislativo 3 de 2024. El nuevo texto es el siguiente: Salvo lo dispuesto por la Constitución, la ley orgánica, a inici",
+   "diff": {
+    "corpus": "...Artículo 356 Salvo lo dispuesto por la Constitución, la ley, a iniciativa de...",
+    "fuente": "...ARTICULO 356. Artículo modificado por el artículo 1 del Acto Legislativo 3 de 2024. El nuevo texto es el siguiente: Salvo lo dispu..."
+   }
+  },
+  {
+   "articulo": "357",
+   "estado": "divergente",
+   "similitud": 0.0645,
+   "corpus": "Artículo 357 El Sistema General de Participaciones de los Departamentos, Distritos y Municipios se incrementará anualmente en un porcentaje igual al promedio de la variación porcen",
+   "fuente": "ARTICULO 357. Artículo modificado por el artículo 2 del Acto Legislativo 3 de 2024. El nuevo texto es el siguiente: El Sistema General de Participaciones crecerá como porcentaje de",
+   "diff": {
+    "corpus": "...Artículo 357 El Sistema General de Participaciones de los Departamentos, Distritos y Municipios se incrementará anualmente en un po...",
+    "fuente": "...ARTICULO 357. Artículo modificado por el artículo 2 del Acto Legislativo 3 de 2024. El nuevo texto es el siguiente: El Sistema General de Participaciones crecerá como porcentaje de los Ingresos Corrientes de la Nación hasta llegar a ser el 39,5 por ciento de estos. Para este fin, se tendrá un periodo ..."
+   }
+  },
+  {
+   "articulo": "358",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "359",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "360",
+   "estado": "divergente",
+   "similitud": 0.9218,
+   "corpus": "Artículo 360 La explotación de un recurso natural no renovable causará, a favor del Estado, una contraprestación económica a título de regalía, sin perjuicio de cualquier otro dere",
+   "fuente": "ARTICULO 360. Artículo modificado por el artículo 1 del Acto Legislativo 5 de 2011. El nuevo texto es el siguiente: La explotación de un recurso natural no renovable causará, a fav",
+   "diff": {
+    "corpus": "...Artículo 360 La explotación de un recurso natural no renovable causará, ...",
+    "fuente": "...ARTICULO 360. Artículo modificado por el artículo 1 del Acto Legislativo 5 de 2011. El nuevo texto es el siguiente: La explotación de un recurso natural no renovable causará, ..."
+   }
+  },
+  {
+   "articulo": "361",
+   "estado": "divergente",
+   "similitud": 0.0286,
+   "corpus": "Artículo 361 Los ingresos del Sistema General de Regalías se destinarán al financiamiento de proyectos para el desarrollo social, económico y ambiental de las entidades territorial",
+   "fuente": "ARTICULO 361. Artículo modificado por el artículo 1 del Acto Legislativo 5 de 2019. El nuevo texto es el siguiente: Los ingresos corrientes del Sistema General de Regalías se desti",
+   "diff": {
+    "corpus": "...Artículo 361 Los ingresos del Sistema General de Regalías se destinarán al financiamiento de proyectos para el desarrollo social, econó...",
+    "fuente": "...ARTICULO 361. Artículo modificado por el artículo 1 del Acto Legislativo 5 de 2019. El ..."
+   }
+  },
+  {
+   "articulo": "362",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "363",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "364",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "365",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "366",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "367",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "368",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "369",
+   "estado": "divergente",
+   "similitud": 0.9596,
+   "corpus": "Artículo 369 La ley determinará los deberes y derechos de los usuarios, el régimen de su protección y sus formas de participación en la gestión y fiscalización de las empresas esta",
+   "fuente": "ARTICULO 369. La ley determinará los deberes y derechos de los usuarios, el régimen de su protección y sus formas de participación en la gestión y fiscalización de las empresas est",
+   "diff": {
+    "corpus": "...Artículo 369 La ley determinará los deberes y derechos de los usuarios, ...",
+    "fuente": "...ARTICULO 369. La ley determinará los deberes y derechos de los usuarios, ..."
+   }
+  },
+  {
+   "articulo": "370",
+   "estado": "divergente",
+   "similitud": 0.9779,
+   "corpus": "Artículo 370 Corresponde al Presidente de la República señalar, con sujeción a la ley, las políticas generales de administración y control de eficiencia de los servicios públicos d",
+   "fuente": "ARTICULO 370.Corresponde al Presidente de la República señalar, con sujeción a la ley, las políticas generales de administración y control de eficiencia de los servicios públicos d",
+   "diff": {
+    "corpus": "...Artículo 370 Corresponde al Presidente de la República señalar, con sujec...",
+    "fuente": "...ARTICULO 370.Corresponde al Presidente de la República señalar, con sujec..."
+   }
+  },
+  {
+   "articulo": "371",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "372",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "373",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "374",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "375",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "376",
+   "estado": "divergente",
+   "similitud": 0.9652,
+   "corpus": "Artículo 376 Mediante ley aprobada por mayoría de los miembros de una y otra Cámara, el Congreso podrá disponer que el pueblo en votación popular decida si convoca una Asamblea Con",
+   "fuente": "ARTICULO 376.Mediante ley aprobada por mayoría de los miembros de una y otra Cámara, el Congreso podrá disponer que el pueblo en votación popular decida si convoca una Asamblea Con",
+   "diff": {
+    "corpus": "...Artículo 376 Mediante ley aprobada por mayoría de los miembros de una y o...",
+    "fuente": "...ARTICULO 376.Mediante ley aprobada por mayoría de los miembros de una y o..."
+   }
+  },
+  {
+   "articulo": "377",
+   "estado": "divergente",
+   "similitud": 0.9572,
+   "corpus": "Artículo 377 Deberán someterse a referendo las reformas constitucionales aprobadas por el Congreso, cuando se refieran a los derechos reconocidos en el Capítulo 1 del Título II y a",
+   "fuente": "ARTICULO 377.Deberán someterse a referendo las reformas constitucionales aprobadas por el Congreso, cuando se refieran a los derechos reconocidos en el Capítulo 1 del Título II y a",
+   "diff": {
+    "corpus": "...Artículo 377 Deberán someterse a referendo las reformas constitucionales ...",
+    "fuente": "...ARTICULO 377.Deberán someterse a referendo las reformas constitucionales ..."
+   }
+  },
+  {
+   "articulo": "378",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "379",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "380",
+   "estado": "ausente_en_fuente"
+  }
+ ],
+ "sin_contraparte": [
+  "5o.El",
+  "6o.Los",
+  "7o.El",
+  "9o.Las",
+  "10.El",
+  "11.El",
+  "12.Nadie",
+  "14.Toda",
+  "16.Todas",
+  "17.Se",
+  "18.Se",
+  "19.Se",
+  "20.Se",
+  "21.Se",
+  "22.La",
+  "22A",
+  "23.Toda",
+  "24.Todo",
+  "25.El",
+  "26.Toda",
+  "27.El",
+  "28.Toda",
+  "29.El",
+  "30.Quien",
+  "31.Toda",
+  "32.El",
+  "33.Nadie",
+  "34.Se",
+  "36.Se",
+  "37.Toda",
+  "38.Se",
+  "39.Los",
+  "40.Todo",
+  "41.En",
+  "42.La",
+  "43.La",
+  "44.Son",
+  "45.El",
+  "46.El",
+  "48.La",
+  "50.Todo",
+  "51.Todos",
+  "53.El",
+  "54.Es",
+  "55.Se",
+  "56.Se",
+  "57.La",
+  "59.En",
+  "60.El",
+  "61.El",
+  "62.El",
+  "63.Los",
+  "66.Las",
+  "67.La",
+  "68.Los",
+  "69.Se",
+  "70.El",
+  "71.La",
+  "72.El",
+  "73.La",
+  "74.Todas",
+  "75.El",
+  "78.La",
+  "79.Todas",
+  "80.El",
+  "81.Queda",
+  "82.Es",
+  "83.Las",
+  "84.Cuando",
+  "85.Son",
+  "86.Toda",
+  "87.Toda",
+  "88.La",
+  "89.Además",
+  "90.El",
+  "91.En",
+  "93.Los",
+  "94.La",
+  "95.La",
+  "97.El",
+  "98.La",
+  "99.La",
+  "100.Los",
+  "101.Los",
+  "102.El",
+  "103.Son",
+  "104.El",
+  "105.Previo",
+  "110.Se",
+  "113.Son",
+  "115.El",
+  "117.El",
+  "118.El",
+  "119.La",
+  "123.Son",
+  "124.La",
+  "125.Los",
+  "127.Los",
+  "128.Nadie",
+  "129.Los",
+  "132.Los",
+  "135.Son",
+  "136.Se",
+  "139.Las",
+  "140.El",
+  "143.El",
+  "145.El",
+  "146.En",
+  "147.Las",
+  "148.Las",
+  "149.Toda",
+  "151.El",
+  "153.La",
+  "154.Las",
+  "155.Podrán",
+  "156.La",
+  "157.Ningún",
+  "158.Todo",
+  "159.El",
+  "160.Entre",
+  "162.Los",
+  "163.El",
+  "164.El",
+  "166.El",
+  "167.El",
+  "168.Si",
+  "169.El",
+  "170.Un",
+  "172.Para",
+  "173.Son",
+  "177.Para",
+  "178.La",
+  "178A",
+  "179.No",
+  "180.Los",
+  "181.Las",
+  "182.Los",
+  "184.La",
+  "185.Los",
+  "187.La",
+  "188.El",
+  "190.El",
+  "192.El",
+  "194.Son",
+  "195.El",
+  "196.El",
+  "198.El",
+  "199.El",
+  "202.El",
+  "203.A",
+  "205.En",
+  "206.El",
+  "207.Para",
+  "208.Los",
+  "209.La",
+  "210.Las",
+  "211.La",
+  "212.El",
+  "213.En",
+  "214.Los",
+  "215.Cuando",
+  "216.La",
+  "218.La",
+  "219.La",
+  "220.Los",
+  "222.La",
+  "223.Sólo",
+  "224.Los",
+  "225.La",
+  "226.El",
+  "227.El",
+  "228.La",
+  "229.Se",
+  "230.Los",
+  "232.Para",
+  "236.El",
+  "237.Son",
+  "238.La",
+  "238A",
+  "239.La",
+  "240.No",
+  "241.A",
+  "242.Los",
+  "243.Los",
+  "244.La",
+  "245.El",
+  "246.Las",
+  "247.La",
+  "249.La",
+  "252.Aun",
+  "253.La",
+  "255.Para",
+  "257A",
+  "260.Los",
+  "270.La",
+  "273.A",
+  "275.El",
+  "276.El",
+  "277.El",
+  "278.El",
+  "279.La",
+  "280.Los",
+  "282.El",
+  "284.Salvo",
+  "285.Fuera",
+  "286.Son",
+  "287.Las",
+  "288.La",
+  "289.Por",
+  "291.Los",
+  "292.Los",
+  "293.Sin",
+  "294.La",
+  "295.Las",
+  "296.Para",
+  "297.El",
+  "298.Los",
+  "301.La",
+  "302.La",
+  "304.El",
+  "305.Son",
+  "306.Dos",
+  "307.La",
+  "308.La",
+  "310.El",
+  "311.Al",
+  "315.Son",
+  "316.En",
+  "317.Solo",
+  "319.Cuando",
+  "320.La",
+  "321.Las",
+  "324.Las",
+  "326.Los",
+  "327.En",
+  "329.La",
+  "330.De",
+  "331.Créase",
+  "332.El",
+  "333.La",
+  "335.Las",
+  "336.Ningún",
+  "338.En",
+  "340.Habrá",
+  "341.El",
+  "342.La",
+  "343.La",
+  "344.Los",
+  "345.En",
+  "347.El",
+  "348.Si",
+  "350.La",
+  "352.Además",
+  "353.Los",
+  "354.Habrá",
+  "358.Para",
+  "359.No",
+  "362.Los",
+  "363.El",
+  "364.El",
+  "365.Los",
+  "366.El",
+  "367.La",
+  "368.La",
+  "371.El",
+  "372.La",
+  "373.El",
+  "374.La",
+  "375.Podrán",
+  "378.Por",
+  "379.Los",
+  "380.Queda"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 14,
+  "divergentes": 367
+ }
+}

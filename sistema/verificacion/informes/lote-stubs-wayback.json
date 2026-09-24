@@ -1,0 +1,60 @@
+{
+ "lote": "stubs-wayback",
+ "archivos": [
+  {
+   "archivo": "RESOLUCION-CRA-151-2001.md",
+   "snapshot_fecha": "20231210145031",
+   "captura": "sistema/verificacion/fuentes/RESOLUCION-CRA-151-2001.wayback.txt (>300KB: 616KB, completa via html_a_texto.py; marcado demasiado_grande no aplica — sin pegar)",
+   "articulos": 414,
+   "exactos": 281,
+   "casi": 18,
+   "divergentes": 115,
+   "primer_divergente": "art 1.2.1.1 | corpus: ...tos de Conexión y por los Cargos por Expansión del Sistema. sección transversal es conocida y, de esta forma, estable | fuente: ...tos de Conexión y por los Cargos por Expansión del Sistema. Bienes aportados bajo condición a personas prestadoras de",
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "RESOLUCION-CRA-351-2005.md",
+   "snapshot_fecha": "20231210140546",
+   "captura": "sistema/verificacion/fuentes/RESOLUCION-CRA-351-2005.wayback.txt",
+   "articulos": 22,
+   "exactos": 7,
+   "casi": 8,
+   "divergentes": 7,
+   "primer_divergente": "art 9 | corpus: ...o no se realice conjuntamente con el servicio de acueducto: Donde: CCSA J: Costo de comercialización ajustado. N FC:  | fuente: ...o no se realice conjuntamente con el servicio de acueducto: ! Donde: CCSAJ: Costo de comercialización ajustado. NFC: ",
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "RESOLUCION-CRA-720-2015.md",
+   "snapshot_fecha": "20230923115847",
+   "captura": "sistema/verificacion/fuentes/RESOLUCION-CRA-720-2015.wayback.txt",
+   "articulos": 78,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 78,
+   "primer_divergente": "art 1 | corpus: ...ARTÍCULO 1. Ámbito de Aplicación. La presente resolución establece el régimen tarifario y la ... | fuente: ...ARTÍCULO 1. ÁMBITO DE APLICACIÓN. Artículo integrado y unificado en el artículo 5.3.2.1.1 de la Resolución CRA 943 de",
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "RESOLUCION-CRA-778-2016.md",
+   "snapshot_fecha": "20220811191035",
+   "captura": "sistema/verificacion/fuentes/RESOLUCION-CRA-778-2016.wayback.txt",
+   "articulos": 15,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 15,
+   "primer_divergente": "art 1 | corpus: ...ARTÍCULO 1. Objeto y ámbito de aplicación. La presente resolución tien... | fuente: ...ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. Artículo integrado y unific...",
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "Resolucion_CRA_0779_2016.md",
+   "snapshot_fecha": "20240614094825",
+   "captura": "sistema/verificacion/fuentes/Resolucion_CRA_0779_2016.wayback.txt",
+   "articulos": 4,
+   "exactos": 2,
+   "casi": 1,
+   "divergentes": 1,
+   "primer_divergente": "art 4 | corpus: ... LÓPEZ. El Director Ejecutivo, JULIO CÉSAR AGUILERA WILCHES.... | fuente: ... LÓPEZ. El Director Ejecutivo, JULIO CÉSAR AGUILERA WILCHES. ! ISBN 978-628-95145-0-6 Comisión de Regulación de Agua ",
+   "veredicto": "NO_VERIFICADA"
+  }
+ ]
+}

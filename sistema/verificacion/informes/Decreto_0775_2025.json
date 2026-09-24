@@ -1,0 +1,175 @@
+{
+ "corpus": "Decreto_0775_2025.md",
+ "fuente": "sistema/verificacion/fuentes/decreto_0775_2025.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 33,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9978,
+   "corpus": "ARTÍCULO 1o. Modifíquese los numerales 2.1, 2.5, 2.5.2, 2.5.3, 2.5.4, 2.5.5 y 2.6 del artículo 2.1.1.1.1.1.2 del Capítulo 1, del Título 1, de la Parte 1, del Libro 2 del Decreto nú",
+   "fuente": "ARTÍCULO 1o. Modifíquese los numerales 2.1, 2.5, 2.5.2, 2.5.3, 2.5.4, 2.5.5 y 2.6 del artículo 2.1.1.1.1.1.2 del Capítulo 1, del Título 1, de la Parte 1, del Libro 2 del Decreto nú",
+   "diff": {
+    "corpus": "...bro 2 del Decreto número 1077 de 2015, el cual, quedará así: Notas del Editor \" Artículo 2.1.1.1.1.1.2. Definiciones y alcances. Para los...",
+    "fuente": "...bro 2 del Decreto número 1077 de 2015, el cual, quedará así: \" Artículo 2.1.1.1.1.1.2. Definiciones y alcances. Para los..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3",
+   "estado": "casi",
+   "similitud": 0.9968,
+   "corpus": "ARTÍCULO 3o. Modifíquese el parágrafo 4 del artículo 2.1.1.1.1.1.8 del Capítulo 1, del Título 1, de la Parte 1, del Libro 2 del Decreto número 1077 de 2015, el cual, quedará así: N",
+   "fuente": "ARTÍCULO 3o. Modifíquese el parágrafo 4 del artículo 2.1.1.1.1.1.8 del Capítulo 1, del Título 1, de la Parte 1, del Libro 2 del Decreto número 1077 de 2015, el cual, quedará así: \"",
+   "diff": {
+    "corpus": "...bro 2 del Decreto número 1077 de 2015, el cual, quedará así: Notas del Editor \"Artículo 2.1.1.1.1.1.8. Valor del Subsidio Familiar de Viv...",
+    "fuente": "...bro 2 del Decreto número 1077 de 2015, el cual, quedará así: \"Artículo 2.1.1.1.1.1.8. Valor del Subsidio Familiar de Viv..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "6",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "7",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "8",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "9",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "10",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "11",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "12",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "13",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "14",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "15",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "16",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "17",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "18",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "19",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "20",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "21",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "22",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "23",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "24",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "25",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "26",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "27",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "28",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "29",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "30",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.1.1.9.13",
+   "estado": "casi",
+   "similitud": 0.9985,
+   "corpus": "Artículo 2.1.1.9.13. Complementariedad y concurrencia. El subsidio familiar de vivienda de que trata el presente capítulo se podrá aplicar de manera complementaria con el asignado ",
+   "fuente": "Artículo 2.1.1.9.13. Complementariedad y concurrencia. El subsidio familiar de vivienda de que trata el presente capítulo se podrá aplicar de manera complementaria con el asignado ",
+   "diff": {
+    "corpus": "...on el subsidio otorgado por Cajas de Compensación Familiar: 2. Cuando se apliquen complementariamente los subsidios de l...",
+    "fuente": "...on el subsidio otorgado por Cajas de Compensación Familiar: ! 2. Cuando se apliquen complementariamente los subsidios de l..."
+   }
+  },
+  {
+   "articulo": "31",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "32",
+   "estado": "divergente",
+   "similitud": 0.5786,
+   "corpus": "ARTÍCULO 32. VIGENCIA. El presente decreto rige a partir del día siguiente a la fecha de su publicación, modifica los artículos 2.1.1.1.1.1.2, 2.1.1.1.1.1.7, 2.1.1.1.1.1.8, 2.1.1.1",
+   "fuente": "ARTÍCULO 32. VIGENCIA. El presente decreto rige a partir del día siguiente a la fecha de su publicación, modifica los artículos 2.1.1.1.1.1.2, 2.1.1.1.1.1.7, 2.1.1.1.1.1.8, 2.1.1.1",
+   "diff": {
+    "corpus": "...dila. El Ministro de Trabajo, Antonio Eresmid Sanguino Páez....",
+    "fuente": "...dila. El Ministro de Trabajo, Antonio Eresmid Sanguino Páez. ! Saneamiento Básico - CRA ISBN 978-628-95145-2-0 Comisión de Regulación de Agua Potable y Saneamiento Básico CRA - DRA © 2021 - 2025 Comisión de Regulación de Agua Potable y Saneamiento Básico Carrera 12 Nº 97-80, Piso 2, Bogotá D.C., Colombia 4:00 pm. Teléfono desde Colombia (60+1) 487 3820 notificacionesjudiciales@cra.gov.co ! ! ! ! ! Menú del pie Políticas Mapa del sitio ! !logo co !gov.co ! ! ! !InicioInicio MÓDULOS !Opción documentos Resolución Única de AAA !Opción documentos Resoluciones expedidas por la CRA !Opción documentos Circulares CRA !Opción documentos Conceptos jurídicos seleccionados !Opción documentos Compilación de normativa y jurisprudencia !Opción documentos Decreto Único Reglamentario - DUR !Opción documentos Contribuciones especiales !Opción documentos Resoluciones administrativas de carácter general !Opción documentos Proyectos de resolución CRA !Opción documentos Actualizaciones mensuales !Opción documentos Herramientas de búsqueda !Opción documentos Navegación temática !Opción documentos Normativa COVID 19 × !Contraste Contraste !Reducir Reducir letra !Aumentar Aumentar letra !Restaurar Retornar valores !Ir arriba Ir arriba !Ir abajo Ir abajo !Inicio documento !Fin documento Fin documento..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 29,
+  "casi": 3,
+  "divergentes": 1
+ }
+}

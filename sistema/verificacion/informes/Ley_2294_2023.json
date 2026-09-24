@@ -1,0 +1,1350 @@
+{
+ "corpus": "Ley_2294_2023.md",
+ "fuente": "sistema/verificacion/fuentes/Ley_2294_2023.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 176,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.9574,
+   "corpus": "ARTÍCULO 1o. OBJETIVOS DEL PLAN NACIONAL DE DESARROLLO. El Plan Nacional de Desarrollo 2022-2026 “Colombia Potencia Mundial de la Vida”, que se expide por medio de la presente ley,",
+   "fuente": "ARTÍCULO 1o. OBJETIVOS DEL PLAN NACIONAL DE DESARROLLO. El Plan Nacional de Desarrollo 2022-2026 \"Colombia Potencia Mundial de la Vida\", que se expide por medio de la presente ley,",
+   "diff": {
+    "corpus": "...NAL DE DESARROLLO. El Plan Nacional de Desarrollo 2022-2026 “Colombia Potencia Mundial de la Vida”, que se expide por medio de la presente ley, tiene como obj...",
+    "fuente": "...NAL DE DESARROLLO. El Plan Nacional de Desarrollo 2022-2026 \"Colombia Potencia Mundial de la Vida\", que se expide por medio de la presente ley, tiene como obj..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "casi",
+   "similitud": 0.9993,
+   "corpus": "Artículo 2o. Metodologías de Estratificación . Todos los alcaldes deberán realizar y adoptar sus estratificaciones empleando las metodologías que determine el Departamento Administ",
+   "fuente": "Artículo 2o. Metodologías de Estratificación. Todos los alcaldes deberán realizar y adoptar sus estratificaciones empleando las metodologías que determine el Departamento Administr",
+   "diff": {
+    "corpus": "...Artículo 2o. Metodologías de Estratificación . Todos los alcaldes deberán realizar y adoptar sus estratif...",
+    "fuente": "...Artículo 2o. Metodologías de Estratificación. Todos los alcaldes deberán realizar y adoptar sus estratif..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "6",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "7",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.339,
+   "corpus": "ARTÍCULO 8o. PLAN DE ACCIÓN PARA LA ACELERACIÓN DE PAGO DE INDEMNIZACIONES ADMINISTRATIVAS. El Gobierno Nacional implementará en el término de hasta 18 meses, contados a partir de ",
+   "fuente": "ARTÍCULO 8o. PLAN DE ACCIÓN PARA LA ACELERACIÓN DE PAGO DE INDEMNIZACIONES ADMINISTRATIVAS. El Gobierno Nacional implementará en el término de hasta 18 meses, contados a partir de ",
+   "diff": {
+    "corpus": "...del conflicto armado, garantizando el uso de lenguaje claro. PARÁGRAFO 5o. El Programa Nacional de Sustitución de Cultivos de Uso Ilícitos (PNIS) será cumplido de acuerdo con los objetivos fijados en el Acuerdo Final de Paz, de manera concertada y descentralizada. Los beneficiarios podrán renegociar la operación de proyectos productivos de ciclo corto y de ciclo largo, por una sola vez y de forma concertada con el Gobierno Nacional. teniendo en cuenta los beneficios que ya les fueron otorgados en el marco del Programa Nacional Integral de Sustitución de Cultivos de Uso Ilícito (PNIS). Las modificaciones a los acuerdos de sustitución serán aprobadas mediante acto administrativo emitido por la Dirección de Sustitución de Cultivos de Uso Ilícito, o quien haga sus veces. PARÁGRAFO. Los hallazgos y resultados obtenidos de la aplicación del mecanismo no judicial de contribución a la verdad y la memoria histórica, deberán difundirse a través de estrategias y herramientas pedagógicas y desde una perspectiva de reparación y no de repetición. PARÁGRAFO 1o. El Gobierno Nacional podrá presentar proyectos de inversión susceptibles de ser financiados con los recursos de la Asignación para la Paz, siempre que cumplan la finalidad de coadyuvar la implementación de los planes, programas y proyectos establecidos en los planes de desarrollo con enfoque territorial (PDET) y serán aprobados por el OCAD PAZ. PARÁGRAFO 2o. El Gobierno Nacional podrá establecer lineamientos y criterios que tengan por objeto evitar la dispersión de recursos y la concentración de los mismos en algunas entidades territoriales. PARÁGRAFO 3o. Corresponderá a la ART certificar la concordancia de los proyectos que se sometan a consideración del OCAD PAZ con las iniciativas de los Planes de Acción para la Transformación Regional PATR o con los PDET municipales, lo cual constituirá requisito de viabilización de estos proyectos. PARÁGRAFO TRANSITORIO. Con el fin de asegurar la distribución equitativa de los recursos de la asignación para la Paz, el OCAD PAZ solo definirá proyectos de inversión con cargo a esta asignación una vez se cuente con el plan de convocatorias a que se refiere el presente artículo. El Departamento Nacional de Planeación (DNP) y la Agencia de Renovación del Territorio (ART) o quien haga sus veces, tendrán un plazo de 3 meses a partir de la entrada en vigencia de la presente ley, para elaborar el plan de convocatorias a que se refiere el presente artículo. El presente artículo entrará en vigencia una vez el DNP y la ART o quien haga sus veces, elabore el plan de convocatorias enunciado en el inciso anterior. PARÁGRAFO 1o. El Ministerio de Hacienda y Crédito Público realizará las apropiaciones correspondientes para que la Agencia para la Reincorporación y la Normalización (ARN) pueda otorgar los beneficios creados en el presente artículo, de acuerdo con las disponibilidades presupuestales incluidas en el Marco de Gasto de Mediano Plazo y en el Marco Fiscal de Mediano Plazo. PARÁGRAFO 2o. No habrá lugar al reconocimiento de los beneficios de Capital Semilla y Apoyo de Sostenimiento establecidos en el presente artículo a quienes se encuentren en las siguientes situaciones: 1. Cuando el miembro de la Fuerza Pública incumpla los compromisos adquiridos ante el Sistema Integral de Verdad Justicia Reparación y No Repetición. 2. Cuando se profiera sentencia ejecutoriada por delitos dolosos cometidos con posterioridad a la aceptación ante la Jurisdicción Especial para la Paz. 3. Cuando el miembro retirado de la Fuerza Pública incumpla los compromisos pactados con la ARN al ingresar al proceso o durante su permanencia en el mismo. PARÁGRAFO 3o. El Gobierno Nacional a través de la Agencia para la Reincorporación y la Normalización (ARN), o la entidad que haga sus veces, establecerá los requisitos de acceso a los beneficios mencionados y definirá los beneficios sociales a que puede acceder esta población....",
+    "fuente": "...del conflicto armado, garantizando el uso de lenguaje claro...."
+   }
+  },
+  {
+   "articulo": "19",
+   "estado": "divergente",
+   "similitud": 0.4836,
+   "corpus": "ARTÍCULO 19. SISTEMA NACIONAL DE REINCORPORACIÓN. Créese el Sistema Nacional de Reincorporación (SNR) como instancia de articulación y coordinación de la oferta interinstitucional ",
+   "fuente": "ARTÍCULO 19. SISTEMA NACIONAL DE REINCORPORACIÓN. Créese el Sistema Nacional de Reincorporación (SNR) como instancia de articulación y coordinación de la oferta interinstitucional ",
+   "diff": {
+    "corpus": "...asto de Mediano Plazo y en el Marco Fiscal de Mediano Plazo. PARÁGRAFO 9o. Cuando se presenten circunstancias de fuerza mayor, debidamente probadas, que conlleven al incumplimiento definitivo de la entrega de la obra totalmente construida y en disposición para su uso y/o funcionamiento, dentro de los términos inicialmente previstos y/o de los correspondientes a las ampliaciones, la entidad nacional competente expedirá el acto administrativo debidamente motivado que así lo declare, previa comprobación del hecho que configura la circunstancia de fuerza mayor que implica el incumplimiento definitivo y lo notificará al contribuyente y a la fiduciaria, conforme con lo previsto en la Ley 1437 de 2011. En este evento, la sociedad fiduciaria liquidará el patrimonio autónomo, certificará los gastos de administración de la fiducia, y los valores ejecutados e incorporados atendiendo el informe del interventor y aprobación de la entidad nacional competente, consignará a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) los saldos producto de la liquidación del patrimonio autónomo, mediante recibo de pago con cargo al periodo del impuesto de renta al que el contribuyente vinculó al mecanismo, y consignará los rendimientos financieros propiedad de la Nación a la Dirección General de Crédito Público y Tesoro Nacional. Igualmente, el contribuyente procederá a entregar en forma inmediata a la entidad nacional competente la obra realizada hasta dicho momento sin tener derecho a reembolso alguno. El valor así trasladado será informado a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), anexando la respectiva constancia del traslado de los rendimientos financieros propiedad de la Nación a la Dirección General de Crédito Público y Tesoro Nacional, el acto administrativo en firme que declara el incumplimiento definitivo y la constancia de recibo de la obra. La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) extinguirá la obligación tributaria imputando a la obligación principal, los valores consignados por la fiduciaria, y el valor certificado por la fiduciaria como ejecutado incluyendo los gastos de administración de la fiducia. El Gobierno Nacional reglamentará la presente disposición....",
+    "fuente": "...asto de Mediano Plazo y en el Marco Fiscal de Mediano Plazo...."
+   }
+  },
+  {
+   "articulo": "22",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "97",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "23",
+   "estado": "divergente",
+   "similitud": 0.9561,
+   "corpus": "ARTÍCULO 23. INSTRUMENTOS PARA LA PAZ TOTAL. El Gobierno Nacional, por medio de la Oficina del Alto Comisionado para la Paz y en concurrencia con las entidades correspondientes par",
+   "fuente": "ARTÍCULO 23. INSTRUMENTOS PARA LA PAZ TOTAL. El Gobierno Nacional, por medio de la Oficina del Alto Comisionado para la Paz y en concurrencia con las entidades correspondientes par",
+   "diff": {
+    "corpus": "...e Gasto de Mediano Plazo y al Marco Fiscal de Mediano Plazo. PARÁGRAFO. El cumplimiento de lo dispuesto en este artículo estará sujeto al Marco Fiscal de Mediano Plazo, el Marco de Gasto de Mediano Plazo del correspondiente sector y a las disponibilidades presupuestales. CAPÍTULO II. ORDENAMIENTO DEL TERRITORIO ALREDEDOR DEL AGUA Y JUSTICIA AMBIENTAL. SECCIÓN I. JUSTICIA AMBIENTAL Y GOBERNANZA INCLUSIVA....",
+    "fuente": "...e Gasto de Mediano Plazo y al Marco Fiscal de Mediano Plazo...."
+   }
+  },
+  {
+   "articulo": "25",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "42",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "26",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "9",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "30",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "50",
+   "estado": "divergente",
+   "similitud": 0.6514,
+   "corpus": "Artículo 50. Destinación de los recursos para la financiación de proyectos de inversión en ambiente y desarrollo sostenible. (...) a) Los recursos de la Asignación para la Inversió",
+   "fuente": "Artículo 50. Destinación de los recursos para la financiación de proyectos de inversión en ambiente y desarrollo sostenible. (...) a) Los recursos de la Asignación para la Inversió",
+   "diff": {
+    "corpus": "...ollo Sostenible y las Autoridades Ambientales Urbanas. (...) PARÁGRAFO 1o. El Gobierno Nacional definirá la organización y el funcionamiento del Sistema Nacional de Protección y Bienestar Animal en un término de un (1) año contado a partir de la entrada en vigencia de la presente ley, bajo el liderazgo del Ministerio de Agricultura y Desarrollo Rural y el Ministerio de Ambiente y Desarrollo Sostenible. PARÁGRAFO 2o. El Ministerio de Agricultura y Desarrollo Rural liderará y establecerá las disposiciones sobre la protección y bienestar de los animales de producción y transporte utilizados en el sector agropecuario, pesquero y acuícola. El Ministerio de Ambiente y Desarrollo Sostenible liderará las acciones para los otros grupos de animales silvestres, en articulación con las demás entidades competentes. PARÁGRAFO 3o. El Sinapyba no podrá limitar, ni prohibir, ni suspender las actividades que se realicen con animales, que sean producto de la tradición, la costumbre y las prácticas culturales de nuestros pueblos, así como tampoco aquellas que se encuentran permitidas por la legislación vigente en el momento de sanción de la presente ley. SECCIÓN II. EL AGUA Y LAS PERSONAS, EN EL CENTRO DEL ORDENAMIENTO TERRITORIAL....",
+    "fuente": "...ollo Sostenible y las Autoridades Ambientales Urbanas. (...)..."
+   }
+  },
+  {
+   "articulo": "32",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "10",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "36",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "37",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "38",
+   "estado": "divergente",
+   "similitud": 0.7231,
+   "corpus": "ARTÍCULO 38. ESTRATEGIA NACIONAL DE COORDINACIÓN PARA LA ADAPTACIÓN AL CAMBIO CLIMÁTICO DE LOS ASENTAMIENTOS Y REASENTAMIENTOS HUMANOS. La Unidad Nacional de Gestión del Riesgo de ",
+   "fuente": "ARTÍCULO 38. ESTRATEGIA NACIONAL DE COORDINACIÓN PARA LA ADAPTACIÓN AL CAMBIO CLIMÁTICO DE LOS ASENTAMIENTOS Y REASENTAMIENTOS HUMANOS. La Unidad Nacional de Gestión del Riesgo de ",
+   "diff": {
+    "corpus": "...tomar en cuenta la información del catastro multipropósito. Notas del Editor PARÁGRAFO 3o. La Unidad Nacional para la Gestión del Riesgo ...",
+    "fuente": "...tomar en cuenta la información del catastro multipropósito. PARÁGRAFO 3o. La Unidad Nacional para la Gestión del Riesgo ..."
+   }
+  },
+  {
+   "articulo": "43",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "79",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "44",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "49",
+   "estado": "divergente",
+   "similitud": 0.6585,
+   "corpus": "ARTÍCULO 49. REDUCCIÓN DE REZAGO DE AVALÚOS CATASTRALES A NIVEL NACIONAL MEDIANTE ACTUALIZACIÓN MASIVA DE LOS VALORES REZAGADOS. El Instituto Geográfico Agustín Codazzi (IGAC) adop",
+   "fuente": "ARTÍCULO 49. REDUCCIÓN DE REZAGO DE AVALÚOS CATASTRALES A NIVEL NACIONAL MEDIANTE ACTUALIZACIÓN MASIVA DE LOS VALORES REZAGADOS. El Instituto Geográfico Agustín Codazzi (IGAC) adop",
+   "diff": {
+    "corpus": "...encia de Notariado y Registro en ejercicio de sus funciones. PARÁGRAFO. En lo que respecta a los territorios y territorialidades indígenas y a los territorios colectivos de comunidades negras, afrocolombianas, raizales, palenqueras y campesinas las atribuciones conferidas a la ANT en este artículo solo aplicarán para los procesos referidos a la dotación, formalización, seguridad jurídica y protección de los mismos. PARÁGRAFO. El Gobierno reglamentará la organización y funcionamiento del Sistema Nacional de Reforma Agraria y Desarrollo Rural, garantizando la participación activa de los pueblos indígenas, comunidades negras, afrocolombianas, raizales, palenqueras, campesinas y la consulta previa libre e informada cuando proceda. PARÁGRAFO 1o. El Gobierno Nacional, a través del Departamento Nacional de Planeación, reglamentará el Sistema de Administración del Territorio en coordinación con los diferentes niveles de Gobierno y la ciudadanía, en un término de dieciocho (18) meses desde la entrada en vigencia de esta ley. El Departamento Administrativo de la Función Pública apoyará en la definición del esquema de gobernanza del Sistema, y determinará los criterios de seguimiento y evaluación de los procesos de entrega en el marco de la oferta institucional de las entidades que compondrán el mismo, para la simplificación de los instrumentos de planificación del territorio. Las asignaciones que realice el Gobierno Nacional a este Sistema atenderán lo dispuesto en el Marco de Gasto de Mediano Plazo y de acuerdo con las disponibilidades presupuestales. PARÁGRAFO 2o. El instrumento normativo que formaliza el SAT en lo que respecta a los pueblos indígenas y a comunidades negras, afrocolombianas raizales y palenqueras, será objeto de consulta previa en el marco de la jurisprudencia nacional sobre la materia. PARÁGRAFO 3o. Después del primer año de funcionamiento del SAT, se presentará un informe anual al Congreso de la República donde se mostrará el balance de su implementación. PARÁGRAFO. La información física catastral obtenida, en el marco de la gestión catastral con enfoque multipropósito, tendrá efectos registrales. SECCIÓN VI. TENENCIA EN LAS ZONAS RURAL, URBANA Y SUBURBANA FORMALIZADA, ADJUDICADA Y REGULARIZADA....",
+    "fuente": "...encia de Notariado y Registro en ejercicio de sus funciones...."
+   }
+  },
+  {
+   "articulo": "55",
+   "estado": "divergente",
+   "similitud": 0.9244,
+   "corpus": "ARTÍCULO 55. CONCESIÓN FORESTAL CAMPESINA. Modo por medio del cual se otorga el uso del recurso forestal y de la biodiversidad en los baldíos de la Nación, ubicados al interior de ",
+   "fuente": "ARTÍCULO 55. CONCESIÓN FORESTAL CAMPESINA. Modo por medio del cual se otorga el uso del recurso forestal y de la biodiversidad en los baldíos de la Nación, ubicados al interior de ",
+   "diff": {
+    "corpus": "...n cuenta su autonomía territorial y sus derechos colectivos. PARÁGRAFO. Cuando los jueces de la República ordenen a la Unidad Administrativa Especial de Gestión de Restitución de Tierras realizar caracterización socioeconómica, esta se realizará por una sola vez a los habitantes del predio, conforme la metodología que defina dicha Unidad. PARÁGRAFO 1o. Los sujetos de acceso a tierra a título parcialmente gratuito, para efectos de cubrir la contraprestación de que trata el inciso primero de este artículo, podrán acceder a la línea de crédito especial de tierras establecida en el artículo 35 del presente Decreto Ley. PARÁGRAFO 2o. Para efectos de la formalización de predios privados, la contraprestación a cargo del sujeto de formalización corresponderá al valor de los gastos notariales, procesales o cualquier otro en que se incurra para la efectiva formalización. PARÁGRAFO 3o. Para efectos de las garantías de los derechos territoriales de los pueblos y comunidades indígenas, no procederá ningún tipo de contraprestación en relación con los respectivos procedimientos....",
+    "fuente": "...n cuenta su autonomía territorial y sus derechos colectivos...."
+   }
+  },
+  {
+   "articulo": "60",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "61",
+   "estado": "divergente",
+   "similitud": 0.4369,
+   "corpus": "ARTÍCULO 61. MECANISMOS PARA FACILITAR Y DINAMIZAR LOS PROCESOS DE COMPRA DE TIERRAS POR OFERTA VOLUNTARIA. En el marco del procedimiento de compra por oferta voluntaria de tierras",
+   "fuente": "ARTÍCULO 61. MECANISMOS PARA FACILITAR Y DINAMIZAR LOS PROCESOS DE COMPRA DE TIERRAS POR OFERTA VOLUNTARIA. En el marco del procedimiento de compra por oferta voluntaria de tierras",
+   "diff": {
+    "corpus": "...siguientes medidas: 1. Saneamiento para la compra de tierras . En los eventos en que la ANT, en el marco de sus funciones...",
+    "fuente": "...siguientes medidas: 1. Saneamiento para la compra de tierras. En los eventos en que la ANT, en el marco de sus funciones..."
+   }
+  },
+  {
+   "articulo": "65",
+   "estado": "divergente",
+   "similitud": 0.718,
+   "corpus": "ARTÍCULO 65. SISTEMA DE TRANSFERENCIAS. Créese el Sistema de Transferencias bajo la dirección y coordinación del Departamento Administrativo para la Prosperidad Social como el conj",
+   "fuente": "ARTÍCULO 65. SISTEMA DE TRANSFERENCIAS. Créese el Sistema de Transferencias bajo la dirección y coordinación del Departamento Administrativo para la Prosperidad Social como el conj",
+   "diff": {
+    "corpus": "...er la movilidad social y fortalecer el trabajo comunitario. Notas del Editor PARÁGRAFO 1o. El Departamento Administrativo para la Prospe...",
+    "fuente": "...er la movilidad social y fortalecer el trabajo comunitario. 2. Transferencia en especie. Consiste en la entrega de recursos en especie para garantizar el derecho humano a la alimentación de la población en situación de pobreza y pobreza extrema, con enfoque de derechos, y con participación de las economías popular y comunitarias, y la agricultura campesina, familiar y comunitaria. PARÁGRAFO 1o. El Departamento Administrativo para la Prospe..."
+   }
+  },
+  {
+   "articulo": "74",
+   "estado": "divergente",
+   "similitud": 0.3249,
+   "corpus": "ARTÍCULO 74. CONSEJO NACIONAL DE LA ECONOMÍA POPULAR. Créese el Consejo Nacional de la Economía Popular, como organismo asesor y consultivo del Gobierno Nacional, integrado por ent",
+   "fuente": "ARTÍCULO 74. CONSEJO NACIONAL DE LA ECONOMÍA POPULAR. Créese el Consejo Nacional de la Economía Popular, como organismo asesor y consultivo del Gobierno Nacional, integrado por ent",
+   "diff": {
+    "corpus": "... funcionamiento del Consejo Nacional de la Economía Popular. PARÁGRAFO 1o. El Gobierno Nacional promoverá la formulación e implementación participativa de Políticas Públicas de trabajo digno y decente en los niveles departamentales y municipales, así como regionales y demás niveles pertinentes con su componente de evaluación. Para ello, prestará asistencia legal, técnica y tecnológica. Estas políticas incorporarán un enfoque específico de trabajo decente para las zonas rurales que contribuya a la implementación de los Acuerdos de Paz, y el cierre de brechas de género. PARÁGRAFO 2o. Ver Notas de Vigencia. Inexequibilidad diferida de la Ley 2281 de 2023 El Gobierno Nacional, en cabeza del Ministerio de Igualdad y Equidad en articulación con el Ministerio de Trabajo garantizarán la correcta articulación de la Política Pública de Trabajo Digno y Decente, con la implementación de la Política Pública de Vendedores Informales. PARÁGRAFO 1o. El Ministerio de Igualdad y Equidad formulará el plan de accesibilidad teniendo en cuenta insumos y estudios técnicos de universidades y centros de investigación. PARÁGRAFO 2o. El Plan Nacional de Accesibilidad deberá contemplar, entre otros los siguientes aspectos. a) Accesibilidad en las instituciones prestadoras de los servicios de salud e información para las personas con discapacidad en medios, modos y formatos accesibles sobre la oferta de servicios, cuidados de la salud y los derechos de los usuarios. b) Accesibilidad en las instituciones prestadoras de los servicios educativos y material didáctico e información para los estudiantes con discapacidad en medios, modos y formatos accesibles. c) Accesibilidad y ajustes razonables que permitan el óptimo desempeño de las personas con discapacidad en los espacios laborales tanto en el sector público como en el sector privado. d) Accesibilidad a los bienes de interés cultural, al patrimonio y servicios culturales. e) Acceso a la tecnología que permita la autonomía tanto en la educación; el trabajo, la información, el desplazamiento, el transporte y la vida cotidiana. f) Acceso al espacio público. g) Acceso al transporte terrestre, fluvial, marítimo y aéreo. h) Acceso a las medidas adoptadas para el manejo de emergencias y mitigación de riesgos. i) Acceso a páginas web de entidades del Estado. j) Accesibilidad a las instalaciones judiciales y la información del sector judicial. k) Acceso a las instalaciones y programas recreativos. l) Accesibilidad a las instalaciones y programas relacionados con el deporte, la recreación y el aprovechamiento del tiempo libre. m) Accesibilidad de los niños, niñas y adolescentes, en los entornos de desarrollo contemplados en la Política de Primera Infancia y en la Política Nacional de Infancia y Adolescencia. PARÁGRAFO 3o. Para efectos de mejorar las condiciones de accesibilidad al espacio público, en los proyectos de infraestructura, se autoriza las entidades territoriales a definir acciones y realizar inversiones en áreas de antejardín y culatas afectas al uso público de manera que se intervenga de paramento a paramento, conforme a lo dispuesto en Planes de ordenamiento territorial adoptado por la respectiva entidad territorial. Notas del Editor PARÁGRAFO. Para cumplir lo dispuesto en el presente artículo, la persona beneficiaria deberá permanecer en la empresa por un tiempo mínimo de 6 meses. PARÁGRAFO. La formación profesional integral del SENA, regida por la Ley 119 de 1994 y las normas reglamentarias continuará con sus programas y podrá ser reconocida en los programas del Subsistema de Formación para el Trabajo....",
+    "fuente": "... funcionamiento del Consejo Nacional de la Economía Popular...."
+   }
+  },
+  {
+   "articulo": "82",
+   "estado": "divergente",
+   "similitud": 0.9431,
+   "corpus": "ARTÍCULO 82. FORMALIZACIÓN DEL EMPLEO PÚBLICO EN EQUIDAD, CON CRITERIOS MERITOCRÁTICOS Y VOCACIÓN DE PERMANENCIA. El Gobierno Nacional, a través del Departamento Administrativo de ",
+   "fuente": "ARTÍCULO 82. FORMALIZACIÓN DEL EMPLEO PÚBLICO EN EQUIDAD, CON CRITERIOS MERITOCRÁTICOS Y VOCACIÓN DE PERMANENCIA. El Gobierno Nacional, a través del Departamento Administrativo de ",
+   "diff": {
+    "corpus": "...n del empleo público, y promoviendo la eficiencia del gasto. PARÁGRAFO. El Gobierno Nacional reglamentará la aplicación del procedimiento objeto del presente artículo. PARÁGRAFO. Para realizar las elecciones deben disponerse mecanismos presenciales y virtuales para que cada miembro utilice el canal de su preferencia....",
+    "fuente": "...n del empleo público, y promoviendo la eficiencia del gasto...."
+   }
+  },
+  {
+   "articulo": "88",
+   "estado": "divergente",
+   "similitud": 0.6126,
+   "corpus": "ARTÍCULO 88. INSTRUMENTOS PARA LA INCLUSIÓN FINANCIERA Y CREDITICIA DE LA ECONOMÍA POPULAR, LA PROMOCIÓN DE LAS FINANZAS VERDES, LA INNOVACIÓN Y EL EMPRENDIMIENTO. El Ministerio de",
+   "fuente": "ARTÍCULO 88. INSTRUMENTOS PARA LA INCLUSIÓN FINANCIERA Y CREDITICIA DE LA ECONOMÍA POPULAR, LA PROMOCIÓN DE LAS FINANZAS VERDES, LA INNOVACIÓN Y EL EMPRENDIMIENTO. El Ministerio de",
+   "diff": {
+    "corpus": "...ciamiento formal como una manera de eliminar el flagelo del “gota a gota” o paga diario, generar conciencia de no autoexc...",
+    "fuente": "...ciamiento formal como una manera de eliminar el flagelo del \"gota a gota\" o paga diario, generar conciencia de no autoexc..."
+   }
+  },
+  {
+   "articulo": "91",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "92",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "227",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "93",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "325",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "94",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "95",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "96",
+   "estado": "divergente",
+   "similitud": 0.4502,
+   "corpus": "ARTÍCULO 96. FORTALECIMIENTO PATRIMONIAL DE LAS EMPRESAS DEL ORDEN NACIONAL. El Ministerio de Hacienda y Crédito Público podrá capitalizar con recursos públicos en efectivo o media",
+   "fuente": "ARTÍCULO 96. FORTALECIMIENTO PATRIMONIAL DE LAS EMPRESAS DEL ORDEN NACIONAL. El Ministerio de Hacienda y Crédito Público podrá capitalizar con recursos públicos en efectivo o media",
+   "diff": {
+    "corpus": "...d presupuestal del Ministerio de Hacienda y Crédito Público. PARÁGRAFO. El Gobierno Nacional, a través del Departamento Nacional de Planeación y el Ministerio de Comercio, Industria y Turismo, fijará la tarifa de inscripción y renovación en el Registro Único de Proponentes utilizando criterios de progresividad y facilitando la participación de las Mipymes en el sistema de compras públicas. PARÁGRAFO 1o. La Junta Directiva del Banco de la República establecerá un período de transición para el cumplimiento de la regulación expedida para aquellas entidades administradoras de los sistemas de pago de bajo valor inmediatos, sus participantes y las entidades vigiladas por la Superintendencia Financiera de Colombia y la Superintendencia de la Economía Solidaria que se encuentren prestando servicios relacionados con las órdenes de pagos y/o transferencias de fondos inmediatas. PARÁGRAFO 2o. El Banco de la República podrá crear y administrar un sistema de pago de bajo valor inmediato y proveer los servicios y componentes tecnológicos que considere necesarios para la interoperabilidad de los sistemas de pago de bajo valor inmediatos, entre ellos, la administración de un directorio, bases de datos y demás elementos funcionales....",
+    "fuente": "...d presupuestal del Ministerio de Hacienda y Crédito Público...."
+   }
+  },
+  {
+   "articulo": "105",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "106",
+   "estado": "divergente",
+   "similitud": 0.7607,
+   "corpus": "ARTÍCULO 106. Ver Notas de Vigencia. Inexequibilidad diferida de la Ley 2281 de 2023 De conformidad con el artículo 6o de la Ley 2281 de 2023, el Ministerio de Igualdad y Equidad e",
+   "fuente": "ARTÍCULO 106. Ver Notas del Editor De conformidad con el artículo 6o de la Ley 2281 de 2023, el Ministerio de Igualdad y Equidad en el marco del Sistema Nacional de Cuidado, creará",
+   "diff": {
+    "corpus": "...ARTÍCULO 106. Ver Notas de Vigencia. Inexequibilidad diferida de la Ley 2281 de 2023 De conformidad con el artículo 6o de...",
+    "fuente": "...ARTÍCULO 106. Ver Notas del Editor De conformidad con el artículo 6o de la Ley 2281 de 2023, el Ministerio de Igualdad y Equidad..."
+   }
+  },
+  {
+   "articulo": "110",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "111",
+   "estado": "divergente",
+   "similitud": 0.7044,
+   "corpus": "ARTÍCULO 111. PARTICIPACIÓN DEMOCRÁTICA PARA LA RECONSTRUCCIÓN DEL TEJIDO SOCIAL Y LA PLANIFICACIÓN PARTICIPATIVA DEL DESARROLLO. El Ministerio del Interior liderará, ampliará y fo",
+   "fuente": "ARTÍCULO 111. PARTICIPACIÓN DEMOCRÁTICA PARA LA RECONSTRUCCIÓN DEL TEJIDO SOCIAL Y LA PLANIFICACIÓN PARTICIPATIVA DEL DESARROLLO. El Ministerio del Interior liderará, ampliará y fo",
+   "diff": {
+    "corpus": "...vida para garantizar la participación inclusiva e incidente. PARÁGRAFO 1o. Los miembros del nivel ejecutivo y patrulleros de policía tendrán equidad en el régimen prestacional en cuanto a las primas, subsidios y bonificaciones que se haya reconocido o creado al nivel de oficiales de la Policía Nacional. La base del pago prestacional será calculada de acuerdo con su asignación salarial. También tendrán equidad en las partidas computables para la asignación de retiro que le son reconocidas, asignadas o creadas para el nivel de Oficiales. PARÁGRAFO 2o. La aplicación de esa disposición se hará de manera gradual, por lo que el Gobierno Nacional reglamentará la materia para dar cumplimiento a lo establecido en el presente artículo. PARÁGRAFO 3o. El Ministerio de Hacienda y Crédito Público realizará las apropiaciones correspondientes para dar cumplimiento a lo expuesto en el presente artículo, de acuerdo con las disponibilidades presupuestales incluidas en el Marco de Gasto de Mediano Plazo y en el Marco Fiscal de Mediano Plazo....",
+    "fuente": "...vida para garantizar la participación inclusiva e incidente...."
+   }
+  },
+  {
+   "articulo": "114",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "24",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "115",
+   "estado": "divergente",
+   "similitud": 0.6855,
+   "corpus": "ARTÍCULO 115. GRATUIDAD EN LOS PROCESOS DE INCORPORACIÓN DE HOMBRES Y MUJERES COMO SOLDADOS PROFESIONALES INFANTES DE MARINA PROFESIONAL Y PATRULLEROS Y PATRULLERAS DE POLICÍA, PAR",
+   "fuente": "ARTÍCULO 115. GRATUIDAD EN LOS PROCESOS DE INCORPORACIÓN DE HOMBRES Y MUJERES COMO SOLDADOS PROFESIONALES INFANTES DE MARINA PROFESIONAL Y PATRULLEROS Y PATRULLERAS DE POLICÍA, PAR",
+   "diff": {
+    "corpus": "...sujetos al Marco Fiscal de Mediano Plazo del sector Defensa. PARÁGRAFO 1o. Las entidades territoriales propenderán por la creación de metas y líneas estratégicas en los planes de desarrollo locales y regionales para la prevención y atención integral de las violencias y actos de discriminación a la población con orientaciones sexuales e identidades de género diversas, además de mesas de trabajo interinstitucionales para el abordaje de violencias y actos discriminatorios en contra de personas con orientaciones sexuales e identidades de género diversas. PARÁGRAFO TRANSITORIO. El Ministerio de Igualdad y Equidad reglamentará el funcionamiento del mecanismo para la prevención y atención integral de violencias y actos de discriminación a población LGBTIQ+. PARÁGRAFO. Los recursos del Fondo deberán destinarse a los siguientes objetivos: 1. Financiar, total o parcialmente, planes, programas, actividades especiales en proyectos de posicionamiento y liderazgo deportivo y fomento y desarrollo del deporte. 2. Fomentar y apoyar, a través de medidas específicas de financiamiento, el deporte escolar. 3. Apoyar financieramente la investigación en ciencias del deporte. 4. Mantenimiento, mejoramiento y/o construcción de escenarios deportivos en el territorio nacional. 5. Fomento de proyectos que tiendan a la promoción del acceso al deporte, aplicando medidas diferenciales en favor de personas en situación de discapacidad y demás personas objeto de especial protección constitucional....",
+    "fuente": "...sujetos al Marco Fiscal de Mediano Plazo del sector Defensa...."
+   }
+  },
+  {
+   "articulo": "119",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "120",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "121",
+   "estado": "divergente",
+   "similitud": 0.6727,
+   "corpus": "ARTÍCULO 121. El Ministerio de Educación Nacional dando cumplimiento a la ley general de educación y normas relacionadas deberá cumplir la obligación de promover las cátedras oblig",
+   "fuente": "ARTÍCULO 121. El Ministerio de Educación Nacional dando cumplimiento a la ley general de educación y normas relacionadas deberá cumplir la obligación de promover las cátedras oblig",
+   "diff": {
+    "corpus": "...nalmente, se promoverá la educación en artes y programación. PARÁGRAFO. Con el fin de avanzar en la financiación adecuada de las Instituciones de Educación Superior públicas, el Ministerio de Educación Nacional priorizará en la reforma la actualización de los artículos 86 y 87 de la Ley 30 de 1992, para atender los fines misionales de estas instituciones, con criterios de cierre de brechas y atención de las regiones....",
+    "fuente": "...nalmente, se promoverá la educación en artes y programación...."
+   }
+  },
+  {
+   "articulo": "123",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "27",
+   "estado": "divergente",
+   "similitud": 0.6217,
+   "corpus": "Artículo 27. Acceso a la educación superior. Con el objeto de avanzar en el acceso a la educación superior, se implementará la política de Estado de gratuidad en la matrícula para ",
+   "fuente": "Artículo 27. Acceso a la educación superior. Con el objeto de avanzar en el acceso a la educación superior, se implementará la política de Estado de gratuidad en la matrícula para ",
+   "diff": {
+    "corpus": "... de Mediano Plazo y el Marco de Gasto de Mediano Plazo. PARÁGRAFO 1o. El Ministerio de Educación Nacional realizará una est...",
+    "fuente": "... de Mediano Plazo y el Marco de Gasto de Mediano Plazo. Para ello, el Ministerio de Educación Nacional transferirá anualmente a las Instituciones de Educación Superior ..."
+   }
+  },
+  {
+   "articulo": "125",
+   "estado": "divergente",
+   "similitud": 0.7511,
+   "corpus": "ARTÍCULO 125. ESTRATEGIAS DE RESIGNIFICACIÓN DEL TIEMPO ESCOLAR PARA EL DESARROLLO INTEGRAL Y LA PROTECCIÓN DE TRAYECTORIAS DE VIDA Y EDUCATIVAS. El Gobierno Nacional, fortalecerá ",
+   "fuente": "ARTÍCULO 125. ESTRATEGIAS DE RESIGNIFICACIÓN DEL TIEMPO ESCOLAR PARA EL DESARROLLO INTEGRAL Y LA PROTECCIÓN DE TRAYECTORIAS DE VIDA Y EDUCATIVAS. El Gobierno Nacional, fortalecerá ",
+   "diff": {
+    "corpus": "...ampliación de la jornada escolar para la formación integral. PARÁGRAFO. Será obligación de la entidad financiera antes de efectuar la transferencia de los saldos de las cuentas corrientes o de ahorros inactivas informar al consumidor financiero de la existencia de la cuenta inactiva, por todos los medios de contacto que reposen en la entidad financiera. PARÁGRAFO 1o. Los contribuyentes de fondos y/o alianzas administrativas con el Icetex podrán implementar el mecanismo de compensación de que trata este artículo mediante autorización expedida por la junta administradora respectiva. PARÁGRAFO 2o. La compensación contemplada en este artículo aplicará únicamente para la tasa de interés de liquidación de los créditos educativos y estará supeditada a la disponibilidad de recursos dispuestos para estos fines....",
+    "fuente": "...ampliación de la jornada escolar para la formación integral...."
+   }
+  },
+  {
+   "articulo": "128",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "129",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "130",
+   "estado": "divergente",
+   "similitud": 0.837,
+   "corpus": "ARTÍCULO 130. FOMENTO DE LA INCLUSIÓN EN LA EDUCACIÓN SUPERIOR DE PERSONAS CON DISCAPACIDAD. El Ministerio de Educación Nacional, en coordinación con el Ministerio de Igualdad y Eq",
+   "fuente": "ARTÍCULO 130. FOMENTO DE LA INCLUSIÓN EN LA EDUCACIÓN SUPERIOR DE PERSONAS CON DISCAPACIDAD. El Ministerio de Educación Nacional, en coordinación con el Ministerio de Igualdad y Eq",
+   "diff": {
+    "corpus": "...écnica para accesibilidad total en la infraestructura nueva. PARÁGRAFO. Los estudiantes de pregrados diferentes a las licenciaturas podrán vincularse a este programa de voluntariado, con el fin de aportar en diferentes acciones de fortalecimiento del sistema educativo tales como apoyo administrativo, financiero, campañas de salud mental, entre otros aspectos relevantes....",
+    "fuente": "...écnica para accesibilidad total en la infraestructura nueva...."
+   }
+  },
+  {
+   "articulo": "132",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "133",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "18",
+   "estado": "divergente",
+   "similitud": 0.867,
+   "corpus": "Artículo 18. Línea de Inversión Territorial . Como parte de la Política de Turismo créase la Línea de Inversión Territorial en la cual, para cada vigencia anual, deben presentarse ",
+   "fuente": "Artículo 18. Línea de Inversión Territorial. Como parte de la Política de Turismo créase la Línea de Inversión Territorial en la cual, para cada vigencia anual, deben presentarse l",
+   "diff": {
+    "corpus": "...Artículo 18. Línea de Inversión Territorial . Como parte de la Política de Turismo créase la Línea de In...",
+    "fuente": "...Artículo 18. Línea de Inversión Territorial. Como parte de la Política de Turismo créase la Línea de In..."
+   }
+  },
+  {
+   "articulo": "139",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "140",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "13",
+   "estado": "divergente",
+   "similitud": 0.5605,
+   "corpus": "Artículo 13. Contraprestación económica por la utilización del espectro radioeléctrico. (...) La contraprestación económica de que trata este artículo deberá pagarse por el respect",
+   "fuente": "Artículo 13. Contraprestación económica por la utilización del espectro radioeléctrico. (...) La contraprestación económica de que trata este artículo deberá pagarse por el respect",
+   "diff": {
+    "corpus": "...de Tecnologías de la Información y las Comunicaciones. (...) PARÁGRAFO 1o. El Ministerio de las Tecnologías de la Información y las Comunicaciones entregará un reporte anual a más tardar el 1o de abril a las Comisiones Sextas de Senado y Cámara del Congreso de la República evaluando el avance de proyectos, planes y programas implementados en materia de cobertura y calidad de conectividad digital en el país. El anterior documento deberá incluir indicadores de evaluación del avance de las licitaciones adelantadas por el ministerio, los prestadores del servicio, el número de nuevas conexiones y las acciones de mejoramiento de la infraestructura instalada, así como los proyectos de obligaciones de hacer habilitados a la fecha del reporte. PARÁGRAFO 2o. Los equipos que se obtengan en el Programa “Computadores para Educar” o el que haga sus veces, podrán ser entregados directamente a menores de edad en zonas urbanas, rurales, apartadas y de difícil acceso. El Ministerio de Tecnologías de la Información y las Comunicaciones en un término de seis (6) meses, reglamentará las condiciones bajo las cuales se podrá efectuar dicha entrega. PARÁGRAFO. Los concesionarios de los servicios públicos comunitarios de radiodifusión sonora deberán acatar en todo momento las disposiciones referentes a la propaganda electoral y al acceso a medios de comunicación social de que trata la Ley 1475 de 2011, así como lo establecido en la Ley 130 de 1994 acerca de la publicidad, la propaganda y las encuestas políticas. El incumplimiento de estas disposiciones por parte del concesionario será causal de la pérdida del permiso del uso del espectro radioeléctrico. PARÁGRAFO TRANSITORIO. La Comisión de Regulación de Comunicaciones en un plazo máximo de un año a la entrada en vigencia de esta ley adelantará un proyecto regulatorio en el que se definirá la procedencia de exceptuar del régimen de libertad de tarifas, y de mantener o eliminar el esquema de regulación de tarifa mínima a los servicios de mensajería expresa que tengan como fin la distribución de objetos postales masivos y su interconexión entre operadores. De concluirse que debe mantenerse el esquema de regulación de tarifa mínima, las actividades que efectúen los operadores de mensajería expresa diferentes a la recepción, clasificación, transporte y entrega de los objetos postales, se considerarán servicios adicionales, los cuales no podrán ser incluidos en el cálculo de la tarifa mínima....",
+    "fuente": "...de Tecnologías de la Información y las Comunicaciones. (...)..."
+   }
+  },
+  {
+   "articulo": "147",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "193",
+   "estado": "divergente",
+   "similitud": 0.8654,
+   "corpus": "Artículo 193. Aspectos específicos relativos a la póliza. (...) 5. Facultades del Gobierno Nacional. Con el fin de garantizar la permanente operatividad y sostenibilidad del Seguro",
+   "fuente": "Artículo 193. Aspectos específicos relativos a la póliza. (...) 5. Facultades del Gobierno Nacional. Con el fin de garantizar la permanente operatividad y sostenibilidad del Seguro",
+   "diff": {
+    "corpus": "...cer rangos diferenciales según la naturaleza de los riesgos. PARÁGRAFO. Los medios alternos serán definidos por el Ministerio de Vivienda, Ciudad y Territorio para efectos de esta reglamentación. SECCIÓN IV. PROTECCIÓN DE LA VIDA Y CONTROL INSTITUCIONAL DE LOS TERRITORIOS PARA LA CONSTRUCCIÓN DE UNA SOCIEDAD SEGURA Y SIN VIOLENCIAS....",
+    "fuente": "...cer rangos diferenciales según la naturaleza de los riesgos...."
+   }
+  },
+  {
+   "articulo": "149",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "150",
+   "estado": "divergente",
+   "similitud": 0.8403,
+   "corpus": "ARTÍCULO 150. GIRO DIRECTO. La Administradora de los Recursos del Sistema General de Seguridad Social en Salud (ADRES), en nombre de las Entidades Promotoras de Salud (EPS) y demás",
+   "fuente": "ARTÍCULO 150. GIRO DIRECTO. La Administradora de los Recursos del Sistema General de Seguridad Social en Salud (ADRES), en nombre de las Entidades Promotoras de Salud (EPS) y demás",
+   "diff": {
+    "corpus": "...ecnologías en salud, últimos responsables de estos procesos. Parágrafo. La Sociedad Nacional de la Cruz Roja Colombiana podrá destinar los recursos obtenidos de la explotación de los juegos de suerte y azar para financiar los servicios de salud que se atiendan por esa Institución, así como aquellos encaminados al bienestar físico, mental y social de las personas; actividades de promoción de la salud, bienestar social y de prevención de las enfermedades: capacitación del voluntariado en áreas de la salud; acciones de respuesta en salud ante situaciones de urgencia, emergencia y desastres, teniendo en cuenta el sentido universal de solidaridad para con las personas que tengan necesidad de su protección y de su asistencia....",
+    "fuente": "...ecnologías en salud, últimos responsables de estos procesos...."
+   }
+  },
+  {
+   "articulo": "159",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "160",
+   "estado": "divergente",
+   "similitud": 0.4748,
+   "corpus": "ARTÍCULO 160. DEL INSTITUTO DE EVALUACIÓN TECNOLÓGICA EN SALUD (IETS). El Instituto de Evaluación Tecnológica en Salud (IETS), entidad descentralizada indirecta o de segundo grado ",
+   "fuente": "ARTÍCULO 160. DEL INSTITUTO DE EVALUACIÓN TECNOLÓGICA EN SALUD (IETS). El Instituto de Evaluación Tecnológica en Salud (IETS), entidad descentralizada indirecta o de segundo grado ",
+   "diff": {
+    "corpus": "...inar y transferir los recursos necesarios de su presupuesto. PARÁGRAFO. El Ministerio de Salud y Protección Social, el Ministerio de Relaciones Exteriores, el Ministerio de Comercio, Industria y Turismo y el Invima, podrán desarrollar una estrategia diplomática para apoyar el proceso de precalificación de la Organización Mundial de la Salud, de las entidades productoras locales de vacunas. PARÁGRAFO 1o. Mientras no se apruebe un nuevo PMIDS, continuarán vigentes las propuestas de inversión del plan anterior de no haberse concluido. PARÁGRAFO 2o. Los municipios en el marco de sus competencias en prestación de servicios presentarán sus proyectos a los departamentos, que deberán incluirlos en sus Planes de Inversiones de Infraestructura y dotación de la entidad territorial como capítulo independiente. PARÁGRAFO 3o. En todo caso, mientras se consolidan los Planes Maestros de Inversiones en infraestructura y Dotación en Salud (PMIDS), continuarán vigentes los Planes Bienales de inversión de las entidades territoriales....",
+    "fuente": "...inar y transferir los recursos necesarios de su presupuesto...."
+   }
+  },
+  {
+   "articulo": "165",
+   "estado": "divergente",
+   "similitud": 0.1697,
+   "corpus": "ARTÍCULO 165. SISTEMA PROPIO ESPECIAL EN SALUD DE LAS UNIVERSIDADES ESTATALES U OFICIALES. Continuará vigente el sistema propio especial en salud de las universidades estatales u o",
+   "fuente": "ARTÍCULO 165. SISTEMA PROPIO ESPECIAL EN SALUD DE LAS UNIVERSIDADES ESTATALES U OFICIALES. Continuará vigente el sistema propio especial en salud de las universidades estatales u o",
+   "diff": {
+    "corpus": "...aya lugar conformé a lo definido para cada régimen especial. PARÁGRAFO. El Consejo Nacional de Salud Mental deberá rendir un informe anual ante las Comisiones Séptimas Constitucionales del Congreso de la República para lo de su competencia. PARÁGRAFO 1o. La Dirección Nacional de Derecho de Autor fijará y actualizará anualmente las tarifas de los servicios que preste, por cada uno de los hechos generadores de la tasa. Las tarifas se fijarán en Unidades de Valor Tributario (UVT) vigentes y se cobrarán como recuperación de los costos de los servicios prestados por la entidad, paro lo cual se utilizará el siguiente método y sistema, teniendo en cuenta los costos administrativos, financieros, directos e indirectos y de operación: PARÁGRAFO 2o. El Gobierno Nacional podrá revisar periódicamente los criterios para la determinación de las tarifas considerando mejoras en eficiencia que puedan resultar en menores costos en la prestación de los servicios a cargo de la Dirección Nacional de Derecho de Autor. PARÁGRAFO 3o. El sujeto pasivo o usuario deberá acreditar el pago de la tarifa correspondiente al momento de solicitar el servicio a la Dirección Nacional de Derecho de Autor. El recaudo de la tasa de que trata la presente ley estará a cargo de la Dirección Nacional de Derecho de Autor y tendrá una destinación específica encaminada a proteger a los titulares del derecho de autor y de los derechos conexos y garantizar la creatividad productiva que permita contribuir al desarrollo de las industrias culturales y la riqueza del país. PARÁGRAFO 4o. Los recursos serán incorporados en el presupuesto de la Dirección Nacional de Derecho de Autor, de conformidad con lo previsto en la Ley Orgánica de Presupuesto y se destinarán a financiar los objetivos y programas, para el cumplimiento de las políticas gubernamentales en materia de derecho de autor y derechos conexos. PARÁGRAFO. Cuando en el respectivo contrato, convenio o demás instrumentos generados en el marco de las competencias de cada entidad financiadora, se defina que el titular de derechos de propiedad intelectual es quien adelante y ejecute el proyecto, y este realice la explotación de dichos derechos, obteniendo ganancias económicas, deberá: i) acordar con la entidad financiadora un porcentaje de las ganancias obtenidas en la explotación de la Propiedad Intelectual de la cual es titular, caso en el cual deberá ser acordado con la Entidad Financiadora; o ii) donar el porcentaje a favor del Estado, con la posibilidad de acceder al mismo descuento que se causa para inversiones realizadas en investigación, desarrollo tecnológico o innovación conforme a la normativa vigente aplicable. En cualquiera de las opciones, cuando se realice la explotación de dichos derechos, será obligación de quien adelante y ejecute el proyecto, informar a la entidad financiadora dicha situación, para los efectos pertinentes. En todo caso, el Estado deberá invertir los dineros obtenidos en actividades de ciencia, tecnología e innovación. PARÁGRAFO 1o. Los estudios ambientales, técnicos, legales o financieros que sean realizados por parte de las entidades territoriales o quien estas deleguen hacen parte de su autonomía territorial; el Gobierno Nacional, brindará el acompañamiento técnico necesario sin que esto implique su validación o aprobación a los estudios realizados. Los estudios a los que hace alusión este parágrafo deberán realizarse bajo el marco de la estrategia para la implementación de los Objetivos de Desarrollo Sostenible en Colombia. PARÁGRAFO 2o. Para los nuevos proyectos de Sistemas de Transporte Público de Pasajeros, en el caso de las entidades territoriales, de conformidad con lo establecido en el artículo 12 de la Ley 819 de 2003 y el artículo 1o de la Ley 1483 de 2011, se podrá autorizar la asunción de compromisos con cargo a vigencias futuras ordinarias o excepcionales, hasta por el plazo de terminación del proyecto de inversión o hasta por el plazo del compromiso del financiamiento, según corresponda. Para el desarrollo de los nuevos proyectos de infraestructura definidos como de importancia estratégica, el Consejo Superior de Política Fiscal (CONFIS) podrá autorizar las vigencias futuras, hasta por el plazo de terminación del proyecto o hasta por el plazo del compromiso de financiamiento, según corresponda. Para los proyectos a los cuales el CONFIS haya otorgado autorización de vigencias futuras, que cuenten con un convenio de cofinanciación suscrito con la Nación vigente al momento de expedición de la presente ley y que hayan sido contabilizados dentro del límite anual del que trata el artículo 26 de la Ley 1508 de 2012, para efectos de la reprogramación de vigencia futuras, seguirán rigiéndose por los términos y condiciones establecidos en dicho artículo. Sin perjuicio de lo anterior, la no objeción del Ministerio de Hacienda y Crédito Público sobre las condiciones financieras y las cláusulas contractuales de que trata el artículo 26 solo será aplicable para los proyectos de Asociación Público Privadas. El Ministerio de Hacienda y Crédito Público reglamentará lo previsto en el inciso segundo del presente parágrafo. PARÁGRAFO 3o. En el caso de los Sistemas Estratégicos de Transporte Público (SETP), la Nación realizará el pago hasta del 40% del total de los aportes del convenio de cofinanciación, y el porcentaje restante de los aportes se realizará siempre y cuando la Entidad Territorial certifique la entrada en operación de por lo menos el 60% de las rutas del respectivo sistema de transporte público, las cuales deberán contar con el sistema de gestión y control de flota y el sistema de recaudo centralizado en funcionamiento. En el caso de los convenios de cofinanciación que se encuentren en ejecución y ya se haya girado un valor superior, estos giros deberán suspenderse, hasta tanto se cuente con la certificación señalada. PARÁGRAFO 4o. Dentro de los seis (6) meses siguientes a la terminación de la ejecución del convenio de cofinanciación, la entidad territorial debe garantizar la entrada en operación del 100% de las rutas del respectivo sistema estratégico de transporte público de pasajeros. De incumplir este requisito, la entidad territorial deberá reintegrar al Tesoro nacional, el 40% de los recursos de cofinanciación aportados por la Nación. Cumplido el primer año contado a partir de la terminación del convenio de cofinanciación, sin que entre en operación total el sistema de transporte cofinanciado por la Nación, la entidad territorial deberá reintegrar al Tesoro Nacional el 20% de los recursos aportados por la Nación, adicional a los referidos en el inciso anterior y así por cada año de retraso en la entrada en operación, hasta cumplir el 100% del aporte de la Nación. PARÁGRAFO 5o. El Gobierno Nacional hará parte de las juntas y consejos directivos hasta tanto finalice la etapa de construcción o adquisición de los bienes ejecutados con recursos del convenio de cofinanciación lo cual se reflejará con el acta de recibo final de dichos bienes. No obstante, la participación mayoritaria del Gobierno Nacional deberá garantizarse hasta que el sistema de transporte haya iniciado su operación. Lo dispuesto en este parágrafo, aplicará para los nuevos convenios de cofinanciación. PARÁGRAFO 6o. En aquellos sistemas de transporte público que se encuentren en operación y hayan sido cofinanciados previamente por el Gobierno Nacional en algunos de sus componentes o modos, se podrá pactar la cofinanciación de componentes independientes que no hayan sido cofinanciados previamente, mediante adición u otrosí al convenio de cofinanciación o mediante la suscripción de un nuevo convenio para el componente independiente, previo cumplimiento de los requisitos establecidos en el presente artículo, para lo cual el Ministerio de Transporte reglamentará lo pertinente. En ningún caso se podrán destinar recursos adicionales para sistemas de transporte público que no hayan puesto en funcionamiento su Sistema de Recaudo Centralizado (SRC) y su Sistema de Gestión y Control de Flota (SGCF); y cuya cobertura operacional sea inferior al 70% de las rutas del respectivo sistema. PARÁGRAFO 7o. En los convenios de cofinanciación de nuevos proyectos o sistemas se deberá incluir la obligación a cargo de las entidades territoriales de actualizar los catastros de las zonas en donde se ubique el proyecto, de tal manera que se tenga una nivelación entre el avalúo catastral con el comercial; así como la de implementar instrumentos de captura de valor del suelo como contribución por valorización o plusvalía por obra pública. La financiación de la actualización de los catastros de las zonas en donde se ubique el proyecto estará a cargo de las entidades territoriales sin comprometer recursos del convenio de cofinanciación. PARÁGRAFO 8o. Sin perjuicio de lo previsto en el presente artículo, los entes territoriales podrán diseñar estrategias para la implementación de subsidios a las tarifas al usuario de los Sistemas de Transporte Público de Pasajeros para los estudiantes registrados en el Sistema de Identificación de Potenciales Beneficiarios de Programas Sociales, metodología Sisbén IV, que se encuentren clasificados en los niveles de los grupos A y B, que estén estudiando en los siguientes niveles educativos: Básica Secundaria, Media, Técnico, Tecnológico y pregrado Universitario. Los recursos necesarios para financiar o cofinanciar el esquema de subsidios que se establezcan, podrán ser asumidos por la Nación en cuyo caso las entidades territoriales deberán presentar las estrategias ante el Gobierno Nacional para su evaluación y análisis. En todo caso, el mecanismo contemplado en este artículo deberá sujetarse a las disponibilidades presupuestales, al Marco Fiscal de Mediano Plazo y al Marco de Gasto de Mediano Plazo. En ningún caso un estudiante podrá recibir más de un beneficio para transporte, sea este subsidio, incentivo o tarifa estudiantil. PARÁGRAFO 1o. En lo relacionado con el transporte escolar, el Ministerio de Educación Nacional acompañará al Ministerio de Transporte en el proceso de caracterización de las zonas diferenciales para el transporte dando prioridad a zonas rurales o de frontera, con el fin que las autoridades territoriales en el marco de sus competencias puedan garantizar el acceso efectivo de la población al sistema de educación....",
+    "fuente": "...aya lugar conformé a lo definido para cada régimen especial...."
+   }
+  },
+  {
+   "articulo": "177",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "178",
+   "estado": "divergente",
+   "similitud": 0.921,
+   "corpus": "ARTÍCULO 178. EFICACIA DE LAS CAMPAÑAS PARA LA SEGURIDAD VIAL. Con el fin de contribuir a la construcción de una cultura ciudadana en torno a la seguridad vial y de garantizar la e",
+   "fuente": "ARTÍCULO 178. EFICACIA DE LAS CAMPAÑAS PARA LA SEGURIDAD VIAL. Con el fin de contribuir a la construcción de una cultura ciudadana en torno a la seguridad vial y de garantizar la e",
+   "diff": {
+    "corpus": "...e han demostrado efectos positivos de persuasión tales como “estrellas negras”, “inteligencia vial”, “entregue las llaves”, “algunos anima...",
+    "fuente": "...e han demostrado efectos positivos de persuasión tales como \"estrellas negras\", \"inteligencia vial\", \"entregue las llaves\", \"algunos anima..."
+   }
+  },
+  {
+   "articulo": "179",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "52",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "180",
+   "estado": "divergente",
+   "similitud": 0.7368,
+   "corpus": "ARTÍCULO 180. La Agencia Nacional de Seguridad Vial definirá las tecnologías que permitan fortalecer el control, con énfasis en la capacidad de detección de infracciones, para la i",
+   "fuente": "ARTÍCULO 180. La Agencia Nacional de Seguridad Vial definirá las tecnologías que permitan fortalecer el control, con énfasis en la capacidad de detección de infracciones, para la i",
+   "diff": {
+    "corpus": "...l y Vigilancia (SICOV) en un plazo máximo de seis (6) meses. PARÁGRAFO 2o. Las autoridades de tránsito podrán instalar o habilitar sistemas automáticos, semiautomáticos u otros medios tecnológicos, fijos o móviles para la detección de infracciones en la infraestructura de los sistemas de transporte, (i) en los tramos y a la distancia que se requiera en la vía pública, (ii) en las estaciones o (iii) a bordo de la flota vehicular de los sistemas de transporte público, sin que se requiera autorización por parte del Gobierno Nacional. Estos sistemas se orientarán principalmente a controlar la invasión de los carriles exclusivos o preferenciales de los sistemas de transporte público, y en todo caso se deberán señalizar las zonas vigiladas. Los recursos que se obtengan por la imposición de sanciones por parte de las autoridades de tránsito por circular sin autorización por los carriles exclusivos o preferenciales de los sistemas de transporte público se podrán destinar en un porcentaje hasta del 60% del recaudo correspondiente a la entidad territorial, para financiar la operación del respectivo sistema de transporte público....",
+    "fuente": "...l y Vigilancia (SICOV) en un plazo máximo de seis (6) meses...."
+   }
+  },
+  {
+   "articulo": "182",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "183",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "184",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "14",
+   "estado": "divergente",
+   "similitud": 0.8788,
+   "corpus": "Artículo 14. Sostenibilidad de sistemas de transporte. Los sistemas de transporte públicos cofinanciados por la Nación deben ser sostenibles, basados en la calidad de la prestación",
+   "fuente": "Artículo 14. Sostenibilidad de sistemas de transporte. Los sistemas de transporte públicos cofinanciados por la Nación deben ser sostenibles, basados en la calidad de la prestación",
+   "diff": {
+    "corpus": "... pertinentes por parte de la Superintendencia de Transporte. PARÁGRAFO TRANSITORIO. La prohibición establecida en el último inciso del artículo 12 de la Ley 819 de 2003, no aplicará para el presente período de Gobernadores y Alcaldes, siempre que ello sea necesario para la ejecución de proyectos de desarrollo regional con declaratoria de importancia estratégica por el Gobierno Nacional....",
+    "fuente": "... pertinentes por parte de la Superintendencia de Transporte...."
+   }
+  },
+  {
+   "articulo": "186",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "187",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "188",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "64",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "189",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "190",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "84A",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "191",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "196",
+   "estado": "divergente",
+   "similitud": 0.5505,
+   "corpus": "ARTÍCULO 196. El Fondo para la Sustentabilidad y la Resiliencia Climática (Fonsurec) de que trata el artículo 223 de la Ley 1819 de 2016 se denominará en adelante Fondo para la vid",
+   "fuente": "ARTÍCULO 196. El Fondo para la Sustentabilidad y la Resiliencia Climática (Fonsurec) de que trata el artículo 223 de la Ley 1819 de 2016 se denominará en adelante Fondo para la vid",
+   "diff": {
+    "corpus": "...n el inciso primero del artículo 223 de la Ley 1819 de 2016. PARÁGRAFO 1o. Los bienes fiscales que no se ajusten a los presupuestos a que se hace referencia en inciso anterior, podrán enajenarse de manera directa, atendiendo el valor comercial a la fecha de la negociación. De lo contrario, el responsable de su administración y custodia deberá iniciar de inmediato, las acciones judiciales que correspondan, con el ánimo de recuperar los predios. PARÁGRAFO 2o. La cesión de la que trata el presente artículo solo procederá siempre y cuando el cedente o beneficiario asuma y acredite el cumplimiento de las obligaciones fiscales pendientes de pago con la entidad territorial, generadas por el inmueble por concepto de impuesto predial. PARÁGRAFO 3o. Para el caso de los bienes inmuebles fiscales de carácter no financiero del orden municipal o distrital, la respectiva autoridad administrativa podrá suprimir de los registros y cuentas de los contribuyentes de su jurisdicción mediante los procedimientos de saneamiento contable, las deudas por conceptos de tributos a la propiedad raíz respecto al bien cedido en el marco de este artículo. SECCIÓN V. JUSTICIA PARA EL CAMBIO SOCIAL, DEMOCRATIZACIÓN DEL ESTADO Y GARANTÍA DE DERECHOS Y LIBERTADES....",
+    "fuente": "...n el inciso primero del artículo 223 de la Ley 1819 de 2016...."
+   }
+  },
+  {
+   "articulo": "198",
+   "estado": "divergente",
+   "similitud": 0.2162,
+   "corpus": "ARTÍCULO 198. SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS DADAS POR DESAPARECIDAS. Créese el Sistema Nacional de Búsqueda de Personas dadas por Desaparecidas en contexto y en razón de",
+   "fuente": "ARTÍCULO 198. SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS DADAS POR DESAPARECIDAS. Créese el Sistema Nacional de Búsqueda de Personas dadas por Desaparecidas en contexto y en razón de",
+   "diff": {
+    "corpus": "...stema, entre otros aspectos que faciliten su funcionamiento. PARÁGRAFO 1o. En la estrategia se contemplarán los mecanismos para el seguimiento y control de los recursos públicos administrados mediante fondos o patrimonios autónomos. PARÁGRAFO 2o. La Comisión Nacional Ciudadana de Lucha Contra la Corrupción, la Comisión Nacional de Moralización, las Comisiones Regionales de Moralización y las organizaciones de la sociedad civil podrán presentar recomendaciones durante la formulación y evaluación de la Estrategia. PARÁGRAFO 3o. Dentro del año siguiente a la entrada en vigor de la presente ley, el Gobierno Nacional formulará y adoptará la Estrategia Nacional de Lucha Contra la Corrupción. PARÁGRAFO 1o. Con el fin de asegurar el tránsito institucional hacia la estructuración del Sistema Nacional de Justicia Familiar, el parágrafo 1o del artículo 5o y el artículo 44 de la Ley 2126 de 2021, entrarán a regir a partir del 1o de julio de 2024. PARÁGRAFO 2o. Con el fin de asegurar la articulación de justicia propia y justicia familiar, se determinarán protocolos y estrategias concertadas por los dos sistemas logrando una armonización en beneficio especial de los derechos de las niñas, niños y adolescentes. PARÁGRAFO. Se definirá una serie de indicadores de procesos y de resultado que de cuenta de la efectividad del Sistema de Defensa Jurídica del Estado (SDJE). PARÁGRAFO 5o. En todo caso, solo se entenderá como venta masiva, agrupaciones de mínimo 10 inmuebles, dentro de las cuales, además de los inmuebles no sociales, podrán incorporarse inmuebles de sociedades en liquidación tanto extintos como en proceso de extinción que cuenten con aprobación de enajenación temprana o inmuebles de sociedades activas cuyo objeto social sea el de actividades de carácter inmobiliario. PARÁGRAFO 6o. Serán causales de terminación anticipada de los contratos suscritos por el Frisco: i) Condiciones no acordes al mercado, de acuerdo con los estudios técnicos que para el caso determine el administrador en su metodología; ii) La destinación definitiva de los inmuebles de conformidad con lo previsto en esta ley; iii) Los contratos celebrados que no se acojan a las condiciones establecidas en la metodología de administración del Frisco; iv) Cuando el activo sea requerido para desarrollar proyectos sociales cuyos beneficiarios sean población objeto de enfoque diferencial y de especial protección constitucional. El administrador de bienes del Frisco preservará el debido proceso para aplicar la terminación anticipada de contratos respetando en todo momento las cláusulas contractuales vigentes al momento del perfeccionamiento de los contratos. Configurada la causal de terminación anticipada, el administrador del Frisco podrá ejercer las facultades de policía administrativa previstas en esta ley para la recuperación del activo. En todo caso, el administrador del Frisco, no podrá celebrar contratos con el afectado dentro del proceso de extinción de dominio o sus familiares dentro del cuarto grado de consanguinidad, segundo de afinidad y primero civil. (...) PARÁGRAFO 1o. A partir de la fecha en que sea publicada la presente ley, el Consejo Nacional de Estupefacientes no podrá adquirir pasivos con cargo a los recursos determinados en los porcentajes de que trata el presente artículo, salvo que la entidad correspondiente así lo manifieste en la sesión del Consejo Nacional de Estupefacientes en que se tome favorablemente esta determinación. PARÁGRAFO 2o. En virtud de la presente ley se habilita al Ministerio de Hacienda y Crédito Público para efectuar los ajustes presupuestales pertinentes que permitan la asignación de los recursos a favor del nuevo administrador del Frisco. PARÁGRAFO 3o. El administrador del Frisco tendrá la facultad de policía administrativa para la recuperación física de los bienes que se encuentren bajo su administración. Las autoridades de Policía locales, municipales, departamentales y nacionales estarán obligadas a prestar, de manera preferente y sin dilación injustificada, el apoyo que requiera el representante legal o su delegado, para hacer efectiva la administración de los bienes que ingresan al Frisco. En el evento en que el administrador del Frisco ejerza la facultad de policía administrativa a través de las Alcaldías y Secretarías de Gobierno, las mismas deberán proceder a asignar la Inspección de Policía, para ello contarán con un término máximo de quince (15) días contados a partir de la comunicación del administrador. En igual término los inspectores estarán obligados a fijar, practicar y culminar la diligencia. El incumplimiento injustificado de los anteriores términos estará sujeto a la sanción disciplinaria correspondiente. La presentación de oposiciones no suspenderá la práctica de la diligencia. Si durante la diligencia de ejecución de la función de policía administrativa para la recuperación de activos, el administrador del Frisco encuentra bienes muebles y enseres en estado de abandono, procederá a disponer de ellos de manera definitiva, a través de mecanismos como chatarrización, destrucción o donación y se dejará constancia en informe detallado, que se notificará por aviso a quienes se consideren con derecho, del informe se entregará copia al reclamante que alegue su propiedad, quien responderá por los costos y gastos asociados a esta disposición. Cuando se trate de bienes muebles sujetos a registro, se dejarán a disposición de las autoridades de tránsito de la jurisdicción competente quienes se encargarán de su guarda y custodia, el acto de disposición se notificará por aviso al o a los posibles propietarios para que realicen la respectiva reclamación y cancele los costos y gastos de almacenamiento. Ninguna autoridad de tránsito podrá negarse a la recepción y traslado de estos bienes cuando el administrador del Frisco lo solicite. Así mismo, todos los bienes muebles que se encuentren en custodia y administración del Frisco tales como (i) aquellos sobre los cuales se hayan adelantado gestiones para identificar la autoridad judicial o el proceso al que están vinculados, sin que se cuente con dicha información, (ii) aquellos catalogados como salvamentos de siniestros cuyas primas ya han sido pagadas y (iii) aquellos con orden judicial de devolución no reclamados dentro del año siguiente a la comunicación del acto administrativo proferido con dicho fin, podrán ser dispuestos definitivamente siguiendo las reglas dispuestas en la Ley 1708 de 2014. Si la disposición definitiva de muebles se realiza a través de comercialización las entidades recaudadoras liquidarán para pago los impuestos causados con anterioridad o posterioridad a la incautación sin sanciones y sin intereses remuneratorios o moratorias dentro del término previsto en el artículo 1228 de la Ley 1708 de 2014; para la tradición de los bienes sujetos a registro bastará acreditar el pago de los tributos ante la autoridad competente de realizarlo. PARÁGRAFO 4o. Los predios rurales y urbanos donde se desarrollen o vayan a desarrollar proyectos productivos, proyectos de vivienda, o proyectos productivos con vivienda de interés social rural nucleada o dispersa para población en proceso de reincorporación serán transferidos directamente por la Sociedad de Activos Especiales a los beneficiarios de estos proyectos que indique la Agencia para la Reincorporación y la Normalización o quién haga sus veces, en los plazos que defina el Gobierno Nacional. En estos casos se configurará una excepción frente a la obligación de transferir todos los bienes rurales a la Agencia Nacional de Tierras. Se excluyen de esta previsión los bienes a que se refiere el artículo 144 de la presente ley. PARÁGRAFO 5o. En los casos en que el administrador del Frisco realice asignaciones definitivas a la Agencia Nacional de Tierras, a la Unidad Administrativa Especial de Gestión de Restitución de Tierras, a la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas, a la Agencia de Reincorporación y Normalización y a los sujetos identificados en el artículo 4o del Decreto Ley 902 de 2017 operará el saneamiento automático de vicios en los títulos y tradición, incluso los que surjan con posterioridad al proceso de transferencia, sin perjuicio de las acciones indemnizatorias que procedan según la ley. El saneamiento automático dentro del proceso de asignación del inmueble será consignado en el acto administrativo de transferencia y será objeto de registro en el correspondiente folio de matrícula inmobiliaria. El saneamiento automático de que trata este artículo no operará cuando sobre los inmuebles versen solicitudes de restitución de tierras o medidas de protección patrimonial de la población en situación de desplazamiento forzado. PARÁGRAFO 6o. El valor de los activos extintos transferidos a los beneficiarios que determine la ANT, URT, UARIV, ADR, SENA, ARN, ART de acuerdo con sus programas misionales podrá ser descontado de los recursos de las destinaciones específicas establecidas en la Ley 1708 de 2014 o los remanentes del Fondo para la Rehabilitación Inversión Social y Lucha contra el Crimen Organizado (Frisco). PARÁGRAFO 7o. En los procesos de pertenencia que tengan por objeto bienes con medidas cautelares decretadas en la acción constitucional de extinción de dominio o que sean activos respecto de personas jurídicas que igualmente han sido objeto de medidas cautelares en esa clase de acciones, se ordenará informar de la existencia del proceso al administrador del Frisco para que, si lo considere pertinente, hagan las manifestaciones a que hubiere lugar en el ámbito de sus funciones. PARÁGRAFO 8o. Entrega anticipada de inmuebles rurales no sociales con fines de reforma rural integral. En cualquier estado del proceso de extinción de dominio, la Sociedad de Activos Especiales (SAE) podrá transferir a la Agencia Nacional de Tierras (ANT) los inmuebles rurales no sociales con fines de reforma rural integral a título gratuito. La ANT deberá constituir una reserva técnica del veinte por ciento (20%) del valor comercial del bien, destinada a cumplir las órdenes judiciales de devolución de los bienes. Dicha reserva podrá ser constituida con recursos de su presupuesto o vehículos financieros públicos y/o cuentas especiales de la Nación. La ANT podrá adjudicar estos inmuebles a sujetos que cumplan las condiciones para la reforma rural integral. La ANT recibirá los predios sobre los que trata el presente artículo como cuerpo cierto y asumirá el saneamiento material, físico-catastral y de pasivos. Sobre estos operará el saneamiento automático de vicios en los títulos y tradición, incluso los que surjan con posterioridad a la transferencia, sin perjuicio de las acciones indemnizatorias que procedan según la ley. Para el saneamiento de pasivos que afecten estos inmuebles, las asambleas departamentales y los concejos municipales o distritales podrán implementar programas de condonación y compensación de los impuestos que afecten los inmuebles destinados a la reforma rural integral. En caso de que sean condonadas deudas en virtud del presente artículo, las entidades territoriales no podrán ser penalizadas, ser objeto de ningún tipo de sanción o ser evaluadas de forma negativa para la obtención de créditos, con motivo de una reducción en el recaudo tributario respectivo. PARÁGRAFO. Las medidas cautelares ordenadas en los procesos de extinción de dominio estarán vigentes hasta tanto no exista orden judicial que ordene su cancelación o se cuente con sentencia ejecutoriada que haya puesto fin al proceso judicial dentro del cual fueron ordenadas. CAPÍTULO IV. DERECHO HUMANO A LA ALIMENTACIÓN. ARTÍCULO 213. Modifica el artículo 16 de la Ley 1355 de 2009 Modifíquese el artículo 16 de la Ley 2281 de 2023, el cual quedará así:...",
+    "fuente": "...stema, entre otros aspectos que faciliten su funcionamiento...."
+   }
+  },
+  {
+   "articulo": "16",
+   "estado": "divergente",
+   "similitud": 0.3028,
+   "corpus": "Artículo 16. Integración de la Comisión Intersectorial de Seguridad Alimentaria y Nutricional. La Comisión Intersectorial de Seguridad Alimentaria y Nutricional (CISAN) estará conf",
+   "fuente": "Artículo 16. Integración de la Comisión Intersectorial de Seguridad Alimentaria y Nutricional. La Comisión Intersectorial de Seguridad Alimentaria y Nutricional (CISAN) estará conf",
+   "diff": {
+    "corpus": "...e Facultades de Nutrición, designado por su junta directiva. PARÁGRAFO 1o. El Gobierno Nacional, dentro de los 6 meses siguientes a la entrada en vigencia de la presente ley, reglamentará la implementación, seguimiento y supervisión de las áreas de recuperación nutricional. La reglamentación establecerá los indicadores para determinarla, la delimitación y la articulación de los recursos técnicos, financieros, administrativos y logísticos necesarios para desarrollar la actuación de un modelo integrado transectorial en dichas áreas, así como establecer la finalización de las mismas una vez superada la situación y el monitoreo lo indique. PARÁGRAFO 2o. El Sistema Nacional de Bienestar Familiar y el Ministerio de la Igualdad y Equidad realizarán la coordinación de estas áreas y el seguimiento con base en los indicadores definidos, en el marco del Sistema de Seguimiento y Monitoreo para la Superación de la Malnutrición. PARÁGRAFO 1o. El Sistema Nacional de Seguimiento y Monitoreo para la Superación de la Malnutrición (SNSM) proporcionará información al programa de hambre cero que ayude a la atención focalizada, informada y actualizada; atendiendo a las eventualidades y emergencias que pudiesen presentarse, y monitoreando los avances en el tema. PARÁGRAFO 2o. El Ministerio de la Igualdad y Equidad o quienes hagan sus veces, entregará un reporte anual a las Comisiones Séptimas de Senado y Cámara del Congreso de la República que indique los resultados, acciones y avances del Seguimiento y Monitoreo para la Superación de la Malnutrición. Notas del Editor PARÁGRAFO. El Programa Hambre Cero articulará cuanto menos: El Sistema Nacional de Seguimiento y Monitoreo para la Superación del Hambre y la Malnutrición; el Plan Decenal de Lactancia Materna y Alimentación Complementaria; el Programa de Alimentación Escolar (PAE); la Ley de Compras Públicas a la Agricultura Familiar; la oferta de otras instituciones públicas; la celebración de convenios con privados y con alianzas público populares; las áreas de recuperación nutricional, direccionadas por el Instituto Colombiano de Bienestar Familiar y el Ministerio de Salud y Protección Social, y la transferencia “Hombre Cero” 1 a cargo de Departamento Administrativo de Prosperidad Social (DPS). Notas del Editor PARÁGRAFO 1o. Los integrantes de la Comisión Nacional de Crédito Agropecuario podrán delegar su asistencia, así: el Ministro de Hacienda y Crédito Público, en el Viceministro Técnico de Hacienda; y el Director del Departamento Nacional de Planeación, en el Subdirector General de Prospectiva y Desarrollo Nacional o el que hagas sus veces. PARÁGRAFO 2o. La Secretaría Técnica de la Comisión Nacional de Crédito Agropecuario será ejercida a través de un empleado de nivel asesor de la planta de personal de Finagro de libre nombramiento y remoción del Presidente de la República, quien deberá acreditar formación académica y experiencia profesional en las áreas financieras y de desarrollo agropecuario. Finagro adecuará las condiciones y brindará los recursos para el ejercicio técnico de la Secretaría y de la Comisión Nacional de Crédito Agropecuario. PARÁGRAFO 3o. El Presidente de Finagro asistirá a la Comisión Nacional de Crédito Agropecuario con voz, pero sin voto. PARÁGRAFO 4o. El Gobierno Nacional determinará mediante decreto la organización y funcionamiento de la Comisión Nacional de Crédito Agropecuario. PARÁGRAFO 5o. El Ministro de Vivienda, Ciudad y Territorio asistirá como invitado especial con voz cuando se trate sobre líneas de financiación de Vivienda de Interés Social Rural. PARÁGRAFO 6o. El Ministro de Comercio, Industria y Turismo asistirá como invitado especial con voz cuando se trate sobre líneas de financiación de agroindustria y agroturismo. (...) r) Reglamentar las condiciones de las colocaciones sustitutivas de la inversión obligatoria en Títulos de Desarrollo Agropecuario, con sujeción a lo dispuesto por la Junta Directiva del Banco de la República en desarrollo del artículo 112 del Estatuto Orgánico del Sistema Financiero (EOSF) y considerando el tipo de productor o beneficiario, la actividad agropecuaria y plazo, de acuerdo con las políticas de focalización y lineamientos establecidas por el Ministerio de Agricultura y Desarrollo Rural y sin que para el efecto deba atender una distribución mínima preestablecida. (...) PARÁGRAFO 2o. Los mecanismos de estabilización establecidos en el presente artículo operarán para contribuir a proteger el precio del café de calidad arábiga suave colombiano producido en Colombia, conforme al artículo 9o de la presente ley, frente al costo promedio de producción de café colombiano, estimado técnicamente por la Secretaría Técnica del Fondo de Estabilización de Precios del Café. CAPÍTULO V. TRANSFORMACIÓN PRODUCTIVA, INTERNACIONALIZACIÓN Y ACCIÓN CLIMÁTICA. SECCIÓN I. TRANSICIÓN ENERGÉTICA SEGURA, CONFIABLE Y EFICIENTE PARA ALCANZAR CARBONO NEUTRALIDAD Y CONSOLIDAR TERRITORIOS RESILIENTES AL CLIMA....",
+    "fuente": "...e Facultades de Nutrición, designado por su junta directiva...."
+   }
+  },
+  {
+   "articulo": "223",
+   "estado": "divergente",
+   "similitud": 0.2032,
+   "corpus": "ARTÍCULO 223. PROMOCIÓN DE LA MOVILIDAD ESCOLAR ELÉCTRICA. Las autoridades de transporte de orden municipal, distrito, metropolitano o regional podrán autorizar, por necesidades de",
+   "fuente": "ARTÍCULO 223. PROMOCIÓN DE LA MOVILIDAD ESCOLAR ELÉCTRICA. Las autoridades de transporte de orden municipal, distrito, metropolitano o regional podrán autorizar, por necesidades de",
+   "diff": {
+    "corpus": "...para cubrir los costos en los que incurran en su desarrollo. PARÁGRAFO. También se podrán reconocer incentivos para la conservación a los que se refiere el Decreto Ley 870 de 2017, en áreas de dominio público que cuenten con ecosistemas estratégicos, siempre y cuando sean beneficiarios del incentivo las comunidades con relación de arraigo territorial y cultural en estas áreas, sin perjuicio del carácter constitucional de ser bienes imprescriptibles, inalienables e inembargables. En estos casos, el valor del incentivo corresponderá con el costo de las acciones de preservación y/o restauración, con destinación específica al financiamiento de dichas acciones, así como el financiamiento de sistemas productivos sostenibles, donde el régimen del uso del suelo así lo permita. Las fuentes financieras establecidas en la ley para los Pagos por Servicios Ambientales podrán aplicar, de igual manera, para los incentivos establecidos en el presente artículo. El Ministerio de Ambiente y Desarrollo Sostenible reglamentará la articulación de los incentivos de que trata el presente artículo en el marco de los trabajos, obras o actividades con contenido restaurador reparador -TOAR. Mientras se expide la reglamentación, se podrán aplicar las disposiciones normativas de los Pagos por Servicios Ambientales que sean compatibles con el incentivo desarrollado en el presente artículo. PARÁGRAFO TRANSITORIO. Lo dispuesto en el presente artículo solo se podrá implementar en el marco de los proyectos de pagos por servicios ambientales a partir del momento en que el Ministerio de Ambiente y Desarrollo Sostenible expida la respectiva reglamentación. PARÁGRAFO 1o. Los resultados de mitigación obtenidos por el Gobierno Nacional en el marco de programas nacionales o territoriales de reducción de las emisiones y remoción de GEi, no podrán ser posteriormente ofertados a través de proyectos en el mercado de carbono. PARÁGRAFO 2o. Los titulares de las iniciativas de mitigación de gases de efecto invernadero deberán cumplir lo previsto en la normativa en materia ambiental, social y económica y, para el caso de las iniciativas de mitigación de gases de efecto invernadero del sector Agricultura, Silvicultura y Otros Usos del Suelo -AFOLU, cumplir las salvaguardas sociales y ambientales definidas por la Convención Marco de las Naciones Unidas para el Cambio Climático (CMNUCC), y adoptadas por el país a través de su Interpretación Nacional de Salvaguardas Sociales y Ambientales, incluida la consulta previa libre e informada de ser procedente, cuando el proyecto verse sobre áreas con presencia de comunidades indígenas, comunidades negras, afrocolombianas, raizales y palenqueras, y las demás herramientas, condiciones, criterios y requisitos que sean definidos en el marco del Sistema Nacional de Salvaguardas. Todas las iniciativas de mitigación dentro de su sistema de Monitoreo, Reporte y Verificación deberán monitorear, reportar y verificar la implementación de la normativa en materia ambiental, social y económica, y de ser aplicable, la implementación de las salvaguardas sociales y ambientales, durante todas las fases, lo cual será objeto de evaluación de la conformidad. El Gobierno Nacional reglamentará la materia. PARÁGRAFO TRANSITORIO. Las normas reglamentarias del artículo 175 de la Ley 1753 de 2015, anteriores a las disposiciones contenidas en el presente artículo, continuarán vigentes hasta tanto el Ministerio de Ambiente y Desarrollo Sostenible expida una nueva reglamentación. PARÁGRAFO. La implementación del Programa de Sustitución de Leña, Carbón y Residuos por Energéticos de Transición que se adelante en territorios y territorialidades indígenas y de los territorios colectivos de comunidades negras, afrocolombianas, raizales y palenqueras, se coordinará con las respectivas autoridades de los pueblos y comunidades. PARÁGRAFO 5o. Para aquellas plantas nuevas que aún no se encuentren en operación y que estén localizadas en áreas con la mayor radiación solar promedio anual (mayores a 5 k Wh/m2/día) y de mayor velocidad promedio de viento (mayores a 4 m/s a 10 m de altura), de acuerdo con los últimos datos disponibles en los atlas de radiación y velocidad de viento del Ideam, el porcentaje de la transferencia a la que se refiere este artículo será del 6% de las ventas brutas de energía por generación propia y será implementado de manera gradual, en los siguientes términos: Transcurridos dos (2) años, a partir de la entrada en vigencia de la presente ley, se aumentará dos (2) puntos porcentuales, quedando en tres por ciento (3%). Al tercer año de la entrada en vigencia de la presente ley, se aumentará un (1) punto porcentual, quedando en cuatro por ciento (4%). Al cuarto año de la entrada en vigencia de la presente ley, se aumentará un (1) punto porcentual, quedando en cinco por ciento (5%). A partir del quinto año de la entrada en vigencia de la presente ley, se aumentará un (1) punto porcentual, llegando al seis por ciento (6%). PARÁGRAFO 6o. Para plantas en operación o plantas con asignación de obligaciones al momento de la vigencia de la presente ley, que estén localizadas en áreas con la mayor radiación solar promedio anual (mayores a 5 k Wh/m2/día) y de mayor velocidad promedio de viento (mayores a 4 m/s a 10 m de altura), de acuerdo con los últimos datos disponibles en los atlas de radiación y velocidad de viento del Ideam, el porcentaje de la transferencia a la que se refiere este artículo será del 4% de las ventas brutas de energía por generación propia y será implementado de manera gradual, en los siguientes términos: transcurridos dos (2) años, a partir de la entrada en vigencia de la presente ley, se aumentará un ( 1) punto porcentual, quedando en dos por ciento (2%). Al tercer año de la entrada en vigencia de la presente ley, se aumentará un (1) punto porcentual, quedando en tres por ciento (3%). Al cuarto año de la entrada en vigencia de la presente ley, se aumentará un (1) punto porcentual, quedando en cuatro por ciento (4%). PARÁGRAFO 7o. Estos recursos serán destinados a la financiación de proyectos definidos por las comunidades étnicas ubicadas en los departamentos de influencia de los proyectos de generación. Asimismo, contará con una gobernanza con participación étnica que será reglamentada por el Ministerio de Minas y Energía en un plazo de seis (6) meses después de aprobada la presente ley. PARÁGRAFO. Los ejecutores de proyectos de vivienda de interés social o los desarrolladores de proyectos de ampliación de cobertura de gas podrán solicitar al Ministerio de Minas y Energía la financiación o cofinanciación de los costos de las redes internas de gas domiciliario y el cargo de conexión, a los usuarios de los estratos 1 y 2, y a la población del sector rural de que trata este artículo, con cargo a los recursos del Fondo Especial Cuota de Fomento de Gas o aquel que lo modifique o sustituya....",
+    "fuente": "...para cubrir los costos en los que incurran en su desarrollo...."
+   }
+  },
+  {
+   "articulo": "235",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "241",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "242",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "1088",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "243",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "1077",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "244",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "35",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "248",
+   "estado": "divergente",
+   "similitud": 0.9433,
+   "corpus": "ARTÍCULO 248. El Fondo de Energía Social (FOES) continuará siendo administrado por el Ministerio de Minas y Energía como un sistema especial de cuentas, que a partir de la entrada ",
+   "fuente": "ARTÍCULO 248. El Fondo de Energía Social (FOES) continuará siendo administrado por el Ministerio de Minas y Energía como un sistema especial de cuentas, que a partir de la entrada ",
+   "diff": {
+    "corpus": "...ten técnicamente en disminuir las pérdidas de esos mercados. PARÁGRAFO. Los recursos y los rendimientos financieros generados por estos, que sean administrados en coda subcuenta del fondo, se destinarán única y exclusivamente o la modernización y transición energético del respectivo modo o modalidad de transporte, sin que sea posible transferir recursos entre las diferentes subcuentas ni cambiar su destinación....",
+    "fuente": "...ten técnicamente en disminuir las pérdidas de esos mercados...."
+   }
+  },
+  {
+   "articulo": "254",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "255",
+   "estado": "divergente",
+   "similitud": 0.9455,
+   "corpus": "ARTÍCULO 255. CONCURRENCIA EN LA FINANCIACIÓN DE PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE. Bajo el principio de concurrencia que establece el Plan Nacional de Desarrollo Colombia",
+   "fuente": "ARTÍCULO 255. CONCURRENCIA EN LA FINANCIACIÓN DE PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE. Bajo el principio de concurrencia que establece el Plan Nacional de Desarrollo Colombia",
+   "diff": {
+    "corpus": "...capacidad financiera según el Marco Fiscal de Mediano Plazo. SECCIÓN II. ECONOMÍA PRODUCTIVA A TRAVÉS DE LA REINDUSTRIALIZACIÓN Y LA BIOECONOMÍA....",
+    "fuente": "...capacidad financiera según el Marco Fiscal de Mediano Plazo...."
+   }
+  },
+  {
+   "articulo": "257",
+   "estado": "divergente",
+   "similitud": 0.81,
+   "corpus": "ARTÍCULO 257. COMPENSACIONES INDUSTRIALES EN MATERIA DE DEFENSA NACIONAL. Créese la compensación industrial (offset), en el marco de las compras públicas de naturaleza militar y de",
+   "fuente": "ARTÍCULO 257. COMPENSACIONES INDUSTRIALES EN MATERIA DE DEFENSA NACIONAL. Créese la compensación industrial (offset), en el marco de las compras públicas de naturaleza militar y de",
+   "diff": {
+    "corpus": "...ialice en el uso efectivo de dicha tecnología en el mercado. PARÁGRAFO. El Departamento Nacional de Planeación determinará anualmente, las entidades, la destinación, los mecanismos de transferencia y ejecución, así como el monto de los recursos destinados a programas estratégicos de investigación y desarrollo, para la siguiente vigencia fiscal, mediante la expedición de un documento de política, en el cual, además, se especificarán las metas e indicadores de resultado sobre los cuales se hará medición del cumplimiento. Este documento deberá ser presentado por el Departamento Nacional de Planeación, el Ministerio de Hacienda y Crédito Público y el Ministerio de Ciencia, Tecnología e Innovación, con el apoyo de las Instituciones involucradas. Las inversiones a que haya lugar para los programas a que se refiere este artículo, respetarán la autonomía y las prioridades definidas por cada entidad pública nacional....",
+    "fuente": "...ialice en el uso efectivo de dicha tecnología en el mercado...."
+   }
+  },
+  {
+   "articulo": "259",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "260",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "261",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4",
+   "estado": "casi",
+   "similitud": 0.9992,
+   "corpus": "Artículo 4o . Negociación de valores en el mercado público. La sociedad por acciones simplificada podrá ser emisor de valores, para lo cual podrá inscribir sus valores en el Regist",
+   "fuente": "Artículo 4o. Negociación de valores en el mercado público. La sociedad por acciones simplificada podrá ser emisor de valores, para lo cual podrá inscribir sus valores en el Registr",
+   "diff": {
+    "corpus": "...Artículo 4o . Negociación de valores en el mercado público. La sociedad ...",
+    "fuente": "...Artículo 4o. Negociación de valores en el mercado público. La sociedad ..."
+   }
+  },
+  {
+   "articulo": "262",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "33",
+   "estado": "casi",
+   "similitud": 0.9898,
+   "corpus": "Artículo 33. Destinación de los recursos generados por el Programa Nacional de Cupos Transables de Emisiones (PNCTE). Los recursos generados a favor de la Nación provenientes de la",
+   "fuente": "Artículo 33. Destinación de los recursos generados por el Programa Nacional de Cupos Transables de Emisiones (PNCTE). Los recursos generados a favor de la Nación provenientes de la",
+   "diff": {
+    "corpus": "...es (ROE) de que trata el artículo 16 de la Ley 2169 de 2021. Notas del Editor...",
+    "fuente": "...es (ROE) de que trata el artículo 16 de la Ley 2169 de 2021...."
+   }
+  },
+  {
+   "articulo": "263",
+   "estado": "divergente",
+   "similitud": 0.7048,
+   "corpus": "ARTÍCULO 263. FONDO NACIONAL PARA EL DESARROLLO DE LA INFRAESTRUCTURA (FONDES). En desarrollo del objeto del Fondo Nacional para el Desarrollo de la Infraestructura (Fondes) establ",
+   "fuente": "ARTÍCULO 263. FONDO NACIONAL PARA EL DESARROLLO DE LA INFRAESTRUCTURA (FONDES). En desarrollo del objeto del Fondo Nacional para el Desarrollo de la Infraestructura (Fondes) establ",
+   "diff": {
+    "corpus": "...el Gobierno Nacional para el respectivo programa o proyecto. PARÁGRAFO 1o. Se entiende por CCUS, el conjunto de procesos tecnológicos cuyo propósito es reducir las emisiones de carbono en la atmósfera, capturando el CO2 generado a grandes escalas para almacenarlo en el subsuelo de manera segura y permanente o usarlo como insumo en diferentes procesos productivos o en la prestación de servicios en los que se requiera. Para el desarrollo de proyectos de captura, uso y almacenamiento de dióxido de carbono en el subsuelo, el Ministerio de Minas y Energía establecerá los lineamientos generales que deberán desarrollar las entidades competentes con el fin de determinar sus requisitos y condiciones técnicas. El Ministerio de Minas y Energía reglamentará lo correspondiente al almacenamiento del CO2 en el subsuelo para todos los sectores de la economía....",
+    "fuente": "...el Gobierno Nacional para el respectivo programa o proyecto...."
+   }
+  },
+  {
+   "articulo": "265",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "220",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "266",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "267",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "268",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "269",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "272",
+   "estado": "divergente",
+   "similitud": 0.6069,
+   "corpus": "ARTÍCULO 272. SUBSIDIOS DE ENERGÍA ELÉCTRICA, GAS, ACUEDUCTO, ALCANTARILLADO Y ASEO. Los subsidios establecidos para energía eléctrica y gas combustible en el artículo 3o de la Ley",
+   "fuente": "ARTÍCULO 272. SUBSIDIOS DE ENERGÍA ELÉCTRICA, GAS, ACUEDUCTO, ALCANTARILLADO Y ASEO. Los subsidios establecidos para energía eléctrica y gas combustible en el artículo 3o de la Ley",
+   "diff": {
+    "corpus": "...géticas de los usuarios en las diferentes regiones del país. PARÁGRAFO 1o. El Programa de Agua es Vida, se articulará con los planes de acción para la restauración ecológica de la cuenca del río Atrato, coordinados por el Ministerio de Igualdad y Equidad y el Ministerio de Ambiente y Desarrollo Sostenible, y en articulación con las demás entidades competentes del orden nacional y territorial, dentro de los doce (12) meses siguientes a la entrada en vigencia de la presente ley. PARÁGRAFO 2o. Se deberá presentar un informe semestral a las Comisiones Quintas Constitucionales Permanentes del Senado de la República y a La Comisión Legal Afro del Congreso de la República, sobre los avances en la implementación de los planes de acción para la restauración ecológica de la cuenca del río Atrato, empleando un sistema de indicadores que permita establecer de forma precisa el impacto de sus resultados. La implementación de este programa deberá sujetarse a las disponibilidades presupuestales, el Marco Fiscal de Mediano Plazo y el Marco de Gasto de Mediano Plazo. PARÁGRAFO 3o. Los municipios y distritos, de acuerdo a sus posibilidades fiscales, podrán definir porcentajes de subsidios diferenciales a los señalados en el inciso primero del presente artículo a favor de los suscriptores residenciales de las zonas rurales, zonas insulares y áreas no municipalizadas para los servicios de acueducto, alcantarillado y aseo, hasta un porcentaje máximo del ochenta por ciento (80%) del costo del suministro para el estrato 1 o el mecanismo que sea adoptado para su focalización; cincuenta por ciento (50%) para el estrato 2 o el mecanismo que sea adoptado para su focalización; y treinta por ciento (30%) para el estrato 3 o el mecanismo que sea adoptado para su focalización....",
+    "fuente": "...géticas de los usuarios en las diferentes regiones del país...."
+   }
+  },
+  {
+   "articulo": "277",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "278",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "279",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "250",
+   "estado": "divergente",
+   "similitud": 0.9387,
+   "corpus": "Artículo 250. Pactos Territoriales . Los departamentos, los municipios, los Esquemas Asociativos Territoriales y la Nación podrán suscribir Pactos Territoriales, definidos como un ",
+   "fuente": "Artículo 250. Pactos Territoriales. Los departamentos, los municipios, los Esquemas Asociativos Territoriales y la Nación podrán suscribir Pactos Territoriales, definidos como un i",
+   "diff": {
+    "corpus": "...Artículo 250. Pactos Territoriales . Los departamentos, los municipios, los Esquemas Asociativo...",
+    "fuente": "...Artículo 250. Pactos Territoriales. Los departamentos, los municipios, los Esquemas Asociativo..."
+   }
+  },
+  {
+   "articulo": "284",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "285",
+   "estado": "casi",
+   "similitud": 0.9998,
+   "corpus": "ARTÍCULO 285. EJECUCIÓN DE PROYECTOS DE SISTEMAS DE TRANSPORTE PÚBLICO BAJO PRINCIPIOS DE DESARROLLO ORIENTADO AL TRANSPORTE SOSTENIBLE (DOT). Los municipios o distritos que cuente",
+   "fuente": "ARTÍCULO 285. EJECUCIÓN DE PROYECTOS DE SISTEMAS DE TRANSPORTE PÚBLICO BAJO PRINCIPIOS DE DESARROLLO ORIENTADO AL TRANSPORTE SOSTENIBLE (DOT). Los municipios o distritos que cuente",
+   "diff": {
+    "corpus": "...o. La entidad territorial en el marco de su autonomía y con “ocasión de los ajustes de los que trata el presente artículo...",
+    "fuente": "...o. La entidad territorial en el marco de su autonomía y con \"ocasión de los ajustes de los que trata el presente artículo..."
+   }
+  },
+  {
+   "articulo": "286",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "205",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "287",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "308",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "288",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "270",
+   "estado": "casi",
+   "similitud": 0.9998,
+   "corpus": "Artículo 270. Operaciones. 1. Operaciones Autorizadas (...) PARÁGRAFO 3o. Findeter podrá celebrar operaciones especiales de fondeo o financiamiento con bancos o entidades multilate",
+   "fuente": "Artículo 270. Operaciones. 1. Operaciones Autorizadas (...) PARÁGRAFO 3o. Findeter podrá celebrar operaciones especiales de fondeo o financiamiento con bancos o entidades multilate",
+   "diff": {
+    "corpus": "... la República de Colombia. 2. Condiciones de las operaciones . Todas las operaciones de crédito de la Financiera de Desar...",
+    "fuente": "... la República de Colombia. 2. Condiciones de las operaciones. Todas las operaciones de crédito de la Financiera de Desar..."
+   }
+  },
+  {
+   "articulo": "289",
+   "estado": "divergente",
+   "similitud": 0.958,
+   "corpus": "ARTÍCULO 289. AUTORIZACIÓN EXCEPCIONAL PARA EL OTORGAMIENTO DE CRÉDITO DIRECTO [A ORGANIZACIONES COMUNALES, Y] A LOS PATRIMONIOS AUTÓNOMOS QUE CONSTITUYA LA FINANCIERA DE DESARROLL",
+   "fuente": "ARTÍCULO 289. AUTORIZACIÓN EXCEPCIONAL PARA EL OTORGAMIENTO DE CRÉDITO DIRECTO [A ORGANIZACIONES COMUNALES, Y] A LOS PATRIMONIOS AUTÓNOMOS QUE CONSTITUYA LA FINANCIERA DE DESARROLL",
+   "diff": {
+    "corpus": "...ritorial S. A. (Findeter), para otorgar créditos directos a [organizaciones comunales de las que trata el artículo 7o de...",
+    "fuente": "...ritorial S. A. (Findeter), para otorgar créditos directos a organizaciones comunales de las que trata el artículo [7o de la Ley 2166 de 2021, y] patrimonios autónomos creados..."
+   }
+  },
+  {
+   "articulo": "291",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "292",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "293",
+   "estado": "divergente",
+   "similitud": 0.9037,
+   "corpus": "ARTÍCULO 293. CONCEPTO DE VIVIENDA DE INTERÉS SOCIAL. En cumplimiento de lo establecido en el artículo 91 de la Ley 388 de 1997, la vivienda de interés social es aquella que se des",
+   "fuente": "ARTÍCULO 293. CONCEPTO DE VIVIENDA DE INTERÉS SOCIAL. En cumplimiento de lo establecido en el artículo 91 de la Ley 388 de 1997, la vivienda de interés social es aquella que se des",
+   "diff": {
+    "corpus": "...VE o los fideicomisos en las cuales esta sea fideicomitente. PARÁGRAFO 1o. Las entidades territoriales tendrán un término de tres (3) meses, a partir de la expedición de la presente ley, para remitir los documentos que hagan falta sobre los beneficiarios propuestos. Cumplido el término anterior, las entidades otorgantes deberán excluir a los beneficiarios que no cumplieron con los requisitos establecidos por el programa de subsidio familiar de vivienda de interés social y prioritario rural. Dichos beneficiarios podrán presentarse a las convocatorias que realice para tal fin el Ministerio de Vivienda, Ciudad y Territorio. PARÁGRAFO 2o. El Ministerio de Agricultura y Desarrollo Rural, teniendo en cuenta el resultado de la auditoría del programa de subsidio familiar de vivienda de interés social y prioritario rural, podrá contratar de manera directa, si lo considera necesario, una nueva entidad operadora del programa de subsidio familiar de vivienda de interés social y prioritario rural, con el fin de culminar las actividades que se requieran por parte de las entidades otorgantes para cerrar el programa, incluidos los subsidios otorgados por orden judicial....",
+    "fuente": "...VE o los fideicomisos en las cuales esta sea fideicomitente...."
+   }
+  },
+  {
+   "articulo": "296",
+   "estado": "divergente",
+   "similitud": 0.337,
+   "corpus": "ARTÍCULO 296. FORMALIZACIÓN DE LA PROPIEDAD PRIVADA. El Ministerio de vivienda, Ciudad y Territorio o la entidad que este determine, otorgará títulos de propiedad legalmente regist",
+   "fuente": "ARTÍCULO 296. FORMALIZACIÓN DE LA PROPIEDAD PRIVADA. El Ministerio de vivienda, Ciudad y Territorio o la entidad que este determine, otorgará títulos de propiedad legalmente regist",
+   "diff": {
+    "corpus": "...ivienda, Ciudad y Territorio, reglamentará el procedimiento. PARÁGRAFO 1o. Parágrafo INEXEQUIBLE PARÁGRAFO 2o. Parágrafo INEXEQUIBLE PARÁGRAFO 3o. El Fondo Nacional de Vivienda podrá estructurar y ejecutar proyectos y programas para el sector de agua y saneamiento básico, que permitan garantizar las condiciones de acceso y mínimo vital de la población. PARÁGRAFO 1o. En todo caso, se deberá asegurar que las áreas objeto de intervenciones de mejoramiento no se encuentren ubicadas en zonas de riesgo no mitigable dentro del Plan de Ordenamiento Territorial. PARÁGRAFO 2o. El Gobierno Nacional, a través del Ministerio de Vivienda, Ciudad y Territorio, reglamentará lo relacionado con las acciones de legalización, titulación, asentamientos, intervenciones, adquisición de predios y demás iniciativas relacionadas con el programa al que hace referencia el presente artículo. PARÁGRAFO 2o. El Ministerio de Agricultura y Desarrollo Rural y el Banco Agrario culminarán los proyectos de vivienda de interés social rural sobre los que se hayan comprometido subsidios antes del 1o de enero de 2020, para. lo cual se apropiarán recursos del Presupuesto General de la Nación, que deberán sujetarse a las disponibilidades presupuestales, al Marco Fiscal de Mediano Plazo y al Marco de Gasto de Mediano Plazo, que permitan el cierre de los proyectos a su cargo. Así mismo, los excedentes y/o rendimientos financieros que generen los recursos destinados al subsidio familiar de vivienda de interés social y prioritario rural a cargo del Banco Agrario de Colombia S. A., así como aquellos recursos de subsidios adjudicados y no materializados o que hayan sido objeto de renuncia por parte de los beneficiarios: podrán ser destinados al cierre del programa de vivienda rural, sin previa consignación al Tesoro Público y previa programación presupuestal en el Ministerio de Agricultura y Desarrollo Rural para tales fines. PARÁGRAFO 3o. Los recursos del Presupuesto General de la Nación asignados a Fonvivienda podrán ser destinados para la construcción de equipamientos de hábitat y acceso a servicios públicos domiciliarios para la vivienda de interés social rural. Fonvivienda definirá mediante resolución las condiciones para la utilización de estos recursos. PARÁGRAFO 4o. El Gobierno Nacional en desarrollo de la política de vivienda rural, a través del Ministerio de Vivienda, Ciudad y Territorio, adelantará programas de formalización y/o saneamiento de la falsa tradición y titulación de la propiedad rural. Para el ejercicio de esta competencia se requerirá que el predio rural haya sido o vaya a ser objeto del subsidio familiar de vivienda. El Gobierno Nacional, por iniciativa del Ministerio de Vivienda, Ciudad y Territorio, reglamentará la materia....",
+    "fuente": "...ivienda, Ciudad y Territorio, reglamentará el procedimiento...."
+   }
+  },
+  {
+   "articulo": "301",
+   "estado": "divergente",
+   "similitud": 0.8497,
+   "corpus": "ARTÍCULO 301. Adiciónese el parágrafo 6o al artículo 6o de la Ley 3a de 1991, así:",
+   "fuente": "ARTÍCULO 301. Derogado por norma posterior Adiciónese el parágrafo 6o al artículo 6o de la Ley 3a de 1991, así:",
+   "diff": {
+    "corpus": "...ARTÍCULO 301. Adiciónese el parágrafo 6o al artículo 6o de la Ley 3a de 1...",
+    "fuente": "...ARTÍCULO 301. Derogado por norma posterior Adiciónese el parágrafo 6o al artículo 6o de la Ley 3a de 1..."
+   }
+  },
+  {
+   "articulo": "302",
+   "estado": "divergente",
+   "similitud": 0.9028,
+   "corpus": "ARTÍCULO 302. FORTALECIMIENTO DE LA VIVIENDA DIFERENCIAL, VIVIENDA DE INTERÉS CULTURAL Y UTILIZACIÓN DE MATERIALES Y SISTEMAS ALTERNATIVOS TRADICIONALES DE CONSTRUCCIÓN. El Gobiern",
+   "fuente": "ARTÍCULO 302. FORTALECIMIENTO DE LA VIVIENDA DIFERENCIAL, VIVIENDA DE INTERÉS CULTURAL Y UTILIZACIÓN DE MATERIALES Y SISTEMAS ALTERNATIVOS TRADICIONALES DE CONSTRUCCIÓN. El Gobiern",
+   "diff": {
+    "corpus": "...ulturales e históricas de la región o sector del territorio. SECCIÓN III. REESTRUCTURACIÓN Y DESARROLLO DE SISTEMAS NACIONALES Y REGIONALES DE PRODUCTIVIDAD, COMPETITIVIDAD E INNOVACIÓN....",
+    "fuente": "...ulturales e históricas de la región o sector del territorio...."
+   }
+  },
+  {
+   "articulo": "304",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "305",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "306",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "307",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "21",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "Artículo 21 . El Fondo Nacional de Turismo (FONTUR) es un patrimonio autónomo, sin personería jurídica, regido por normas de derecho privado, con la función de administrar los recu",
+   "fuente": "Artículo 21. El Fondo Nacional de Turismo (FONTUR) es un patrimonio autónomo, sin personería jurídica, regido por normas de derecho privado, con la función de administrar los recur",
+   "diff": {
+    "corpus": "...Artículo 21 . El Fondo Nacional de Turismo (FONTUR) es un patrimonio aut...",
+    "fuente": "...Artículo 21. El Fondo Nacional de Turismo (FONTUR) es un patrimonio aut..."
+   }
+  },
+  {
+   "articulo": "309",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "310",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "311",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "312",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "313",
+   "estado": "casi",
+   "similitud": 0.9978,
+   "corpus": "ARTÍCULO 313. UNIDAD DE VALOR BÁSICO (UVB). Rige a partir del 1 de enero de 2024 Créase la Unidad de Valor Básico (UVB). El valor de la Unidad de Valor Básico (UVB) se reajustará a",
+   "fuente": "ARTÍCULO 313. UNIDAD DE VALOR BÁSICO (UVB). Rige a partir del 1 de enero de 2024 Créase la Unidad de Valor Básico (UVB). El valor de la Unidad de Valor Básico (UVB) se reajustará a",
+   "diff": {
+    "corpus": "...y en relación con el concepto de vivienda de interés social. Notas del Editor...",
+    "fuente": "...y en relación con el concepto de vivienda de interés social...."
+   }
+  },
+  {
+   "articulo": "314",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "315",
+   "estado": "divergente",
+   "similitud": 0.8703,
+   "corpus": "ARTÍCULO 315. ADMINISTRACIÓN TRANSITORIA DE RECURSOS. Los recursos provenientes del Presupuesto General de la Nación que vayan a ser transferidos a cualquier entidad estatal, inclu",
+   "fuente": "ARTÍCULO 315. ADMINISTRACIÓN TRANSITORIA DE RECURSOS. Los recursos provenientes del Presupuesto General de la Nación que vayan a ser transferidos a cualquier entidad estatal, inclu",
+   "diff": {
+    "corpus": "...r momento para ser girados al beneficiario que esta indique. PARÁGRAFO. El Gobierno Nacional determinará el monto de los recursos de que trata este artículo, previa mesa técnica conformada entre el Ministerio de Hacienda, Crédito Público y el Servicio Nacional de Aprendizaje (SENA)....",
+    "fuente": "...r momento para ser girados al beneficiario que esta indique...."
+   }
+  },
+  {
+   "articulo": "317",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "318",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "319",
+   "estado": "casi",
+   "similitud": 0.9955,
+   "corpus": "ARTÍCULO 319. REINTEGRO DE RECURSOS A LA UNIDAD DE CAJA DEL TESORO NACIONAL. En aplicación del artículo 149 de la Ley 1753 de 2015, el Tesoro Nacional podrá exigir el reintegro de ",
+   "fuente": "ARTÍCULO 319. REINTEGRO DE RECURSOS A LA UNIDAD DE CAJA DEL TESORO NACIONAL. En aplicación del artículo 149 de la Ley 1753 de 2015, el Tesoro Nacional podrá exigir el reintegro de ",
+   "diff": {
+    "corpus": "... hubiere ordenado un tratamiento especial sobre los mismos. Notas del Editor Los recursos así reintegrados al Tesoro Nacional formarán pa...",
+    "fuente": "... hubiere ordenado un tratamiento especial sobre los mismos. Los recursos así reintegrados al Tesoro Nacional formarán pa..."
+   }
+  },
+  {
+   "articulo": "320",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "321",
+   "estado": "divergente",
+   "similitud": 0.6617,
+   "corpus": "ARTÍCULO 321. UTILIZACIÓN DE EXCEDENTES DE FUENTES NACIONALES DEL (FONPET). Las entidades territoriales que hayan cubierto su pasivo pensional en el sector propósito general del Fo",
+   "fuente": "ARTÍCULO 321. UTILIZACIÓN DE EXCEDENTES DE FUENTES NACIONALES DEL (FONPET). Las entidades territoriales que hayan cubierto su pasivo pensional en el sector propósito general del Fo",
+   "diff": {
+    "corpus": "...ctos de inversión social incluidos en su Plan de Desarrollo. Notas del Editor PARÁGRAFO TRANSITORIO. Para efectos de financiar el pago de las sanciones por mora a cargo del Fondo Nacional de Prestaciones Sociales del Magisterio causados a diciembre de 2022, facúltese al Ministerio de Hacienda y Crédito Público para emitir Títulos de Tesorería que serán administrados por una o varias sociedades fiduciarias públicas, así mismo, el Ministerio de Hacienda y Crédito Público definirá la operación, las reglas de negociación y pago de los mismos. El Consejo Directivo de Fomag efectuará la adición presupuestal de los recursos de los que trata el presente parágrafo. La emisión de bonos o títulos no implica operación presupuestal alguna y solo debe presupuestarse para efectos de su redención....",
+    "fuente": "...ctos de inversión social incluidos en su Plan de Desarrollo...."
+   }
+  },
+  {
+   "articulo": "326",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "327",
+   "estado": "divergente",
+   "similitud": 0.2669,
+   "corpus": "ARTÍCULO 327. Para las obligaciones de EIS CUCUTA S.A. E.S.P. con la Nación se adelantará un proceso de extinción mediante compensación, novación y/o otras alternativas de extinció",
+   "fuente": "ARTÍCULO 327. Para las obligaciones de EIS CUCUTA S.A. E.S.P. con la Nación se adelantará un proceso de extinción mediante compensación, novación y/o otras alternativas de extinció",
+   "diff": {
+    "corpus": "...ravés del Ministerio de Hacienda y las condiciones fiscales. PARÁGRAFO 1o. En todo caso para la ejecución de los recursos que hagan parte del fondo, los procedimientos de selección del contratista ejecutor, deberán cumplir los principios que rigen la función administrativa definidos en el artículo 209 de la Constitución Política de Colombia, además, del deber de selección objetiva y pluralidad de oferentes y estarán sujetos al control fiscal, penal y disciplinario. PARÁGRAFO 2o. El Gobierno Nacional a través del Ministerio de Hacienda y Crédito Público reglamentará lo previsto en el presente artículo. PARÁGRAFO 1o. Las entidades financieras de carácter estatal, las Empresas Industriales y Comerciales del Estado, las Sociedades de Economía Mixta y las entidades en liquidación, podrán disponer de sus activos en los términos señalados en el presente artículo. PARÁGRAFO 2o. Los inmuebles que se hubieran transferido por parte de las Entidades Públicas a CISA en virtud de este artículo y del artículo 26 de la Ley 1420 de 2010, que al 1o de junio de 2023 no hayan sido enajenados por CISA, podrán enajenarse por esta entidad de acuerdo con sus políticas y procedimientos. PARÁGRAFO 3o. Las entidades públicas podrán transferir a título gratuito a CISA los activos recibidos en virtud de la aplicación de cláusulas de reversión pactadas en sus contratos, así como autorizar la transferencia de activos remanentes de procesos de liquidación a favor de CISA como pago total o parcial de los créditos reconocidos en dichos procesos de liquidación cuando las entidades acreedoras hubieren sido reconocidas como tales. PARÁGRAFO 4o. Los bienes gestionados y/o comercializados por CISA deberán contar con avalúo comercial, el cual tendrá una vigencia de tres (3) años, para lo cual se aplicará lo previsto en el parágrafo del artículo 92 de la Ley 1708 de 2014. CISA podrá vender bienes inmuebles a entidades territoriales por el valor del avalúo catastral siempre y cuando sean requeridos para sedes administrativas o para el cumplimiento de metas de los Planes de Desarrollo Territorial. PARÁGRAFO 5o. Tratándose de entidades públicas que deban transferir activos a CISA, los cuales tengan gravámenes a favor de la nación en el marco de operaciones de crédito público, antes de realizar la transferencia deberán contar con el visto bueno previo de la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público....",
+    "fuente": "...ravés del Ministerio de Hacienda y las condiciones fiscales...."
+   }
+  },
+  {
+   "articulo": "331",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "66",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "332",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "333",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "334",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "820",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "335",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "336",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "339",
+   "estado": "divergente",
+   "similitud": 0.5061,
+   "corpus": "ARTÍCULO 339. PROGRAMA NACIONAL CASAS PARA LA DIGNIDAD DE LAS MUJERES. Créase el Programa Nacional de Casas para la Dignidad de las Mujeres (CDM) bajo la coordinación de la Conseje",
+   "fuente": "ARTÍCULO 339. PROGRAMA NACIONAL CASAS PARA LA DIGNIDAD DE LAS MUJERES. Créase el Programa Nacional de Casas para la Dignidad de las Mujeres (CDM) bajo la coordinación de la Conseje",
+   "diff": {
+    "corpus": "...enas y se concertarán en la Mesa Permanente de Concertación. PARÁGRAFO 2o. Con el fin de generar dinámicas de carácter educativo y de investigación científica que tengan como propósito fortalecer la paz y la democracia en los territorios, el CAEL, como órgano de carácter docente y de instrucción en temas de creación normativa y control político en todo el territorio nacional, podrá orientar pedagógicamente a las entidades territoriales y miembros de cuerpos colegiados de elección directa como a las asambleas departamentales, los concejos distritales o municipales y las juntas administradoras locales, a través de actividades que se realicen en el ámbito municipal, departamental o regional. PARÁGRAFO 1o. Para garantizar la interoperabilidad del Sistema Nacional de Registro, Atención, Seguimiento y Monitoreo, la Consejería Presidencial para la Equidad de la Mujer o quien haga sus veces creará y administrará una plataforma tecnológica centralizada de recolección y transmisión de información que permita hacer seguimiento a todas las etapas de la ruta de atención a los casos de VBG, el acceso a la justicia, y a las medidas de protección, atención y estabilización. Este sistema deberá definir un registro unificado que permita racionalizar la solicitud de información a las víctimas para evitar la revictimización. Además, el sistema contará con un capítulo especial que aborde el feminicidio, incluyendo el registro de los y las familiares de las mujeres en riesgo feminicida y de las víctimas de feminicidio. Las entidades del orden nacional y territorial, que tienen obligaciones en el marco de las rutas de atención, deberán reportar la información y avances de los casos de VBG que hayan sido atendidos en el ejercicio de sus funciones. Este mecanismo garantizará la protección de los datos personales, en cumplimiento con lo establecido en la Ley 1581 de 2012. A través del observatorio de asuntos de género se publicarán reportes periódicos sobre la situación de violencias basadas en género con base en la información del Sistema Nacional de Registro, Atención, Seguimiento y Monitoreo. PARÁGRAFO 2o. El sistema abordará la valoración del riesgo y el acceso a las rutas de atención, protección, estabilización y acceso a la justicia, desde una perspectiva diferencial e interseccional que incluye entre otras las particularidades de las lideresas y defensoras de derechos humanos, de la población LGTBIQ+, de las víctimas de la violencia, de los miembros de grupos pertenecientes a grupos étnicos y de las personas con discapacidad. PARÁGRAFO 3o. La prevención de todas las formas de violencia, la gestión de la atención integral, la protección y el acceso a la justicia a las víctimas de violencias basadas en género se articulará a través del Mecanismo Articulador para el Abordaje Integral de las Violencias por Razones de Sexo y Género, definido en el Decreto 1710 de 2020 o las normas que lo modifiquen o lo sustituyan. Los municipios, distritos y departamentos deberán establecer el Mecanismo Articulador para el Abordaje Integral de las Violencias por Razones de Sexo y Género. Dentro de sus funciones estará el seguimiento a los casos de violencias por razones de sexo y género, y la implementación de acciones dirigidas, en el marco de la debida diligencia, a prevenir este tipo de violencias y violencia feminicida. Para el seguimiento a los casos, los Mecanismos del nivel nacional, departamental, distrital y municipal se articularán al Sistema Nacional de Registro, Atención, Seguimiento y Monitoreo de las Violencias Basadas en Género (VBG). PARÁGRAFO 4o. Con base en la información y seguimiento derivado de la implementación del Sistema Nacional de Registro, Atención, Seguimiento y Monitoreo de las Violencias Basadas en Género se remitirá información a los programas de atención a población vulnerable encaminados a lograr autonomía económica y focalización, priorización, acceso y permanencia de las mujeres víctimas de violencias y en riesgo de feminicidio, a programas de educación formal y no formal, empleabilidad y oportunidades para la generación de ingresos, transferencias y beneficios para el acceso a vivienda digna, y toda la oferta de servicios de inclusión social vigentes. PARÁGRAFO 5o. El Gobierno Nacional reglamentará este Sistema una vez entre en vigencia la presente ley....",
+    "fuente": "...enas y se concertarán en la Mesa Permanente de Concertación...."
+   }
+  },
+  {
+   "articulo": "344",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "345",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "346",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "347",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "73",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "348",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "349",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "219",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "350",
+   "estado": "divergente",
+   "similitud": 0.4506,
+   "corpus": "ARTÍCULO 350. POLÍTICA PÚBLICA PARA LA ERRADICACIÓN DEL RACISMO Y LA DISCRIMINACIÓN RACIAL. Dentro del año siguiente a la entrada en vigencia de la presente ley, el Gobierno Nacion",
+   "fuente": "ARTÍCULO 350. POLÍTICA PÚBLICA PARA LA ERRADICACIÓN DEL RACISMO Y LA DISCRIMINACIÓN RACIAL. Dentro del año siguiente a la entrada en vigencia de la presente ley, el Gobierno Nacion",
+   "diff": {
+    "corpus": "...nal e intersectorial del Ministerio de Igualdad y Equidad . PARÁGRAFO 2o. Se podrá disponer para financiar gastos de funcion...",
+    "fuente": "...nal e intersectorial del Ministerio de Igualdad y Equidad . Esta política será construida de manera participativa, para lo cual deberá efectuarse la consulta previa con los pueblos y comunidades negras, afrocolombianas, raizales, palenqueras, pueblos indíge..."
+   }
+  },
+  {
+   "articulo": "353",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "359",
+   "estado": "divergente",
+   "similitud": 0.7791,
+   "corpus": "ARTÍCULO 359. RECONOCIMIENTO, APOYO Y FORTALECIMIENTO DE LAS TERRITORIALIDADES CAMPESINAS. El Gobierno Nacional, dentro de los doce (12) meses siguientes a la entrada en vigencia d",
+   "fuente": "ARTÍCULO 359. RECONOCIMIENTO, APOYO Y FORTALECIMIENTO DE LAS TERRITORIALIDADES CAMPESINAS. El Gobierno Nacional, dentro de los doce (12) meses siguientes a la entrada en vigencia d",
+   "diff": {
+    "corpus": "...onforme a los principios orientadores de la Ley 160 de 1994. PARÁGRAFO. Con el fin de fortalecer el cumplimiento de las metas del PND y promover la eficiencia en la gestión de las políticas públicas del Gobierno Nacional, el Departamento Nacional de Planeación emitirá dentro de los tres (3) meses siguientes a la entrada en vigencia de la presente ley, lineamientos para dicho fin, en los cuales indicará aquellos eventos de carácter excepcional en los que procede la modificación de las metas....",
+    "fuente": "...onforme a los principios orientadores de la Ley 160 de 1994...."
+   }
+  },
+  {
+   "articulo": "361",
+   "estado": "divergente",
+   "similitud": 0.8947,
+   "corpus": "ARTÍCULO 361. METODOLOGÍA PARA LA CREACIÓN E IMPLEMENTACIÓN DE TRAZADORES PRESUPUESTALES. El Departamento Nacional de Planeación y el Ministerio de Hacienda y Crédito Público diseñ",
+   "fuente": "ARTÍCULO 361. METODOLOGÍA PARA LA CREACIÓN E IMPLEMENTACIÓN DE TRAZADORES PRESUPUESTALES. El Departamento Nacional de Planeación y el Ministerio de Hacienda y Crédito Público diseñ",
+   "diff": {
+    "corpus": "...de Gestión Financiera Pública (SIGFP). PARÁGRAFO TRANSITORIO . Los trazadores presupuestales de que tratan los artículos ...",
+    "fuente": "...de Gestión Financiera Pública (SIGFP). PARÁGRAFO TRANSITORIO. Los trazadores presupuestales de que tratan los artículos ..."
+   }
+  },
+  {
+   "articulo": "371",
+   "estado": "divergente",
+   "similitud": 0.7283,
+   "corpus": "ARTÍCULO 371. IMPULSO DE LA MOVILIDAD EDUCATIVA Y FORMATIVA PARA EL FORTALECIMIENTO DE LA EDUCACIÓN PARA EL TRABAJO Y DESARROLLO HUMANO (ETDH). El Ministerio de Educación Nacional ",
+   "fuente": "ARTÍCULO 371. IMPULSO DE LA MOVILIDAD EDUCATIVA Y FORMATIVA PARA EL FORTALECIMIENTO DE LA EDUCACIÓN PARA EL TRABAJO Y DESARROLLO HUMANO (ETDH). El Ministerio de Educación Nacional ",
+   "diff": {
+    "corpus": "...ando el principio constitucional de autonomía universitaria. PARÁGRAFO 1o. El artículo 313 de la presente ley entrará en vigencia a partir del 1o de enero de 2024. PARÁGRAFO 2o. El artículo 49 de la Ley 1955 de 2019 perderá vigencia el 31 de diciembre de 2023. PARÁGRAFO 3o. Los bienes inmuebles actualmente administrados por Fontur, en virtud del artículo 22 de la Ley 1558 de 2012 deberán ser transferidos a la SAE para su administración o enajenación....",
+    "fuente": "...ando el principio constitucional de autonomía universitaria...."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "3",
+  "11",
+  "12",
+  "15",
+  "17",
+  "20",
+  "238",
+  "28",
+  "29",
+  "31",
+  "34",
+  "39",
+  "40",
+  "41",
+  "45",
+  "46",
+  "47",
+  "48",
+  "80",
+  "51",
+  "53",
+  "54",
+  "56",
+  "91A",
+  "57",
+  "58",
+  "59",
+  "62",
+  "63",
+  "67",
+  "68",
+  "69",
+  "70",
+  "71",
+  "72",
+  "75",
+  "76",
+  "77",
+  "78",
+  "204",
+  "81",
+  "194",
+  "83",
+  "84",
+  "85",
+  "86",
+  "87",
+  "89",
+  "90",
+  "98",
+  "99",
+  "100",
+  "101",
+  "102",
+  "103",
+  "104",
+  "107",
+  "167",
+  "108",
+  "109",
+  "112",
+  "113",
+  "116",
+  "117",
+  "118",
+  "122",
+  "124",
+  "126",
+  "127",
+  "131",
+  "134",
+  "135",
+  "136",
+  "137",
+  "138",
+  "141",
+  "142",
+  "143",
+  "144",
+  "145",
+  "146",
+  "148",
+  "151",
+  "152",
+  "153",
+  "154",
+  "155",
+  "156",
+  "157",
+  "158",
+  "161",
+  "162",
+  "163",
+  "164",
+  "166",
+  "168",
+  "16A",
+  "169",
+  "206",
+  "170",
+  "171",
+  "172",
+  "173",
+  "174",
+  "175",
+  "176",
+  "181",
+  "185",
+  "192",
+  "240",
+  "195",
+  "197",
+  "199",
+  "200",
+  "201",
+  "202",
+  "203",
+  "207",
+  "208",
+  "209",
+  "210",
+  "211",
+  "212",
+  "213",
+  "214",
+  "215",
+  "216",
+  "217",
+  "218",
+  "230",
+  "221",
+  "222",
+  "224",
+  "225",
+  "226",
+  "228",
+  "229",
+  "231",
+  "232",
+  "233",
+  "234",
+  "236",
+  "237",
+  "239",
+  "245",
+  "246",
+  "247",
+  "249",
+  "251",
+  "252",
+  "253",
+  "256",
+  "258",
+  "264",
+  "271",
+  "273",
+  "274",
+  "275",
+  "276",
+  "280",
+  "281",
+  "282",
+  "283",
+  "290",
+  "294",
+  "800-1",
+  "295",
+  "297",
+  "298",
+  "299",
+  "300",
+  "303",
+  "316",
+  "322",
+  "323",
+  "324",
+  "328",
+  "329",
+  "330",
+  "337",
+  "338",
+  "340",
+  "341",
+  "342",
+  "343",
+  "351",
+  "352",
+  "354",
+  "355",
+  "356",
+  "357",
+  "358",
+  "360",
+  "362",
+  "363",
+  "364",
+  "365",
+  "366",
+  "367",
+  "368",
+  "369",
+  "370",
+  "372"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 115,
+  "casi": 8,
+  "divergentes": 53
+ }
+}

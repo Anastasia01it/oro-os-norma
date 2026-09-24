@@ -1,0 +1,777 @@
+{
+ "corpus": "Ley_0100_1993.md",
+ "fuente": "sistema/verificacion/fuentes/Ley_0100_1993.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 50,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.9006,
+   "corpus": "ARTÍCULO 1o. SISTEMA DE SEGURIDAD SOCIAL INTEGRAL. El sistema de seguridad social integral tiene por objeto garantizar los derechos irrenunciables de la persona y la comunidad para",
+   "fuente": "ARTÍCULO 1o. SISTEMA DE SEGURIDAD SOCIAL INTEGRAL. El sistema de seguridad social integral tiene por objeto garantizar los derechos irrenunciables de la persona y la comunidad para",
+   "diff": {
+    "corpus": "... Ley, u otras que se incorporen normativamente en el futuro. PARÁGRAFO. La seguridad social se desarrollará en forma progresiva, con el objeto de amparar a la población y la calidad de vida....",
+    "fuente": "... Ley, u otras que se incorporen normativamente en el futuro...."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.9377,
+   "corpus": "ARTÍCULO 3o. DEL DERECHO A LA SEGURIDAD SOCIAL. El Estado garantiza a todos los habitantes del territorio nacional, el derecho irrenunciable a la seguridad social. Este servicio se",
+   "fuente": "ARTÍCULO 3o. DEL DERECHO A LA SEGURIDAD SOCIAL. El Estado garantiza a todos los habitantes del territorio nacional, el derecho irrenunciable a la seguridad social. Este servicio se",
+   "diff": {
+    "corpus": "...población, en los términos establecidos por la presente ley. CAPÍTULO II. SISTEMA DE SEGURIDAD SOCIAL INTEGRAL...",
+    "fuente": "...población, en los términos establecidos por la presente ley...."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "casi",
+   "similitud": 0.9979,
+   "corpus": "ARTÍCULO 5o. CREACIÓN. En desarrollo del artículo 48o. de la Constitución Política, organízase el Sistema de Seguridad Social Integral cuya dirección, coordinación y control estará",
+   "fuente": "ARTÍCULO 5o. CREACIÓN.En desarrollo del artículo 48o. de la Constitución Política, organízase el Sistema de Seguridad Social Integral cuya dirección, coordinación y control estará ",
+   "diff": {
+    "corpus": "...ARTÍCULO 5o. CREACIÓN. En desarrollo del artículo 48o. de la Constitución Política,...",
+    "fuente": "...ARTÍCULO 5o. CREACIÓN.En desarrollo del artículo 48o. de la Constitución Política,..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "divergente",
+   "similitud": 0.8177,
+   "corpus": "ARTÍCULO 6o. OBJETIVOS. El Sistema de Seguridad Social Integral ordenará las instituciones y los recursos necesarios para alcanzar los siguientes objetivos: 1. Garantizar las prest",
+   "fuente": "ARTÍCULO 6o. OBJETIVOS. El Sistema de Seguridad Social Integral ordenará las instituciones y los recursos necesarios para alcanzar los siguientes objetivos: 1. Garantizar las prest",
+   "diff": {
+    "corpus": "...ma y al otorgamiento de las prestaciones en forma integral. Notas del Editor TÍTULO I. DISPOSICIONES GENERALES CAPÍTULO I. OBJETO Y CARACTERÍSTIC...",
+    "fuente": "...ma y al otorgamiento de las prestaciones en forma integral. El Sistema de Seguridad Social Integral está instituido para unificar la normatividad y la planeación de la seguridad social, así como para coordinar a las entidades prestatarias de las mismas, para obtener las finalidades propuestas en la presente ley...."
+   }
+  },
+  {
+   "articulo": "10",
+   "estado": "divergente",
+   "similitud": 0.5049,
+   "corpus": "ARTÍCULO 10. OBJETO DEL SISTEMA GENERAL DE PENSIONES. El Sistema General de Pensiones tiene por objeto garantizar a la población, el amparo contra las contingencias derivadas de la",
+   "fuente": "ARTÍCULO 10. OBJETO DEL SISTEMA GENERAL DE PENSIONES. El Sistema General de Pensiones tiene por objeto garantizar a la población, el amparo contra las contingencias derivadas de la",
+   "diff": {
+    "corpus": "...entos de población no cubiertos con un sistema de pensiones. PARÁGRAFO. Parágrafo modificado por el artículo 138 de la Ley 1753 de 2015. El nuevo texto es el siguiente: El Gobierno nacional podrá establecer mecanismos de cobertura que permitan a las aseguradoras cubrir el riesgo del incremento que podrían tener las pensiones de renta vitalicia inmediata y renta vitalicia diferida de que tratan los artículos 80 y 82 de esta ley cuando el aumento del salario mínimo mensual legal vigente sea superior a la variación porcentual del Índice de Precios al Consumidor certificada por el Departamento Administrativo Nacional de Estadística para el respectivo año. El Gobierno nacional determinará los costos que resulten procedentes en la aplicación de estos mecanismos de cobertura. El Consejo Superior de Política Fiscal (Confis) otorgará aval fiscal para estas coberturas. CAPÍTULO II. AFILIACIÓN AL SISTEMA GENERAL DE PENSIONES...",
+    "fuente": "...entos de población no cubiertos con un sistema de pensiones...."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "divergente",
+   "similitud": 0.2861,
+   "corpus": "ARTÍCULO 15. AFILIADOS. Ver Notas del Editor Artículo modificado por el artículo 3 de la Ley 797 de 2003. El nuevo texto es el siguiente: Serán afiliados al Sistema General de Pens",
+   "fuente": "ARTÍCULO 15. AFILIADOS. Ver Notas del Editor Artículo modificado por el artículo 3 de la Ley 797 de 2003. El nuevo texto es el siguiente: Serán afiliados al Sistema General de Pens",
+   "diff": {
+    "corpus": "...siguiente: Serán afiliados al Sistema General de Pensiones: Notas del Editor a) Aparte subrayado CONDICIONAMENTE exequible El ingreso ba...",
+    "fuente": "...siguiente: Serán afiliados al Sistema General de Pensiones: También serán afiliados en forma obligatoria al Sistema General de Pensiones creado por la Ley 100 de 1993, y se regirán por todas las disposiciones contenidas en esta ley para todos los efectos, los servidores públicos que ingresen a Ecopetrol, a partir de la vigencia de la presente ley. Durante los tres (3) años siguientes a la vigencia de esta ley, los Servidores públicos en cargos de carrera administrativa, afiliados al régimen de prima media con prestación definida deberán permanecer en dicho régimen mientras mantengan la calidad de tales. Así mismo quienes ingresen por primera vez al Sector Público en cargos de carrera administrativa estarán obligatoriamente afiliados al Instituto de los Seguros Sociales, durante el mismo lapso. a) Aparte subrayado CONDICIONAMENTE exequible El ingreso ba..."
+   }
+  },
+  {
+   "articulo": "17",
+   "estado": "divergente",
+   "similitud": 0.5376,
+   "corpus": "ARTÍCULO 17. OBLIGATORIEDAD DE LAS COTIZACIONES. Artículo modificado por el artículo 4 de la Ley 797 de 2003. El nuevo texto es el siguiente: Durante la vigencia de la relación lab",
+   "fuente": "ARTÍCULO 17. OBLIGATORIEDAD DE LAS COTIZACIONES. Artículo modificado por el artículo 4 de la Ley 797 de 2003. El nuevo texto es el siguiente: Durante la vigencia de la relación lab",
+   "diff": {
+    "corpus": "...ngresos por prestación de servicios que aquellos devenguen. PARÁGRAFO. Parágrafo adicionado por el artículo 40 del Decre...",
+    "fuente": "...ngresos por prestación de servicios que aquellos devenguen. Ver Notas del Editor La obligación de cotizar cesa al momento en que el afiliado reúna los requisitos para acceder a la pensión mínima de vejez, o cuando el afiliado se pensione por invalidez o anticipadamente. Lo anterior sin perjuicio de los aportes voluntarios que decida continuar efectuando el afiliado o el empleador en los dos regímenes. PARÁGRAFO. Parágrafo adicionado por el artículo 40 del Decre..."
+   }
+  },
+  {
+   "articulo": "25",
+   "estado": "divergente",
+   "similitud": 0.6628,
+   "corpus": "ARTÍCULO 25. CREACIÓN DEL FONDO DE SOLIDARIDAD PENSIONAL. Créase el Fondo de Solidaridad Pensional, como una cuenta especial de la Nación sin personería jurídica, adscrita al Minis",
+   "fuente": "ARTÍCULO 25. CREACIÓN DEL FONDO DE SOLIDARIDAD PENSIONAL. Créase el Fondo de Solidaridad Pensional, como una cuenta especial de la Nación sin personería jurídica, adscrita al Minis",
+   "diff": {
+    "corpus": "...obertura a que se refiere el artículo 28 de la presente ley. PARÁGRAFO. No podrán ser beneficiarios de este subsidio los trabajadores que tengan una cuenta de ahorro pensional voluntario de que trata la presente ley, ni aquellos a quienes se les compruebe que pueden pagar la totalidad del aporte. PARÁGRAFO 1o. Para ser beneficiario del subsidio a los aportes, los afiliado al ISS, deberán ser mayores de 55 años y los vinculados a los fondos de pensiones deberán ser mayores de 58, siempre y cuando no tengan un capital suficiente para financiar una pensión mínima. PARÁGRAFO 2o. Cuando quiera que los recursos que se asignan a la subcuenta de solidaridad no sean suficientes para atender los subsidios que hayan sido otorgados a la entrada en vigencia de esta ley, se destinará el porcentaje adicional que sea necesario de la cotización del uno por ciento que deben realizar quienes tengan ingresos iguales o superiores a cuatro (4) salarios mínimos legales mensuales. PARÁGRAFO. Ver Notas del Editor El subsidio que se otorgue a las madres comunitarias o trabajadoras solidarias de los hogares comunitarios del Instituto Colombiano del Bienestar Familiar será mínimo el 50% de la cotización establecida en la presente ley. Notas del Editor TÍTULO II. RÉGIMEN SOLIDARIO DE PRIMA MEDIA CON PRESTACIÓN DEFINIDA CAPÍTULO I. NORMAS GENERALES...",
+    "fuente": "...obertura a que se refiere el artículo 28 de la presente ley...."
+   }
+  },
+  {
+   "articulo": "31",
+   "estado": "divergente",
+   "similitud": 0.9715,
+   "corpus": "ARTÍCULO 31. CONCEPTO. El régimen de Prima Media con Prestación Definida es aquel mediante el cual los afiliados o sus beneficiarios obtienen una pensión de vejez, de invalidez o d",
+   "fuente": "ARTÍCULO 31. CONCEPTO. El régimen de Prima Media con Prestación Definida es aquel mediante el cual los afiliados o sus beneficiarios obtienen una pensión de vejez, de invalidez o d",
+   "diff": {
+    "corpus": "...ciones, modificaciones y excepciones contenidas en esta ley. CAPÍTULO II. PENSIÓN DE VEJEZ...",
+    "fuente": "...ciones, modificaciones y excepciones contenidas en esta ley...."
+   }
+  },
+  {
+   "articulo": "33",
+   "estado": "divergente",
+   "similitud": 0.2839,
+   "corpus": "ARTÍCULO 33. REQUISITOS PARA OBTENER LA PENSIÓN DE VEJEZ. Artículo modificado por el artículo 9 de la Ley 797 de 2003. El nuevo texto es el siguiente: Para tener el derecho a la Pe",
+   "fuente": "ARTÍCULO 33. REQUISITOS PARA OBTENER LA PENSIÓN DE VEJEZ. Artículo modificado por el artículo 9 de la Ley 797 de 2003. El nuevo texto es el siguiente: Para tener el derecho a la Pe",
+   "diff": {
+    "corpus": "... años de edad si es mujer o sesenta (60) años si es hombre. PARÁGRAFO 1o. Para efectos del cómputo de las semanas a que se refier...",
+    "fuente": "... años de edad si es mujer o sesenta (60) años si es hombre. A partir del 1o. de enero del año 2014 la edad se incrementará a cincuen..."
+   }
+  },
+  {
+   "articulo": "38",
+   "estado": "divergente",
+   "similitud": 0.1065,
+   "corpus": "ARTÍCULO 38. ESTADO DE INVALIDEZ. Para los efectos del presente capítulo se considera inválida la persona que por cualquier causa de origen no profesional, no provocada intencional",
+   "fuente": "ARTÍCULO 38. ESTADO DE INVALIDEZ. Para los efectos del presente capítulo se considera inválida la persona que por cualquier causa de origen no profesional, no provocada intencional",
+   "diff": {
+    "corpus": "...mente, hubiere perdido el 50% o más de su capacidad laboral. PARÁGRAFO 1o. Parágrafo CONDICIONALMENTE exequible Los menores de veinte (20) años de edad sólo deberán acreditar que han cotizado veintiséis (26) semanas en el último año inmediatamente anterior al hecho causante de su invalidez o su declaratoria. PARÁGRAFO 2o. Cuando el afiliado haya cotizado por lo menos el 75% de las semanas mínimas requeridas para acceder a la pensión de vejez, solo se requerirá que haya cotizado 25 semanas en los últimos tres (3) años. PARÁGRAFO 1. Para Ia selección de los miembros de las Juntas Regionales y Nacional de Calificación de Invalidez, el Ministerio del Trabajo tendrá en cuenta los siguientes criterios: La selección se hará mediante concurso público y objetivo, cuya convocatoria se deberá hacer con no menos de dos (2) meses de antelación a Ia fecha del concurso e incluirá los criterios de ponderación con base en los cuales se seleccionará a los miembros de estos organismos. La convocatoria deberá publicarse en un medio de amplia difusión nacional. Dentro de los criterios de ponderación se incluirán aspectos como experiencia profesional mínima de cinco (5) años y un examen escrito de antecedentes académicos sobre el uso del manual de pérdida de capacidad !aboral y de invalidez, el cual se realizará a través de una entidad académica de reconocido prestigio. Los resultados del concurso serán públicos y los miembros de las Juntas serán designados por el Ministro del Trabajo, comenzando por quienes obtuvieran mayor puntaje. La conformación de las Juntas Regionales de Calificación de Invalidez podrá ser regionalizada y el manejo de sus recursos será reglamentado por el Gobierno Nacional de manera equitativa. El proceso de selección de los integrantes de las juntas de calificación de invalidez se financiará con recursos del Fondo de Riesgos Profesionales 6 . PARÁGRAFO 2. Las entidades de seguridad social, los miembros de las Juntas Regionales y Nacional de Invalidez y los profesionales que califiquen serán responsables solidariamente por los dictámenes que produzcan perjuicios a los afiliados o a los Administradores del Sistema de Seguridad Social Integral, cuando este hecho esté plenamente probado. PARÁGRAFO 1o. Aparte tachado INEXEQUIBLE Los integrantes de las Juntas Nacional y Regionales de Calificación de Invalidez se regirán por la presente ley y su reglamentación, actuarán dentro del respectivo período y, en caso necesario, permanecerán en sus cargos hasta tanto se realice la posesión de los nuevos integrantes para el período correspondiente, serán designados de acuerdo a la reglamentación que para el efecto expida el Ministerio del Trabajo . PARÁGRAFO 2o. Las entidades de seguridad social y los integrantes de las Juntas Regionales y Nacionales de Invalidez y los profesionales que califiquen, serán responsables solidariamente por los dictámenes que produzcan perjuicios a los afiliados o a los Administradores del Sistema de Seguridad Social Integral, cuando este hecho esté plenamente probado. Es obligación de los diferentes actores de los Sistemas de Seguridad Social en Salud y Riesgos Laborales la entrega oportuna de la información requerida y de la cual se disponga para fundamentar la calificación del origen, entre las entidades competentes para calificar al trabajador. PARÁGRAFO 3o. El Ministerio de Trabajo deberá organizar dentro de los seis (6) meses siguientes a la entrada en vigencia de la presente ley, la estructura y funcionamiento de las Juntas de Calificación de Invalidez como parte de la estructura del Ministerio de Trabajo. PARÁGRAFO 1o. Los integrantes de la Junta Nacional y los de las Juntas Regionales de Calificación de invalidez no tienen el carácter de servidores públicos, no devengan salarios, ni prestaciones sociales y sólo tienen derecho a los honorarios establecidos por el Ministerio de Trabajo. PARÁGRAFO 2o. Los integrantes de la Junta Nacional y los de las Juntas Regionales de Calificación de Invalidez no podrán permanecer más de dos (2) periodos continuos. CAPÍTULO IV. PENSIÓN DE SOBREVIVIENTES...",
+    "fuente": "...mente, hubiere perdido el 50% o más de su capacidad laboral...."
+   }
+  },
+  {
+   "articulo": "46",
+   "estado": "divergente",
+   "similitud": 0.826,
+   "corpus": "ARTÍCULO 46. REQUISITOS PARA OBTENER LA PENSIÓN DE SOBREVIVIENTES. Artículo modificado por el artículo 12 de la Ley 797 de 2003. El nuevo texto es el siguiente: Tendrán derecho a l",
+   "fuente": "ARTÍCULO 46. REQUISITOS PARA OBTENER LA PENSIÓN DE SOBREVIVIENTES. Artículo modificado por el artículo 12 de la Ley 797 de 2003. El nuevo texto es el siguiente: Tendrán derecho a l",
+   "diff": {
+    "corpus": "...crediten las siguientes condiciones: a) Literal INEXEQUIBLE PARÁGRAFO 1o. Cuando un afiliado haya cotizado el número de ...",
+    "fuente": "...crediten las siguientes condiciones: a) Literal INEXEQUIBLE b) Literal INEXEQUIBLE PARÁGRAFO 1o. Cuando un afiliado haya cotizado el número de ..."
+   }
+  },
+  {
+   "articulo": "50",
+   "estado": "divergente",
+   "similitud": 0.8684,
+   "corpus": "ARTÍCULO 50. MESADA ADICIONAL. Los pensionados por vejez o jubilación, invalidez y sustitución o sobrevivencia continuarán recibiendo cada año, junto con la mesada del mes de Novie",
+   "fuente": "ARTÍCULO 50. MESADA ADICIONAL. Los pensionados por vejez o jubilación, invalidez y sustitución o sobrevivencia continuarán recibiendo cada año, junto con la mesada del mes de Novie",
+   "diff": {
+    "corpus": "...or correspondiente a una mensualidad adicional a su pensión. CAPÍTULO VI. ADMINISTRADORAS DEL RÉGIMEN SOLIDARIO DE PRIMA MEDIA CON PRESTACIÓN DEFINIDA...",
+    "fuente": "...or correspondiente a una mensualidad adicional a su pensión...."
+   }
+  },
+  {
+   "articulo": "52",
+   "estado": "divergente",
+   "similitud": 0.7204,
+   "corpus": "ARTÍCULO 52. ENTIDADES ADMINISTRADORAS. Ver Notas del Editor El régimen solidario de prima media con prestación definida será administrado por el Instituto de Seguros Sociales. Las",
+   "fuente": "ARTÍCULO 52. ENTIDADES ADMINISTRADORAS. Ver Notas del Editor El régimen solidario de prima media con prestación definida será administrado por el Instituto de Seguros Sociales. Las",
+   "diff": {
+    "corpus": "... la vigilancia y control de la Superintendencia Bancaria 3 . PARÁGRAFO. Las reservas de las cajas, fondos o entidades de previsión social del sector público que conforme a lo dispuesto en la presente Ley, administren el régimen de prima media con prestación definida, deberán manejarse mediante encargo fiduciario o títulos de la Nación, con arreglo a las normas que sobre inversión, rentabilidad y control determine el Gobierno Nacional. PARÁGRAFO. Artículo INEXEQUIBLE TÍTULO III. RÉGIMEN DE AHORRO INDIVIDUAL CON SOLIDARIDAD CAPÍTULO I. NORMAS GENERALES...",
+    "fuente": "... la vigilancia y control de la Superintendencia Bancaria 3 ...."
+   }
+  },
+  {
+   "articulo": "59",
+   "estado": "divergente",
+   "similitud": 0.9071,
+   "corpus": "ARTÍCULO 59. CONCEPTO. El Régimen de Ahorro Individual con Solidaridad es el conjunto de entidades, normas y procedimientos, mediante los cuales se administran los recursos privado",
+   "fuente": "ARTÍCULO 59. CONCEPTO. El Régimen de Ahorro Individual con Solidaridad es el conjunto de entidades, normas y procedimientos, mediante los cuales se administran los recursos privado",
+   "diff": {
+    "corpus": "...sión bajo la modalidad de retiro programado, si es del caso. PARÁGRAFO. Para todos los efectos, cuando se haga relación al concepto de cuenta individual o cuenta individual de ahorro pensional, tal referencia corresponderá a la suma de las subcuentas individuales que posea el afiliado en cada uno de los fondos. CAPÍTULO II. PENSIÓN DE VEJEZ...",
+    "fuente": "...sión bajo la modalidad de retiro programado, si es del caso...."
+   }
+  },
+  {
+   "articulo": "64",
+   "estado": "divergente",
+   "similitud": 0.8999,
+   "corpus": "ARTÍCULO 64. REQUISITOS PARA OBTENER LA PENSIÓN DE VEJEZ. Los afiliados al Régimen de Ahorro Individual con Solidaridad, tendrán derecho a una pensión de vejez, a la edad que escoj",
+   "fuente": "ARTÍCULO 64. REQUISITOS PARA OBTENER LA PENSIÓN DE VEJEZ. Los afiliados al Régimen de Ahorro Individual con Solidaridad, tendrán derecho a una pensión de vejez, a la edad que escoj",
+   "diff": {
+    "corpus": "... si es mujer y sesenta y dos (62) años de edad si es hombre. PARÁGRAFO. Para efectos del cómputo de las semanas a que se refiere el presente artículo se tendrá en cuenta lo previsto en los parágrafos del artículo 33 de la presente Ley. CAPÍTULO III. PENSIÓN DE INVALIDEZ POR RIESGO COMUN...",
+    "fuente": "... si es mujer y sesenta y dos (62) años de edad si es hombre...."
+   }
+  },
+  {
+   "articulo": "69",
+   "estado": "divergente",
+   "similitud": 0.7282,
+   "corpus": "ARTÍCULO 69. PENSIÓN DE INVALIDEZ. El estado de invalidez, los requisitos para obtener la pensión de invalidez, el monto y el sistema de su calificación en el régimen de ahorro ind",
+   "fuente": "ARTÍCULO 69. PENSIÓN DE INVALIDEZ. El estado de invalidez, los requisitos para obtener la pensión de invalidez, el monto y el sistema de su calificación en el régimen de ahorro ind",
+   "diff": {
+    "corpus": "...tenidas en los artículos 38, 39, 40 y 41 de la presente Ley. PARÁGRAFO. El afiliado podrá contratar la pensión de invalidez con una aseguradora distinta de la que haya pagado la suma adicional a que se refiere el inciso primero de este artículo. CAPÍTULO IV. PENSIÓN DE SOBREVIVIENTES...",
+    "fuente": "...tenidas en los artículos 38, 39, 40 y 41 de la presente Ley...."
+   }
+  },
+  {
+   "articulo": "73",
+   "estado": "divergente",
+   "similitud": 0.5624,
+   "corpus": "ARTÍCULO 73. REQUISITOS Y MONTO. Los requisitos para obtener la pensión de sobrevivientes en el régimen de capitalización individual con solidaridad así como su monto, se regirán p",
+   "fuente": "ARTÍCULO 73. REQUISITOS Y MONTO. Los requisitos para obtener la pensión de sobrevivientes en el régimen de capitalización individual con solidaridad así como su monto, se regirán p",
+   "diff": {
+    "corpus": "...nes contenidas en los artículos 46 y 48, de la presente Ley. PARÁGRAFO. Para efectos de este artículo se requerirá que el vínculo entre el padre, el hijo o el hermano inválido sea el establecido en el Código Civil. PARÁGRAFO. Los sobrevivientes del afiliado podrán contratar la pensión de sobrevivientes con una aseguradora distinta de la que haya pagado la suma adicional a que se refiere el inciso primero de este artículo. CAPÍTULO V. MODALIDADES DE PENSIÓN...",
+    "fuente": "...nes contenidas en los artículos 46 y 48, de la presente Ley...."
+   }
+  },
+  {
+   "articulo": "79",
+   "estado": "divergente",
+   "similitud": 0.9292,
+   "corpus": "ARTÍCULO 79. MODALIDADES DE LAS PENSIONES DE VEJEZ, DE INVALIDEZ Y DE SOBREVIVIENTES. Las pensiones de vejez, de invalidez y de sobrevivientes, podrán adoptar una de las siguientes",
+   "fuente": "ARTÍCULO 79. MODALIDADES DE LAS PENSIONES DE VEJEZ, DE INVALIDEZ Y DE SOBREVIVIENTES. Las pensiones de vejez, de invalidez y de sobrevivientes, podrán adoptar una de las siguientes",
+   "diff": {
+    "corpus": "...o d) Las demás que autorice la Superintendencia Bancaria 3 . CAPÍTULO VI. CARACTERÍSTICAS GENERALES DE LAS PENSIONES MÍNIMAS...",
+    "fuente": "...o d) Las demás que autorice la Superintendencia Bancaria 3 ...."
+   }
+  },
+  {
+   "articulo": "83",
+   "estado": "divergente",
+   "similitud": 0.9617,
+   "corpus": "ARTÍCULO 83. PAGO DE LA GARANTIA. Para las personas que tienen acceso a las garantías estatales de pensión mínima, tales garantías se pagarán a partir del momento en el cual la anu",
+   "fuente": "ARTÍCULO 83. PAGO DE LA GARANTIA. Para las personas que tienen acceso a las garantías estatales de pensión mínima, tales garantías se pagarán a partir del momento en el cual la anu",
+   "diff": {
+    "corpus": "...para que se hagan efectivas las garantías de pensión mínima. CAPÍTULO VII. PRESTACIONES Y BENEFICIOS ADICIONALES...",
+    "fuente": "...para que se hagan efectivas las garantías de pensión mínima...."
+   }
+  },
+  {
+   "articulo": "85",
+   "estado": "divergente",
+   "similitud": 0.9155,
+   "corpus": "ARTÍCULO 85. EXCEDENTES DE LIBRE DISPONIBILIDAD. Será de libre disponibilidad, desde el momento en que el afiliado opte por contratar una pensión, el saldo de la cuenta individual ",
+   "fuente": "ARTÍCULO 85. EXCEDENTES DE LIBRE DISPONIBILIDAD. Será de libre disponibilidad, desde el momento en que el afiliado opte por contratar una pensión, el saldo de la cuenta individual ",
+   "diff": {
+    "corpus": "...o diez por ciento (110%) de la pensión mínima legal vigente. PARÁGRAFO. Lo dispuesto en el presente artículo no exime al afiliado ni al empleador, del pago de las cotizaciones previstas en la presente ley....",
+    "fuente": "...o diez por ciento (110%) de la pensión mínima legal vigente...."
+   }
+  },
+  {
+   "articulo": "88",
+   "estado": "divergente",
+   "similitud": 0.8515,
+   "corpus": "ARTÍCULO 88. DE OTROS PLANES ALTERNATIVOS DE PENSIONES. Las Sociedades Administradoras de Fondos de Pensiones, podrán invertir en contratos de seguros de vida individuales con bene",
+   "fuente": "ARTÍCULO 88. DE OTROS PLANES ALTERNATIVOS DE PENSIONES. Las Sociedades Administradoras de Fondos de Pensiones, podrán invertir en contratos de seguros de vida individuales con bene",
+   "diff": {
+    "corpus": "...garantice por lo menos la pensión mínima arriba mencionada. CAPÍTULO VIII. ADMINISTRADORAS DEL RÉGIMEN DE AHORRO INDIVIDUAL CON SOLID...",
+    "fuente": "...garantice por lo menos la pensión mínima arriba mencionada. El Gobierno Nacional reglamentará el porcentaje máximo del portafolio que podrán invertir los fondos de pensiones en estos tipos de pólizas...."
+   }
+  },
+  {
+   "articulo": "90",
+   "estado": "divergente",
+   "similitud": 0.1878,
+   "corpus": "ARTÍCULO 90. ENTIDADES ADMINISTRADORAS. Los fondos de pensiones del Régimen de Ahorro Individual con Solidaridad serán administrados por las Sociedades Administradoras de Fondos de",
+   "fuente": "ARTÍCULO 90. ENTIDADES ADMINISTRADORAS. Los fondos de pensiones del Régimen de Ahorro Individual con Solidaridad serán administrados por las Sociedades Administradoras de Fondos de",
+   "diff": {
+    "corpus": "...limiento de los requisitos establecidos en la presente Ley. PARÁGRAFO. Las administradoras podrán ser autorizadas para const...",
+    "fuente": "...limiento de los requisitos establecidos en la presente Ley. Las entidades de derecho público del sector central o descentralizado, de cualquier nivel territorial, podrán promover la creación o ser socias de Sociedades Administradoras de Fondos de Pensiones. También podrán promover la constitución o ser socias de las Sociedades Administradoras de Fondos de Pensiones las entidades del sector social solidario, tales como cooperativas, organizaciones sindicales, fondos mutuos de inversión, bancos ..."
+   }
+  },
+  {
+   "articulo": "113",
+   "estado": "divergente",
+   "similitud": 0.4276,
+   "corpus": "ARTÍCULO 113. TRASLADO DE RÉGIMEN. Cuando los afiliados al Sistema en desarrollo de la presente Ley se trasladen de un régimen a otro se aplicarán las siguientes reglas: a) Si el t",
+   "fuente": "ARTÍCULO 113. TRASLADO DE RÉGIMEN.Cuando los afiliados al Sistema en desarrollo de la presente Ley se trasladen de un régimen a otro se aplicarán las siguientes reglas: a) Si el tr",
+   "diff": {
+    "corpus": "...ARTÍCULO 113. TRASLADO DE RÉGIMEN. Cuando los afiliados al Sistema en desarrollo de la presente...",
+    "fuente": "...ARTÍCULO 113. TRASLADO DE RÉGIMEN.Cuando los afiliados al Sistema en desarrollo de la presente..."
+   }
+  },
+  {
+   "articulo": "128",
+   "estado": "divergente",
+   "similitud": 0.9531,
+   "corpus": "ARTÍCULO 128. SELECCIÓN DEL RÉGIMEN. Los servidores públicos afiliados al Sistema General de Pensiones podrán escoger el régimen al que deseen afiliarse, lo cual deberá informarse ",
+   "fuente": "ARTÍCULO 128. SELECCIÓN DEL RÉGIMEN.Los servidores públicos afiliados al Sistema General de Pensiones podrán escoger el régimen al que deseen afiliarse, lo cual deberá informarse a",
+   "diff": {
+    "corpus": "...ARTÍCULO 128. SELECCIÓN DEL RÉGIMEN. Los servidores públicos afiliados al Sistema General de Pens...",
+    "fuente": "...ARTÍCULO 128. SELECCIÓN DEL RÉGIMEN.Los servidores públicos afiliados al Sistema General de Pens..."
+   }
+  },
+  {
+   "articulo": "129",
+   "estado": "divergente",
+   "similitud": 0.9198,
+   "corpus": "ARTÍCULO 129. PROHIBICIÓN GENERAL. A partir de la vigencia de la presente Ley, se prohibe la creación de nuevas cajas, fondos o entidades de previsión o de seguridad social del sec",
+   "fuente": "ARTÍCULO 129. PROHIBICIÓN GENERAL. A partir de la vigencia de la presente Ley, se prohibe la creación de nuevas cajas, fondos o entidades de previsión o de seguridad social del sec",
+   "diff": {
+    "corpus": "...mo entidades promotoras o prestadoras de servicios de salud. CAPÍTULO IV. DISPOSICIONES FINALES DEL SISTEMA GENERAL DE PENSIONES...",
+    "fuente": "...mo entidades promotoras o prestadoras de servicios de salud...."
+   }
+  },
+  {
+   "articulo": "133",
+   "estado": "divergente",
+   "similitud": 0.2762,
+   "corpus": "ARTÍCULO 133. PENSIÓN SANCIÓN. El artículo 267 del Código Sustantivo del Trabajo, subrogado por el artículo 37 de la Ley 50 de 1990, quedará así: PARÁGRAFO 1o. Lo dispuesto en el p",
+   "fuente": "ARTÍCULO 133. PENSIÓN SANCIÓN.El artículo 267 del Código Sustantivo del Trabajo, subrogado por el artículo 37 de la Ley 50 de 1990, quedará así: El trabajador no afiliado al Sistem",
+   "diff": {
+    "corpus": "...ARTÍCULO 133. PENSIÓN SANCIÓN. El artículo 267 del Código Sustantivo del Trabajo, subrogado...",
+    "fuente": "...ARTÍCULO 133. PENSIÓN SANCIÓN.El artículo 267 del Código Sustantivo del Trabajo, subrogado..."
+   }
+  },
+  {
+   "articulo": "156",
+   "estado": "divergente",
+   "similitud": 0.1325,
+   "corpus": "ARTÍCULO 156. CARACTERÍSTICAS BÁSICAS DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD. Artículo condicionalmente EXEQUIBLE El Sistema General de Seguridad Social en Salud tendrá l",
+   "fuente": "ARTÍCULO 156. CARACTERÍSTICAS BÁSICAS DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD. Artículo condicionalmente EXEQUIBLE El Sistema General de Seguridad Social en Salud tendrá l",
+   "diff": {
+    "corpus": "...constituye el Sistema General de Seguridad Social en Salud; CAPÍTULO II. DE LOS AFILIADOS AL SISTEMA...",
+    "fuente": "...constituye el Sistema General de Seguridad Social en Salud; b) Todos los habitantes en Colombia deberán estar afiliados al Sistema General de Seguridad Social en Salud, previo el pago de la cotización reglamentaria o a través del subsidio que se financiará con recursos fiscales, de solidaridad y los ingresos propios de los entes territoriales; c) Todos los afiliados al Sistema General de Seguridad Social en Salud recibirán un Plan Integral de protección de la salud, con atención preventiva, médico-quirúrgica y medicamentos esenciales, que será denominado el Plan Obligatorio de Salud; d) El recaudo de las cotizaciones será responsabilidad del Sistema General de Seguridad Social-Fondo de Solidaridad y Garantía, quien delegará en lo pertinente esta función en las Entidades Promotoras de Salud; e) Las Entidades Promotoras de Salud tendrán a cargo la afiliación de los usuarios y la administración de la prestación de los servicios de las Instituciones Prestadoras. Ellas están en la obligación de suministrar, dentro de los..."
+   }
+  },
+  {
+   "articulo": "157",
+   "estado": "divergente",
+   "similitud": 0.6352,
+   "corpus": "ARTÍCULO 157. TIPOS DE PARTICIPANTES EN EL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD. Artículo condicionalmente EXEQUIBLE A partir de la sanción de la presente Ley, todo colombi",
+   "fuente": "ARTÍCULO 157. TIPOS DE PARTICIPANTES EN EL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD. Artículo condicionalmente EXEQUIBLE A partir de la sanción de la presente Ley, todo colombi",
+   "diff": {
+    "corpus": "... que trata el capítulo I del título III de la presente Ley. PARÁGRAFO 1o. El Gobierno Nacional establecerá un régimen de...",
+    "fuente": "... que trata el capítulo I del título III de la presente Ley. 2. Ver Notas del Editor Texto corregido en los términos de la Sentencia C-458-15 Los afiliados al Sistema mediante el régimen subsidiado de que trata el Artículo 211 de la presente Ley son las personas sin capacidad de pago para cubrir el monto total de la cotización. Serán subsidiadas en el Sistema General de Seguridad Social en Salud la población más pobre y vulnerable del país en las áreas rural y urbana. Tendrán particular importancia, dentro de este grupo, personas tales como las madres durante el embarazo, parto y postparto y período de lactancia, las madres comunitarias , las mujeres cabeza de familia, los niños menores de un año, los menores en situación irregular, los enfermos de Hansen, las personas mayores de 65 años, los discapacitado persona en situación de discapacidad , los campesinos, las comunidades indígenas, los trabajadores y profesionales independientes, artistas y deportistas, toreros y sus subalternos, periodistas independientes, maestros de obra de construcción, albañiles, taxistas, electricistas, desempleados y demás personas sin capacidad de pago. B. Personas vinculadas al Sistema. Ver Notas del Editor Los participantes vinculados son aquellas personas que por motivos de incapacidad de pago y mientras logran ser beneficiarios del régimen subsidiado tendrán derecho a los servicios de atención de salud que prestan las instituciones públicas y aquellas privadas que tengan contrato con el Estado. A partir del año 2.000, todo colombiano deberá estar vinculado al Sistema a través de los regímenes contributivo o subsidiado, en donde progresivamente se unificarán los planes de salud para que todos los habitantes del territorio nacional reciban el Plan Obligatorio de Salud de que habla el artículo 162. PARÁGRAFO 1o. El Gobierno Nacional establecerá un régimen de..."
+   }
+  },
+  {
+   "articulo": "162",
+   "estado": "divergente",
+   "similitud": 0.1676,
+   "corpus": "ARTÍCULO 162. PLAN DE SALUD OBLIGATORIO. Artículo CONDICIONALMENTE EXEQUIBLE El Sistema General de Seguridad Social de Salud crea las condiciones de acceso a un Plan Obligatorio de",
+   "fuente": "ARTÍCULO 162. PLAN DE SALUD OBLIGATORIO. Artículo CONDICIONALMENTE EXEQUIBLE El Sistema General de Seguridad Social de Salud crea las condiciones de acceso a un Plan Obligatorio de",
+   "diff": {
+    "corpus": "...y los niveles de atención y complejidad que se definan. PARÁGRAFO 1o. En el período de transición, la población del régime...",
+    "fuente": "...y los niveles de atención y complejidad que se definan. Para los afiliados cotizantes según las normas del régimen contributi..."
+   }
+  },
+  {
+   "articulo": "167",
+   "estado": "divergente",
+   "similitud": 0.918,
+   "corpus": "ARTÍCULO 167. RIESGOS CATASTRÓFICOS Y ACCIDENTES DE TRÁNSITO. En los casos de urgencias generadas en accidentes de tránsito, en acciones terroristas ocasionadas por bombas o artefa",
+   "fuente": "ARTÍCULO 167. RIESGOS CATASTRÓFICOS Y ACCIDENTES DE TRÁNSITO. En los casos de urgencias generadas en accidentes de tránsito, en acciones terroristas ocasionadas por bombas o artefa",
+   "diff": {
+    "corpus": "...reaseguros para el cubrimiento de los riesgos catastróficos. Notas del Editor PARÁGRAFO. Los procedimientos de cobro y pago, así como las tarifas de estos servicios serán definidos por el gobierno nacional, de acuerdo con las recomendaciones del Consejo Nacional de Seguridad Social en Salud 4 . CAPÍTULO IV. DE LA DIRECCIÓN DEL SISTEMA...",
+    "fuente": "...reaseguros para el cubrimiento de los riesgos catastróficos...."
+   }
+  },
+  {
+   "articulo": "170",
+   "estado": "divergente",
+   "similitud": 0.7845,
+   "corpus": "ARTÍCULO 170. COMPETENCIAS. Subrogado por el artículo 119 del Decreto extraordinario 2150 de 1995. El nuevo texto es el siguiente: El Sistema General de Seguridad Social en Salud e",
+   "fuente": "ARTÍCULO 170. COMPETENCIAS. Subrogado por el artículo 119 del Decreto extraordinario 2150 de 1995. El nuevo texto es el siguiente: El Sistema General de Seguridad Social en Salud e",
+   "diff": {
+    "corpus": "...troladores del Sistema General de Seguridad Social en Salud. PARÁGRAFO. Las funciones de que trata el presente artículo sustituyen las que corresponden al artículo 9 de la Ley 10 de 1990, en los literales a), b), e), j). Ver Notas de Vigencia. Consultar en el artículo 26 del Decreto 2560 de 2012 las funciones de la CRES trasladadas a este ministerio PARÁGRAFO. Durante el período de transición requerido para lograr la cobertura universal de seguridad social en salud, los hospitales públicos y aquellos privados con quienes exista contrato para ello continuarán prestando servicios a las personas pobres y vulnerables que no estén afiliados al Sistema General de Seguridad Social en Salud. TÍTULO II. LA ORGANIZACIÓN DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD CAPÍTULO I. DE LAS ENTIDADES PROMOTORAS DE SALUD...",
+    "fuente": "...troladores del Sistema General de Seguridad Social en Salud...."
+   }
+  },
+  {
+   "articulo": "177",
+   "estado": "divergente",
+   "similitud": 0.3611,
+   "corpus": "ARTÍCULO 177. DEFINICIÓN. Las Entidades Promotoras de Salud son las entidades responsables de la afiliación, y el registro de los afiliados y del recaudo de sus cotizaciones, por d",
+   "fuente": "ARTÍCULO 177. DEFINICIÓN.Las Entidades Promotoras de Salud son las entidades responsables de la afiliación, y el registro de los afiliados y del recaudo de sus cotizaciones, por de",
+   "diff": {
+    "corpus": "...ARTÍCULO 177. DEFINICIÓN. Las Entidades Promotoras de Salud son las entidades responsa...",
+    "fuente": "...ARTÍCULO 177. DEFINICIÓN.Las Entidades Promotoras de Salud son las entidades responsa..."
+   }
+  },
+  {
+   "articulo": "185",
+   "estado": "divergente",
+   "similitud": 0.3263,
+   "corpus": "ARTÍCULO 185. INSTITUCIONES PRESTADORAS DE SERVICIOS DE SALUD. Son funciones de las Instituciones Prestadoras de Servicios de Salud prestar los servicios en su nivel de atención co",
+   "fuente": "ARTÍCULO 185. INSTITUCIONES PRESTADORAS DE SERVICIOS DE SALUD. Son funciones de las Instituciones Prestadoras de Servicios de Salud prestar los servicios en su nivel de atención co",
+   "diff": {
+    "corpus": "...e los parámetros y principios señalados en la presente Ley. PARÁGRAFO. Toda Institución Prestadora de Servicios de Salud...",
+    "fuente": "...e los parámetros y principios señalados en la presente Ley. Las Instituciones Prestadoras de Servicios deben tener como principios básicos la calidad y la eficiencia, y tendrán autonomía administrativa, técnica y financiera. Además propenderán por la libre concurrencia en sus acciones, proveyendo información oportuna, suficiente y veraz a los usuarios, y evitando el abuso de posición dominante en el sistema. Están prohibidos todos los acuerdos o convenios entre Instituciones Prestadoras de Servicios de Salud, entre asociaciones o sociedades científicas, y de profesionales o auxiliares del sector salud, o al interior de cualquiera de los anteriores, que tengan por objeto o efecto impedir, restringir o falsear el juego de la libre competencia dentro del mercado de servicios de salud, o impedir, restringir o interrumpir la prestación de los servicios de salud. Para que una entidad pueda constituirse como Institución Prestadora de Servicios de salud deberá cumplir con los requisitos contemplados en las normas expedidas por el Ministerio de Salud 1 . PARÁGRAFO. Toda Institución Prestadora de Servicios de Salud..."
+   }
+  },
+  {
+   "articulo": "194",
+   "estado": "divergente",
+   "similitud": 0.9529,
+   "corpus": "ARTÍCULO 194. NATURALEZA. La prestación de servicios de salud en forma directa por la nación o por las entidades territoriales, se hará principalmente a través de las Empresas Soci",
+   "fuente": "ARTÍCULO 194. NATURALEZA. La prestación de servicios de salud en forma directa por la nación o por las entidades territoriales, se hará principalmente a través de las Empresas Soci",
+   "diff": {
+    "corpus": "...so, sometidas al régimen jurídico previsto en este capítulo. Notas del Editor CAPÍTULO IV. DE LOS USUARIOS...",
+    "fuente": "...so, sometidas al régimen jurídico previsto en este capítulo...."
+   }
+  },
+  {
+   "articulo": "198",
+   "estado": "divergente",
+   "similitud": 0.6809,
+   "corpus": "ARTÍCULO 198. INFORMACIÓN A LOS USUARIOS. Las Instituciones Prestadoras de Salud deberán garantizar un adecuado sistema de información de sus servicios y atención a los usuarios, m",
+   "fuente": "ARTÍCULO 198. INFORMACIÓN A LOS USUARIOS. Las Instituciones Prestadoras de Salud deberán garantizar un adecuado sistema de información de sus servicios y atención a los usuarios, m",
+   "diff": {
+    "corpus": "...a línea telefónica abierta con atención permanente 24 horas. PARÁGRAFO. El Ministerio de Salud 1 solicitará la información que estime necesaria con el objeto de establecer sistemas homogéneos de registro y análisis que permitan periódicamente la evaluación de la calidad del servicio y la satisfacción del usuario....",
+    "fuente": "...a línea telefónica abierta con atención permanente 24 horas...."
+   }
+  },
+  {
+   "articulo": "200",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "201",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "202",
+   "estado": "divergente",
+   "similitud": 0.2092,
+   "corpus": "ARTÍCULO 202. DEFINICIÓN. Artículo modificado por el artículo 30 de la Ley 1607 de 2012. El nuevo texto es el siguiente: El régimen contributivo es un conjunto de normas que rigen ",
+   "fuente": "ARTÍCULO 202. DEFINICIÓN. Artículo modificado por el artículo 30 de la Ley 1607 de 2012. El nuevo texto es el siguiente: El régimen contributivo es un conjunto de normas que rigen ",
+   "diff": {
+    "corpus": "...rencia entre este y el empleador o la Nación, según el caso. PARÁGRAFO. El Gobierno podrá establecer los sistemas de control que estime necesarios para evitar que los afiliados obligatorios al régimen contributivo y las personas de altos ingresos se beneficien de los subsidios previstos en la presente Ley. PARÁGRAFO 1o. La base de cotización de las personas vinculadas mediante contrato de trabajo o como servidores públicos, afiliados obligatorios al Sistema General de Seguridad Social en Salud, será la misma contemplada en el sistema general de pensiones de esta Ley. PARÁGRAFO 2o. Para efectos de cálculo de la base de cotización de los trabajadores independientes, el Gobierno Nacional reglamentará un sistema de presunciones de ingreso con base en información sobre el nivel de educación, la experiencia laboral, las actividades económicas, la región de operación y el patrimonio de los individuos. Asi mismo, la periodicidad de la cotización para estos trabajadores podrá variar dependiendo de la estabilidad y periodicidad de sus ingresos. PARÁGRAFO 3o. Cuando se devenguen mensualmente más de 20 salarios mínimos legales vigentes, la base de cotización podrá ser limitada a dicho monto por el Consejo Nacional de Seguridad Social en Salud 4 . PARÁGRAFO 4o. Ver Notas del Editor Parágrafo adicionado por el artículo 31 de la Ley 1607 de 2012. El nuevo texto es el siguiente: A partir del 1o de enero de 2014, estarán exoneradas de la cotización al Régimen Contributivo de Salud del que trata este artículo, las sociedades y personas jurídicas y asimiladas contribuyentes declarantes del impuesto sobre la renta y complementarios, por sus trabajadores que devenguen hasta diez (10) salarios mínimos legales mensuales vigentes. Notas del Editor PARÁGRAFO 5o. Parágrafo adicionado por el artículo 142 de la Ley 2010 de 2019. El nuevo texto es el siguiente: Pérdida de fuerza elejutoria por cumplimiento del objeto para los años 2020 y 2021 La cotización mensual en salud al régimen contributivo a cargo de los pensionados para los años 2020 y 2021 se determinará mediante la siguiente tabla: Mesada pensional en salarios mínimos legales mensuales vigentes (SMLMV) Cotización mensual en salud 1 SMLMV 8% 1 SMLMV y hasta 2 SMLMV 10% 2 SMLMV y hasta 5 SMLMV 12% 5 SMLMV y hasta 8 SMLMV 12% 8 SMLMV 12% A partir del año 2022, se aplicará la siguiente tabla: Mesada pensional en salarios mínimos legales mensuales vigentes (SMLMV) Cotización mensual en salud 1 SMLMV 4% 1 SMLMV y hasta 2 SMLMV 10% 2 SMLMV y hasta 5 SMLMV Ver inciso siguiente a partir del 2024 12% 5 SMLMV y hasta 8 SMLMV 12% 8 SMLMV 12% Inciso adicionado por el artículo 78 de la Ley 2294 de 2023. El nuevo texto es el siguiente: El aporte a salud a cargo de los pensionados que devengan entre 2 y 3 salarios mínimos se reducirá del 12% al 10%, el cual regirá a partir de la vigencia de 2024 previa reglamentación del Gobierno Nacional, la cual hace parte de la agenda social que se presentará al Congreso de la República. PARÁGRAFO 1o. El Fondo de Solidaridad y Garantía está autorizado para suscribir créditos puente con el sistema bancario en caso que se presenten problemas de liquidez al momento de hacer la compensación interna. PARÁGRAFO 2o. El Fondo de Solidaridad y Garantía sólo hará el reintegro para compensar el valor de la Unidad de Pago por Capitación de aquellos afiliados que hayan pagado íntegra y oportunamente la cotización mensual correspondiente. La Superintendencia Nacional de salud velará por el cumplimiento de esta disposición. PARÁGRAFO. El Gobierno Nacional reglamentará los procedimientos de cobro y pago de estos servicios. La Superintendencia Nacional de Salud vigilará y controlará el cumplimiento de tales normas. PARÁGRAFO. Ningún empleador de sector público o privado está exento de pagar su respectivo aporte al Sistema General de Seguridad Social en Salud. CAPÍTULO II. DEL RÉGIMEN SUBSIDIADO...",
+    "fuente": "...rencia entre este y el empleador o la Nación, según el caso...."
+   }
+  },
+  {
+   "articulo": "211",
+   "estado": "divergente",
+   "similitud": 0.2917,
+   "corpus": "ARTÍCULO 211. DEFINICIÓN. El régimen subsidiado es un conjunto de normas que rigen la vinculación de los individuos al Sistema General de Seguridad Social en Salud, cuando tal vinc",
+   "fuente": "ARTÍCULO 211. DEFINICIÓN.El régimen subsidiado es un conjunto de normas que rigen la vinculación de los individuos al Sistema General de Seguridad Social en Salud, cuando tal vincu",
+   "diff": {
+    "corpus": "...ARTÍCULO 211. DEFINICIÓN. El régimen subsidiado es un conjunto de normas que rigen la ...",
+    "fuente": "...ARTÍCULO 211. DEFINICIÓN.El régimen subsidiado es un conjunto de normas que rigen la ..."
+   }
+  },
+  {
+   "articulo": "218",
+   "estado": "divergente",
+   "similitud": 0.4043,
+   "corpus": "ARTÍCULO 218. CREACIÓN Y OPERACIÓN DEL FONDO. Ver Notas del Editor Créase el Fondo de Solidaridad y Garantía, como una cuenta adscrita al Ministerio de Salud 1 que se manejará por ",
+   "fuente": "ARTÍCULO 218. CREACIÓN Y OPERACIÓN DEL FONDO. Ver Notas del Editor Créase el Fondo de Solidaridad y Garantía, como una cuenta adscrita al Ministerio de Salud 1 que se manejará por ",
+   "diff": {
+    "corpus": "...los criterios de utilización y distribución de sus recursos. Notas del Editor PARÁGRAFO. La Superintendencia Nacional de Salud realizará el control posterior de las sumas declaradas y tendrá la facultad de imponer las multas que defina el respectivo reglamento. Notas del editor PARÁGRAFO 1o. Los recursos de solidaridad se destinarán a cofinanciar los subsidios para los colombianos más pobres y vulnerables, los cuales se transferirán, de acuerdo con la reglamentación que para el efecto adopte el Gobierno Nacional, a la cuenta especial que deberá establecerse en los fondos seccionales, distritales y locales para el manejo de los subsidios en salud. Notas del Editor PARÁGRAFO 2o. Parágrafo derogado por el artículo 44 de la Ley 344 de 1996 PARÁGRAFO. A partir del año 2023, de la contribución dispuesta en el literal b) del presente artículo, la ADRES deberá destinar 2 puntos porcentuales para priorizar el pago directo de la cartera adeudada a las IPS por reclamaciones derivadas de, accidentes de tránsito por vehículos no identificados y/o no asegurados. En caso de no tener pasivos por ese concepto, se podrán destinar estos recursos para financiar el aseguramiento en salud del régimen subsidiado. El Gobierno nacional reglamentará la materia en un plazo de 6 meses. PARÁGRAFO. Estos recursos serán complementarios a los recursos que para la atención hospitalaria de las urgencias destinen las entidades territoriales. PARÁGRAFO. Se exceptúan de este impuesto las armas de fuego y municiones y explosivos que posean las Fuerzas Armadas y de Policía y las entidades de seguridad del Estado. TÍTULO IV. DE LA VIGILANCIA Y CONTROL DEL SISTEMA...",
+    "fuente": "...los criterios de utilización y distribución de sus recursos...."
+   }
+  },
+  {
+   "articulo": "225",
+   "estado": "divergente",
+   "similitud": 0.5427,
+   "corpus": "ARTÍCULO 225. INFORMACIÓN REQUERIDA. Las Entidades Promotoras de Salud, cualquiera sea su naturaleza, deberán establecer sistemas de costos, facturación y publicidad. Los sistemas ",
+   "fuente": "ARTÍCULO 225. INFORMACIÓN REQUERIDA. Las Entidades Promotoras de Salud, cualquiera sea su naturaleza, deberán establecer sistemas de costos, facturación y publicidad. Los sistemas ",
+   "diff": {
+    "corpus": "...dimientos e insumos que determine el Ministerio de Salud 1 . PARÁGRAFO. Para la inscripción en el registro mercantil del nombramiento de los revisores fiscales, se exigirá por parte de las Cámaras de Comercio copia de la correspondiente acta de posesión. PARÁGRAFO 1o. El Gobierno reglamentará los procedimientos de fusión, adquisición, liquidación, cesión de activos, pasivos y contratos, toma de posesión para administrar o liquidar y otros mecanismos aplicables a las entidades promotoras y prestadoras que permitan garantizar la adecuada prestación del servicio de salud a que hace referencia la presente Ley, protegiendo la confianza pública en el sistema. PARÁGRAFO 2o. La Superintendencia Nacional de Salud ejercerá las funciones de inspección, control y vigilancia respecto de las Entidades Promotoras de Salud, cualquiera que sea su naturaleza jurídica. PARÁGRAFO 1o. Deróganse el artículo 3o., numerales 1, 2, 16, 17, 18 y artículo 38 del Decreto 2165 de 1992. PARÁGRAFO 2o. Ver Notas del Editor El procedimiento administrativo de la Superintendencia Nacional de Salud será el mismo que se consagra por las disposiciones legales para la Superintendencia Bancaria 3 . Los actos de carácter general que expida la Superintendencia Nacional de Salud no producirán efectos legales mientras no se publiquen en el boletín del Ministerio de Salud 1 , Capítulo, Superintendencia Nacional de Salud, el cual podrá ser editado y distribuido a través de esta. Notas del Editor PARÁGRAFO 3o. Para el cumplimiento de su función de inspección y vigilancia sobre el Fondo de Solidaridad y Garantía y sobre las Entidades Promotoras de Salud, la Superintendencia Nacional de Salud podrá contratar con firmas de auditoría colombianas la realización del programa o labores especiales. Notas del Editor TÍTULO V. LA TRANSICIÓN DEL SISTEMA...",
+    "fuente": "...dimientos e insumos que determine el Ministerio de Salud 1 ...."
+   }
+  },
+  {
+   "articulo": "234",
+   "estado": "casi",
+   "similitud": 0.9995,
+   "corpus": "ARTÍCULO 234. RÉGIMEN DE TRANSICIÓN. El Sistema General de Seguridad Social en Salud con todas las entidades y elementos que lo conforman tendrá un plazo máximo de un año, contado ",
+   "fuente": "ARTÍCULO 234. RÉGIMEN DE TRANSICIÓN.El Sistema General de Seguridad Social en Salud con todas las entidades y elementos que lo conforman tendrá un plazo máximo de un año, contado a",
+   "diff": {
+    "corpus": "...ARTÍCULO 234. RÉGIMEN DE TRANSICIÓN. El Sistema General de Seguridad Social en Salud con todas la...",
+    "fuente": "...ARTÍCULO 234. RÉGIMEN DE TRANSICIÓN.El Sistema General de Seguridad Social en Salud con todas la..."
+   }
+  },
+  {
+   "articulo": "235",
+   "estado": "divergente",
+   "similitud": 0.5726,
+   "corpus": "ARTÍCULO 235. DEL INSTITUTO DE SEGUROS SOCIALES. No obstante lo previsto en el artículo anterior, las obligaciones de afiliación y cotización consagradas en las leyes vigentes será",
+   "fuente": "ARTÍCULO 235. DEL INSTITUTO DE SEGUROS SOCIALES. No obstante lo previsto en el artículo anterior, las obligaciones de afiliación y cotización consagradas en las leyes vigentes será",
+   "diff": {
+    "corpus": "...e Solidaridad y Garantía. PARÁGRAFO. Parágrafo INEXEQUIBLE . PARÁGRAFO 1o. En todo caso, los servidores públicos que se vinculen a partir de la vigencia de la presente Ley se afiliarán al Instituto de Seguros Sociales o a cualquier Entidad Promotora de Salud, según lo dispuesto en esta Ley. PARÁGRAFO 2o. Las enajenaciones derivadas de los procesos de reorganización aquí mencionados estarán exentos de los impuestos correspondientes. PARÁGRAFO 3o. Las instituciones de seguridad social del orden nacional podrán ser liquidadas cuando así lo solicite la mitad más uno de los afiliados que se expresarán de conformidad con el mecanismo que para el efecto defina el decreto reglamentario. Lo anterior sin perjuicio de que todas las instituciones se sometan a las disposiciones consagradas en la presente Ley. PARÁGRAFO. Durante el período en el cual los afiliados del ISS no puedan trasladarse a otras Entidades Promotoras de Salud, la atención de las familias de los trabajadores podrá ser cubierta por las Cajas de Compensación Familiar o por cualquier otra Entidad Promotora de Salud, de acuerdo con la elección que haga el afiliado cotizante. Para ello, recibirán una parte de la cotización de que trata el artículo 204, según lo establezca el Gobierno Nacional previo el concepto del Consejo Nacional de Seguridad Social en Salud 4 . TÍTULO VI. DISPOSICIONES COMPLEMENTARIAS...",
+    "fuente": "...e Solidaridad y Garantía. PARÁGRAFO. Parágrafo INEXEQUIBLE ...."
+   }
+  },
+  {
+   "articulo": "242",
+   "estado": "divergente",
+   "similitud": 0.5016,
+   "corpus": "ARTÍCULO 242. FONDO PRESTACIONAL DEL SECTOR SALUD. Ver Notas del Editor El fondo del pasivo prestacional para el sector salud, de que trata la Ley 60 de 1993, cubrirá las cesantías",
+   "fuente": "ARTÍCULO 242. FONDO PRESTACIONAL DEL SECTOR SALUD. Ver Notas del Editor El fondo del pasivo prestacional para el sector salud, de que trata la Ley 60 de 1993, cubrirá las cesantías",
+   "diff": {
+    "corpus": "...retroactividad en el régimen de cesantía a ellos aplicable. PARÁGRAFO. Para los efectos de lo dispuesto en el presente artíc...",
+    "fuente": "...retroactividad en el régimen de cesantía a ellos aplicable. En el caso de que las instituciones a que se refiere el artículo 33 de la Ley 60 de 1993 y para los efectos allí previstos, estén reconociendo por un régimen especial un sistema pensional distinto del exigido por..."
+   }
+  },
+  {
+   "articulo": "249",
+   "estado": "divergente",
+   "similitud": 0.8808,
+   "corpus": "ARTÍCULO 249. ACCIDENTES DE TRABAJO Y ENFERMEDAD PROFESIONAL. 6 Las pensiones de invalidez originadas en accidente de trabajo o enfermedad profesional 6 continuarán rigiéndose por ",
+   "fuente": "ARTÍCULO 249. ACCIDENTES DE TRABAJO Y ENFERMEDAD PROFESIONAL. 6 Las pensiones de invalidez originadas en accidente de trabajo o enfermedad profesional 6 continuarán rigiéndose por ",
+   "diff": {
+    "corpus": "...lidez integradas a que se refieren los artículos siguientes. CAPÍTULO II. PENSIÓN DE SOBREVIVIENTES ORIGINADA POR ACCIDENTES DE TRABAJO Y ENFERMEDAD PROFESIONAL 6...",
+    "fuente": "...lidez integradas a que se refieren los artículos siguientes...."
+   }
+  },
+  {
+   "articulo": "255",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "256",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "257",
+   "estado": "divergente",
+   "similitud": 0.4733,
+   "corpus": "ARTÍCULO 257. PROGRAMA Y REQUISITOS. Establécese un programa de auxilios para los ancianos indigentes que cumplan los siguientes requisitos: a) Ser Colombiano; b) Llegar a una edad",
+   "fuente": "ARTÍCULO 257. PROGRAMA Y REQUISITOS. Establécese un programa de auxilios para los ancianos indigentes que cumplan los siguientes requisitos: a) Ser Colombiano; b) Llegar a una edad",
+   "diff": {
+    "corpus": "...os, podrán modificar los requisitos anteriormente definidos. PARÁGRAFO. EL Gobierno Nacional reglamentará los mecanismos y procedimientos para hacer efectivo el programa de que trata el presente artículo, contemplando mecanismos para la cofinanciación por parte de los departamentos, distritos y municipios. El programa podrá ser administrado y ejecutado de manera descentralizada. Así mismo, el Gobierno podrá modificar los requisitos dependiendo de la evolución demográfica y la evolución de la población beneficiaria del programa. PARÁGRAFO 1o. Respecto de los servicios de salud que presta, actuará como una Entidad Promotora y Prestadora de Servicios de Salud con jurisdicción nacional. El Consejo Directivo del Instituto determinará las tarifas que el instituto aplicará en la venta de servicios de salud. PARÁGRAFO 2o. Para efectos tributarios el ISS se regirá por lo previsto para los establecimientos públicos. PARÁGRAFO 3o. En un plazo de un año a partir de la vigencia de la presente ley, y de acuerdo con la reglamentación que expida el consejo directivo, el instituto garantizará la descentralización y la autonomía técnica, financiera y administrativa de las unidades de su propiedad que presten los servicios de salud. PARÁGRAFO 1o. La empresa y los servidores de que trata el inciso anterior, quedan obligados a efectuar los aportes de solidaridad previstos en esta ley. Las entidades empleadoras referidas en el presente artículo, quedan facultadas para recibir y expedir los bonos correspondientes a los períodos de vinculación o cotización a que hubiere lugar, de conformidad con la reglamentación que para tal efecto se expida. PARÁGRAFO 2o. La pensión gracia para los educadores de que trata las Leyes 114 de 1913, 116 de 1928 y 37 de 1933, continuará a cargo de la Caja Nacional de Previsión y del Fondo de Pensiones Públicas del Nivel Nacional, cuando éste sustituya a la Caja en el pago de sus obligaciones pensionales. PARÁGRAFO 3o. Las pensiones de que tratan las leyes 126 de 1985 adicionada por la Ley 71 de 1988, continuarán vigentes en los términos y condiciones en ellas contemplados. PARÁGRAFO 4o. Adicionado por el artículo 1o. de la Ley 238 de 1995, el nuevo texto es el siguiente: Las excepciones consagradas en el presente artículo no implican negación de los beneficios y derechos determinados en los artículos 14 y 142 de esta ley para los pensionados de los sectores aquí contemplados. PARÁGRAFO. El Gobierno Nacional reglamentará la organización y funcionamiento de estas rifas, así como su régimen tarifario. PARÁGRAFO TRANSITORIO. Mientras se consolida la contratación integral, las entidades públicas prestadoras de servicios de salud, en proceso de reestructuración, que no pueden suspender la prestación de los servicios, podrán contratar con exfuncionarios de la misma entidad, aunque sean personas naturales a quienes se les haya suprimido el empleo, pagado indemnización o pagado bonificación. También podrán contratar con personas jurídicas conformadas por funcionarios de la misma entidad a quienes se les suprimirá el empleo y se hayan constituido como personas jurídicas para tal fin. A las personas previstas en este artículo que suscriban contratos no se les exigirá el requisito de tiempo de desvinculación para efectos de las inhabilidades de Ley....",
+    "fuente": "...os, podrán modificar los requisitos anteriormente definidos...."
+   }
+  },
+  {
+   "articulo": "287",
+   "estado": "exacto"
+  }
+ ],
+ "sin_contraparte": [
+  "2",
+  "4",
+  "7",
+  "8",
+  "9",
+  "11",
+  "12",
+  "13",
+  "14",
+  "16",
+  "18",
+  "19",
+  "20",
+  "21",
+  "22",
+  "23",
+  "24",
+  "26",
+  "27",
+  "28",
+  "29",
+  "30",
+  "32",
+  "34",
+  "35",
+  "36",
+  "37",
+  "39",
+  "40",
+  "41",
+  "42",
+  "43",
+  "44",
+  "45",
+  "47",
+  "48",
+  "49",
+  "51",
+  "53",
+  "54",
+  "55",
+  "56",
+  "57",
+  "58",
+  "60",
+  "61",
+  "62",
+  "63",
+  "65",
+  "66",
+  "67",
+  "68",
+  "70",
+  "71",
+  "72",
+  "74",
+  "75",
+  "76",
+  "77",
+  "78",
+  "80",
+  "81",
+  "82",
+  "84",
+  "86",
+  "87",
+  "89",
+  "91",
+  "92",
+  "93",
+  "94",
+  "95",
+  "96",
+  "97",
+  "98",
+  "99",
+  "100",
+  "101",
+  "102",
+  "103",
+  "104",
+  "105",
+  "106",
+  "107",
+  "108",
+  "109",
+  "110",
+  "111",
+  "112",
+  "114",
+  "115",
+  "116",
+  "117",
+  "118",
+  "119",
+  "120",
+  "121",
+  "122",
+  "123",
+  "124",
+  "125",
+  "126",
+  "127",
+  "130",
+  "131",
+  "132",
+  "134",
+  "135",
+  "136",
+  "137",
+  "138",
+  "139",
+  "140",
+  "141",
+  "142",
+  "143",
+  "144",
+  "145",
+  "146",
+  "147",
+  "148",
+  "149",
+  "150",
+  "151",
+  "151A",
+  "151B",
+  "151C",
+  "151D",
+  "151E",
+  "151F",
+  "152",
+  "153",
+  "154",
+  "155",
+  "158",
+  "159",
+  "160",
+  "161",
+  "162A",
+  "163",
+  "164",
+  "165",
+  "166",
+  "168",
+  "169",
+  "171",
+  "172",
+  "173",
+  "174",
+  "175",
+  "176",
+  "178",
+  "179",
+  "180",
+  "181",
+  "182",
+  "183",
+  "184",
+  "186",
+  "187",
+  "188",
+  "189",
+  "190",
+  "191",
+  "192",
+  "193",
+  "195",
+  "196",
+  "197",
+  "199",
+  "203",
+  "204",
+  "205",
+  "206",
+  "207",
+  "208",
+  "209",
+  "210",
+  "212",
+  "213",
+  "214",
+  "215",
+  "216",
+  "217",
+  "219",
+  "220",
+  "221",
+  "222",
+  "223",
+  "224",
+  "226",
+  "227",
+  "228",
+  "229",
+  "230",
+  "231",
+  "232",
+  "233",
+  "236",
+  "237",
+  "238",
+  "239",
+  "240",
+  "241",
+  "243",
+  "244",
+  "245",
+  "246",
+  "247",
+  "248",
+  "250",
+  "251",
+  "252",
+  "253",
+  "254",
+  "258",
+  "259",
+  "260",
+  "261",
+  "262",
+  "263",
+  "264",
+  "265",
+  "266",
+  "267",
+  "268",
+  "269",
+  "270",
+  "271",
+  "272",
+  "273",
+  "274",
+  "275",
+  "276",
+  "277",
+  "278",
+  "279",
+  "280",
+  "281",
+  "282",
+  "283",
+  "284",
+  "285",
+  "286",
+  "288",
+  "289"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 5,
+  "casi": 2,
+  "divergentes": 43
+ }
+}

@@ -1,0 +1,374 @@
+{
+ "corpus": "Ley_2466_2025.md",
+ "fuente": "sistema/verificacion/fuentes/Ley_2466_2025.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 70,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "6",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "7",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "8",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "9",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "10",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "11",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "12",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "13",
+   "estado": "casi",
+   "similitud": 0.9835,
+   "corpus": "ARTÍCULO 13. LÍMITE AL TRABAJO SUPLEMENTARIO. Modifíquese el artículo 22 de la Ley 50 de 1990, el cual quedará así: Notas del Editor \" Artículo 22. Límite al trabajo suplementario.",
+   "fuente": "ARTÍCULO 13. LÍMITE AL TRABAJO SUPLEMENTARIO. Modifíquese el artículo 22 de la Ley 50 de 1990, el cual quedará así: \" Artículo 22. Límite al trabajo suplementario. En ningún caso l",
+   "diff": {
+    "corpus": "...e el artículo 22 de la Ley 50 de 1990, el cual quedará así: Notas del Editor \" Artículo 22. Límite al trabajo suplementario. En ningún ca...",
+    "fuente": "...e el artículo 22 de la Ley 50 de 1990, el cual quedará así: \" Artículo 22. Límite al trabajo suplementario. En ningún ca..."
+   }
+  },
+  {
+   "articulo": "14",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "15",
+   "estado": "casi",
+   "similitud": 0.9998,
+   "corpus": "ARTÍCULO 15. OBLIGACIONES ESPECIALES DEL EMPLEADOR. Modifíquese el numeral 6 y adiciónese los numerales 13, 14, 15, 16 y 17 y los parágrafos 2 y 3 del artículo 57 del Código Sustan",
+   "fuente": "ARTÍCULO 15. OBLIGACIONES ESPECIALES DEL EMPLEADOR. Modifíquese el numeral 6 y adiciónese los numerales 13, 14, 15, 16 y 17 y los parágrafos 2 y 3 del artículo 57 del Código Sustan",
+   "diff": {
+    "corpus": "... 3 del artículo 57 del Código Sustantivo del Trabajo, así: \" 6. Conceder al trabajador y trabajadora las licencias remune...",
+    "fuente": "... 3 del artículo 57 del Código Sustantivo del Trabajo, así: \"6. Conceder al trabajador y trabajadora las licencias remune..."
+   }
+  },
+  {
+   "articulo": "16",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "ARTÍCULO 16. LÍMITES A LA SUBORDINACIÓN. Modifíquese el literal b) del artículo 23 del Código Sustantivo del Trabajo, el cual quedará así: \" b) La continuada subordinación o depend",
+   "fuente": "ARTÍCULO 16. LÍMITES A LA SUBORDINACIÓN. Modifíquese el literal b) del artículo 23 del Código Sustantivo del Trabajo, el cual quedará así: \"b) La continuada subordinación o depende",
+   "diff": {
+    "corpus": "...23 del Código Sustantivo del Trabajo, el cual quedará así: \" b) La continuada subordinación o dependencia del trabajador ...",
+    "fuente": "...23 del Código Sustantivo del Trabajo, el cual quedará así: \"b) La continuada subordinación o dependencia del trabajador ..."
+   }
+  },
+  {
+   "articulo": "17",
+   "estado": "divergente",
+   "similitud": 0.567,
+   "corpus": "ARTÍCULO 17. PROTECCIÓN CONTRA LA DISCRIMINACIÓN. Adiciónese los numerales 10, 11, 12, 13 y 14 al artículo 59 del Código Sustantivo del Trabajo, así: \" 10. Apartes tachados INEXEQU",
+   "fuente": "ARTÍCULO 17. PROTECCIÓN CONTRA LA DISCRIMINACIÓN. Adiciónese los numerales 10, 11, 12, 13 y 14 al artículo 59 del Código Sustantivo del Trabajo, así: \"10. Apartes tachados INEXEQUI",
+   "diff": {
+    "corpus": "... 14 al artículo 59 del Código Sustantivo del Trabajo, así: \" 10. Apartes tachados INEXEQUIBLES Discriminar a las mujeres ...",
+    "fuente": "... 14 al artículo 59 del Código Sustantivo del Trabajo, así: \"10. Apartes tachados INEXEQUIBLES Discriminar a las mujeres ..."
+   }
+  },
+  {
+   "articulo": "19",
+   "estado": "casi",
+   "similitud": 0.9987,
+   "corpus": "ARTÍCULO 19. EXPERIENCIA LABORAL DE PERSONAS PRIVADAS DE LA LIBERTAD. Las actividades productivas y ocupacionales desarrolladas por la población privada de la libertad serán recono",
+   "fuente": "ARTÍCULO 19. EXPERIENCIA LABORAL DE PERSONAS PRIVADAS DE LA LIBERTAD. Las actividades productivas y ocupacionales desarrolladas por la población privada de la libertad serán recono",
+   "diff": {
+    "corpus": "...nación laboral y disminuir la probabilidad de reincidencia. Se concederá la redención de pena por trabajo a las personas...",
+    "fuente": "...nación laboral y disminuir la probabilidad de reincidencia. [Se concederá la redención de pena por trabajo a las personas..."
+   }
+  },
+  {
+   "articulo": "20",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "21",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "22",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "23",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "24",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "25",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "26",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "27",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "28",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "29",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "30",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "31",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "32",
+   "estado": "casi",
+   "similitud": 0.994,
+   "corpus": "ARTÍCULO 32. PROTECCIÓN AL TRABAJO FEMENINO RURAL Y CAMPESINO. Ver Notas del editor Se adiciona un artículo al Título V Capítulo I del Código Sustantivo del Trabajo, así: Notas del",
+   "fuente": "ARTÍCULO 32. PROTECCIÓN AL TRABAJO FEMENINO RURAL Y CAMPESINO. Ver Notas del editor Se adiciona un artículo al Título V Capítulo I del Código Sustantivo del Trabajo, así: \" Artícul",
+   "diff": {
+    "corpus": "...Título V Capítulo I del Código Sustantivo del Trabajo, así: Notas del Editor \" Artículo 103C. Protección al trabajo femenino rural y camp...",
+    "fuente": "...Título V Capítulo I del Código Sustantivo del Trabajo, así: \" Artículo 103C. Protección al trabajo femenino rural y camp..."
+   }
+  },
+  {
+   "articulo": "33",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "34",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "35",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "36",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "37",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "38",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "39",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "40",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "41",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "42",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "43",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "44",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "45",
+   "estado": "casi",
+   "similitud": 0.9997,
+   "corpus": "ARTÍCULO 45. EMPRESAS DE SERVICIOS TEMPORALES. Adiciónese cuatro parágrafos al artículo 77 de la Ley 50 de 1990, así: \" Parágrafo 1o. Las empresas usuarias no podrán celebrar contr",
+   "fuente": "ARTÍCULO 45. EMPRESAS DE SERVICIOS TEMPORALES. Adiciónese cuatro parágrafos al artículo 77 de la Ley 50 de 1990, así: \"Parágrafo 1o. Las empresas usuarias no podrán celebrar contra",
+   "diff": {
+    "corpus": "...uatro parágrafos al artículo 77 de la Ley 50 de 1990, así: \" Parágrafo 1o. Las empresas usuarias no podrán celebrar contr...",
+    "fuente": "...uatro parágrafos al artículo 77 de la Ley 50 de 1990, así: \"Parágrafo 1o. Las empresas usuarias no podrán celebrar contr..."
+   }
+  },
+  {
+   "articulo": "46",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "47",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "48",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "59A",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "49",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "50",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "51",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "52",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "53",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "54",
+   "estado": "casi",
+   "similitud": 0.9995,
+   "corpus": "ARTÍCULO 54. GARANTÍAS LABORALES, SINDICALES Y DE SEGURIDAD SOCIAL PARA LOS TELETRABAJADORES. Por medio del cual se adicionan unos numerales al artículo 6o de la Ley 1221 de 2008: ",
+   "fuente": "ARTÍCULO 54. GARANTÍAS LABORALES, SINDICALES Y DE SEGURIDAD SOCIAL PARA LOS TELETRABAJADORES. Por medio del cual se adicionan unos numerales al artículo 6o de la Ley 1221 de 2008: ",
+   "diff": {
+    "corpus": "...onan unos numerales al artículo 6o de la Ley 1221 de 2008: \" 13. Las relaciones laborales con teletrabajadores y teletrab...",
+    "fuente": "...onan unos numerales al artículo 6o de la Ley 1221 de 2008: \"13. Las relaciones laborales con teletrabajadores y teletrab..."
+   }
+  },
+  {
+   "articulo": "55",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "56",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "57",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "58",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "59",
+   "estado": "casi",
+   "similitud": 0.999,
+   "corpus": "ARTÍCULO 59. MEDIDA COMPLEMENTARIA A LOS ESTATUTOS. Modifíquese el numeral 10 del artículo 362 del Código Sustantivo del Trabajo, el cual quedará así: \" 10. Las cuestiones relativa",
+   "fuente": "ARTÍCULO 59. MEDIDA COMPLEMENTARIA A LOS ESTATUTOS. Modifíquese el numeral 10 del artículo 362 del Código Sustantivo del Trabajo, el cual quedará así: \"10. Las cuestiones relativas",
+   "diff": {
+    "corpus": "...62 del Código Sustantivo del Trabajo, el cual quedará así: \" 10. Las cuestiones relativas al funcionamiento de la asamble...",
+    "fuente": "...62 del Código Sustantivo del Trabajo, el cual quedará así: \"10. Las cuestiones relativas al funcionamiento de la asamble..."
+   }
+  },
+  {
+   "articulo": "60",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "61",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "62",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "63",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "64",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "ARTÍCULO 64. RÉGIMEN SIMPLE LABORAL. Tiene como objetivo fundamental facilitar la formalización laboral y reducir la carga administrativa para los empleadores, ofreciendo un marco ",
+   "fuente": "ARTÍCULO 64. RÉGIMEN SIMPLE LABORAL. Tiene como objetivo fundamental facilitar la formalización laboral y reducir la carga administrativa para los empleadores, ofreciendo un marco ",
+   "diff": {
+    "corpus": "...se dos parágrafos al artículo 99 de la Ley 50 de 1990 así: \" Parágrafo 1o. El empleador podrá aportar mensualmente con de...",
+    "fuente": "...se dos parágrafos al artículo 99 de la Ley 50 de 1990 así: \"Parágrafo 1o. El empleador podrá aportar mensualmente con de..."
+   }
+  },
+  {
+   "articulo": "65",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "66",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "67",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "68",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "69",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "70",
+   "estado": "divergente",
+   "similitud": 0.6904,
+   "corpus": "ARTÍCULO 70. VIGENCIA Y DEROGATORIAS. La presente ley rige a partir de su promulgación y deroga o modifica todas las que le sean contrarias o incompatibles. Se deroga el literal b)",
+   "fuente": "ARTÍCULO 70. VIGENCIA Y DEROGATORIAS. La presente ley rige a partir de su promulgación y deroga o modifica todas las que le sean contrarias o incompatibles. Se deroga el literal b)",
+   "diff": {
+    "corpus": "...ínez. El Ministro del Trabajo, Antonio Eresmid Sanguino Páez...",
+    "fuente": "...ínez. El Ministro del Trabajo, Antonio Eresmid Sanguino Páez ! Saneamiento Básico - CRA ISBN 978-628-95145-2-0 Comisión de Regulación de Agua Potable y Saneamiento Básico CRA - DRA © 2021 - 2025 Comisión de Regulación de Agua Potable y Saneamiento Básico Carrera 12 Nº 97-80, Piso 2, Bogotá D.C., Colombia 4:00 pm. Teléfono desde Colombia (60+1) 487 3820 notificacionesjudiciales@cra.gov.co ! ! ! ! ! Menú del pie Políticas Mapa del sitio ! !logo co !gov.co ! ! ! !InicioInicio MÓDULOS !Opción documentos Resolución Única de AAA !Opción documentos Resoluciones expedidas por la CRA !Opción documentos Circulares CRA !Opción documentos Conceptos jurídicos seleccionados !Opción documentos Compilación de normativa y jurisprudencia !Opción documentos Decreto Único Reglamentario - DUR !Opción documentos Contribuciones especiales !Opción documentos Resoluciones administrativas de carácter general !Opción documentos Proyectos de resolución CRA !Opción documentos Actualizaciones mensuales !Opción documentos Herramientas de búsqueda !Opción documentos Navegación temática !Opción documentos Normativa COVID 19 × !Contraste Contraste !Reducir Reducir letra !Aumentar Aumentar letra !Restaurar Retornar valores !Ir arriba Ir arriba !Ir abajo Ir abajo !Inicio documento !Fin documento Fin documento..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "18"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 59,
+  "casi": 9,
+  "divergentes": 2
+ }
+}

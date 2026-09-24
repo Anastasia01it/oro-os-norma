@@ -1,0 +1,1307 @@
+![Logo Gov.co](https://cdn.www.gov.co/assets/images/logo.svg)
+
+![](../images/noun_menu_1561734.svg)
+
+[GESTOR NORMATIVO - CRA](../../index.html)
+
+![](../images/logo_cra_fondo_blanco_v2.png)
+
+![](../images/logo-ministerio-de-vivienda-V5.png)
+
+**
+
+Resolución 778 de 2016 CRA
+
+![Anotaciones](../images/noun-invisible-2037770-FFFFFF.svg)Anotaciones
+
+![IMPRIMIR](../images/noun-printer-57793-FFFFFF.svg)
+
+![DESCARGAR](../images/noun-download-691153-FFFFFF.svg)
+
+![Datos](../images/noun-data-2597507-3366CC.svg)DATOS
+
+![Búsqueda](../images/noun-search-875351-3366CC.svg)BUSCAR
+
+![Índice](../images/noun-listed-3082130-3366CC.svg)ÍNDICE
+
+![Memoria](../images/noun-download-4625906-3366CC.svg)DESCARGAS
+
+![Desarrollos](../images/noun-clip-1628693-3366CC.svg)DESARROLLOS
+
+![Modificaciones](../images/noun-pen-429216-3366CC.svg)MODIFICACIONES
+
+![Concordancias](../images/noun-columns-120337-3366CC.svg)CONCORDANCIAS
+
+![Notificaciones](../images/noun-notify-783329-3366CC.svg)NOTIFICACIONES
+
+![Actos de trámite](../images/noun-process-2526089-3366CC.svg)ACTOS DE TRÁMITE
+
+![Abogacía](../images/noun-fairness-4145115-3366CC.svg)ABOGACÍA
+
+![Videos](../images/noun-video-846806-3366CC.svg)VIDEOS
+
+RESOLUCIÓN CRA 778 DE 2016
+
+(diciembre 14)
+
+Diario Oficial No. 50.095 de 22 de diciembre de 2016
+
+COMISIÓN DE REGULACIÓN DE AGUA POTABLE Y SANEAMIENTO BÁSICO
+
+Por la cual se adopta el modelo de condiciones uniformes del contrato para la prestación del servicio público de aseo y sus actividades complementarias para las personas prestadoras que atiendan en municipios de más de 5.000 suscriptores en el área urbana y de expansión urbana, y todas las personas prestadoras de la actividad de aprovechamiento en dichas áreas, y se define el alcance de su clausulado.
+
+[Resumen de Notas de Vigencia](javascript:insRow1())
+
+LA COMISIÓN DE REGULACIÓN DE AGUA POTABLE Y SANEAMIENTO BÁSICO (CRA),
+
+en ejercicio de sus facultades legales, en especial de las conferidas por las Leyes [142](ley_0142_1994.htm#INICIO) de 1994, los Decretos números [1524](decreto_1524_1994.htm#INICIO) de 1994, [2882](decreto_2882_2007.htm#INICIO) y [2883](decreto_2883_2007.htm#INICIO) de 2007, [2412](decreto_2412_2015.htm#INICIO) y [1077](decreto_1077_2015.htm#INICIO) y [2412](decreto_2412_2015.htm#INICIO) de 2015 y [596](decreto_0596_2016.htm#INICIO) de 2016, y
+
+CONSIDERANDO:
+
+Que el artículo [365](constitucion_politica_1991.htm#365) de la Constitución Política de 1991 prevé que los servicios públicos son inherentes a la finalidad social del Estado y que es deber del mismo asegurar su prestación eficiente a todos los habitantes del territorio nacional;
+
+Que con fundamento en el mismo artículo constitucional, los servicios públicos domiciliarios estarán sometidos al régimen jurídico que fije la ley y que el Estado mantendrá la regulación, el control y la vigilancia de dichos servicios;
+
+Que el artículo [9](ley_0142_1994.htm#9)o de la Ley 142 de 1994 consagra los derechos de los suscriptores y/o usuarios de los servicios públicos domiciliarios, además de aquellos previstos a su favor por otras normas y dispone que las Comisiones de Regulación en el ejercicio de sus funciones, no pueden desmejorar los derechos de los suscriptores y/o usuarios reconocidos por la ley;
+
+Que de conformidad con el literal a) del numeral 2 del artículo [74](ley_0142_1994.htm#74) de la Ley 142 de 1994, corresponde a la Comisión de Regulación de Agua Potable y Saneamiento Básico “Promover la competencia entre quienes presten los servicios de agua potable y saneamiento básico o regular los monopolios en la prestación de tales servicios, cuando la competencia no sea posible, todo ello con el propósito de que las operaciones de los monopolistas y de los competidores sean económicamente eficientes, se prevenga el abuso de posiciones dominantes y se produzcan servicios de calidad. La comisión podrá adoptar reglas de comportamiento diferencial, según la posición de las empresas en el mercado”;
+
+Que de conformidad con el numeral 73.10 artículo [73](ley_0142_1994.htm#73) de la Ley 142 de 1994, corresponde a la CRA “Dar concepto sobre la legalidad de las condiciones uniformes de los contratos de servicios públicos que se sometan a su consideración; y sobre aquellas modificaciones que puedan considerarse restrictivas de la competencia. Las comisiones podrán limitar, por vía general, la duración de los contratos que celebren las empresas de servicios públicos, para evitar que se limite la posibilidad de competencia”;
+
+Que el artículo [128](ley_0142_1994.htm#128) de la Ley 142 de 1994 prevé que el contrato de servicios públicos es un contrato uniforme, consensual, en virtud del cual una persona prestadora de servicios públicos domiciliarios los presta a un usuario a cambio de un precio en dinero, de acuerdo con estipulaciones que han sido definidas por ella para ofrecerlas a muchos usuarios no determinados;
+
+Que a su vez, el artículo [129](ley_0142_1994.htm#129) de la misma normativa, señala que existe contrato de servicios públicos desde que la persona prestadora define las condiciones uniformes en las que está dispuesta a prestar el servicio y el propietario, o quien utilice un inmueble determinado, solicita recibir allí el servicio, si el solicitante y el inmueble se encuentran en las condiciones previstas por la persona prestadora;
+
+Que el artículo [130](ley_0142_1994.htm#130) del régimen de servicios públicos establece que son partes del contrato, la persona prestadora de servicios públicos domiciliarios y el suscriptor y/o usuario;
+
+Que el Decreto número [2981](decreto_2981_2013.htm#INICIO) de 2013[[1]](resolucion_cra_0778_2016.htm#NF1) fue compilado por el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015[(2)](resolucion_cra_0778_2016.htm#NF2) y actualmente dicho cuerpo normativo consagra la reglamentación de la prestación del servicio público de aseo;
+
+Que el artículo [2.3.2.2.1](decreto_1077_2015.htm#2.3.2.2.1) del Decreto número 1077 de 2015 señala que el Capítulo 2 atinente a TRANSPORTE Y RECOLECCIÓN DE RESIDUOS APROVECHABLES Y NO APROVECHABLES no aplica a la actividad de disposición final, la cual sigue rigiéndose por lo dispuesto en el Capítulo 3 del Título 2 SERVICIO PÚBLICO DE ASEO de dicha disposición;
+
+Que esta Comisión profirió la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015, “Por la cual se establece el régimen de regulación tarifaria al que deben someterse las personas prestadoras del servicio público de aseo que atiendan en municipios de más de 5.000 suscriptores en áreas urbanas, la metodología que deben utilizar para el cálculo de las tarifas del servicio público de aseo y se dictan otras disposiciones”, modificada por la Resolución CRA [751](resolucion_cra_0751_2016.htm#INICIO) de 8 de febrero de 2016;
+
+Que el artículo [1](resolucion_cra_0720_2015.htm#1)o de la Resolución CRA 720 de 2015, referido al ámbito de aplicación de la misma, prevé que el régimen tarifario y la metodología tarifaria contenida en dicho acto administrativo, es aplicable a las personas prestadoras del servicio público de aseo que atiendan municipios y/o distritos con más de 5.000 suscriptores en el área urbana y de expansión urbana, y a todas las personas prestadoras de las actividades de disposición final, transferencia y aprovechamiento que se encuentren en el área rural, salvo las excepciones contenidas en la ley, especialmente las señaladas en el parágrafo 1 del artículo [87](ley_0142_1994.htm#87) de la Ley 142 de 1994;
+
+Que el parágrafo 1 de la misma disposición, señala que en caso de que existan áreas de prestación del servicio que incorporen zonas rurales, la persona prestadora del servicio público de aseo podrá aplicar las disposiciones contenidas en la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015 en las mencionadas zonas;
+
+Que el parágrafo 2 del artículo [1](resolucion_cra_0720_2015.htm#1)o de la Resolución CRA 720 de 2015, indica que la persona prestadora que cuente con Áreas de Prestación del Servicio en diferentes municipios y/o distritos, tendrá que aplicar la metodología establecida en dicha resolución, en aquellas áreas ubicadas en municipios y/o distritos con un número de suscriptores mayor a 5.000. En las Áreas de Prestación del Servicio de los demás municipios y/o distritos, continuará cobrando las tarifas derivadas de la aplicación de las Resoluciones CRA [351](resolucion_cra_0351_2005.htm#INICIO) y [352](resolucion_cra_0352_2005.htm#INICIO) de 2005 o aquellas que las modifiquen, deroguen o sustituyan;
+
+Que es deber de las personas prestadoras informar sobre las condiciones uniformes que ofrezcan en el territorio donde prestan sus servicios. Así mismo, el artículo [6](resolucion_cra_0720_2015.htm#6)o de la Resolución CRA 720 de 2015 señala que el área de prestación del servicio deberá ser reportada al municipio y/o distrito y consignarse en el contrato de servicios públicos;
+
+Que el régimen legal al cual se somete el contrato de servicios públicos está previsto en el artículo [132](ley_0142_1994.htm#132) de la Ley 142 de 1994 según el cual, dicho contrato se regirá por lo dispuesto en esta ley, por las condiciones especiales que se pacten con los usuarios, por las condiciones uniformes que señalen las personas prestadoras de servicios públicos domiciliarios y por las normas del Código de Comercio y del Código Civil;
+
+Que el numeral 14.31 del artículo [14](ley_0142_1994.htm#14) de la Ley 142 de 1994, define al suscriptor como la persona natural o jurídica con la cual se ha celebrado un contrato de servicios públicos y el numeral 14.33 del mismo artículo, define al usuario como la persona natural o jurídica que se beneficia con la prestación de un servicio, bien como propietario del inmueble en donde éste se presta, o como receptor directo del servicio. A este último se le denomina también consumidor;
+
+Que el artículo [133](ley_0142_1994.htm#133) de la Ley 142 de 1994 consagra las cláusulas respecto de las cuales se presume abuso de posición dominante por parte de la persona prestadora de servicios públicos domiciliarios;
+
+Que mediante Resolución CRA [14](resolucion_cra_0014_1996.htm#INICIO) de 1996, se estableció el modelo de condiciones uniformes del contrato para la prestación del servicio público de aseo, el cual fue posteriormente incluido como Anexo 9 de la Resolución CRA 151 de 2001 y adoptado mediante los artículos [4.5.1.1](resolucion_cra_0151_2001.htm#4.5.1.1) y [4.5.1.2](resolucion_cra_0151_2001.htm#4.5.1.2) del mismo acto administrativo;
+
+Que los mismos artículos establecen que las condiciones uniformes que ofrezca cualquier persona prestadora que se adecúen al modelo establecido, se entienden ajustadas a la Ley [142](ley_0142_1994.htm#INICIO) de 1994, y las normas que la desarrollen;
+
+Que a través de la Resolución CRA [376](resolucion_cra_0376_2006.htm#INICIO) de 2006, se modificó el modelo de condiciones uniformes del contrato para la prestación del servicio público de aseo, contenido en el Anexo 9 de la Resolución CRA [151](resolucion_cra_0151_2001.htm#INICIO) de 2001 y se dictaron otras disposiciones sobre el particular;
+
+Que con posterioridad a la Resolución CRA [376](resolucion_cra_0376_2006.htm#Inicio) de 2006 se han expedido otras disposiciones legales que complementan el modelo de condiciones uniformes, entre otras, el Código de Procedimiento Administrativo y de lo Contencioso Administrativo[[3]](resolucion_cra_0778_2016.htm#NF3), el Decreto número [019](decreto_0019_2012.htm#INICIO) de 2012[[4]](resolucion_cra_0778_2016.htm#NF4), la Ley [1266](ley_1266_2008.htm#INICIO) de 2008[[5]](resolucion_cra_0778_2016.htm#NF5), la Ley [1480](ley_1480_2011.htm#INICIO) de 2011[[6]](resolucion_cra_0778_2016.htm#NF6), las Leyes [1755](ley_1755_2015.htm#INICIO)[[7]](resolucion_cra_0778_2016.htm#NF7) y [1753](ley_1753_2015.htm#INICIO) de 2015[[8]](resolucion_cra_0778_2016.htm#NF8), el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015[[9]](resolucion_cra_0778_2016.htm#NF9) y el Decreto número [596](decreto_0596_2016.htm#INICIO) de 2016[[10]](resolucion_cra_0778_2016.htm#NF10);
+
+Que de conformidad con lo establecido en el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015, son actividades del servicio público de aseo: la recolección; el transporte; el barrido y la limpieza de vías y áreas públicas; el corte de césped y la poda de árboles en las vías y áreas públicas; la transferencia; el tratamiento; el aprovechamiento; la disposición final y el lavado de áreas públicas;
+
+Que el Ministerio de Vivienda, Ciudad y Territorio expidió el Decreto número [596](decreto_0596_2016.htm#INICIO) de 2016 “Por el cual se modifica y adiciona el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015 en lo relativo con el esquema de la actividad de aprovechamiento del servicio público de aseo y el régimen transitorio para la formalización de los recicladores de oficio, y se dictan otras disposiciones”;
+
+Que el artículo [2.3.2.5.2.4.1](decreto_1077_2015.htm#2.3.2.5.2.4.1). del Decreto número 1077 de 2015, modificado por el Decreto número [596](decreto_0596_2016.htm#INICIO) de 2016, señala que las personas prestadoras de la actividad de aprovechamiento deberán adoptar un contrato de condiciones uniformes del servicio público de aseo (CCU) para la actividad de aprovechamiento. Agrega la norma que para el efecto podrán acoger el modelo que defina esta Comisión de Regulación, el cual deberá ser expedido dentro de los tres (3) meses siguientes a la entrada en vigencia del decreto;
+
+Que en el decreto mencionado en el artículo [2.3.2.5.2.1.6](decreto_0596_2016.htm#2.3.2.5.2.1.6) se define que la persona prestadora de la actividad de aprovechamiento que se registre ante la Superintendencia de Servicios Públicos Domiciliarios, únicamente para la prestación de esta actividad, solamente podrá recolectar y transportar los residuos presentados por los suscriptores y/o usuarios para el aprovechamiento;
+
+Que, posteriormente, se expidió la Resolución número [0276](resolucion_minviviendact_0276_2016.htm#INICIO) de 29 de abril de 2016, “por la cual se reglamentan los lineamientos del esquema operativo de la actividad de aprovechamiento del servicio público de aseo y del régimen transitorio para la formalización de los recicladores de oficio acorde con lo establecido en el Capítulo [5](decreto_1077_2015.htm#CAPÍTULO 3.2.5) del Título 2 de la Parte 3 del Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015 adicionado por el Decreto número [596](decreto_0596_2016.htm#INICIO) del 11 de abril de 2016”, del Ministerio de Vivienda, Ciudad y Territorio;
+
+Que en materia de regulación también se han proferido diferentes actos administrativos con incidencia en el contrato de servicios públicos, por vía de ejemplo, las Resoluciones CRA [400](resolucion_cra_0400_2006.htm#INICIO) de 2006[[11]](resolucion_cra_0778_2016.htm#NF11), [413](resolucion_cra_0413_2006.htm#INICIO) de 2006[[12]](resolucion_cra_0778_2016.htm#NF12) modificada por la Resolución CRA [457](resolucion_cra_0457_2008.htm#INICIO) de 2008 y la [720](resolucion_cra_0720_2015.htm#INICIO) de 2015[[13]](resolucion_cra_0778_2016.htm#NF13) modificada por la Resolución CRA [751](resolucion_cra_0751_2016.htm#INICIO) de 2016;
+
+Que de conformidad con el numeral 2 del artículo [3](decreto_2650_2013.htm#3) del Decreto número 2650 de 2013[[14]](resolucion_cra_0778_2016.htm#NF14), corresponde al Jefe de la Oficina Asesora Jurídica de la Comisión de Regulación de Agua Potable y Saneamiento Básico: “2. Emitir el concepto de legalidad de los Contratos de Condiciones Uniformes”;
+
+Que la evolución normativa, la regulación en la materia y la jurisprudencia, evidenciaron la necesidad de revisar de manera integral el modelo de contrato de condiciones uniformes para la prestación del servicio público de aseo y sus actividades complementarias así como adoptar un nuevo modelo de contrato aplicable a las personas prestadoras que atiendan en municipios de más de 5.000 suscriptores en el área urbana y de expansión urbana, y todas las personas prestadoras de la actividad de aprovechamiento en dichas áreas. Que la Corte Constitucional mediante Sentencia C-[263](c-263_1996.htm#INICIO) de 1996, al referirse al contrato de servicios públicos, sostuvo que “dicha relación jurídica no solo se gobierna por las estipulaciones contractuales y el derecho privado, sino por el derecho público, contenido en las normas de la Constitución y de la ley, que establecen el régimen o estatuto jurídico de los servicios públicos domiciliarios, las cuales son de orden público y de imperativo cumplimiento, porque están destinadas a asegurar la calidad y eficiencia en la prestación de los servicios, el ejercicio, la efectividad y la protección de los derechos de los usuarios y a impedir que las empresas de servicios públicos abusen de su posición dominante”;
+
+Que tal como lo señaló la Corte Constitucional en la sentencia citada en el párrafo anterior, las condiciones uniformes del contrato de servicios públicos se fundamentan en la Constitución y la ley, sus normas son consideradas de orden público; en consecuencia, hacen parte del régimen o estatuto jurídico aplicable a la prestación de los servicios públicos domiciliarios, razón por la cual su estricta observancia es obligatoria para las partes;
+
+Que el plazo de participación ciudadana de la Resolución CRA [769](resolucion_cra_0769_2016.htm#INICIO) de 2016, fue de 30 días hábiles (del 29 de septiembre al 15 de noviembre de 2016), en el cual esta Comisión de Regulación recibió 100 observaciones, reparos y sugerencias, de las cuales fueron escritas por diferentes medios como: correo electrónico, oficios en medio físicos, y en las jornadas presenciales en las ciudades de Barranquilla, Medellín y Bucaramanga, Todas estas están consignadas en el documento de participación ciudadana el cual hace parte de la presente resolución;
+
+Que las observaciones recibidas fueron analizadas por parte de esta Comisión de Regulación con el fin de determinar su inclusión en la elaboración de la presente resolución;
+
+Que de acuerdo con lo establecido en el artículo [7](ley_1340_2009.htm#7)o de la Ley 1340 de 2009 “por medio de la cual se dictan normas en materia de protección a la competencia”, la Superintendencia de Industria y Comercio podrá rendir concepto previo sobre los proyectos de regulación que puedan incidir sobre la libre competencia en los mercados. En este sentido, el artículo mencionado contempla que: “Para estos efectos las autoridades de regulación informarán a la superintendencia de industria y comercio de los actos administrativos que se pretendan expedir”;
+
+Que teniendo en cuenta el artículo [5](decreto_2897_2010.htm#5)o del Decreto número 2897 de 2010, y habiendo diligenciado el cuestionario que para el efecto adoptó la Superintendencia de Industria y Comercio, se determinó que el presente proyecto de resolución no tiene incidencia sobre la libre competencia en los mercados;
+
+Que en mérito de lo expuesto, la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA),
+
+RESUELVE.
+
+ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. <Artículo integrado y unificado en el artículo [5.4.2.1](resolucion_cra_0943_2021.htm#5.4.2.1) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> La presente resolución tiene por objeto adoptar el modelo de condiciones uniformes del contrato para la prestación del servicio público de aseo y sus actividades complementarias, para las personas prestadoras que atiendan en municipios de más de 5.000 suscriptores en el área urbana y de expansión urbana, y todas las personas prestadoras de la actividad de aprovechamiento en áreas urbanas y de expansión urbana.
+
+PARÁGRAFO. <Parágrafo derogado por el artículo [3](resolucion_cra_0894_2019.htm#3) de la Resolución 894 de 2019>
+
+[Notas de Vigencia](javascript:insRow2())
+
+[Legislación Anterior](javascript:insRow3())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 2o. MODELO DE CONDICIONES UNIFORMES Y CONCEPTO DE LEGALIDAD. <Artículo integrado y unificado en el artículo [5.4.2.2](resolucion_cra_0943_2021.htm#5.4.2.2) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Adóptase el modelo de condiciones uniformes del contrato de servicios públicos previsto en el Anexo 1 “MODELO DE CONDICIONES UNIFORMES DEL CONTRATO DE SERVICIOS PÚBLICOS PARA PERSONAS PRESTADORAS DEL SERVICIO PÙBLICO DE ASEO QUE ATIENDAN EN MUNICIPIOS DE MÁS 5.000 SUSCRIPTORES EN EL ÁREA URBANA Y DE EXPANSIÓN URBANA” y el modelo de condiciones uniformes del contrato de servicios públicos previsto en el Anexo 2 “MODELO DE CONDICIONES UNIFORMES DEL CONTRATO DE SERVICIOS PÚBLICOS PARA PERSONAS PRESTADORAS DE LA ACTIVIDAD DE APROVECHAMIENTO QUE ATIENDAN EN MUNICIPIOS DE MÁS DE 5.000 SUSCRIPTORES EN EL ÁREA URBANA, DE EXPANSIÓN URBANA”, contenidos en el presente acto administrativo, cuyos alcances corresponden a lo señalado en el artículo [4](resolucion_cra_0778_2016.htm#4)o de esta resolución.
+
+PARÁGRAFO 1o. Las condiciones uniformes que se ajusten en su totalidad al Anexo 1 y/o al Anexo 2, que no los modifiquen y no contemplen otras condiciones en el aparte de cláusulas especiales y/o adicionales de dicho Anexo, se considerarán conceptuadas como legales por parte de la Comisión de Regulación de Agua Potable y Saneamiento Básico.
+
+Las cláusulas adicionales generales y adicionales especiales podrán obtener concepto de legalidad previa verificación por parte de la Comisión de Regulación del cumplimiento de los requisitos legales, reglamentarios y regulatorios exigibles. Para tal fin, al solicitar el concepto de legalidad de que trata el artículo [73](ley_0142_1994.htm#73), numeral 73.10 de la Ley 142 de 1994, las personas prestadoras del servicio público de aseo y actividades complementarias, deberán identificar la fuente legal y las razones para su inclusión.
+
+El modelo de contrato de servicios públicos podrá ser diligenciado en el aplicativo electrónico destinado para tal efecto por parte de la Comisión de Regulación de Agua Potable y Saneamiento Básico y, en ausencia de éste, con la radicación del Anexo 1 y/o el Anexo 2 debidamente diligenciados ante la Comisión a través de cualquier medio dispuesto para el efecto.
+
+PARÁGRAFO 2o. Aquellas personas prestadoras de la actividad de aprovechamiento, que acrediten estar en proceso de formalización, podrán acoger el modelo de condiciones uniformes definido en el Anexo 2 en los plazos del régimen transitorio para la formalización de las organizaciones de recicladores de oficio, establecido por el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015 modificado y adicionado por el Decreto número [596](decreto_0596_2016.htm#INICIO) de 2016 y la Resolución número [276](resolucion_minviviendact_0276_2016.htm#INICIO) de 2016.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 3o. CONCEPTO. <Artículo integrado y unificado en el artículo [5.4.2.3](resolucion_cra_0943_2021.htm#5.4.2.3) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> El contrato del servicio público de aseo y/o sus actividades complementarias es un contrato uniforme, consensual, en virtud del cual una persona prestadora de servicios públicos presta dichos servicios a un usuario y/o suscriptor, a cambio de un precio en dinero, de acuerdo con estipulaciones que han sido definidas por ella para ofrecerlas a muchos usuarios no determinados.
+
+Hacen parte del contrato no sólo sus estipulaciones escritas, sino todas las que la persona prestadora aplica de manera uniforme en la prestación del servicio. Existe contrato de servicios públicos aun cuando algunas de las estipulaciones sean objeto de acuerdo con uno o algunos usuarios y/o estén previstas como cláusula adicional.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 4o. CELEBRACIÓN DEL CONTRATO. <Artículo integrado y unificado en el artículo [5.4.2.4](resolucion_cra_0943_2021.htm#5.4.2.4) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Existe contrato desde que la persona prestadora define las condiciones uniformes en las que está dispuesta a prestar el servicio público de aseo y/o sus actividades complementarias y el propietario, o quien utiliza un inmueble determinado, solicita o hace uso del servicio. En todo caso la persona prestadora verificará si el inmueble se encuentra en las condiciones previstas por la empresa para la prestación del servicio.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 5o. VIGENCIA DEL CONTRATO Y PERMANENCIA MÍNIMA. <Artículo integrado y unificado en el artículo [5.4.2.5](resolucion_cra_0943_2021.htm#5.4.2.5) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> El contrato de condiciones uniformes, se entiende celebrado por el término señalado en el mismo, si se opta por celebrarlo a término fijo, este no debe sobrepasar de dos (2) años, so pena de que se presuma abuso de posición dominante. Así mismo, dicho contrato podrá prorrogarse por un periodo no superior a un año, conforme lo dispone el numeral 133.20 del artículo [133](ley_0142_1994.htm#133) de la Ley 142 de 1994,
+
+En el contrato de servicios públicos a término fijo o indefinido, las partes podrán pactar cláusula de permanencia mínima que en ningún caso podrá ser superior a dos años (2) años, de conformidad con lo previsto en el artículo [7](resolucion_cra_0413_2006.htm#7)o de la Resolución CRA 413 de 2006, o aquella que la modifique, adicione o aclare. No obstante, la persona prestadora que ofrezca a los suscriptores y/o usuarios potenciales una modalidad de contrato con cláusula de permanencia mínima, deberá también ofrecer la alternativa de acceder al servicio sin condiciones de permanencia mínima, de tal manera que el potencial suscriptor pueda comparar las condiciones de cada una de ellas.
+
+La cláusula de permanencia mínima se pacta como una cláusula adicional a través de la cual, la persona prestadora ofrece al suscriptor y/o usuario una ventaja sustancial asociada a la prestación del servicio de aseo y/o a la prestación de la actividad de aprovechamiento y el usuario y/o suscriptor que celebra el contrato se obliga a no terminarlo anticipadamente, so pena de las consecuencias que establezca la persona prestadora. La cláusula de permanencia mínima requiere manifestación expresa y escrita del suscriptor y/o usuario.
+
+En el contrato de servicios públicos deberán indicarse las consecuencias que se derivan para las partes en caso de darse por terminado el contrato dentro del término de vigencia de la cláusula de permanencia mínima.
+
+En caso de prorrogarse automáticamente el contrato, una vez vencido el término de la cláusula de permanencia mínima, el suscriptor y/o usuario tendrá derecho a terminar libremente el contrato en cualquier momento durante la vigencia de la prórroga, salvo que durante dicho periodo se haya pactado una nueva cláusula de permanencia mínima, la cual sólo podrá pactarse cuando la persona prestadora ofrezca a los suscriptores y/o usuarios nuevas condiciones que representen ventaja respecto de las condiciones ordinarias del servicio, conforme con lo establecido en el presente artículo.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 6o. RÉGIMEN LEGAL DEL CONTRATO DE SERVICIOS PÚBLICOS. <Artículo integrado y unificado en el artículo [5.4.2.6](resolucion_cra_0943_2021.htm#5.4.2.6) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> El contrato del servicio público de aseo y/o sus actividades complementarias se regirá por lo dispuesto en la Ley [142](ley_0142_1994.htm#INICIO) de 1994, sus decretos reglamentarios, por la regulación expedida por la Comisión de Regulación de Agua Potable y Saneamiento Básico, por el presente acto administrativo, por las cláusulas adicionales que se pacten con los usuarios y/o suscriptores, por las condiciones uniformes que señalen las personas prestadoras de servicios públicos, y por las normas del Código de Comercio y del Código Civil.
+
+PARÁGRAFO 1o. Se entiende incorporada al contrato de servicios públicos toda la normatividad vigente aplicable a los contratos de servicios públicos.
+
+PARÁGRAFO 2o. Cuando haya conflicto entre las condiciones uniformes y las condiciones especiales, se preferirán las últimas en mención. El contrato de servicios públicos, a pesar de tener condiciones uniformes, resulta celebrado con cada suscriptor y/o usuario en particular.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 7o. ABUSO DE POSICIÓN DOMINANTE. <Artículo integrado y unificado en el artículo [5.4.2.7](resolucion_cra_0943_2021.htm#5.4.2.7) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Se presume que hay abuso de la posición dominante de la persona prestadora del servicio público de aseo y/o actividades complementarias, en el contrato de condiciones uniformes, a manera indicativa y no taxativa en las cláusulas descritas en el artículo [133](ley_0142_1994.htm#133) de la Ley 142 de 1994 o aquella que la modifique, adicione o aclare.
+
+De acuerdo a lo establecido en el artículo [133](ley_0142_1994.htm#133) de la Ley 142 de 1994, la presunción de abuso de la posición dominante puede desvirtuarse si se establece que las cláusulas aludidas, al considerarse en el conjunto del contrato, se encuentran equilibradas con obligaciones especiales que asume la persona prestadora. La presunción se desvirtuará, además, en aquellos casos en que se requiera permiso expreso de la Comisión de Regulación de Agua Potable y Saneamiento Básico para contratar una de las cláusulas a las que se refiere el artículo [133](resolucion_cra_0778_2016.htm#133) ibídem y ésta lo haya dado.
+
+Si se anula una de las cláusulas citadas en el artículo en mención, conservarán, sin embargo, su validez todas las demás que no hayan sido objeto de la misma sanción.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 8o. FACTURACIÓN CONJUNTA. <Artículo integrado y unificado en el artículo [5.4.2.8](resolucion_cra_0943_2021.htm#5.4.2.8) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> El servicio público de aseo y/o sus actividades complementarias se podrá facturar de forma conjunta con cualquiera de los servicios públicos a los que se refiere la Ley [142](ley_0142_1994.htm#INICIO) de 1994. La factura del servicio público de aseo deberá contener la información definida por la metodología tarifaria vigente sobre los componentes de la tarifa del servicio, para que el suscriptor y/o usuario pueda establecer con facilidad si la persona prestadora se ciñó a la ley en virtud del contrato de condiciones uniformes que la persona prestadora esté obligada a cumplir.
+
+PARÁGRAFO. En las facturas en las que se cobren varios servicios, será obligatorio totalizar por separado cada servicio. Cuando se facture el servicio público de aseo conjuntamente con otro servicio público domiciliario, no podrá cancelarse este último con independencia del servicio de aseo, salvo en aquellos casos en que exista prueba de mediar petición, queja o recurso debidamente interpuesto ante la entidad prestataria del servicio de aseo.
+
+[Doctrina Concordante](javascript:insRow4())
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 9o. DE LOS COBROS INOPORTUNOS. <Artículo integrado y unificado en el artículo [5.4.2.9](resolucion_cra_0943_2021.htm#5.4.2.9) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Al cabo de cinco (5) meses de haber entregado las facturas, la persona prestadora no podrá cobrar bienes o servicios que no facturó por error u omisión. Se exceptúan los casos en que se compruebe dolo del suscriptor o usuario. En ningún caso, proceden reclamaciones contra facturas que tuviesen más de cinco (5) meses de haber sido expedidas por las empresas de servicios públicos.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 10. COBRO DE SUMAS ADEUDADAS. <Artículo integrado y unificado en el artículo [5.4.2.10](resolucion_cra_0943_2021.htm#5.4.2.10) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Las deudas derivadas del contrato podrán ser cobradas ejecutivamente ante la jurisdicción ordinaria o bien ejerciendo la jurisdicción coactiva por las personas prestadoras de naturaleza oficial.
+
+La factura expedida por la persona prestadora y debidamente firmada por el representante legal de la entidad prestará mérito ejecutivo de acuerdo con las normas del Derecho Civil y Comercial.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 11. CLÁUSULAS ADICIONALES GENERALES. <Artículo integrado y unificado en el artículo [5.4.2.11](resolucion_cra_0943_2021.htm#5.4.2.11) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Son aquellas que define la persona prestadora aplicable a todos los suscriptores y/o usuarios de forma uniforme.
+
+En este sentido la persona prestadora podrá incluir en el contrato de condiciones uniformes cláusulas adicionales siempre y cuando no contravengan aspectos regulados por la ley, los decretos reglamentarios y la regulación vigente, ni modifiquen el Anexo 1 y/o Anexo 2 o hagan referencia a alguna de las cláusulas contenidas en dichos anexos.
+
+En caso de pactarse cláusulas adicionales, su alcance deberá incluirse en el aparte correspondiente del Anexo 1 y/o Anexo 2, identificando su fuente legal y la razón de su inclusión y procederá lo establecido en el parágrafo 1 del artículo [2](resolucion_cra_0778_2016.htm#2)o de la presente resolución.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 12. CLÁUSULAS ADICIONALES ESPECIALES. <Artículo integrado y unificado en el artículo [5.4.2.12](resolucion_cra_0943_2021.htm#5.4.2.12) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Son aquellas que resultan del acuerdo especial entre la persona prestadora y el suscriptor y/o usuario en los términos del artículo [128](ley_0142_1994.htm#128) de la Ley 142 de 1994.
+
+En este sentido, el suscriptor y/o usuario potencial que no estuviere de acuerdo con alguna de las condiciones del contrato de condiciones uniformes para la prestación de las actividades del servicio público de aseo y/o actividades complementarias podrá manifestarlo así, y hacer una petición con la contrapropuesta del caso a la persona prestadora.
+
+Si la persona prestadora la acepta, se convertirá en suscriptor y/o usuario con acuerdo especial, sin que por ello deje de ser un contrato de condiciones uniformes. Salvo lo previsto en ese acuerdo, a tal suscriptor y/o usuario se aplicarán las demás condiciones uniformes que contiene el contrato. Cuando haya conflicto entre las condiciones uniformes y las condiciones especiales, se preferirán las últimas en mención.
+
+En caso de pactarse cláusulas especiales, su alcance deberá incluirse en el aparte correspondiente del Anexo 1 y/o Anexo 2 y procederá lo establecido en el parágrafo 1 del artículo [2](resolucion_cra_0778_2016.htm#2)o de la presente resolución.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 13. SOLUCIÓN DE CONTROVERSIAS. <Artículo integrado y unificado en el artículo [5.4.2.13](resolucion_cra_0943_2021.htm#5.4.2.13) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Las diferencias que surjan entre las personas prestadoras del servicio público de aseo y sus actividades complementarias y el suscriptor y/o usuario, con ocasión de la celebración, ejecución y terminación del contrato de condiciones uniformes, y que no hayan podido resolverse aplicando las normas que éste contiene sobre recursos, se someterán a la decisión judicial. Lo anterior, sin perjuicio de que las partes puedan acudir a otros mecanismos alternativos de solución de conflictos previstos en la ley, caso en el cual la cláusula compromisoria debe ser autorizada de manera expresa y por escrito por el suscriptor y/o usuario. La negativa a suscribirla por parte del suscriptor y/o usuario no será motivo para negar la celebración del contrato de servicios públicos.
+
+De conformidad con el numeral 79.3 del artículo [79](ley_0142_1994.htm#79) de la Ley 142 de 1994, modificado por el artículo [13](ley_0689_2001.htm#13) de la Ley 689 de 2001, las partes pueden solicitar a la Superintendencia de Servicios Públicos Domiciliarios concepto sobre el cumplimiento de los contratos relacionados con los servicios públicos regulados por la Ley [142](ley_0142_1994.htm#INICIO) de 1994, así como la designación de personas que puedan colaborar en la mejor prestación de los servicios públicos o en la solución de controversias que puedan incidir en su prestación oportuna, cobertura o calidad.
+
+PARÁGRAFO. Cuando opere la cesión del contrato, no se entenderá incluida la cláusula compromisoria dentro de las condiciones objeto de cesión.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 14. PRUEBA PERICIAL. <Artículo integrado y unificado en el artículo [5.4.2.14](resolucion_cra_0943_2021.htm#5.4.2.14) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015> Cuando la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA) haya rendido concepto previo sobre un contrato de condiciones uniformes, o sobre sus modificaciones, el juez que lo estudie debe dar a ese concepto el valor de una prueba pericial firme, precisa, y debidamente fundada.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+ARTÍCULO 15. VIGENCIA. La presente resolución rige a partir de su publicación en el Diario Oficial.
+
+Publíquese y cúmplase.
+
+Dada en Bogotá, D. C., a 14 de diciembre de 2016.
+
+El Presidente,
+
+HAROLD GUERRERO LÓPEZ.
+
+El Director Ejecutivo,
+
+JULIO CÉSAR AGUILERA WILCHES.
+
+ANEXO NÚMERO 1.
+
+“MODELO DE CONDICIONES UNIFORMES DEL CONTRATO DE SERVICIOS PÚBLICOS PARA PERSONAS PRESTADORAS DEL SERVICIO PÚBLICO DE ASEO QUE ATIENDAN EN MUNICIPIOS DE MÁS 5.000 SUSCRIPTORES EN EL ÁREA URBANA Y DE EXPANSIÓN URBANA”.
+
+<Anexo integrado y unificado en el Anexo [6.1.6.2](resolucion_cra_0943_2021.htm#6.1.6.2) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015>
+
+DISPOSICIONES GENERALES PARA EL SERVICIO PÚBLICO DE ASEO
+
+Cláusula 1. Objeto. El presente contrato de condiciones uniformes tiene por objeto la prestación de las siguientes actividades que hacen parte del servicio público de aseo:
+
+Recolección y transporte de residuos no aprovechables __________
+
+Transferencia __________
+
+Barrido y Limpieza de vías y áreas públicas __________
+
+Limpieza Urbana
+
+Corte de césped __________
+
+Poda de árboles __________
+
+Lavado de vías y áreas públicas __________
+
+Limpieza de playas __________
+
+Instalación y mantenimiento de cestas __________
+
+Tratamiento __________
+
+Disposición Final __________
+
+La persona prestadora se compromete a prestar el servicio en favor del suscriptor y/o usuario, a cambio de un precio en dinero, el cual se determinará de conformidad con la normatividad vigente.
+
+Cláusula 2. Partes. Son partes en el contrato de condiciones uniformes, la persona prestadora del servicio para residuos no aprovechables y el suscriptor y/o usuario.
+
+Cláusula 3. Solidaridad. Los propietarios o poseedores del inmueble en el que se presta el servicio y los suscriptores y/o usuarios son solidarios en sus obligaciones y derechos en el contrato de servicios públicos.
+
+Con el fin de que el inmueble urbano destinado a vivienda, entregado en arriendo no quede afectado al pago de los servicios públicos domiciliarios, al momento de celebrar el contrato de arrendamiento, el arrendador podrá exigir al arrendatario la prestación de garantías o fianzas con el fin de garantizar el pago de las facturas correspondientes en los términos del artículo [15](ley_0820_2003.htm#15) de la Ley 820 de 2003[[15]](resolucion_cra_0778_2016.htm#NF15).
+
+Cláusula 4. Régimen Legal. Este contrato de condiciones uniformes se regirá por lo dispuesto en la Ley [142](ley_0142_1994.htm#INICIO) de 1994, por sus decretos reglamentarios, por la regulación expedida por la Comisión de Regulación de Agua Potable y Saneamiento Básico, por la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015[[16]](resolucion_cra_0778_2016.htm#NF16) modificada por la Resolución CRA [751](resolucion_cra_0751_2016.htm#INICIO) de 2016, por el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015, por las condiciones especiales y/o adicionales que pacten las partes, por las normas del Código de Comercio y del Código Civil, normativa que se entiende incorporada al presente contrato de condiciones uniformes.
+
+PARÁGRAFO 1o. Se entiende incorporada en el contrato de servicios públicos, toda la normatividad vigente aplicable al contrato de servicios públicos.
+
+PARÁGRAFO 2o. Cuando haya conflicto entre las condiciones uniformes y las condiciones especiales se preferirán estas. Se tendrá en cuenta que, a pesar de tener condiciones uniformes, el contrato de servicios públicos resulta celebrado con cada suscriptor y/o usuario en particular.
+
+Cláusula 5. Vigencia. El contrato de condiciones uniformes se pacta a término indefinido o fijo, sin embargo en el evento en que sea fijo este no podrá ser superior a 2 años.
+
+Fijo ____ con una duración de ______ (no puede ser superior a 2 años)
+
+Indefinido ___
+
+DEFINICIONES
+
+Cláusula 6. Definiciones. Para los efectos del contrato de servicios públicos, se aplicarán las siguientes definiciones de conformidad con lo establecido en el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015, la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015 y Resolución CRA [376](resolucion_cra_0376_2006.htm#INICIO) de 2006:
+
+1. Aforo: Es el resultado de las mediciones puntuales, que realiza un aforador debidamente autorizado por la persona prestadora, respecto de la cantidad de residuos sólidos que produce y presenta un usuario de manera individual o conjunta al prestador del servicio de aseo.
+
+2. Área de prestación de servicio: Corresponde a la zona geográfica del municipio o distrito debidamente delimitada donde la persona prestadora ofrece y presta el servicio de aseo.
+
+3. Cláusula de permanencia mínima: Estipulación contractual que se pacta como una cláusula adicional a través de la cual, la persona prestadora ofrece al suscriptor y/o usuario una ventaja sustancial asociada a la prestación del servicio de aseo y el usuario y/o suscriptor que celebra el contrato, se obliga a no terminarlo anticipadamente, so pena de las consecuencias que establezca la persona prestadora.
+
+4. Cláusulas adicionales generales: Son aquellas que define la persona prestadora, aplicables a todos los suscriptores y/o usuarios de forma uniforme.
+
+En este sentido la persona prestadora podrá incluir en el contrato de condiciones uniformes, clausulas adicionales siempre y cuando no contravengan aspectos regulados por la ley, los decretos reglamentarios y la regulación vigente, ni modifiquen el Anexo 1 o reproduzcan su texto.
+
+En caso de pactarse cláusulas adicionales, su alcance deberá incluirse en el aparte correspondiente del Anexo 1, identificando su fuente legal y la razón de su inclusión.
+
+5. Cláusulas adicionales especiales: Son aquellas que resultan del acuerdo especial entre la persona prestadora y el suscriptor y/o usuario en los términos del artículo [128](ley_0142_1994.htm#128) de la Ley 142 de 1994.
+
+En ese sentido, el suscriptor y/o usuario potencial que no estuviere de acuerdo con alguna de las condiciones del contrato de condiciones uniformes para la prestación de las actividades del servicio público de aseo y/o sus actividades complementarias podrá manifestarlo así, y hacer una petición con la contrapropuesta del caso a la persona prestadora.
+
+Si la persona prestadora la acepta, se convertirá en suscriptor y/o usuario con acuerdo especial, sin que por ello deje de ser un contrato de condiciones uniformes. Salvo lo previsto en ese acuerdo, a tal suscriptor y/o usuario se aplicarán las demás condiciones uniformes que contiene el contrato. Cuando haya conflicto entre las condiciones uniformes y las condiciones especiales, se preferirán estas.
+
+En caso de pactarse cláusulas especiales, su alcance deberá incluirse en el aparte correspondiente del Anexo 1.
+
+6. Descuentos asociados a la calidad del servicio: Descuentos a los que tienen derecho los suscriptores y/o usuarios, asociados al nivel del cumplimiento de las metas de calidad del servicio público de aseo, por parte de las personas prestadoras del servicio.
+
+7. Estándares del servicio. Requisitos mínimos de calidad en la prestación del servicio público de aseo que deben cumplir las personas prestadoras, de conformidad con los indicadores y metas establecidos por la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA), en la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015.
+
+8. Grandes generadores o productores. Son los suscriptores y/o usuarios no residenciales que generan y presentan para la recolección residuos sólidos en volumen igual o superior a un metro cúbico mensual.
+
+9. Macrorruta: Es la división geográfica de la ciudad, zona o área de prestación del servicio para la distribución de los recursos y equipos a fin de optimizar la prestación de las diferentes actividades que componen el servicio público de aseo.
+
+10. Microrruta: Es la descripción detallada a nivel de las calles y manzanas del trayecto de un vehículo o cuadrilla, para la prestación de las diferentes actividades del servicio público de aseo.
+
+11. Multiusuarios del servicio público de aseo. Son todos aquellos suscriptores agrupados en unidades inmobiliarias, centros habitacionales, conjuntos residenciales, condominios o similares bajo el régimen de propiedad horizontal vigente o concentrados en centros comerciales o similares, que se caracterizan porque presentan en forma conjunta sus residuos sólidos a la persona prestadora del servicio en los términos del presente decreto o las normas que lo modifiquen, sustituyan o adicionen y que hayan solicitado el aforo de sus residuos para que esta medición sea la base de la facturación del servicio público de aseo. La persona prestadora del servicio facturará a cada inmueble en forma individual, en un todo de acuerdo con la regulación que se expida para este fin.
+
+12. Pequeños generadores o productores. Son los suscriptores y/o usuarios no residenciales que generan y presentan para la recolección residuos sólidos en volumen menor a un (1) metro cúbico mensual.
+
+13. Plan de Gestión Integral de Residuos Sólidos (PGIRS): Es el instrumento de planeación municipal o regional que contiene un conjunto ordenado de objetivos, metas, programas, proyectos, actividades y recursos definidos por uno o más entes territoriales para el manejo de los residuos sólidos en su jurisdicción.
+
+14. Programa de Prestación del Servicio: Programa que las personas prestadoras del servicio de aseo y/o sus actividades complementarias deben formular e implementar, en el cual definirán los objetivos, metas, estrategias, campañas educativas, actividades y cronogramas, costos y fuentes de financiación. Este programa igualmente deberá definir todos los aspectos operativos de las diferentes actividades del servicio que atienda el operador, en concordancia con lo definido en el PGIRS, la regulación vigente y lo establecido en el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015.
+
+15. Residuo sólido no aprovechable: Material o sustancia sólida de origen orgánico e inorgánico, putrescible o no, proveniente de actividades domésticas, industriales, comerciales, institucionales, de servicios, que no son objeto de la actividad de aprovechamiento.
+
+16. Unidad Habitacional: Apartamento o casa de vivienda independiente con acceso a la vía pública o a las zonas comunes del conjunto multifamiliar y separada de las otras viviendas, de tal forma que sus ocupantes puedan acceder sin pasar por las áreas privadas de otras viviendas.
+
+17. Unidad Independiente: Apartamento o casa de vivienda, local u oficina independiente con acceso a la vía pública o a las zonas comunes de la unidad inmobiliaria.
+
+18. Usuario no residencial: Es la persona natural o jurídica que produce residuos sólidos derivados de la actividad comercial, industrial y los oficiales que se beneficia con la prestación del servicio público de aseo.
+
+19. Usuario residencial: Es la persona que produce residuos sólidos derivados de la actividad residencial y se beneficia con la prestación del servicio público de aseo. Se consideran usuarios residenciales a los ubicados en locales que ocupen menos de veinte (20) metros cuadrados de área, exceptuando los que produzcan más de un (1) metro cúbico mensual.
+
+20. <Numeral adicionado por el artículo [3](resolucion_cra_0845_2018.htm#3) de la Resolución 845 de 2018. El nuevo texto es el siguiente:> Ventaja sustancial. Beneficio que el prestador ofrece a los suscriptores y/o usuarios en la prestación del servicio público de aseo en las actividades de recolección y transporte de residuos no aprovechables, barrido y limpieza de vías y áreas públicas, y corte de césped, poda de árboles, lavado, limpieza de playas e instalación y mantenimiento de cestas en las áreas públicas, en aspectos adicionales asociados a la calidad del servicio y/o las mejoras tecnológicas que no estén incluidas en la metodología tarifaria, y que, por constituirse como una decisión empresarial, no pueden cobrarse a los suscriptores y/o usuarios en la misma.
+
+Para tal efecto, se debe especificar el periodo de tiempo durante el cual se otorgará la ventaja sustancial.
+
+El ofrecimiento de precios inferiores a los precios techo de las actividades que regulatoriamente conforman la tarifa del servicio público de aseo también puede constituirse en una ventaja sustancia
+
+[Notas de Vigencia](javascript:insRow5())
+
+CONDICIONES PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE ASEO Y SUS ACTIVIDADES COMPLEMENTARIAS PARA RESIDUOS NO APROVECHABLES
+
+[Concordancias](javascript:insRow6())
+
+Cláusula 7. Área de Prestación del Servicio (APS). El área en la cual se prestará el servicio público de aseo y sus actividades complementarias es __________________________________________________________________
+
+(La persona prestadora deberá anexar a este contrato un mapa en el cual se identifique el APS).
+
+[Concordancias](javascript:insRow7())
+
+Cláusula 8. Publicidad. El prestador del servicio deberá publicar de forma sistemática y permanente, en su página web, en los centros de atención al usuario y en las oficinas de peticiones, quejas y recursos, la siguiente información para conocimiento del suscriptor y/o usuario:
+
+1. El contrato de condiciones uniformes, cuyas copias deberán ser enviadas al suscriptor y/o usuario, una vez el prestador se acoja al presente formato de contrato de condiciones uniformes, así como cuando se pretenda la modificación del mismo.
+
+2. El mapa del Área de Prestación del Servicio (APS) dentro de la cual se compromete a cumplir los estándares de servicio establecidos en el estudio de costos vigente, producto de la aplicación de la metodología tarifaria prevista en la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015, o la que la modifique, adicione o aclare. En dicho mapa se deberán delimitar de forma clara las macrorrutas y microrrutas en las que dividió el APS, para la prestación del servicio público de aseo.
+
+3. Las metas anuales de los estándares de servicio y de eficiencia establecidas por la persona prestadora, así como el avance en el cumplimiento de las mismas.
+
+4. Línea de Atención y servicio al cliente.
+
+5. Oficina de atención de Peticiones quejas y Reclamos.
+
+6. Las tarifas vigentes.
+
+7. Rutas, horarios y frecuencias de Recolección de residuos y Barrido para cada macrorruta.
+
+8. Sitio, horario y la forma en la que los suscriptores y/o usuarios deben presentar los residuos sólidos para su recolección.
+
+9. Frecuencias de limpieza de playas y lavado de áreas públicas para cada macrorruta.
+
+10. Fechas de ejecución de las actividades de corte de césped y poda de árboles para cada macrorruta.
+
+11. Localización de Estaciones de Transferencia.
+
+12. Sitio de disposición final de los residuos.
+
+13. Localización del sitio de tratamiento.
+
+Cláusula 9. Obligaciones de la persona prestadora. Sin perjuicio de aquellas contenidas en la legislación, reglamentación y regulación vigente, son obligaciones de la persona prestadora, que se entienden incorporadas en el contrato de condiciones uniformes, las siguientes:
+
+1. Reportar al municipio y/o distrito el Área de Prestación del Servicio (APS), que corresponde a la zona geográfica del municipio, debidamente delimitada, donde ofrece y presta el servicio público de aseo.
+
+2. Suministrar continuamente un servicio de buena calidad en los inmuebles atendidos, de acuerdo con los parámetros normativos vigentes de carácter obligatorio fijados por las autoridades competentes y las especificaciones técnicas determinadas por la persona prestadora previstas en el programa de prestación del servicio y en el contrato de condiciones uniformes.
+
+3. Realizar las actividades de barrido y limpieza de vías y áreas públicas, limpieza urbana que comprende corte de césped, poda de árboles, lavado, instalación y mantenimiento de cestas y limpieza de playas en las áreas públicas, recolección, transporte, tratamiento y/o disposición final de residuos, en el área de prestación del servicio que haya reportado ante el municipio y/o distrito, de conformidad con las normas sanitarias, ambientales y regulatorias vigentes.
+
+4. Dar a conocer al suscriptor y/o usuario las frecuencias y horarios de prestación de las actividades de recolección y transporte y barrido y limpieza de vías y áreas públicas, así como las frecuencias de prestación de las actividades de limpieza urbana.
+
+5. Informar a los suscriptores y/o usuarios acerca de la manera de utilizar los servicios con eficiencia y seguridad y adelantar campañas masivas de divulgación sobre el particular.
+
+6. Realizar los aforos de la producción de residuos según los términos definidos en las Resoluciones CRA [233](resolucion_cra_0233_2002.htm#INICIO) de 2002 y [236](resolucion_cra_0236_2002.htm#INICIO) de 2002 para el caso de la solicitud de la opción de Multiusuario o en los términos definidos en la Resolución CRA [151](resolucion_cra_0151_2001.htm#INICIO) de 2001 cuando los suscriptores y/o usuarios son Grandes Productores.
+
+7. Aplicar al suscriptor y/o usuario la estratificación adoptada por el ente territorial.
+
+8. Asignar al inmueble objeto del servicio la categoría de uso correspondiente y modificarla en los casos que corresponda.
+
+9. En caso de presentarse un evento de riesgo la persona prestadora del servicio deberá ejecutar las medidas de mitigación y corrección pertinentes.
+
+10. Facturar de manera integral el servicio público de aseo incluyendo la actividad de aprovechamiento, de acuerdo con la tarifa resultante de la aplicación de la metodología tarifaria vigente o del contrato respectivo cuando aquella se hubiere definido contractualmente, con la periodicidad señalada en el contrato de condiciones uniformes.
+
+11. Entregar la factura al suscriptor y/o usuario en el sitio pactado en el contrato de condiciones uniformes.
+
+12. Aplicar al suscriptor y/o usuario los descuentos en el cargo fijo y en el cargo variable, originados por el incumplimiento de los estándares de calidad del servicio establecidos por la persona prestadora.
+
+13. Aplicar la tarifa ajustada para inmuebles desocupados a aquellos inmuebles que sean acreditados bien sea por los suscriptores y/o usuarios o por la persona prestadora según lo establecido en el artículo [45](resolucion_cra_0720_2015.htm#45) de la Resolución CRA 720 de 2015. Cobrar al suscriptor y/o usuario la contribución de solidaridad y otorgar los subsidios de acuerdo con la ley.
+
+14. En el caso de inmuebles urbanos, entregar a los interesados en extinguir la solidaridad a la que se refiere el artículo [15](ley_0820_2003.htm#15) de la Ley 820 de 2003, un formato plenamente ajustado a las disposiciones contempladas en el artículo [5](decreto_3130_2003.htm#5)o del Decreto número 3130 de 2003, o la norma que lo modifique, adicione o aclare.
+
+15. Devolver al suscriptor y/o usuario los cobros no autorizados, de conformidad con la Resolución CRA [659](resolucion_cra_0659_2013.htm#INICIO) de 2013 o la norma que la modifique, adicione o aclare. En todo caso, el interés que se aplicará a la devolución de los cobros no autorizados será el interés simple.
+
+16. Constituir una oficina de peticiones, quejas y recursos. Cuando la persona prestadora opere en varios municipios, deberá garantizar en cada uno de ellos, los medios necesarios para que el suscriptor y/o usuario pueda presentarlas personalmente o por cualquier otro medio electrónico o tecnológico.
+
+17. Recibir y trasladar las Peticiones, Quejas y Recursos (PQR), relacionadas con la actividad de aprovechamiento. Tramitará en su integralidad aquellas PQR de aprovechamiento relacionadas con la facturación.
+
+18. Trasladar a la persona prestadora de aprovechamiento las PQR relacionadas con las cantidades de residuos aprovechables facturadas, aforos y aspectos operativos relacionadas con horarios y frecuencias de recolección de residuos aprovechables.
+
+19. Respetar el debido proceso y derecho de defensa y contradicción al suscriptor y/o usuario en todas sus actuaciones frente a estos, observando la plenitud de las formas propias de la actuación administrativa previstas en la Constitución Política, el Código de Procedimiento Administrativo y de lo Contencioso Administrativo y las demás normas que le sean aplicables.
+
+20. Disponer de formatos y demás medios que faciliten a los suscriptores y/o usuarios presentar peticiones, quejas y recursos.
+
+21. Tener disponible en todo momento la información correspondiente a las peticiones, quejas y recursos para consulta de los suscriptores y/o usuarios en el momento en que lo soliciten.
+
+22. Suministrar al suscriptor la información que le permita evaluar el servicio prestado en los términos establecidos en el artículo [9](ley_0142_1994.htm#9).4 de la Ley 142 de 1994.
+
+23. Remitir a la Superintendencia de Servicios Públicos Domiciliarios los expedientes para resolver el recurso de apelación de las reclamaciones de los suscriptores y/o usuarios, dentro de los 3 días hábiles siguientes a la notificación de la decisión mediante la cual se decidió el recurso de reposición.
+
+24. No exigir la cancelación de la factura como requisito para atender un recurso relacionado con esta. Sin embargo, el prestador deberá recibir el pago de las sumas que no son objeto de reclamación, por el servicio de los últimos cinco períodos conforme lo establece el artículo [155](ley_0142_1994.htm#155) de la Ley 142 de 1994, siempre y cuando corresponda a valores no cuestionados por el suscriptor y/o usuario.
+
+25. Mantener la reserva de los datos personales del suscriptor y/o usuario y garantizar su derecho al habeas data.
+
+26. No reportar a las centrales de riesgo información del suscriptor y/o usuario sin el consentimiento expreso y escrito de los mismos.
+
+27. Garantizar bajo las condiciones técnicas establecidas en la reglamentación y regulación tarifaria vigentes, la prestación del servicio público de aseo, en condiciones uniformes a todos los suscriptores y/o usuarios que lo requieran.
+
+28. Está prohibido a las personas prestadoras en todos sus actos y contratos, discriminar o conceder privilegios a ningún suscriptor y/o usuario.
+
+29. <Numeral adicionado por el artículo [4](resolucion_cra_0845_2018.htm#4) de la Resolución 845 de 2018. El nuevo texto es el siguiente:> Cuando en las unidades inmobiliarias, centros habitacionales, conjuntos residenciales, condominios o similares bajo el régimen de propiedad horizontal vigente o concentrados en centros comerciales o similares, sus suscriptores y/o usuarios no se constituyan en multiusuarios y se encuentren vinculados a dos o más prestadores del servicio público de aseo, definir y dar a conocer la forma como se presentarán los residuos sólidos, de manera que cada uno de los prestadores de recolección y transporte de residuos no aprovechables pueda identificar los residuos de sus suscriptores y/o usuarios, conforme con lo dispuesto en el artículo [2.3.2.2.2.2.16](decreto_1077_2015.htm#2.3.2.2.2.2.16) del Decreto 1077 de 2015. Aspectos que deben estar definidos en el Contrato de Servicios Públicos.
+
+[Notas de Vigencia](javascript:insRow8())
+
+Cláusula 10. Obligaciones del suscriptor y/o usuario. Sin perjuicio de aquellas contenidas en la legislación, reglamentación y regulación vigente, son obligaciones del suscriptor y/o usuario, que se entienden incorporadas en el contrato de servicios públicos, las siguientes:
+
+1. Almacenar y presentar los residuos sólidos, de acuerdo con lo dispuesto en la normatividad vigente, en el Plan de Gestión Integral de Residuos Sólidos de los municipios o distritos y en el respectivo programa para la prestación del servicio público de aseo y en el contrato de condiciones uniformes.
+
+2. Presentar para la recolección, los residuos sólidos en horarios definidos por la persona prestadora del servicio público de aseo.
+
+3. No arrojar residuos sólidos o residuos de construcción y demolición al espacio público o en sitios no autorizados.
+
+4. Realizar la separación de residuos en la fuente, tal como lo establezca el Plan de Gestión Integral de Residuos Sólidos del respectivo municipio o distrito para su adecuado almacenamiento y posterior presentación.
+
+5. No presentar para recolección dentro de los residuos domésticos, animales muertos o sus partes, diferentes a los residuos de alimentos.
+
+6. No realizar quemas de residuos sin los controles y autorizaciones ambientales definidas en la normatividad vigente.
+
+7. Presentar los residuos sólidos para la recolección en recipientes retornables o desechables, de acuerdo con lo establecido en el PGIRS de forma tal que facilite la actividad de recolección por parte del prestador.
+
+8. Almacenar en los recipientes la cantidad de residuos, tanto en volumen como en peso, acorde con la tecnología utilizada para su recolección.
+
+9. Trasladar los residuos sólidos hasta el sitio determinado por la persona prestadora del servicio público de aseo, cuando las condiciones de las urbanizaciones, barrios o agrupaciones de viviendas y/o demás predios impidan la circulación de vehículos de recolección.
+
+10. No interferir o dificultar las actividades de barrido, recolección, transporte o limpieza urbana realizadas por la persona prestadora del servicio.
+
+11. Mantener limpios y cerrados los lotes de terreno de su propiedad, así como las construcciones que amenacen ruina. Cuando por ausencia o deficiencia en el cierre y/o mantenimiento de estos se acumulen residuos sólidos en los mismos, la recolección y transporte hasta el sitio de tratamiento y/o disposición final, será responsabilidad del propietario del lote, quien deberá contratarlo como servicio especial con la persona prestadora del servicio de aseo legalmente autorizada.
+
+12. Recoger los residuos sólidos originados por el cargue, descargue o transporte de cualquier mercancía.
+
+13. No cambiar la destinación del inmueble receptor del servicio sin el lleno de los requisitos exigidos por las autoridades competentes.
+
+14. Informar de inmediato a la persona prestadora sobre cualquier cambio en las características, identificación o uso de los inmuebles reportados o la variación del propietario, dirección u otra novedad que implique modificación a las condiciones y datos registrados en el contrato de servicios públicos y/o en el sistema de información comercial.
+
+15. Verificar que la factura remitida corresponda al inmueble receptor del servicio. En caso de irregularidad, el suscriptor y/o usuario deberá informar de tal hecho a la persona prestadora.
+
+16. Pagar oportunamente las facturas. El no recibir la factura no lo exonera del pago, salvo que la persona prestadora no haya efectuado la facturación en forma oportuna.
+
+17. Solicitar la factura a la persona prestadora cuando aquella no haya llegado oportunamente, cuya copia será gratuita.
+
+18. En el caso de suscriptores y/o usuarios no residenciales, garantizar con un título valor el pago de las facturas a su cargo en los eventos que señale la persona prestadora, siempre y cuando los mismos guarden relación directa con la prestación del servicio.
+
+19. En caso de ser multiusuario, cumplir los requisitos de presentación de residuos y demás procedimientos contemplados por la regulación vigente para la aplicación de la opción tarifaria. No depositar sustancias líquidas, excretas ni residuos considerados especiales, en recipientes destinados para la recolección en el servicio público de aseo.
+
+20. Los suscriptores y/o usuarios no residenciales o aquellos que hayan optado por la opción de multiusuarios, están en la obligación de facilitar la medición periódica de sus residuos sólidos conforme a lo definido en las Resoluciones CRA [151](resolucion_cra_0151_2001.htm#INICIO) de 2001, [233](resolucion_cra_0233_2002.htm#INICIO) de 2002 y [236](resolucion_cra_0236_2002.htm#INICIO) de 2002 y o aquellas que la adicionen, modifiquen o aclaren.
+
+21. Los suscriptores y/o usuarios no residenciales o aquellos que hayan optado por la opción de multiusuarios, están obligados a asumir los costos del aforo de los residuos sólidos, de conformidad con la normatividad vigente. La persona prestadora debe estimar estos costos para darlos a conocer al suscriptor y/o usuario antes de prestar el servicio. No habrá costos para el suscriptor y/o usuario en los casos de reclamación debidamente justificados.
+
+22. Cuando haya servicio público de aseo disponible será obligatorio vincularse como usuario y cumplir con los deberes respectivos, o acreditar que se dispone de alternativas que no perjudiquen a la comunidad.
+
+23. <Numeral adicionado por el artículo [5](resolucion_cra_0845_2018.htm#5) de la Resolución 845 de 2018. El nuevo texto es el siguiente:> Cuando en las unidades inmobiliarias, centros habitacionales, conjuntos residenciales, condominios o similares bajo el régimen de propiedad horizontal vigente o concentrados en centros comerciales o similares, sus suscriptores y/o usuarios no se constituyan en multiusuarios y se encuentren vinculados a dos o más prestadores del servicio público de aseo, deberán presentar los residuos sólidos en la forma en que lo establezcan estos últimos, de manera que cada uno de los prestadores de recolección y transporte de residuos no aprovechables pueda identificar los residuos de sus suscriptores y/o usuarios, conforme con lo dispuesto en el artículo [2.3.2.2.2.2.16](decreto_1077_2015.htm#2.3.2.2.2.2.16) del Decreto 1077 de 2015.
+
+[Notas de Vigencia](javascript:insRow9())
+
+Cláusula 11. Derechos de la persona prestadora. Se entienden incorporados en el contrato de servicios públicos los derechos que a favor de las personas prestadoras de los servicios públicos domiciliarios consagre la Constitución Política, la Ley [142](ley_0142_1994.htm#INICIO) de 1994, los decretos reglamentarios y la regulación vigente, así como los siguientes:
+
+1. Cobrar el valor de los servicios prestados de acuerdo con la tarifa resultante de aplicación de la metodología tarifaria vigente o del contrato respectivo cuando aquella se hubiere definido contractualmente, con la periodicidad señalada en el contrato de condiciones uniformes.
+
+2. Solicitar a los suscriptores y/o usuarios no residenciales una garantía adicional de pago para el suministro del servicio.
+
+3. Incluir dentro de la facturación cualquier obligación a favor o en contra del suscriptor y/o usuario, derivada de la prestación del servicio público de aseo o de los aforos solicitados por el suscriptor, conforme a la normatividad vigente.
+
+4. Verificar que los suscriptores y/o usuarios del servicio no depositen sustancias líquidas, excretas, ni residuos de los contemplados para el servicio especial, en recipientes destinados para la recolección en el servicio público de aseo.
+
+5. Cobrar ejecutivamente el valor del servicio público prestado o ejercer el cobro coactivo si está facultado legalmente para ello.
+
+6. La persona prestadora podrá aplicar intereses de mora sobre saldos insolutos de conformidad con la tasa de interés moratorio aplicable en el Código Civil. Para el caso de inmuebles no residenciales la tasa de interés moratorio aplicable será la que se determine convencionalmente o, supletivamente, la que corresponda al régimen comercial, esto es, (la persona prestadora definirá el interés de mora, el cual no podrá superar una y media veces del interés bancario corriente certificado por la Superintendencia Financiera, sin exceder el límite de usura).
+
+Cláusula 12. Derechos del suscriptor y/o usuario. Se entienden incorporados en el contrato de servicios públicos los derechos que a favor del suscriptor y/o usuario consagre la Constitución Política, la Ley [142](ley_0142_1994.htm#INICIO) de 1994, los decretos reglamentarios y la regulación vigente, así como los siguientes:
+
+1. A ser tratado dignamente por la persona prestadora.
+
+2. Al debido proceso, al derecho de defensa y contradicción.
+
+3. A no ser discriminado por la persona prestadora de servicios públicos domiciliarios y a recibir trato igualitario.
+
+4. A ser informado clara y oportunamente de sus obligaciones y de las consecuencias de incumplirlas.
+
+5. A presentar reclamaciones contra la factura sin que sea obligado al pago de las sumas reclamadas.
+
+6. A la libre elección de la persona prestadora del servicio.
+
+7. A que se le apliquen los descuentos por el incumplimiento de la persona prestadora en los estándares de calidad técnica e indicadores del servicio a los que está obligada en los términos de la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015 o la que la modifique, adicione o aclare.
+
+8. A obtener información completa, precisa y oportuna sobre asuntos relacionados con la prestación del servicio.
+
+9. A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a las peticiones, actuaciones, solicitudes o quejas que se propongan realizar, así como a llevarlas a cabo.
+
+10. A conocer, en cualquier momento, el estado de los trámites adelantados ante la persona prestadora en los que tengan la condición de interesados y a obtener copias a su costa.
+
+11. A no presentar documentos que no sean exigidos por las normas legales aplicables a los procedimientos de que trate la gestión.
+
+12. A reclamar cuando la persona prestadora aplique un estrato diferente al establecido por la respectiva entidad territorial competente para tales fines.
+
+13. A reclamar en contra del uso asignado por la persona prestadora al inmueble objeto del servicio.
+
+14. A conocer las condiciones uniformes del contrato.
+
+15. A ser protegido contra el abuso de posición dominante contractual de las personas prestadoras de servicios públicos, para lo cual se deben tener en cuenta las causales que presumen abuso de la posición dominante previstas en el artículo [133](ley_0142_1994.htm#133) de la Ley 142 de 1994.
+
+16. A la prestación continua de un servicio de buena calidad y a las reparaciones por falla en la prestación del servicio, de conformidad con el artículo [137](ley_0142_1994.htm#137) de la Ley 142 de 1994.
+
+17. A obtener información clara, completa, precisa y oportuna del contenido de las facturas.
+
+18. A presentar peticiones, quejas y recursos y a obtener respuesta oportuna y completa, de acuerdo con la normatividad vigente.
+
+19. A recibir la factura a su cargo por lo menos con cinco (5) días hábiles de antelación a la fecha de pago oportuno señalada en la misma.
+
+20. A la participación en los comités de desarrollo y control social.
+
+21. Al cobro individual de la prestación del servicio en los términos previstos en la legislación y regulación vigente.
+
+22. A que el prestador mantenga la reserva de sus datos personales y garantice su derecho al habeas data.
+
+23. A que la persona prestadora del servicio no reporte a las centrales de riesgo su información sobre el incumplimiento de las obligaciones pecuniarias sin su consentimiento expreso y escrito.
+
+24. Pactar libremente con la persona prestadora del servicio público de aseo el precio por el servicio para el manejo de residuos de construcción y demolición, así como de otros residuos especiales.
+
+PARÁGRAFO. El derecho contenido en el numeral 6o de la presente cláusula no aplica cuando la prestación del servicio haya sido adjudicada mediante un contrato que incluya cláusulas que establezcan un área de servicio exclusivo, previa verificación de motivos por parte de la Comisión de Regulación de Agua Potable y Saneamiento Básico.
+
+Cláusula 13. Condiciones técnicas. Para la prestación del servicio público de aseo y sus actividades complementarias las partes del presente contrato, deberán cumplir con las condiciones técnicas establecidas en los Capítulos [1](decreto_1077_2015.htm#CAPÍTULO 2.2.2.1), 2 y 5 del Título 2 del Decreto número 1077 de 2015, modificado y adicionado por el Decreto número [596](decreto_0596_2016.htm#INICIO) de 2016, en lo referente a:
+
+- Recipientes para el almacenamiento y presentación de residuos no aprovechables.
+
+- Frecuencias, horarios y rutas de recolección de residuos no aprovechables.
+
+- Recolección de residuos especiales (Plazas de mercado, mataderos y cementerios, animales muertos, residuos de construcción y demolición, residuos de eventos y espectáculos masivos).
+
+- Barrido y limpieza de vías y áreas públicas, horarios y frecuencias.
+
+- Actividades de limpieza urbana:
+
+– Instalación y mantenimiento de cestas
+
+– Limpieza de playas costeras o ribereñas
+
+– Lavado de áreas públicas
+
+– Corte de césped en las áreas verdes públicas
+
+– Poda de árboles en las áreas públicas.
+
+Cláusula 14. Condiciones de prestación. Para la prestación del servicio público de aseo y sus actividades complementarias, las Partes del Contrato deberán cumplir con las siguientes condiciones:
+
+- La presentación de los residuos sólidos no aprovechables para recolección, deberá hacerse con una anticipación no mayor de tres (3) horas previas a las frecuencias y horarios de recolección establecidos por la persona prestadora.
+
+- Los residuos no aprovechables deben ser recogidos por la persona prestadora, como mínimo dos (2) veces por semana.
+
+- La frecuencia mínima de barrido y limpieza del área de prestación a cargo del prestador será de dos (2) veces por semana para municipios clasificados en categoría 1 o especiales, y de una (1) vez por semana para las demás categorías establecidas en la ley.
+
+- Los residuos de barrido no podrán permanecer en las calles por más de ocho (8) horas una vez se hace la presentación para transportarlos.
+
+- La recolección de los residuos no aprovechables por macrorrutas y microrrutas deberá realizarse en las frecuencias y horarios establecidos en el presente contrato.
+
+- Todo cambio en las rutas, horarios o frecuencias deberá ser comunicado con tres (3) días de anterioridad a los suscriptores y/o usuarios afectados, salvo caso fortuito o de fuerza mayor, utilizando medios masivos de difusión de amplia circulación local y página web.
+
+COBRO DEL SERVICIO DE ASEO Y ACTIVIDADES COMPLEMENTARIAS.
+
+Cláusula 15. Tarifa del servicio de aseo. La tarifa del servicio público de aseo y sus actividades complementarias, está compuesto por un cargo fijo y un cargo variable, que serán calculados por el prestador, acorde a lo establecido en la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015, o aquella que la modifique, adicione o aclare.
+
+Para la estimación de la producción de residuos correspondiente a cada suscriptor y/o usuario, las personas prestadoras de recolección y transporte de residuos no aprovechables deberán calcular mensualmente las toneladas de residuos de: Barrido y limpieza, limpieza urbana, recolección y transporte de residuos no aprovechables y rechazos de aprovechamiento. Así mismo, deberán recibir por parte de las personas prestadoras de aprovechamiento, el cálculo de las toneladas efectivamente aprovechadas, de conformidad con la metodología tarifaria vigente.
+
+Los suscriptores y/o usuarios clasificados como grandes productores que generen un volumen superior o igual a seis metros cúbicos mensuales de residuos no aprovechables (6 m3/mes), podrán solicitar a su costo, que el prestador realice aforo de los residuos producidos con el fin de pactar libremente las tarifas correspondientes a la recolección y transporte. No habrá costo para el suscriptor y/o usuario en los casos de reclamación debidamente justificados y en los casos que así lo permita la regulación vigente.
+
+Cláusula 16. Facturación. El servicio público de aseo se facturará de forma conjunta con cualquiera de los servicios públicos a los que se refiere la Ley [142](ley_0142_1994.htm#INICIO) de 1994, y no podrá pagarse este último con independencia del servicio público de aseo, salvo en aquellos casos en que exista prueba de mediar petición, queja o recurso debidamente interpuesto ante la persona prestadora del servicio de aseo.
+
+El prestador del servicio para los residuos no aprovechables facturará de manera integral el servicio público de aseo incluyendo la actividad de aprovechamiento.
+
+La factura del servicio público de aseo deberá contener la información señalada en el artículo [148](ley_0142_1994.htm#148) de la Ley 142 de 1994 y la definida por la metodología tarifaria vigente:
+
+- Costo Fijo Total
+
+- Costo variable de residuos no aprovechables
+
+- Valor Base de Aprovechamiento por tonelada de residuos aprovechables.
+
+- Toneladas de residuos producidos en la actividad de Barrido y Limpieza de vías por suscriptor.
+
+- Toneladas de residuos producidos en la actividad de Limpieza Urbana (Corte de césped, poda de árboles, lavado de áreas públicas, limpieza de playas y/o mantenimiento de cestas).
+
+- Toneladas de materiales de rechazo del Aprovechamiento por suscriptor.
+
+- Toneladas de residuos efectivamente aprovechados por suscriptor.
+
+- Toneladas de residuos no aprovechables por suscriptor.
+
+- Toneladas de residuos no aprovechables aforadas por suscriptor (Grandes generadores, Multiusuarios).
+
+- Factor de contribución o subsidio correspondiente a cada suscriptor.
+
+La factura será entregada por lo menos con cinco (5) días hábiles de antelación a la fecha de pago señalada en la misma indicando la fecha máxima de entrega de la factura. La periodicidad en la entrega de la factura será:
+
+Mensual: ________ Bimestral: ________
+
+Fecha máxima de entrega: _________
+
+CALIDAD Y DESCUENTOS
+
+[Doctrina Concordante](javascript:insRow10())
+
+Cláusula 17. Descuentos asociados a la calidad del servicio. De conformidad con lo establecido en el Título IV de la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015 o la que la modifique, adicione o aclare; la persona prestadora deberá realizar los descuentos por el incumplimiento de las metas de calidad del servicio público de aseo (Ver Tabla 1). Dicho descuento se restará del valor total de la factura, después de haber aplicado los subsidios y contribuciones a que haya lugar.
+
+La persona prestadora cuenta con un plazo máximo de seis (6) meses para hacer efectivo el descuento total en la factura de los suscriptores y/o usuarios afectados, el cual empezará a contar una vez finalice el semestre objeto de evaluación.
+
+La persona prestadora deberá cumplir con los estándares de calidad técnica del servicio (ver Tabla 1), en su área de prestación del servicio desde la entrada en vigencia de la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015 o aquella que la modifique, adicione o aclare.
+
+Los suscriptores y/o usuarios tendrán derecho a descuentos en la tarifa del servicio público de aseo cuando se presenten las siguientes fallas en la prestación del servicio:
+
+- Cuando la recolección de residuos no aprovechables no se realice puerta a puerta, los suscriptores y/o usuarios tendrán un descuento del 10% en el precio máximo correspondiente a la actividad de recolección y transporte.
+
+- Cuando en la microrruta, no se realiza la recolección de los residuos en la frecuencia definida en el presente contrato de condiciones uniformes.
+
+- Cuando se presentan retrasos en la recolección de residuos en la macrorruta, superiores a tres horas con respecto al horario definido en el presente contrato de condiciones uniformes.
+
+- Cuando la persona prestadora reciba un número reclamos comerciales por facturación resueltos a favor del suscriptor y/o usuario en segunda instancia, superior a la meta establecida para el periodo de medición.
+
+- Cuando en el relleno sanitario no se cumplan las metas de compactación de los residuos definidas para el periodo de medición.
+
+PARÁGRAFO 1o. Los descuentos están asociados al indicador de calidad técnica en la recolección de residuos sólidos no aprovechables; al indicador de incumplimiento de reclamos comerciales por facturación; y al indicador de incumplimiento en la compactación del relleno sanitario. Estos se determinaran según lo definido en los artículos [56](resolucion_cra_0720_2015.htm#56), [57](resolucion_cra_0720_2015.htm#57), y [58](resolucion_cra_0720_2015.htm#58) de la Resolución CRA 720 de 2015 o aquella que la modifique, adicione o aclare. Se deberán tener en cuenta los factores de reincidencia en el incumplimiento de los indicadores definido en el artículo [60](resolucion_cra_0778_2016.htm#60) de la misma resolución.
+
+PARÁGRAFO 2o. El descuento total a reconocer al suscriptor y/o usuarios afectados, resulta de sumar el descuento por calidad técnica en la recolección de residuos sólidos no aprovechables, el descuento por reclamos comerciales por facturación y el descuento por incumplimiento en la compactación del relleno. La reincidencia en el incumplimiento genera un descuento mayor.
+
+Cláusula 18. Suspensión en interés del servicio. En caso de presentarse suspensión en interés en la prestación del servicio público de aseo por cualquier causa, la persona prestadora deberá mantener informados a los usuarios de dicha circunstancia e implementar las medidas transitorias requeridas.
+
+En caso de suspensiones programadas del servicio público de aseo, la persona prestadora del servicio deberá avisar a sus usuarios con cinco (5) días hábiles de anticipación, a través del medio de difusión más efectivo que se disponga en la población o sector atendido.
+
+Cláusula 19. Falla en la prestación del servicio. El incumplimiento de la persona prestadora en la prestación continua del servicio se denomina falla en la prestación del servicio y su ocurrencia le confiere al suscriptor y/o usuario el derecho, desde el momento en que se presente, a la resolución del contrato de condiciones uniformes o su cumplimiento con las reparaciones consagradas en el artículo [137](ley_0142_1994.htm#137) de la Ley 142 de 1994, esto es, a que no se le haga cobro alguno por conceptos distintos del consumo o de la adquisición de bienes y servicios recibidos y a la indemnización de perjuicios.
+
+PETICIONES, QUEJAS Y RECURSOS
+
+Cláusula 20. Peticiones, quejas y recursos. Los suscriptores y/o usuarios tienen derecho a presentar ante la persona prestadora peticiones, quejas y recursos por cualquiera de los siguientes medios: físico en los puntos de atención, líneas telefónicas, fax, correo electrónico, correo certificado. El término máximo que tiene la persona prestadora para responder son quince (15) días hábiles contados a partir de la fecha de su presentación y si la respuesta no ocurre en este plazo se produce el silencio administrativo positivo. Las peticiones, quejas y recursos serán tramitados de conformidad con el Título VIII Capítulo VII de la Ley [142](ley_0142_1994.htm#INICIO) de 1994, el Código de Procedimiento Administrativo y de lo Contencioso Administrativo y la Ley [1755](ley_1755_2015.htm#INICIO) de 2015[[17]](resolucion_cra_0778_2016.htm#NF17).
+
+Contra los actos de terminación y facturación que realice la persona prestadora, proceden el recurso de reposición y subsidiariamente el de apelación, los cuales se interpondrán de manera simultánea.
+
+El recurso de reposición contra los actos que resuelvan las reclamaciones por facturación debe interponerse dentro de los cinco (5) días siguientes a la fecha de conocimiento de la decisión. En ningún caso proceden reclamaciones contra facturas que tuviesen más de cinco (5) meses de haber sido expedidas.
+
+De los recursos de reposición y apelación contra los demás actos de la persona prestadora que enumera el inciso primero del artículo [154](ley_0142_1994.htm#154) de la Ley 142 de 1994, debe hacerse uso dentro de los cinco (5) días siguientes a aquel en que persona prestadora ponga el acto en conocimiento del suscriptor y/o usuario.
+
+Los recursos no requieren presentación personal ni intervención de abogado aunque se emplee un mandatario.
+
+Cláusula 21. Lugar de presentación de peticiones, quejas y recursos.
+
+El suscriptor y/o usuario podrá presentar peticiones, quejas y recursos en la siguiente:
+
+Dirección: __________________________________________
+
+Barrio: __________________________________________
+
+Ciudad: __________________________________________
+
+Departamento: __________________________________________
+
+Teléfono: _____________Celular:_______________
+
+Página web: ________________________________________
+
+Correo electrónico: __________________________
+
+CESIÓN, MODIFICACIÓN Y TERMINACIÓN DEL CONTRATO
+
+Cláusula 22. Cesión del contrato. Salvo que las partes dispongan lo contrario, cuando medie enajenación del bien raíz al cual se le suministra el servicio, se entiende que hay cesión del contrato, la cual opera de pleno derecho e incluye la propiedad de los bienes inmuebles por adhesión o destinación utilizados para usar el servicio. En tal caso se tendrá como nuevo suscriptor y/o usuario al cesionario a partir del momento en que adquiera la propiedad.
+
+Sin perjuicio de lo anterior, la persona prestadora conservará el derecho a exigir al cedente el cumplimiento de todas las obligaciones que se hicieron exigibles mientras fue parte del contrato, pues la cesión de estas no se autoriza, salvo acuerdo especial entre las partes.
+
+La persona prestadora podrá ceder el contrato de condiciones uniformes cuando en este se identifique al cesionario. Igualmente, se podrá ceder cuando, habiendo informado al suscriptor y/o usuario de su interés en cederlo con una antelación de por lo menos dos (2) meses, la persona prestadora no haya recibido manifestación explicita del suscriptor y/o usuario.
+
+Cláusula 23. Modificación del contrato. El contrato sólo podrá ser modificado en los siguientes eventos:
+
+1. Por acuerdo entre las partes.
+
+2. Por parte de la persona prestadora, haciendo efectivas las siguientes garantías:
+
+a) Deberá informar al suscriptor y/o usuario de la modificación propuesta con un mes de antelación a la entrada en vigencia de la misma;
+
+b) Deberá permitir al suscriptor y/o usuario el ejercicio efectivo de su derecho a no aceptar la modificación propuesta.
+
+3. Por decisión de autoridad competente.
+
+PARÁGRAFO. Lo dispuesto en el numeral 2 de la presente cláusula no será aplicable en caso de modificación unilateral por parte de la persona prestadora dado el evento de caso fortuito o fuerza mayor, en los términos del artículo [64](codigo_civil.htm#64) del Código Civil.
+
+Cláusula 24. Terminación. La persona prestadora puede terminar el contrato de servicios públicos domiciliarios por mutuo acuerdo o por incumplimiento del contrato de servicios públicos domiciliarios únicamente en los casos dispuestos en el régimen legal vigente.
+
+Cláusula 25. Terminación anticipada del contrato. <Cláusula modificada por el artículo [6](resolucion_cra_0845_2018.htm#6) de la Resolución 845 de 2018. El nuevo texto es el siguiente:> Todo suscriptor y/o usuario del servicio público de aseo tiene derecho a terminar anticipadamente el contrato, para lo cual deberá cumplir los siguientes requisitos:
+
+- Presentar solicitud ante la persona prestadora, en la cual manifieste su voluntad de desvincularse, con un término de preaviso, el cual no podrá ser superior a dos (2) meses.
+
+Acreditar que va a celebrar un nuevo contrato con otra persona prestadora que preste las mismas actividades del servicio de las que desea desvincularse y en la misma APS. En este caso, la solicitud de desvinculación deberá ir acompañada de la constancia del nuevo prestador en la que manifieste su disponibilidad para prestar las actividades del servicio público de aseo al solicitante determinando la identificación del predio que será atendido.
+
+- En los casos en que no se vaya a vincular a un nuevo prestador, acreditar que dispone de otras alternativas que no causan perjuicios a la comunidad, conforme a lo establecido en parágrafo del artículo [16](ley_0142_1994.htm#16) de la Ley 142 de 1994. La Superintendencia de Servicios Públicos será la entidad competente para determinar si la alternativa propuesta no causa perjuicios a la comunidad. Adicionalmente, las actividades de barrido y limpieza de vías y áreas públicas, las incluidas en el componente de limpieza urbana y la de aprovechamiento deberán ser atendidas por alguna persona prestadora del servicio público de aseo.
+
+- Estar a paz y salvo por las obligaciones asociadas a la prestación del servicio con la persona prestadora a la cual solicita la terminación anticipada del contrato o haber celebrado un convenio de pago respecto de tales obligaciones económicas.
+
+Si a la fecha de solicitud de terminación del contrato el suscriptor se encuentra a paz y salvo, sólo será necesario acreditar el pago de la última factura del servicio público de aseo y suscribir el acuerdo de pago de las obligaciones asociadas a la prestación del servicio pendientes o que puedan generarse respecto a la fecha efectiva de terminación del contrato. En los eventos de acuerdo de pago, el prestador expedirá el paz y salvo al momento de la solicitud de la terminación.
+
+Los suscriptores y/o usuarios podrán autorizar por escrito al nuevo prestador para que soliciten la terminación anticipada del contrato del servicio público de aseo, cumpliendo en todo caso lo dispuesto en la presente cláusula.
+
+Los prestadores del servicio de aseo que reciban solicitudes de terminación anticipada del contrato no podrán negarse a terminarlo por razones distintas de las señaladas en la norma y no podrán imponer en su contrato documentos o requisitos que impidan el derecho.
+
+La persona prestadora no podrá solicitar requisitos adicionales a los previstos en el Decreto [1077](decreto_1077_2015.htm#Inicio) de 2015.
+
+La persona prestadora del servicio público de aseo deberá tramitar y resolver de fondo la solicitud de terminación anticipada del contrato, en un plazo máximo de quince (15) días hábiles, de conformidad con lo previsto en el artículo [158](ley_0142_1994.htm#158) de la Ley 142 de 1994 y con los efectos allí previstos, en caso de configurarse el silencio administrativo positivo.
+
+La persona prestadora no podrá negar la terminación anticipada del contrato argumentando que la nueva persona prestadora no está en capacidad de prestarlo.
+
+PARÁGRAFO 1. Al momento de la terminación anticipada del contrato no podrá verse afectada la facturación integral del servicio prevista en el Decreto [1077](decreto_1077_2015.htm#Inicio) de 2015, modificado y adicionado por el Decreto [596](decreto_0596_2016.htm#Inicio) de 2016.
+
+PARÁGRAFO 2. Al momento de la terminación anticipada del contrato la persona prestadora del servicio público de aseo, deberá notificar a la persona prestadora con la que tiene el convenio de facturación conjunta, sobre la desvinculación del suscriptor y/o usuario.
+
+[Notas de Vigencia](javascript:insRow11())
+
+[Legislación Anterior](javascript:insRow12())
+
+Cláusula 26. Cláusulas especiales y adicionales. <Cláusula modificada por el artículo [7](resolucion_cra_0845_2018.htm#7) de la Resolución 845 de 2018. El nuevo texto es el siguiente:>
+
+CLÁUSULAS ADICIONALES GENERALES
+
+(Consignar las cláusulas que se vayan a incluir en este acápite y en el evento de no contemplar este tipo de cláusulas eliminar el título CLÁUSULAS ADICIONALES GENERALES).
+
+CLÁUSULAS ADICIONALES ESPECIALES
+
+PERMANENCIA MÍNIMA Sí___ No___ (no puede ser superior a 2 años y esta opción debe ir diligenciada por el suscriptor y/o usuario).
+
+Consecuencias en caso de darse por terminado el contrato de condiciones uniformes por parte del suscriptor dentro del término de vigencia de la cláusula de permanencia
+
+(En caso de hacer uso de esta cláusula, en este espacio, la persona prestadora deberá indicar tales consecuencias, las cuales deberán estar referidas a la ventaja sustancial otorgada y aplicarse en forma proporcional tanto a los costos en que la persona prestadora incurrió en el otorgamiento del beneficio a cada uno de los suscriptores, como al tiempo restante para la terminación de cada uno de los contratos dentro del término de vigencia de la cláusula de permanencia mínima.
+
+Para la aplicación de las consecuencias, la persona prestadora deberá dejar por escrito el monto que deberá ser pagado por el suscriptor y/o usuario, por cada uno de los meses restantes hasta la terminación de la cláusula de permanencia mínima).
+
+DENUNCIA DEL CONTRATO
+
+Se ha denunciado contrato de arrendamiento: Sí ___ No ___
+
+SOLUCIÓN DE CONTROVERSIAS. Las diferencias que surjan entre las personas prestadoras del servicio público de aseo y el suscriptor y/o usuario, con ocasión de la celebración, ejecución y terminación del contrato de servicios públicos domiciliarios, y que no hayan podido resolverse aplicando las normas que este contiene sobre recursos, se someterán a la decisión judicial. Lo anterior, sin perjuicio de que las partes puedan acudir a otros mecanismos alternativos de solución de conflictos previstos en la ley, caso en el cual la cláusula compromisoria debe ser autorizada de manera expresa y por escrito por el suscriptor. La negativa a suscribirla por parte del suscriptor no será motivo para negar la celebración del contrato de servicios públicos.
+
+De conformidad con el numeral 79.3 de la Ley [142](ley_0142_1994.htm#Inicio) de 1994, modificado por el artículo [13](ley_0689_2001.htm#13) de la Ley 689 de 2001, las partes pueden solicitar a la Superintendencia de Servicios Públicos Domiciliarios concepto sobre el cumplimiento de los contratos relacionados con los servicios públicos regulados por la Ley [142](ley_0142_1994.htm#Inicio) de 1994, así como la designación de personas que puedan colaborar en la mejor prestación de los servicios públicos o en la solución de controversias que puedan incidir en su prestación oportuna, cobertura o calidad.
+
+(En caso de no incluir este tipo de cláusulas eliminar el título CLÁUSULAS ADICIONALES ESPECIALES)
+
+[Notas de Vigencia](javascript:insRow13())
+
+[Legislación Anterior](javascript:insRow14())
+
+Cláusula 27. Frecuencias y horarios para la prestación del servicio público de aseo para residuos no aprovechables en el APS declarada. La persona prestadora deberá diligenciar las siguientes tablas con la información de frecuencias y horarios en los que prestarán las diferentes actividades del servicio público de aseo, para cada una de las macrorrutas de recolección definidas en el APS declarada.
+
+Recolección y Transporte de residuos no aprovechables
+
+MACRORRUTA
+
+FRECUENCIA DE RECOLECCIÓN DE RESIDUOS NO APROVECHABLES
+
+HORARIO DE RECOLECCIÓN DE RESIDUOS NO APROVECHABLES
+
+Barrido y limpieza urbana de vías y áreas públicas
+
+MACRORRUTA
+
+FRECUENCIA DE BARRIDO Y LIMPIEZA
+
+HORARIO DE BARRIDO Y LIMPIEZA
+
+Limpieza de playas
+
+MACRORRUTA
+
+FRECUENCIA DE LIMPIEZA DE PLAYAS
+
+HORARIO DE LIMPIEZADE PLAYAS
+
+Lavado de áreas públicas
+
+MACRORRUTA
+
+FRECUENCIA DE LAVADO DE ÁREAS PÚBLICAS
+
+HORARIO DE LAVADO DE ÁREAS PÚBLICAS
+
+<Inciso adicionado por el artículo [8](resolucion_cra_0845_2018.htm#8) de la Resolución 845 de 2018. El nuevo texto es el siguiente:> Para las unidades inmobiliarias, centros habitacionales, conjuntos residenciales, condominios o similares bajo el régimen de propiedad horizontal vigente o concentrados en centros comerciales o similares, en las que sus suscriptores y/o usuarios no se constituyan en multiusuarios y se encuentren vinculados a dos o más prestadores del servicio público de aseo, los residuos sólidos se deberán presentar así: _______________________ .
+
+[Notas de Vigencia](javascript:insRow15())
+
+PARÁGRAFO. Las personas prestadoras estarán en la obligación de informar, con mínimo 15 días calendario, a los suscriptores y/o usuarios de la macrorruta, cuando se realizará las actividades de poda de árboles y corte de césped en su página web, en los centros de atención al usuario y en las oficinas de peticiones, quejas y recursos.
+
+Cláusula 28. Estándares de servicio. La persona prestadora se compromete a prestar el de aseo con los siguientes estándares de servicio:
+
+Tabla 1.
+
+Actividad
+
+Indicador
+
+Estándar de Servicio
+
+Meta a alcanzar y gradualidad
+
+Cobertura
+
+100% cobertura en el área de prestación del servicio.
+
+Prestadores que prestan el servicio en municipios con más de 5.000 suscriptores en el área urbana del municipio y/o distrito.
+
+Primer año
+
+Recolección
+
+Calidad de la frecuencia de recolección de residuos sólidos no aprovechables
+
+Frecuencia de recolección de residuos sólidos no aprovechables establecida en el respectivo Contrato de Condiciones Uniformes (CCU) para cada microrruta de recolección.
+
+100% del estándar desde la aplicación de la Resolución CRA 720 de 2015.
+
+Calidad del horario de recolección de residuos sólidos no aprovechables
+
+Tiempo de duración de cada macrorruta de recolección de residuos sólidos no aprovechables establecido en el horario del respectivo Contrato de Condiciones Uniformes (CCU), más tres horas adicionales.
+
+100% del estándar desde la aplicación de la Resolución CRA 720 de 2015.
+
+Calidad en recolección
+
+Sin presencia de bolsas con residuos ordinarios después de realizada la actividad de recolección.
+
+100% del estándar desde la aplicación de la Resolución CRA 720 de 2015.
+
+Barrido y Limpieza
+
+Calidad de barrido
+
+Sin presencia de residuos y/o arenilla en las vías y áreas públicas, después de realizada la actividad de limpieza y barrido.
+
+100% del estándar desde la aplicación de la Resolución CRA 720 de 2015.
+
+Disposición final
+
+Compactación en el relleno sanitario
+
+Densidad de compactación de los residuos adoptada en el diseño de cada relleno sanitario (toneladas/m3)
+
+100% del estándar desde la aplicación de la Resolución CRA 720 de 2015.
+
+Comercial
+
+Incumplimiento de reclamos comerciales por facturación
+
+4 reclamos comerciales por facturación resueltos a favor del suscriptor y/o usuario en segunda instancia por cada 1.000 suscriptores al año.
+
+100% del estándar a los 5 años con una gradualidad a discreción del prestador.
+
+En caso de ser procedente, deberán incluirse en el contrato de condiciones uniformes los estándares de servicio derivados del contrato de Asociación Público Privada y os que provengan de la aplicación del parágrafo 1 del artículo [87](ley_0142_1994.htm#87) de la Ley 142 de 1994.
+
+La persona prestadora está obligada a informar a los suscriptores y/o usuarios los estándares de servicio producto de la aplicación de la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015 o la que la modifique, adicione o aclare, así como los que provengan de Alianzas Público Privadas o de la aplicación del parágrafo 1 del artículo [87](ley_0142_1994.htm#87) de la Ley 142 de 1994.
+
+ANEXO NÚMERO 2.
+
+MODELO DE CONDICIONES UNIFORMES DEL CONTRATO DE SERVICIOS PÚBLICOS PARA PERSONAS PRESTADORAS DE LA ACTIVIDAD DE APROVECHAMIENTO QUE ATIENDAN EN MUNICIPIOS DE MÁS DE 5.000 SUSCRIPTORES EN EL ÁREA URBANA, DE EXPANSIÓN URBANA.
+
+<Anexo integrado y unificado en el Anexo [6.1.6.3](resolucion_cra_0943_2021.htm#6.1.6.3) de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo [2.3.6.3.3.12](decreto_1077_2015.htm#2.3.6.3.3.12) del Decreto 1077 de 2015>
+
+Clausula 1. Objeto. El presente contrato de condiciones uniformes tiene por objeto la prestación de la actividad de aprovechamiento en el servicio público de aseo que comprende la recolección de residuos aprovechables separados en la fuente, el transporte selectivo hasta la estación de clasificación y aprovechamiento, así como su clasificación y pesaje.
+
+La persona prestadora se compromete a prestar dicha actividad en favor del suscriptor y/o usuario, a cambio de un precio en dinero, el cual se determinará de conformidad con la normatividad vigente.
+
+Cláusula 2. Partes. Son partes en el contrato de condiciones uniformes, la persona prestadora de la actividad de aprovechamiento y el suscriptor y/o usuario.
+
+Cláusula 3. Solidaridad. Los propietarios o poseedores del inmueble en el que se presta el servicio y los suscriptores y/o usuarios son solidarios en sus obligaciones y derechos en el contrato de servicios públicos.
+
+Con el fin de que el inmueble urbano destinado a vivienda, entregado en arriendo no quede afectado al pago de los servicios públicos domiciliarios, al momento de celebrar el contrato de arrendamiento, el arrendador podrá exigir al arrendatario la prestación de garantías o fianzas con el fin de garantizar el pago de las facturas correspondientes en los términos del artículo [15](ley_0820_2003.htm#15) de la Ley 820 de 2003[[18]](resolucion_cra_0778_2016.htm#NF18).
+
+Cláusula 4. Régimen legal. Este contrato de condiciones uniformes se regirá por lo dispuesto en la Ley [142](ley_0142_1994.htm#INICIO) de 1994, por sus decretos reglamentarios, por la regulación expedida por la Comisión de Regulación de Agua Potable y Saneamiento Básico, por la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015[[19]](resolucion_cra_0778_2016.htm#NF19) modificada por la Resolución CRA 751 de 2016 , por el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015 modificado por el Decreto [596](decreto_0596_2016.htm#INICIO) de 2016, la Resolución [276](resolucion_minviviendact_0276_2016.htm#Inicio) de 2016, por las condiciones especiales y/o adicionales que pacten las partes, por las normas del Código de Comercio y del Código Civil, normativa que se entiende incorporada al presente contrato de condiciones uniformes.
+
+PARÁGRAFO 1o. Se entiende incorporada en el contrato de servicios públicos, toda la normatividad vigente aplicable al contrato de servicios públicos.
+
+PARÁGRAFO 2o. Cuando haya conflicto entre las condiciones uniformes y las condiciones especiales, se preferirán éstas. Se tendrá en cuenta que, a pesar de tener condiciones uniformes, el contrato de servicios públicos resulta celebrado con cada suscriptor y/o usuario en particular.
+
+Cláusula 5. Vigencia: El contrato de condiciones uniformes se pacta a término indefinido o fijo, sin embargo en el evento en que sea fijo este no podrá ser superior a 2 años.
+
+Fijo ____ con una duración de ______ (no puede ser superior a 2 años)
+
+Indefinido ___
+
+DEFINICIONES
+
+Cláusula 6. Definiciones. Para los efectos del contrato de servicios públicos, se aplicarán las siguientes definiciones de conformidad con lo establecido en el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015 modificado y adicionado por el Decreto número [596](decreto_0596_2016.htm#INICIO) de 2016, la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015 y Resolución CRA [376](resolucion_cra_0376_2006.htm#INICIO) de 2006:
+
+1. Aforo: Es el resultado de las mediciones puntuales, que realiza un aforador debidamente autorizado por la persona prestadora, respecto de la cantidad de residuos sólidos que produce y presenta un usuario de manera individual o conjunta al prestador del servicio de aseo.
+
+2. Aprovechamiento: Actividad complementaria del servicio público de aseo que comprende la recolección de residuos aprovechables, el transporte selectivo hasta la estación de clasificación y aprovechamiento o hasta la planta de aprovechamiento, así como su clasificación y pesaje por parte de la persona prestadora.
+
+3. Área de prestación de servicio: Corresponde a la zona geográfica del municipio o distrito debidamente delimitada donde la persona prestadora ofrece y presta el servicio de aseo.
+
+4. Cláusula de permanencia mínima: Estipulación contractual que se pacta como una cláusula adicional a través de la cual, la persona prestadora ofrece al suscriptor y/o usuario una ventaja sustancial asociada a la prestación de la actividad de aprovechamiento y el usuario y/o suscriptor que celebra el contrato, se obliga a no terminarlo anticipadamente, so pena de las consecuencias que establezca la persona prestadora.
+
+5. Cláusulas adicionales generales: Son aquellas que define la persona prestadora, aplicables a todos los suscriptores y/o usuarios de forma uniforme.
+
+En ese sentido la persona prestadora podrá incluir en el contrato de condiciones uniformes, clausulas adicionales siempre y cuando no contravengan aspectos regulados por la ley, los decretos reglamentarios y la regulación vigente, ni modifiquen el Anexo 2 o reproduzcan su texto.
+
+En caso de pactarse cláusulas adicionales, su alcance deberá incluirse en el aparte correspondiente del Anexo 2, identificando su fuente legal y la razón de su inclusión.
+
+6. Clausulas adicionales especiales: Son aquellas que resultan del acuerdo especial entre la persona prestadora y el suscriptor y/o usuario en los términos del artículo [128](ley_0142_1994.htm#128) de la Ley 142 de 1994.
+
+El suscriptor y/o usuario potencial que no estuviere de acuerdo con alguna de las condiciones del contrato de condiciones uniformes para la prestación de la actividad de aprovechamiento podrá manifestarlo así, y hacer una petición con la contrapropuesta del caso a la persona prestadora.
+
+Si la persona prestadora la acepta, se convertirá en suscriptor y/o usuario con acuerdo especial, sin que por ello deje de ser un contrato de condiciones uniformes. Salvo lo previsto en ese acuerdo, a tal suscriptor y/o usuario se aplicarán las demás condiciones uniformes que contiene el contrato. Cuando haya conflicto entre las condiciones uniformes y las condiciones especiales, se preferirán estas.
+
+En caso de pactarse cláusulas especiales, su alcance deberá incluirse en el aparte correspondiente del Anexo 2.
+
+7. Incentivo a la separación en la fuente (DINC): Descuento del 4% en el costo del Valor Base de Aprovechamiento, para aquellas macrorrutas de recolección de residuos aprovechables, que tengan niveles de rechazo inferiores al 20% de los residuos presentados. Este incentivo se mantendrá siempre y cuando los porcentajes de rechazo no superen dicho valor.
+
+8. Estación de clasificación y aprovechamiento: Son instalaciones técnicamente diseñadas con criterios de ingeniería y eficiencia económica, dedicadas al pesaje y clasificación de los residuos sólidos aprovechables, mediante procesos manuales, mecánicos o mixtos y que cuenten con las autorizaciones ambientales a que haya lugar.
+
+9. Macrorruta: Es la división geográfica de la ciudad, zona o área de prestación del servicio para la distribución de los recursos y equipos a fin de optimizar la prestación de las diferentes actividades que componen el servicio público de aseo.
+
+10. Plan de Gestión Integral de Residuos Sólidos (PGIRS): Es el instrumento de planeación municipal o regional que contiene un conjunto ordenado de objetivos, metas, programas, proyectos, actividades y recursos definidos por uno o más entes territoriales para el manejo de los residuos sólidos en su jurisdicción.
+
+11. Rechazos: Material resultado de la clasificación de residuos aprovechables en la Estación de Clasificación y Aprovechamiento (ECA), cuyas características no permiten su efectivo aprovechamiento y que deben ser tratados o dispuestos en el relleno sanitario.
+
+12. Residuos efectivamente aprovechados: Residuos sólidos que han sido clasificados y pesados en una Estación de Clasificación y Aprovechamiento (ECA) por la persona prestadora de la actividad y han sido comercializados para su incorporación a una cadena productiva, contando con el soporte de venta a un comercializador o a la industria.
+
+13. Residuo sólido aprovechable: Es cualquier material, objeto, sustancia o elemento sólido que no tiene valor de uso para quien lo genere, pero que es susceptible de aprovechamiento para su reincorporación a un proceso productivo.
+
+14. Residuo sólido no aprovechable: Material o sustancia sólida de origen orgánico e inorgánico, putrescible o no, proveniente de actividades domésticas, industriales, comerciales, institucionales, de servicios, que no son objeto de la actividad de aprovechamiento.
+
+15. Separación en la fuente: Es la clasificación de los residuos sólidos, en aprovechables y no aprovechables por parte de los usuarios en el sitio donde se generan, de acuerdo con lo establecido en el PGIRS, para ser presentados para su recolección y transporte a las estaciones de clasificación y aprovechamiento, de disposición final de los mismos, según sea el caso.
+
+CONDICIONES PARA LA PRESTACIÓN DE LA ACTIVIDAD DE APROVECHAMIENTO EN EL MARCO DEL SERVICIO PÚBLICO DE ASEO
+
+Cláusula 7. Área de Prestación del Servicio (APS). El área en la cual se prestará la actividad de aprovechamiento ________________________________________________________
+
+(La persona prestadora podrá anexar a este contrato un mapa en el cual se identifique el APS).
+
+Cláusula 8. Publicidad. La persona prestadora de la actividad de aprovechamiento deberá publicar de forma sistemática y permanente, en su página web, la siguiente información para conocimiento del suscriptor y/o usuario:
+
+1. El contrato de condiciones uniformes para la actividad de aprovechamiento, cuyas copias deberán ser enviadas al suscriptor y/o usuario, una vez el prestador se acoja al presente formato de contrato de condiciones uniformes, así como cuando se pretenda la modificación del mismo.
+
+2. El mapa del Área de Prestación del Servicio (APS) dentro de la cual se compromete a prestar la actividad de aprovechamiento según lo definido en el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015 modificado por el Decreto número [596](decreto_0596_2016.htm#INICIO) de 2016 y la Resolución número [276](resolucion_minviviendact_0276_2016.htm#INICIO) de 2016 o las normas que los modifiquen, adicionen o aclaren. En dicho mapa se deberán delimitar de forma clara las macrorrutas en las que se dividió el APS, para la prestación de la actividad de aprovechamiento.
+
+3. Las macrorrutas beneficiadas con el otorgamiento del incentivo a la separación en la fuente (DINC). Esta información deberá ser actualizada con una frecuencia semestral.
+
+4. Toneladas de rechazos y toneladas efectivamente aprovechadas en el APS atendida.
+
+5. Un enlace para la recepción y trámite de peticiones, quejas y recursos de los usuarios.
+
+6. Las tarifas vigentes.
+
+7. Rutas, horarios y frecuencias de Recolección de residuos aprovechables.
+
+8. Sitio, horario y la forma en la que los suscriptores y/o usuarios deben presentar los residuos sólidos aprovechables para su recolección.
+
+9. Localización de Estaciones de Clasificación y Aprovechamiento (ECA).
+
+Cláusula 9. Obligaciones de la persona prestadora. Son obligaciones de la persona prestadora de la actividad de aprovechamiento, aquellas contenidas en la legislación, reglamentación y regulación vigente para las personas prestadoras del servicio público de aseo y en particular, las siguientes:
+
+1. Definir e informar al usuario sobre las condiciones de prestación del servicio.
+
+2. Definir e informar al usuario sobre los residuos sólidos aprovechables y las condiciones mínimas de separación en la fuente de conformidad con lo establecido en el PGIRS.
+
+3. Recolectar los residuos sólidos presentados por el usuario como aprovechables.
+
+4. No dejar residuos sólidos dispersos en las vías públicas que puedan conducir a la generación de puntos críticos.
+
+5. Realizar campañas de capacitación de separación en la fuente a los usuarios de la actividad de aprovechamiento del servicio público de aseo.
+
+6. Responder por prestación integral de la actividad de aprovechamiento.
+
+7. Registrarse ante la Superintendencia de Servicios Públicos Domiciliarios de conformidad con lo establecido en el numeral 9 del artículo [79](ley_0142_1994.htm#79) de la Ley 142 de 1994.
+
+8. Reportar al Sistema Único de Información (SUI) de la SSPD la información técnica, administrativa, comercial, operativa y financiera en los términos y condiciones que para el efecto establezca dicha entidad.
+
+9. Conformar junto con las personas prestadoras de la actividad de recolección y transporte de residuos no aprovechables, un Comité de Conciliación de Cuentas.
+
+10. Recolectar y transportar los residuos separados en la fuente por los usuarios hasta la Estación de Clasificación y Aprovechamiento ECA, y del pesaje y clasificación en la ECA, estableciendo las frecuencias, horario y formas de presentación de acuerdo con el Plan de Gestión Integral de residuos sólidos PGIRS.
+
+11. Entregar Reportar de forma oportuna, completa y de calidad la información necesaria para la facturación integral del servicio de aseo. Facturar de manera integral el servicio público de aseo incluyendo la actividad de aprovechamiento, de acuerdo con la tarifa resultante de la aplicación de la metodología tarifaria vigente o del contrato respectivo cuando aquella se hubiere definido contractualmente, con la periodicidad señalada en el contrato de condiciones uniformes.
+
+Cláusula 10. Obligaciones del suscriptor y/o usuario. Son obligaciones del suscriptor y/o usuario de la actividad de aprovechamiento, aquellas contenidas en la legislación, reglamentación y regulación vigente para los usuarios del servicio público de aseo y en particular, las siguientes:
+
+1. Permitir la realización del aforo de los residuos sólidos aprovechables.
+
+2. Pagar la tarifa establecida para el servicio prestado.
+
+3. Cumplir las condiciones establecidas para la prestación de la actividad previstas en este modelo de condiciones uniformes.
+
+4. Presentar los residuos aprovechables separados en la fuente, en los horarios, condiciones y frecuencias definidos en el Contrato de Condiciones Uniformes.
+
+Cláusula 11. Derechos de la persona prestadora. Se entienden incorporados en el contrato de condiciones uniformes para la prestación de la actividad de aprovechamiento los derechos que a favor de las personas prestadoras del servicio público de aseo consagre la Constitución Política, la Ley [142](ley_0142_1994.htm#INICIO) de 1994, los decretos reglamentarios y la regulación vigente, así como los siguientes:
+
+1. Cobrar el valor de los servicios prestados de acuerdo con la tarifa resultante de aplicación de la metodología tarifaria vigente o del contrato respectivo cuando aquella se hubiere definido contractualmente, con la periodicidad señalada en el contrato de condiciones uniformes.
+
+2. Solicitar a los suscriptores y/o usuarios no residenciales una garantía adicional de pago para el suministro del servicio.
+
+3. Incluir dentro de la facturación cualquier obligación a favor o en contra del suscriptor y/o usuario, derivada de la prestación de la actividad de aprovechamiento de los aforos solicitados por el suscriptor y/o usuario, conforme a la normatividad vigente.
+
+4. Verificar que los suscriptores y/o usuarios del servicio no depositen sustancias líquidas, excretas, ni residuos de los contemplados para el servicio especial, en recipientes destinados para la recolección en el servicio público de aseo.
+
+5. Cobrar ejecutivamente el valor del servicio público prestado o ejercer el cobro coactivo si está facultado legalmente para ello.
+
+6. La persona prestadora podrá aplicar intereses de mora sobre saldos insolutos de conformidad con la tasa de interés moratorio aplicable en el Código Civil. Para el caso de inmuebles no residenciales la tasa de interés moratorio aplicable será la que se determine convencionalmente o, supletivamente, la que corresponda al régimen comercial, esto es, (la persona prestadora definirá el interés de mora, el cual no podrá superar una y media veces del interés bancario corriente certificado por la Superintendencia Financiera, sin exceder el límite de usura).
+
+Cláusula 12. Derechos del suscriptor y/o usuario. Son derechos de suscriptor y/o usuario aquellos reconocidos a favor del usuario en la Constitución Política, la Ley [142](ley_0142_1994.htm#INICIO) de 1994, los decretos reglamentarios y la regulación vigente, así como los siguientes:
+
+1. Recibir capacitación sobre la separación en la fuente de los residuos sólidos aprovechables.
+
+2. Recibir el incentivo a la separación en la fuente (DINC) cuando se logren los niveles de rechazo establecidos.
+
+3. Recibir, como señal de reconocimiento de la gestión de separación en la fuente de los residuos sólidos el certificado de “suscriptor distinguido de la actividad de aprovechamiento” de la macrorruta beneficiada con el incentivo a la separación en la fuente (DINC).
+
+4. Ser incluido en la ruta de recolección de residuos sólidos aprovechables.
+
+Cláusula 13. Condiciones técnicas. Para la prestación de la actividad de aprovechamiento en el marco del servicio público de aseo, las partes del presente contrato, deberán cumplir con las condiciones técnicas establecidas en los Capítulos 1, 2 y 5 del Título 2 del Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015 modificado y adicionado por el Decreto número [596](decreto_0596_2016.htm#INICIO) de 2016 y la Resolución número [276](resolucion_minviviendact_0276_2016.htm#INICIO) de 2016 o los que lo modifiquen, adicionen o aclaren, en lo referente a:
+
+- Recolección y transporte de residuos para aprovechamiento.
+
+- Requerimiento de los residuos sólidos para el aprovechamiento. Requisitos mínimos de la ECA.
+
+- Presentación de residuos para aprovechamiento.
+
+- Campañas educativas.
+
+- Establecimiento de macrorrutas y divulgación.
+
+Cláusula 14. Condiciones de prestación. Para la prestación de la actividad de aprovechamiento, las Partes del Contrato deberán cumplir con las siguientes condiciones:
+
+La persona prestadora de la actividad de aprovechamiento deberá:
+
+- Establecer las frecuencias, horarios y formas de presentación de acuerdo con el Plan de Gestión Integral de residuos sólidos del municipio y/o distrito en el que se preste la actividad.
+
+- Realizar las actividades de la clasificación de materiales únicamente en las Estaciones de Clasificación y Aprovechamiento (ECA).
+
+- Efectuar la recolección de residuos sólidos aprovechables a partir de la acera, o de unidades y cajas de almacenamiento o cualquier sistema alternativo que garantice la recolección y el mantenimiento de sus características.
+
+Los suscriptores y/o usuarios de la actividad de aprovechamiento deberán:
+
+- Presentar los residuos separados en la fuente de acuerdo con los lineamientos del PGIRS o sujetándose a lo establecido en el Programa de Prestación de la persona prestadora de la actividad de aprovechamiento así:
+
+a) Los residuos deben ser separados por tipo material, de acuerdo con los lineamientos del PGIRS o sujetándose a lo establecido en el Programa de Prestación de la persona prestadora de la actividad de aprovechamiento;
+
+b) Los residuos no deben estar contaminados con residuos peligrosos, metales pesados, ni bifenilos policlorados.
+
+- No exigir a la persona prestadora de la actividad de aprovechamiento contraprestación alguna por los residuos aprovechables.
+
+COBRO DE LA ACTIVIDAD DE APROVECHAMIENTO
+
+Cláusula 15. Cobro de la actividad de aprovechamiento. El cobro de la actividad de aprovechamiento estará incluido en el cobro del servicio público de aseo, que será calculado por el prestador del servicio para residuos no aprovechables según lo definido en el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015 adicionado y modificado por el Decreto número [596](decreto_0596_2016.htm#INICIO) de 2016, aplicando la metodología tarifaria contenida en la Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015 modificada por la Resolución CRA [751](resolucion_cra_0751_2016.htm#INICIO) de 2016.
+
+Los costos de la prestación de la actividad de aprovechamiento serán distribuidos por igual entre todos los suscriptores y/o usuarios del servicio público de aseo en el municipio y/o distrito, de conformidad con la metodología tarifaria vigente.
+
+Los suscriptores y/o usuarios clasificados como grandes productores que generen un volumen superior o igual a seis metros cúbicos mensuales de residuos aprovechables (6 m3/mes), podrán solicitar a su costo, que el prestador de la actividad de aprovechamiento, realice aforo de los residuos producidos con el fin de pactar libremente las tarifas correspondientes a la recolección y transporte. No habrá costo para el suscriptor y/o usuario en los casos de reclamación debidamente justificados y en los casos que así lo permita la regulación vigente.
+
+Cláusula 16. Facturación. La actividad de aprovechamiento se facturará integralmente con el servicio de aseo a través del prestador de recolección y transporte de residuos no aprovechables.
+
+Cláusula 17. Incentivo (DINC). A las macrorrutas de recolección de residuos aprovechables, que tengan niveles de rechazo inferiores al 20% de los residuos presentados, les será otorgado un incentivo a la separación en la fuente (DINC). Dicho incentivo consiste en la disminución del 4% del Valor Base de Aprovechamiento según lo definido en el artículo [34](resolucion_cra_0720_2015.htm#34) de la Resolución CRA 720 de 2015.
+
+Serán las personas prestadoras de la actividad de aprovechamiento, quienes identifiquen las macrorrutas a las que se debe aplicar dicho incentivo, basados en los registros de las cantidades de residuos efectivamente aprovechados y los rechazos gestionados en la APS atendida.
+
+Este incentivo se mantendrá siempre y cuando los porcentajes de rechazo no superen dicho valor.
+
+Cláusula 18. Suspensión en interés del servicio. En caso de presentarse suspensión en interés en la prestación del servicio público de aseo por cualquier causa, la persona prestadora deberá mantener informados a los usuarios de dicha circunstancia e implementar las medidas transitorias requeridas.
+
+En caso de suspensiones programadas del servicio público de aseo, la persona prestadora del servicio deberá avisar a sus usuarios con cinco (5) días de anticipación, a través del medio de difusión más efectivo que se disponga en la población o sector atendido.
+
+Cláusula 19. Falla en la prestación del servicio. El incumplimiento de la persona prestadora en la prestación continua de la actividad de aprovechamiento se denomina falla en la prestación del servicio y su ocurrencia le confiere al suscriptor y/o usuario el derecho, desde el momento en que se presente, a la resolución del contrato de condiciones uniformes o su cumplimiento con las reparaciones consagradas en el artículo [137](ley_0142_1994.htm#137) de la Ley 142 de 1994, esto es, a que no se le haga cobro alguno por conceptos distintos del consumo o de la adquisición de bienes y servicios recibidos y a la indemnización de perjuicios.
+
+PETICIONES, QUEJAS, RECLAMACIONES Y RECURSOS
+
+Cláusula 20. Peticiones, quejas y recursos. Los suscriptores y/o usuarios tienen derecho a presentar ante la persona prestadora, peticiones, quejas y recursos por cualquiera de los siguientes medios: físico en los puntos de atención, líneas telefónicas, fax, correo electrónico, correo certificado. El término máximo que tiene la persona prestadora para responder son quince (15) días hábiles contados a partir de la fecha de su presentación y si la respuesta no ocurre en este plazo se produce el silencio administrativo positivo. Las peticiones, quejas y recursos serán tramitados de conformidad con el Título VIII Capítulo VII de la Ley [142](ley_0142_1994.htm#INICIO) de 1994, el Código de Procedimiento Administrativo y de lo Contencioso Administrativo y la Ley [1755](ley_1755_2015.htm#INICIO) de 2015[[20]](resolucion_cra_0778_2016.htm#NF20).
+
+Contra los actos de negativa del contrato, suspensión, terminación y facturación que realice la persona prestadora, procede el recurso de reposición y el de apelación el cual deberá presentarse simultáneamente.
+
+Las peticiones, Quejas, Reclamos y Recursos (PQR) relacionados con la actividad de aprovechamiento, deberán ser presentados ante las personas prestadoras del servicio para los residuos no aprovechables y se les dará el siguiente tratamiento:
+
+a) La atención de PQR relativas al contrato de servicios públicos relacionadas con la facturación servicio, deberán ser tramitadas en su integralidad por la persona prestadora del servicio para residuos no aprovechables;
+
+b) Las PQR relacionados con las cantidades de residuos aprovechables facturados, aforos y aspectos operativos relacionados con horarios y frecuencias deberán ser trasladadas, a más tardar dentro de los cinco (5) días siguientes, a la persona prestadora de la actividad de aprovechamiento. Cuando la respuesta de PQR implique ajustes en el valor facturado, la persona prestadora de la actividad de aprovechamiento deberá informar a la persona prestadora de la actividad de recolección y transporte de no aprovechables el ajuste para que genere una nueva factura;
+
+c) Las Peticiones, Quejas y Reclamos (PQR) que se relacionen con una solicitud de prestación de la actividad de aprovechamiento, presentadas por los suscriptores y/o usuarios, deberán indicar a cuál persona prestadora de la actividad aprovechamiento se dirigen, en desarrollo de lo dispuesto en el numeral 9.2 del artículo [9](ley_0142_1994.htm#9)o la Ley 1994;
+
+d) Los términos para respuesta de una petición, queja o reclamo (PQR) relacionado con la prestación de la actividad de aprovechamiento, correrán a partir de la fecha de recibo del traslado.
+
+El recurso de reposición contra los actos que resuelvan las reclamaciones por facturación debe interponerse dentro de los cinco (5) días siguientes a la fecha de conocimiento de la decisión. En ningún caso proceden reclamaciones contra facturas que tuviesen más de cinco (5) meses de haber sido expedidas.
+
+De los recursos de reposición y apelación contra los demás actos de la persona prestadora que enumera el inciso primero del artículo [154](ley_0142_1994.htm#154) de la Ley 142 de 1994, debe hacerse uso dentro de los cinco (5) días siguientes a aquel en que persona prestadora ponga el acto en conocimiento del suscriptor y/o usuario.
+
+Los recursos no requieren presentación personal ni intervención de abogado aunque se emplee un mandatario.
+
+CESIÓN, MODIFICACIÓN Y TERMINACIÓN DEL CONTRATO
+
+Cláusula 21. Cesión del contrato. Salvo que las partes dispongan lo contrario, cuando medie enajenación del bien raíz al cual se le suministra el servicio, se entiende que hay cesión del contrato, la cual opera de pleno derecho e incluye la propiedad de los bienes inmuebles por adhesión o destinación utilizados para usar el servicio. En tal caso se tendrá como nuevo suscriptor y/o usuario al cesionario a partir del momento en que adquiera la propiedad.
+
+Sin perjuicio de lo anterior, la persona prestadora conservará el derecho a exigir al cedente el cumplimiento de todas las obligaciones que se hicieron exigibles mientras fue parte del contrato, pues la cesión de estas no se autoriza, salvo acuerdo especial entre las partes.
+
+La persona prestadora podrá ceder el contrato de condiciones uniformes cuando en este se identifique al cesionario. Igualmente, se podrá ceder cuando, habiendo informado al suscriptor y/o usuario de su interés en cederlo con una antelación de por lo menos dos (2) meses, la persona prestadora no haya recibido manifestación explicita del suscriptor y/o usuario.
+
+Cláusula 22. Modificación del contrato. El contrato sólo podrá ser modificado en los siguientes eventos:
+
+1. Por acuerdo entre las partes.
+
+2. Por parte de la persona prestadora, haciendo efectivas las siguientes garantías:
+
+a) Deberá informar al suscriptor y/o usuario de la modificación propuesta con un mes de antelación a la entrada en vigencia de la misma;
+
+b) Deberá permitir al suscriptor y/o usuario el ejercicio efectivo de su derecho a no aceptar la modificación propuesta.
+
+3. Por decisión de autoridad competente.
+
+PARÁGRAFO. Lo dispuesto en el numeral 2 de la presente cláusula no será aplicable en caso de modificación unilateral por parte de la persona prestadora dado el evento de caso fortuito o fuerza mayor, en los términos del artículo [64](codigo_civil.htm#64) del Código Civil.
+
+Cláusula 23. Terminación del contrato. La persona prestadora puede terminar el contrato de servicio público por mutuo acuerdo o por incumplimiento del contrato de servicios públicos domiciliarios únicamente en los casos dispuestos en el régimen legal vigente.
+
+Cláusula 24. Terminación anticipada del contrato. Todo suscriptor y/o usuario de la actividad de aprovechamiento tiene derecho a terminar anticipadamente el contrato, para lo cual el suscriptor y/o usuario deberá cumplir los siguientes requisitos:
+
+- Presentar solicitud ante la persona prestadora, en la cual manifieste su voluntad de desvincularse de la actividad de aprovechamiento, con un término de preaviso, el cual no podrá ser superior a dos (2) meses.
+
+- Acreditar que va a celebrar un nuevo contrato con otra persona prestadora que preste la misma actividad de aprovechamiento y en la misma APS. En este caso, la solicitud de desvinculación deberá ir acompañada de la constancia del nuevo prestador en la que manifieste su disponibilidad para prestar la actividad de aprovechamiento al solicitante determinando la identificación del predio que será atendido.
+
+- En los casos en que no se vaya a vincular a un nuevo prestador, acreditar que dispone de otras alternativas que no causan perjuicios a la comunidad, conforme a lo establecido en parágrafo del artículo [16](ley_0142_1994.htm#16) de la Ley 142 de 1994.
+
+- Estar a paz y salvo con la persona prestadora a la cual solicita la terminación anticipada del contrato o haber celebrado un convenio de pago respecto de obligaciones económicas a su cargo. Si a la fecha de solicitud de terminación del contrato la persona se encuentra a paz y salvo, pero se generan obligaciones con respecto a la fecha efectiva de terminación del contrato, el pago de tales obligaciones deberá pactarse en un acuerdo de pago y expedir el respectivo paz y salvo al momento de solicitud de terminación.
+
+Los prestadores que reciban solicitudes de terminación anticipada del contrato no podrán negarse a terminarlo por razones distintas de las señaladas en la norma y no podrán imponer en su contrato documentos o requisitos que impidan el derecho.
+
+La persona prestadora no podrá solicitar requisitos adicionales a los previstos en el Decreto número [1077](decreto_1077_2015.htm#INICIO) de 2015.
+
+La persona prestadora de la actividad de aprovechamiento deberá tramitar y resolver de fondo la solicitud de terminación anticipada del contrato, en un plazo máximo de quince (15) días hábiles, so pena de imposición de sanciones por parte la Superintendencia de Servicios Públicos Domiciliarios.
+
+La persona prestadora no podrá negar la terminación anticipada del contrato argumentando que la nueva persona prestadora no está en capacidad de prestarlo.
+
+PARÁGRAFO. Al momento de la terminación anticipada del contrato no podrá verse afectada la facturación integral del servicio prevista en el Decreto número [596](decreto_0596_2016.htm#INICIO) de 2016.
+
+Cláusula 25. Cláusulas especiales y adicionales.
+
+CLÁUSULAS ADICIONALES GENERALES.
+
+CLÁUSULAS ADICIONALES ESPECIALES.
+
+PERMANENCIA (Esta opción debe ir diligenciada por el suscriptor y/o usuario)
+
+Permanencia Mínima: Si___ No___ (no puede ser superior a 2 años).
+
+DENUNCIA DEL CONTRATO.
+
+Se ha denunciado contrato de arrendamiento: Sí ___ No
+
+SOLUCIÓN DE CONTROVERSIAS. Las diferencias que surjan entre las personas prestadoras del servicio público de aseo y el suscriptor y/o usuario, con ocasión de la celebración, ejecución y terminación del contrato de servicios públicos domiciliarios, y que no hayan podido resolverse aplicando las normas que éste contiene sobre recursos, se someterán a la decisión judicial. Lo anterior, sin perjuicio de que las partes puedan acudir a otros mecanismos alternativos de solución de conflictos previstos en la ley, caso en el cual la cláusula compromisoria debe ser autorizada de manera expresa y por escrito por el suscriptor. La negativa a suscribirla por parte del suscriptor no será motivo para negar la celebración del contrato de servicios públicos.
+
+De conformidad con el numeral 79.3 de la Ley [142](ley_0142_1994.htm#INICIO) de 1994, modificado por el artículo [13](ley_0689_2001.htm#13) de la Ley 689 de 2001, las partes pueden solicitar a la Superintendencia de Servicios Públicos Domiciliarios concepto sobre el cumplimiento de los contratos relacionados con los servicios públicos regulados por la Ley [142](ley_0142_1994.htm#INICIO) de 1994, así como la designación de personas que puedan colaborar en la mejor prestación de los servicios públicos o en la solución de controversias que puedan incidir en su prestación oportuna, cobertura o calidad.
+
+Cláusula 26. Frecuencias y horarios para la prestación de la actividad de aprovechamiento en el APS declarada. La persona prestadora de la actividad de aprovechamiento deberá diligenciar la siguiente tabla, especificando los horarios y frecuencias de recolección de los residuos aprovechables correspondientes a cada una de las macrorrutas definidas en el APS declarada.
+
+MACRORRUTA
+
+DIAS DE RECOLECCIÓN DE RESIDUOS APROVECHABLES
+
+HORARIO DE RECOLECCIÓN DE RESIDUOS APROVECHABLES
+
+* * *
+
+NOTAS AL FINAL:
+
+1. Por el cual se reglamenta la prestación del servicio público de aseo.
+
+2. Por medio del cual se expide el Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio.
+
+3. Ley [1437](ley_1437_2011.htm#inicio) de 2011.
+
+4. Decreto-ley [019](decreto_0019_2012.htm#inicio) de 2012. Por el cual se dictan normas para suprimir o reformar regulaciones, procedimientos y trámites innecesarios existentes en la Administración Pública.
+
+5. Por la cual se dictan las disposiciones generales del hábeas data y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones.
+
+6. Por medio de la cual se expide el Estatuto del Consumidor y se dictan otras disposiciones.
+
+7. Por medio de la cual se regula el Derecho Fundamental de Petición y se sustituye un Título del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
+
+8. Por la cual se expide el Plan Nacional de Desarrollo 2014-2018 “Todos por un nuevo país”.
+
+9. Por medio del cual se expide el Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio.
+
+10. Por el cual se modifica y adiciona el Decreto número [1077](decreto_1077_2015.htm#inicio) de 2015 en lo relativo con el esquema de la actividad de aprovechamiento del servicio público de aseo y el régimen transitorio para la formalización de los recicladores de oficio, y se dictan otras disposiciones.
+
+11. Por la cual se corrigen unos yerros y se aclaran las Resoluciones CRA números [375](resolucion_cra_0375_2006.htm#INICIO) y [376](resolucion_cra_0376_2006.htm#INICIO) de 2006.
+
+12. Por la cual se señalan criterios generales, de acuerdo con la ley, sobre abuso de posición dominante en los contratos de servicios públicos, y sobre la protección de los derechos de los usuarios, para los servicios de acueducto, alcantarillado y aseo.
+
+13. Por la cual se establece el régimen de regulación tarifaria al que deben someterse las personas prestadoras del servicio público de aseo que atiendan en municipios de más de 5.000 suscriptores en áreas urbanas, la metodología que deben utilizar para el cálculo de las tarifas del servicio público de aseo y se dictan otras disposiciones.
+
+14. Por el cual se modifica la estructura de la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA).
+
+15. Ley [820](ley_0820_2003.htm#INICIO) de 2003, por la cual se expide el régimen de arrendamiento de vivienda urbana y se dictan otras disposiciones.
+
+16. Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015, por la cual se establece el régimen de regulación tarifaria al que deben someterse las personas prestadoras del servicio público de aseo que atiendan en municipios de más de 5.000 suscriptores en áreas urbanas, la metodología que deben utilizar para el cálculo de las tarifas del servicio público de aseo y se dictan otras disposiciones”.
+
+17. Ley [1755](ley_1755_2015.htm#INICIO) de 30 de junio de 2015, “por medio de la cual se regula el Derecho Fundamental de Petición y se sustituye un título del Código de Procedimiento Administrativo y de lo Contencioso Administrativo”.
+
+18. Ley [820](ley_0820_2003.htm#INICIO) de 2003 por la cual se expide el régimen de arrendamiento de vivienda urbana y se dictan otras disposiciones.
+
+19. Resolución CRA [720](resolucion_cra_0720_2015.htm#INICIO) de 2015 por la cual se establece el régimen de regulación tarifaria al que deben someterse las personas prestadoras del servicio público de aseo que atiendan en municipios de más de 5.000 suscriptores en áreas urbanas, la metodología que deben utilizar para el cálculo de las tarifas del servicio público de aseo y se dictan otras disposiciones”.
+
+20. Ley [1755](ley_1755_2015.htm#INICIO) de 30 de junio de 2015 Por medio de la cual se regula el Derecho Fundamental de Petición y se sustituye un título del Código de Procedimiento Administrativo y de lo Contencioso Administrativo.
+
+![Ir al inicio](../images/noun_Arrow_Up_3137361_negro.svg)
+
+![](../images/logo_AJ.svg)
+
+Gestor Normativo de la Comisión de Regulación de Agua Potable y Saneamiento Básico CRA
+
+ISBN [en TRÁMITE]
+
+Última actualización:
+
+[Control de versiones](control_versiones.html)
+
+[Créditos y reserva de derechos de autor](../creditos.html)
+
+Comisión de Regulación de Agua Potable y Saneamiento Básico CRA - DRA © 2021 - 2022
+
+Comisión de Regulación de Agua Potable y Saneamiento Básico
+
+Sede principal
+
+Carrera 12 Nº 97-80, Piso 2, Bogotá D.C., Colombia
+
+Código postal:
+
+Horario de atención: lunes a viernes de 8:00 am. a 4:00 pm.
+
+Teléfono desde Colombia (60+1) 487 3820 - (60+1) 489 7640
+Teléfono desde el exterior +57(60+1) 487 3820 + 57(60+1) 489 7640
+Fax desde Colombia (60+1) 489 7650
+Línea nacional gratuita 01 8000 517565
+Línea anticorrupción (60+1) 487 3820 Ext. 235
+
+Correo institucional: [correo@cra.gov.co](mailto:correo@cra.gov.co)
+
+Correo notificaciones judiciales: [notificacionesjudiciales@cra.gov.co](mailto:notificacionesjudiciales@cra.gov.co)
+
+Menú del pie
+
+[Políticas](/)
+
+[Mapa del sitio](/)
+
+![](../images/logo_cra_fondo_blanco_v2.png)
+
+![Logo Gov.co](https://cdn.www.gov.co/assets/images/logo.svg)
+
+×

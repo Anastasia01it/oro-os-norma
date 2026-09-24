@@ -1,0 +1,389 @@
+{
+ "corpus": "Ley_1328_2009.md",
+ "fuente": "sistema/verificacion/fuentes/Ley_1328_2009.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 54,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.7791,
+   "corpus": "ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. El presente régimen tiene por objeto establecer los principios y reglas que rigen la protección de los consumidores financieros en las r",
+   "fuente": "ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. El presente régimen tiene por objeto establecer los principios y reglas que rigen la protección de los consumidores financieros en las r",
+   "diff": {
+    "corpus": "... el sistema financiero, asegurador y del mercado de valores. PARÁGRAFO. Los principios que contiene este artículo se aplicarán en todas las relaciones que se establezcan entre los consumidores financieros y las entidades vigiladas, sin perjuicio de las disposiciones contenidas en otras normas, siempre que no pugnen con los aquí contemplados. CAPITULO II. DERECHOS Y OBLIGACIONES....",
+    "fuente": "... el sistema financiero, asegurador y del mercado de valores...."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.8877,
+   "corpus": "ARTÍCULO 5o. DERECHOS DE LOS CONSUMIDORES FINANCIEROS. Sin perjuicio de los derechos consagrados en otras disposiciones legales vigentes, los consumidores financieros tendrán, dura",
+   "fuente": "ARTÍCULO 5o. DERECHOS DE LOS CONSUMIDORES FINANCIEROS. Sin perjuicio de los derechos consagrados en otras disposiciones legales vigentes, los consumidores financieros tendrán, dura",
+   "diff": {
+    "corpus": "...os otorgados a partir de la entrada en vigencia de esta ley. PARÁGRAFO 1o. El no ejercicio de las prácticas de protección propia por parte de los consumidores financieros no implica la pérdida o desconocimiento de los derechos que le son propios ante las entidades vigiladas y las autoridades competentes. De igual manera, no exime a las entidades vigiladas de las obligaciones especiales consagradas en la presente ley respecto de los consumidores financieros. PARÁGRAFO 2o. Los consumidores financieros tendrán el deber de suministrar información cierta, suficiente y oportuna a las entidades vigiladas y a las autoridades competentes en los eventos en que estas lo soliciten para el debido cumplimiento de sus deberes y de actualizar los datos que así lo requieran. Del mismo modo, informarán a la Superintendencia Financiera de Colombia y a las demás autoridades competentes sobre las entidades que suministran productos o servicios financieros sin estar legalmente autorizadas para ello. CAPITULO III. SISTEMA DE ATENCIÓN AL CONSUMIDOR FINANCIERO....",
+    "fuente": "...os otorgados a partir de la entrada en vigencia de esta ley...."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "9",
+   "estado": "divergente",
+   "similitud": 0.9559,
+   "corpus": "ARTÍCULO 9o. CONTENIDO MÍNIMO DE LA INFORMACIÓN AL CONSUMIDOR FINANCIERO. En desarrollo del principio de transparencia e información cierta, suficiente y oportuna, las entidades vi",
+   "fuente": "ARTÍCULO 9o. CONTENIDO MÍNIMO DE LA INFORMACIÓN AL CONSUMIDOR FINANCIERO. En desarrollo del principio de transparencia e información cierta, suficiente y oportuna, las entidades vi",
+   "diff": {
+    "corpus": "... efecto imparta la Superintendencia Financiera de Colombia. PARÁGRAFO 1o. Previo a la celebración de cualquier contrato,...",
+    "fuente": "... efecto imparta la Superintendencia Financiera de Colombia. La Superintendencia Financiera de Colombia deberá impartir instrucciones especiales referidas a la información que será suministrada a los consumidores financieros de manera previa a la formalización del contrato, al momento de su celebración y durante la ejecución de este, indicándole a la entidad vigilada los medios y canales que deba utilizar, los cuales deben ser de fácil acceso para los consumidores financieros. PARÁGRAFO 1o. Previo a la celebración de cualquier contrato,..."
+   }
+  },
+  {
+   "articulo": "11",
+   "estado": "divergente",
+   "similitud": 0.8895,
+   "corpus": "ARTÍCULO 11. PROHIBICIÓN DE UTILIZACIÓN DE CLÁUSULAS ABUSIVAS EN CONTRATOS. Se prohíbe las cláusulas o estipulaciones contractuales que se incorporen en los contratos de adhesión q",
+   "fuente": "ARTÍCULO 11. PROHIBICIÓN DE UTILIZACIÓN DE CLÁUSULAS ABUSIVAS EN CONTRATOS. Se prohíbe las cláusulas o estipulaciones contractuales que se incorporen en los contratos de adhesión q",
+   "diff": {
+    "corpus": "... por no escrita o sin efectos para el consumidor financiero. PARÁGRAFO. Las prácticas abusivas están prohibidas a partir de la entrada en vigencia de la presente norma y serán sancionables conforme lo dispone la Superintendencia Financiera de Colombia y la ley. CAPITULO VI. DEFENSORÍA DEL CONSUMIDOR FINANCIERO....",
+    "fuente": "... por no escrita o sin efectos para el consumidor financiero...."
+   }
+  },
+  {
+   "articulo": "13",
+   "estado": "divergente",
+   "similitud": 0.5675,
+   "corpus": "ARTÍCULO 13. FUNCIONES DE LA DEFENSORÍA DEL CONSUMIDOR FINANCIERO. Las entidades vigiladas que defina el Gobierno Nacional, deberán contar con un Defensor del Consumidor Financiero",
+   "fuente": "ARTÍCULO 13. FUNCIONES DE LA DEFENSORÍA DEL CONSUMIDOR FINANCIERO. Las entidades vigiladas que defina el Gobierno Nacional, deberán contar con un Defensor del Consumidor Financiero",
+   "diff": {
+    "corpus": "...do como conciliador de conformidad con las normas vigentes. PARÁGRAFO. La Superintendencia Financiera de Colombia podrá dete...",
+    "fuente": "...do como conciliador de conformidad con las normas vigentes. El documento en el cual conste la conciliación realizada entre la entidad vigilada y el consumidor financiero deberá estar suscrito por ..."
+   }
+  },
+  {
+   "articulo": "20",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "21",
+   "estado": "divergente",
+   "similitud": 0.967,
+   "corpus": "ARTÍCULO 21. RÉGIMEN SANCIONATORIO. El incumplimiento de las normas previstas en el presente Título, incluidas las obligaciones a cargo del Defensor del Consumidor Financiero y de ",
+   "fuente": "ARTÍCULO 21. RÉGIMEN SANCIONATORIO. El incumplimiento de las normas previstas en el presente Título, incluidas las obligaciones a cargo del Defensor del Consumidor Financiero y de ",
+   "diff": {
+    "corpus": "... de medidas de mejoramiento como consecuencia de las mismas. TITULO II. DE LAS FACULTADES DE INTERVENCION DEL GOBIERNO NACIONAL....",
+    "fuente": "... de medidas de mejoramiento como consecuencia de las mismas...."
+   }
+  },
+  {
+   "articulo": "23",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "24",
+   "estado": "divergente",
+   "similitud": 0.6904,
+   "corpus": "ARTÍCULO 24. INSTRUMENTOS DE LA INTERVENCIÓN. Modifícase el literal i) y adiciónanse los siguientes literales al artículo 48 del Estatuto Orgánico del Sistema Financiero: i) Determ",
+   "fuente": "ARTÍCULO 24. INSTRUMENTOS DE LA INTERVENCIÓN. Modifícase el literal i) y adiciónanse los siguientes literales al artículo 48 del Estatuto Orgánico del Sistema Financiero: i) Determ",
+   "diff": {
+    "corpus": "...n fondo especial para los pensionados de retiro programado. TITULO III. DE LA ESTRUCTURA DEL SISTEMA FINANCIERO....",
+    "fuente": "...n fondo especial para los pensionados de retiro programado. n) Determinar el esquema de comisiones por la administración de los recursos de los Fondos de Pensiones obligatorias, que en cuanto a la comisión por aportes obligatorios deberá incorporar un componente calculado sobre los aportes y otro sobre el desempeño de los diferentes Fondos de Pensiones que incentive la mejor gestión por parte de las administradoras. o) Establecer las normas pertinentes para la administració..."
+   }
+  },
+  {
+   "articulo": "25",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "26",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "27",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "28",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "29",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "30",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "271",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "31",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "32",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "33",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "34",
+   "estado": "divergente",
+   "similitud": 0.9686,
+   "corpus": "ARTÍCULO 34. MODIFICACIÓN DE LA NATURALEZA Y DENOMINACIÓN DE LAS CASAS DE CAMBIO. AUTORIZACIÓN DE NUEVAS OPERACIONES. Tres meses después de la entrada en vigencia de esta ley las c",
+   "fuente": "ARTÍCULO 34. MODIFICACIÓN DE LA NATURALEZA Y DENOMINACIÓN DE LAS CASAS DE CAMBIO. AUTORIZACIÓN DE NUEVAS OPERACIONES. Tres meses después de la entrada en vigencia de esta ley las c",
+   "diff": {
+    "corpus": "...gimen de autorización, patrimonio y obligaciones especiales. TITULO IV. DE LA PROMOCION DE LAS MICROFINANZAS....",
+    "fuente": "...gimen de autorización, patrimonio y obligaciones especiales...."
+   }
+  },
+  {
+   "articulo": "36",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "37",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "38",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "39",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "40",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "41",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "42",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "43",
+   "estado": "divergente",
+   "similitud": 0.9122,
+   "corpus": "ARTÍCULO 43. Adiciónase un numeral al artículo 318 del Estatuto Orgánico del Sistema Financiero, el cual quedará así: 4. Inspección y Vigilancia. De conformidad con la reglamentaci",
+   "fuente": "ARTÍCULO 43. Adiciónase un numeral al artículo 318 del Estatuto Orgánico del Sistema Financiero, el cual quedará así: 4. Inspección y Vigilancia. De conformidad con la reglamentaci",
+   "diff": {
+    "corpus": "...ancieras, acorde con el objeto y naturaleza única del mismo. TITULO VI. DEL REGIMEN FINANCIERO DE LOS FONDOS DE PENSION OBLIGATORIA Y CESANTIA....",
+    "fuente": "...ancieras, acorde con el objeto y naturaleza única del mismo...."
+   }
+  },
+  {
+   "articulo": "45",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "46",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "47",
+   "estado": "divergente",
+   "similitud": 0.3954,
+   "corpus": "ARTÍCULO 47. Adiciónase un inciso 3o al artículo 59 de la Ley 100 de 1993, el cual quedará así: En este régimen las administradoras ofrecerán diferentes Fondos de Pensiones, esquem",
+   "fuente": "ARTÍCULO 47. Adiciónase un inciso 3o al artículo 59 de la Ley 100 de 1993, el cual quedará así: En este régimen las administradoras ofrecerán diferentes Fondos de Pensiones, esquem",
+   "diff": {
+    "corpus": "...sión bajo la modalidad de retiro programado, si es del caso. PARÁGRAFO. Para todos los efectos, cuando se haga relación al concepto de cuenta individual o cuenta individual de ahorro pensional, tal referencia corresponderá a la suma de las subcuentas individuales que posea el afiliado en cada uno de los fondos. PARÁGRAFO. Para todos los efectos, cuando en la normatividad se haga mención al concepto de fondo de pensiones, tal referencia se entenderá efectuada a cada uno de los diferentes fondos gestionados por las administradoras en los términos que señale el Gobierno Nacional. No obstante, se entenderá que todos los fondos gestionados conforman una sola universalidad para efectos de la aplicación de las normas de participación en las juntas directivas, elección de revisor fiscal del fondo, reglamento y plan de pensiones y cesión de fondos, así como en los demás casos que determine el Gobierno Nacional. PARÁGRAFO 1o. Cuando en cualquier disposición se haga mención a la rentabilidad mínima del fondo o Fondos de Pensiones, se entenderá que la misma está referida a la rentabilidad de cada uno de los Fondos de Pensiones cuya gestión se autoriza a las sociedades administradoras. PARÁGRAFO 2o. Para todos los efectos, cuando en la normatividad se haga mención a la reserva o cuenta especial de estabilización de rendimientos de los Fondos de Pensiones, se entenderá que se hace referencia, indistintamente, a la o las reservas de estabilización que determine el Gobierno Nacional al momento de establecer las normas pertinentes para la gestión del esquema de “multifondos”, para todos o cada uno de los Fondos de Pensiones. PARÁGRAFO. El Fondo de Garantías de Instituciones Financieras establecerá, con base en criterios técnicos de proporcionalidad respecto del riesgo asumido, el valor que por concepto de primas cobrará para el cubrimiento de la garantía de que trata el presente artículo. El costo de la prima de la garantía de poder adquisitivo constante podrá asumirse con cargo a los recursos Fondo de Garantía de Pensión Mínima o al Presupuesto General de la Nación, según determine el Gobierno Nacional....",
+    "fuente": "...sión bajo la modalidad de retiro programado, si es del caso...."
+   }
+  },
+  {
+   "articulo": "58",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "59",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "60",
+   "estado": "divergente",
+   "similitud": 0.733,
+   "corpus": "ARTÍCULO 60. Cuando en cualquier disposición se haga referencia o se remita al régimen de inversión y/o a la rentabilidad mínima de los Fondos de Pensiones Obligatorias, se entende",
+   "fuente": "ARTÍCULO 60. Cuando en cualquier disposición se haga referencia o se remita al régimen de inversión y/o a la rentabilidad mínima de los Fondos de Pensiones Obligatorias, se entende",
+   "diff": {
+    "corpus": "...o de Fondo de Pensiones que determine el Gobierno Nacional. TITULO VII. DE LA LIBERALIZACION COMERCIAL EN MATERIA DE SERVICIOS FIN...",
+    "fuente": "...o de Fondo de Pensiones que determine el Gobierno Nacional. En el evento en que se haga referencia o remisión al régimen de inversión y/o a la rentabilidad mínima de los Fondos de Cesantía, tal referencia se predicará del régimen de inversiones y/o de la rentabilidad mínima del portafolio de inversión de largo plazo de tales fondos. TITULO VII. DE LA LIBERALIZACION COMERCIAL EN MATERIA DE S..."
+   }
+  },
+  {
+   "articulo": "61",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "45A",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "45B",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "45C",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "66",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "67",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "68",
+   "estado": "casi",
+   "similitud": 0.993,
+   "corpus": "ARTÍCULO 68. AUTORIZACIÓN PARA LA CONSTITUCIÓN. Modifícase el inciso 1o del numeral 5 del artículo 53 del Estatuto Orgánico del Sistema Financiero, el cual quedará así: 5. Autoriza",
+   "fuente": "ARTÍCULO 68. AUTORIZACIÓN PARA LA CONSTITUCIÓN. Modifícase el inciso 1o del numeral 5 del artículo 53 del Estatuto Orgánico del Sistema Financiero, el cual quedará así: 5. Autoriza",
+   "diff": {
+    "corpus": "...talidad por acciones de entidades vigiladas por la primera. Notas del Editor TITULO IX. OTRAS DISPOSICIONES....",
+    "fuente": "...talidad por acciones de entidades vigiladas por la primera. TITULO IX. OTRAS DISPOSICIONES...."
+   }
+  },
+  {
+   "articulo": "69",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "48",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "70",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "50",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "71",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "12",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "72",
+   "estado": "divergente",
+   "similitud": 0.8799,
+   "corpus": "ARTÍCULO 72. TITULARIZACIÓN DE ACTIVOS NO HIPOTECARIOS. Sin perjuicio de la autorización legal con que cuentan las sociedades fiduciarias, los activos vinculados a procesos de titu",
+   "fuente": "ARTÍCULO 72. TITULARIZACIÓN DE ACTIVOS NO HIPOTECARIOS. Sin perjuicio de la autorización legal con que cuentan las sociedades fiduciarias, los activos vinculados a procesos de titu",
+   "diff": {
+    "corpus": "...rechos de registro, gastos notariales ni impuesto de timbre. PARÁGRAFO. Lo dispuesto en este artículo se entiende sin perjuicio de las acciones que puedan asistir al agente especial, el liquidador, los órganos concursales, a las autoridades pertinentes o a cualquier acreedor para exigir, en su caso, las indemnizaciones que correspondan o las responsabilidades que procedan, por una actuación contraria a derecho o por cualquier otra causa, de quienes hubieran realizado dicha actuación o de los que indebidamente hubieran resultado beneficiarios de las operaciones realizadas....",
+    "fuente": "...rechos de registro, gastos notariales ni impuesto de timbre...."
+   }
+  },
+  {
+   "articulo": "75",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "76",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "77",
+   "estado": "divergente",
+   "similitud": 0.4331,
+   "corpus": "ARTÍCULO 77. NORMALIZACIÓN DE CARTERA. Con el fin de rehabilitar la población campesina beneficiaria de reforma agraria y a las asociaciones de usuarios de distritos de riego y sus",
+   "fuente": "ARTÍCULO 77. NORMALIZACIÓN DE CARTERA. Con el fin de rehabilitar la población campesina beneficiaria de reforma agraria y a las asociaciones de usuarios de distritos de riego y sus",
+   "diff": {
+    "corpus": "... antiguos Incora o Incoder. Incisos y Parágrafo INEXEQUIBLES PARÁGRAFO 3o. Las empresas aseguradoras autorizadas por la Superintendencia Financiera de Colombia o quien haga sus veces, en la explotación del ramo del seguro exequial o cualquiera otro con modalidad de cubrimiento para gastos funerarios, deberán indemnizar únicamente en dinero a favor del tomador o sus beneficiarios, previa comprobación por parte de estos del pago del monto del servicio funerario asegurado, suministrado directamente por entidades legalmente constituidas para prestar este tipo de servicios exequiales; salvo que el servicio funerario se preste con afectación a la Póliza de Seguro Obligatorio en Accidentes de Tránsito (SOAT). PARÁGRAFO. Ver Notas del Editor Para estimular dicho ahorro a largo plazo el Gobierno Nacional, con cargo a los recursos del Fondo de Solidaridad Pensional y teniendo en cuenta las disponibilidades del mismo, podrá establecer incentivos que se hagan efectivos al finalizar el período de acumulación denominados periódicos que guardarán relación con el ahorro individual, con la fidelidad al programa y con el monto ahorrado e incentivos denominados puntuales y/o aleatorios para quienes ahorren en los períodos respectivos. Notas del Editor En todo caso, el valor total de los incentivos periódicos más los denominados puntuales que se otorguen no podrán ser superiores al 50% de la totalidad de los recursos que se hayan acumulado en este programa, de conformidad con la reglamentación que expida el Gobierno Nacional. Los incentivos que se definirán mediante los instructivos de operación del Programa Social Complementario, denominado Beneficios Económicos Periódicos, deben estar orientados a fomentar tanto la fidelidad como la cultura del ahorro para la vejez. En todo caso, el ahorrador sólo se podrá beneficiar del incentivo periódico si cumple con los requisitos establecidos en los numerales anteriores y ha mantenido los recursos en el mecanismo a la fecha de obtener un Beneficio Económico Periódico, salvo el caso de los incentivos aleatorios. Como mecanismo adicional para fomentar la fidelidad y la cultura del ahorro el Gobierno determinará las condiciones en las cuales los recursos ahorrados podrán ser utilizados como garantía para la obtención de créditos relacionados con la atención de imprevistos del ahorrador o de su grupo familiar, de conformidad con la reglamentación que se expida para tal efecto. Inciso modificado por el artículo 18 de la Ley 2225 de 2022. El nuevo texto es el siguiente: También se podrá crear como parte de los incentivos la contratación de seguros que cubran los riesgos de invalidez y muerte del ahorrador, cuya prima será asumida por el Fondo de Riesgos Laborales. El pago del siniestro se hará efectivo mediante una suma única. Los seguros que se otorgan a través de los Beneficios Económicos Periódicos en cualquiera de sus modalidades podrán amparar los riesgos económicos derivados de la maternidad. PARÁGRAFO 3o. La Superintendencia Financiera de Colombia no ejercerá funciones de inspección, vigilancia o control sobre mercados de valores del exterior y sus agentes o sobre emisores extranjeros cuyos valores sean listados en sistemas de cotizaciones de valores del extranjero. Lo anterior, sin perjuicio de las atribuciones que en el ámbito de su competencia le correspondan respecto de los sistemas de cotizaciones de valores del extranjero y los respectivos administradores de estos....",
+    "fuente": "... antiguos Incora o Incoder. Incisos y Parágrafo INEXEQUIBLES..."
+   }
+  },
+  {
+   "articulo": "92",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "93",
+   "estado": "divergente",
+   "similitud": 0.8363,
+   "corpus": "ARTÍCULO 93. Artículo modificado por el artículo 64 de la Ley 1430 de 2010. El nuevo texto es el siguiente: Los deudores del Programa de Reactivación Agropecuaria Nacional, PRAN, A",
+   "fuente": "ARTÍCULO 93. Artículo modificado por el artículo 64 de la Ley 1430 de 2010. El nuevo texto es el siguiente: Los deudores del Programa de Reactivación Agropecuaria Nacional, PRAN, A",
+   "diff": {
+    "corpus": ".... Para su recuperación solo se adelantará cobro prejudicial. Notas del Editor PARÁGRAFO. Los profesionales de compra y venta de divisas que deseen actuar como corresponsales cambiarios, deberán acreditar ante su Entidad de Control y Vigilancia, además de los requisitos vigentes, condiciones éticas, de responsabilidad, carácter e idoneidad profesional de los interesados, y cumplir con los siguientes requisitos: a) Acreditar un patrimonio mínimo de 300 millones de pesos, el cual se ajustará anualmente de acuerdo con el IPC. b) Constituirse en Sociedad Anónima. c) Demostrar que cuentan con una infraestructura técnica, administrativa y humana, tal, que les permita velar de manera adecuada por los intereses de quienes realizan las operaciones establecidas en el Contrato de Mandato en procura de lograr el objeto del mismo. d) Poseer un nivel de sistematización (hardware y software), que permita un manejo oportuno, correcto y adecuado de la información, en tiempo real y en línea, de las diferentes operaciones que se lleven a cabo en desarrollo del Contrato de Mandato....",
+    "fuente": ".... Para su recuperación solo se adelantará cobro prejudicial...."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "2",
+  "3",
+  "4",
+  "6",
+  "7",
+  "10",
+  "14",
+  "15",
+  "16",
+  "17",
+  "18",
+  "19",
+  "22",
+  "35",
+  "44",
+  "49",
+  "63",
+  "97",
+  "51",
+  "100",
+  "52",
+  "101",
+  "53",
+  "104",
+  "54",
+  "55",
+  "56",
+  "57",
+  "62",
+  "64",
+  "65",
+  "73",
+  "74",
+  "78",
+  "79",
+  "80",
+  "81",
+  "82",
+  "83",
+  "84",
+  "85",
+  "86",
+  "87",
+  "88",
+  "89",
+  "90",
+  "91",
+  "94",
+  "95",
+  "96",
+  "98",
+  "99"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 39,
+  "casi": 1,
+  "divergentes": 14
+ }
+}

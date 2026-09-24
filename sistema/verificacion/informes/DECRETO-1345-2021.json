@@ -1,0 +1,48 @@
+{
+ "corpus": "DECRETO-1345-2021.md",
+ "fuente": "sistema/verificacion/fuentes/decreto_1345_2021.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 3,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.9566,
+   "corpus": "Artículo 1. Modifíquese el artículo 2.3.2.5.3.1. de la Sección 3, del Capítulo 5, del Título 2, de la Parte 3, del Libro 2 del Decreto Unico Reglamentario del Sector Vivienda, Ciud",
+   "fuente": "ARTÍCULO 1o. Decreto derogado por el artículo 5 del Decreto 1381 de 2024 Modifíquese el artículo 2.3.2.5.3.1. de la Sección 3, del Capítulo 5, del Título 2, de la Parte 3, del Libr",
+   "diff": {
+    "corpus": "...Artículo 1. Modifíquese el artículo 2.3.2.5.3.1. de la Sección 3, del C...",
+    "fuente": "...ARTÍCULO 1o. Decreto derogado por el artículo 5 del Decreto 1381 de 2024 Modifíquese el artículo 2.3.2.5.3.1. de la Sección 3, del C..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.8393,
+   "corpus": "Artículo 2. Adiciónese el artículo 2.3.2.5.3.8. a la Sección 3, del Capítulo 5, del Título 2, de la Parte 3, del Libro 2 del Decreto Unico Reglamentario del Sector Vivienda, Ciudad",
+   "fuente": "ARTÍCULO 2o. Decreto derogado por el artículo 5 del Decreto 1381 de 2024 Adiciónese el artículo 2.3.2.5.3.8. a la Sección 3, del Capítulo 5, del Título 2, de la Parte. 3, del Libro",
+   "diff": {
+    "corpus": "...Artículo 2. Adiciónese el artículo 2.3.2.5.3.8. a la Sección 3, del Capítulo 5, del Título 2, de la P...",
+    "fuente": "...ARTÍCULO 2o. Decreto derogado por el artículo 5 del Decreto 1381 de 2024 Adiciónese el artículo 2.3.2.5.3...."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.2518,
+   "corpus": "Artículo 3. El presente Decreto rige a partir de la fecha de su publicación en el Diario Oficial, de la misma manera adiciona un artículo en los términos aquí señalados, modifica e",
+   "fuente": "ARTÍCULO 3o. El presente decreto rige a partir de la fecha de su publicación en el Diario Oficial, de la misma manera adiciona un artículo en los términos aquí señalados, modifica ",
+   "diff": {
+    "corpus": "...Artículo 3. El presente Decreto rige a partir de la fecha de su public...",
+    "fuente": "...ARTÍCULO 3o. El presente decreto rige a partir de la fecha de su public..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 3
+ }
+}

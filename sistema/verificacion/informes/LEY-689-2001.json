@@ -1,0 +1,266 @@
+{
+ "corpus": "LEY-689-2001.md",
+ "fuente": "sistema/verificacion/fuentes/LEY-689-2001.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 26,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9986,
+   "corpus": "ARTÍCULO 1°. Modifícanse los numerales 15 y 24 del artículo 14 de la Ley 142 de 1994, el cual quedará así: \"Artículo 14. Deﬁniciones. 14.15 Productor marginal independiente o para ",
+   "fuente": "ARTÍCULO 1o. Modifícanse los numerales 15 y 24 del artículo 14 de la Ley 142 de 1994, el cual quedará así: \" Artículo 14. Definiciones. 14.15 Productor marginal independiente o par",
+   "diff": {
+    "corpus": "...ARTÍCULO 1°. Modifícanse los numerales 15 y 24 del artículo 14 de la Le...",
+    "fuente": "...ARTÍCULO 1o. Modifícanse los numerales 15 y 24 del artículo 14 de la Le..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.8545,
+   "corpus": "ARTÍCULO 2°. Modifícase el numeral 20 del artículo 14 de la Ley 142 de 1994 el cual quedará así: \"14.20 Servicios Públicos. Son todos los servicios y actividades complementarias a ",
+   "fuente": "ARTÍCULO 2o. Modifícase el numeral 20 del artículo 14 de la Ley 142 de 1994 el cual quedará así: \" 14.20 Servicios Públicos. Son todos los servicios y actividades complementarias a",
+   "diff": {
+    "corpus": "...ARTÍCULO 2°. Modifícase el numeral 20 del artículo 14 de la Ley 142 de ...",
+    "fuente": "...ARTÍCULO 2o. Modifícase el numeral 20 del artículo 14 de la Ley 142 de ..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "casi",
+   "similitud": 0.9987,
+   "corpus": "ARTÍCULO 3°. Modifícase el artículo 31 de la Ley 142 de 1994 el cual quedará así: \"Artículo 31. Régimen de la contratación. Los contratos que celebren las entidades estatales que p",
+   "fuente": "ARTÍCULO 3o. Modifícase el artículo 31 de la Ley 142 de 1994 el cual quedará así: \" Artículo 31. Régimen de la contratación. Los contratos que celebren las entidades estatales que ",
+   "diff": {
+    "corpus": "...ARTÍCULO 3°. Modifícase el artículo 31 de la Ley 142 de 1994 el cual qu...",
+    "fuente": "...ARTÍCULO 3o. Modifícase el artículo 31 de la Ley 142 de 1994 el cual qu..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.9548,
+   "corpus": "ARTÍCULO 4°. El parágrafo del artículo 39 de la Ley 142 de 1994, quedará así: \"Parágrafo. Salvo los contratos de que tratan el parágrafo del artículo 39 y el numeral 39.1 de la pre",
+   "fuente": "ARTÍCULO 4o. El parágrafo del artículo 39 de la Ley 142 de 1994, quedará así: \"Parágrafo. Salvo los contratos de que tratan el parágrafo del artículo 39 sic y el numeral 39.1 de la",
+   "diff": {
+    "corpus": "...ARTÍCULO 4°. El parágrafo del artículo 39 de la Ley 142 de 1994, quedar...",
+    "fuente": "...ARTÍCULO 4o. El parágrafo del artículo 39 de la Ley 142 de 1994, quedar..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.3433,
+   "corpus": "ARTÍCULO 5°. Modifícase el artículo 50 de la Ley 142 de 1994 el cual quedará así: \"Artículo 50. Control ﬁscal en las empresas de servicios públicos domiciliarios con participación ",
+   "fuente": "ARTÍCULO 5o. Modifícase el artículo 50 de la Ley 142 de 1994 el cual quedará así: \"Artículo 50. Control fiscal en las empresas de servicios públicos domiciliarios con participación",
+   "diff": {
+    "corpus": "...ARTÍCULO 5°. Modifícase el artículo 50 de la Ley 142 de 1994 el cual qu...",
+    "fuente": "...ARTÍCULO 5o. Modifícase el artículo 50 de la Ley 142 de 1994 el cual qu..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "divergente",
+   "similitud": 0.9469,
+   "corpus": "ARTÍCULO 6°. Modifícase el artículo 51 de la Ley 142 de 1994, el cual quedará así: \"Artículo 51. Auditoría externa. Independientemente del control interno, todas las Empresas de Se",
+   "fuente": "ARTÍCULO 6o. Modifícase el artículo 51 de la Ley 142 de 1994, el cual quedará así: \" Artículo 51. Auditoría externa. Aparte subrayado CONDICIONALMENTE EXEQUIBLE Independientemente ",
+   "diff": {
+    "corpus": "...ARTÍCULO 6°. Modifícase el artículo 51 de la Ley 142 de 1994, el cual q...",
+    "fuente": "...ARTÍCULO 6o. Modifícase el artículo 51 de la Ley 142 de 1994, el cual q..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "casi",
+   "similitud": 0.9913,
+   "corpus": "ARTÍCULO 7°. Modifícase el artículo 52 de la Ley 142 de 1994, el cual quedará así: \"Artículo 52. Concepto de control de gestión y resultados. El control de gestión y resultados es ",
+   "fuente": "ARTÍCULO 7o. Modifícase el artículo 52 de la Ley 142 de 1994, el cual quedará así: \"Artículo 52. Concepto de control de gestión y resultados. El control de gestión y resultados es ",
+   "diff": {
+    "corpus": "...ARTÍCULO 7°. Modifícase el artículo 52 de la Ley 142 de 1994, el cual q...",
+    "fuente": "...ARTÍCULO 7o. Modifícase el artículo 52 de la Ley 142 de 1994, el cual q..."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.973,
+   "corpus": "ARTÍCULO 8°. Modifícase el artículo 60 de la Ley 142 de 1994, el cual quedará así: \"Artículo 60. Efectos de la toma de posesión. Como consecuencia de la toma de posesión se produci",
+   "fuente": "ARTÍCULO 8o. Modifícase el artículo 60 de la Ley 142 de 1994, el cual quedará así: \"Artículo 60. Efectos de la toma de posesión. Como consecuencia de la toma de posesión se produci",
+   "diff": {
+    "corpus": "...ARTÍCULO 8°. Modifícase el artículo 60 de la Ley 142 de 1994, el cual q...",
+    "fuente": "...ARTÍCULO 8o. Modifícase el artículo 60 de la Ley 142 de 1994, el cual q..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "divergente",
+   "similitud": 0.9545,
+   "corpus": "ARTÍCULO 9°. Adiciónase el siguiente parágrafo al artículo 61 de la Ley 142 de 1994: Parágrafo. Al ordenar la liquidación de una empresa de servicios públicos del orden municipal q",
+   "fuente": "ARTÍCULO 9o. Adiciónase el siguiente parágrafo al artículo 61 de la Ley 142 de 1994: PARÁGRAFO. Al ordenar la liquidación de una empresa de servicios públicos del orden municipal q",
+   "diff": {
+    "corpus": "...ARTÍCULO 9°. Adiciónase el siguiente parágrafo al artículo 61 de la Ley...",
+    "fuente": "...ARTÍCULO 9o. Adiciónase el siguiente parágrafo al artículo 61 de la Ley..."
+   }
+  },
+  {
+   "articulo": "10",
+   "estado": "casi",
+   "similitud": 0.9926,
+   "corpus": "ARTÍCULO 10°. Modifícase el artículo 62 de la Ley 142 de 1994 el cual quedará así: \"Artículo 62. Organización. En desarrollo del artículo 369 de la Constitución Política de Colombi",
+   "fuente": "ARTÍCULO 10. Modifícase el artículo 62 de la Ley 142 de 1994 el cual quedará así: \"Artículo 62. Organización. En desarrollo del artículo 369 de la Constitución Política de Colombia",
+   "diff": {
+    "corpus": "...ARTÍCULO 10°. Modifícase el artículo 62 de la Ley 142 de 1994 el cual qu...",
+    "fuente": "...ARTÍCULO 10. Modifícase el artículo 62 de la Ley 142 de 1994 el cual qu..."
+   }
+  },
+  {
+   "articulo": "11",
+   "estado": "divergente",
+   "similitud": 0.973,
+   "corpus": "ARTÍCULO 11. Modifícase el artículo 66 de la Ley 142 de 1994, el cual quedará así: \"Artículo 66. Incompatibilidades e inhabilidades. Las personas que cumplan la función de vocales ",
+   "fuente": "ARTÍCULO 11. Modifícase el artículo 66 de la Ley 142 de 1994, el cual quedará así: \"Artículo 66. Incompatibilidades e inhabilidades. Las personas que cumplan la función de vocales ",
+   "diff": {
+    "corpus": "...icar estas inhabilidades e incompatibilidades\". CAPÍTULO II DE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS L...",
+    "fuente": "...licar estas inhabilidades e incompatibilidades\". CAPITULO II. DE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS...."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "13",
+   "estado": "divergente",
+   "similitud": 0.8437,
+   "corpus": "ARTÍCULO 13. Modifícase el artículo 79 de la Ley 142 de 1994, el cual quedará así: \"Artículo 79. Funciones de la Superintendencia. Las personas prestadoras de servicios públicos y ",
+   "fuente": "ARTÍCULO 13. Modifícase el artículo 79 de la Ley 142 de 1994, el cual quedará así: \"Artículo 79. Funciones de la Superintendencia. Las personas prestadoras de servicios públicos y ",
+   "diff": {
+    "corpus": "... aquellas que, en general, realicen actividades que las hagan sujetos de aplicación de las Leyes 142 y 143 de 1994, estar...",
+    "fuente": "... aquellas que, en general, realicen actividades que las haga sujetos de aplicación de las Leyes 142 y 143 de 1994, estar..."
+   }
+  },
+  {
+   "articulo": "14",
+   "estado": "divergente",
+   "similitud": 0.9772,
+   "corpus": "ARTÍCULO 14. Adiciónase el siguiente artículo nuevo a la Ley 142 de 1994. \"Artículo nuevo. Del sistema único de información. Corresponde a la Superintendencia de Servicios Públicos",
+   "fuente": "ARTÍCULO 14. Adiciónase el siguiente artículo nuevo a la Ley 142 de 1994. \"Artículo nuevo. Del sistema único de información. Corresponde a la Superintendencia de Servicios Públicos",
+   "diff": {
+    "corpus": "...vigilancia de la Superintendencia de Servicios Públicos. Ver Resolución de la S.S.P.D. 16965 de 2005 PARÁGRAFO 1°. Los sistemas de información que de...",
+    "fuente": "... y vigilancia de la Superintendencia de Servicios Públicos. PARÁGRAFO 1o. Los sistemas de información que deben organizar y mante..."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "casi",
+   "similitud": 0.9901,
+   "corpus": "ARTÍCULO 15. Adiciónase el siguiente artículo nuevo a la Ley 142 de 1994. \"Artículo nuevo. Del formato único de información. La Superintendencia de Servicios Públicos elaborará el ",
+   "fuente": "ARTÍCULO 15. Adiciónase el siguiente artículo nuevo a la Ley 142 de 1994. \"Artículo nuevo. Del formato único de información. La Superintendencia de Servicios Públicos elaborará el ",
+   "diff": {
+    "corpus": "... el artículo 52 de la Ley 142 de 1994 y el presente decreto. PARÁGRAFO 1°. LA Superintendencia de Servicios Públicos ela...",
+    "fuente": "...n el artículo 52 de la Ley 142 de 1994 y el presente decreto sic . PARÁGRAFO 1o. La Superintendencia de Servicios Públicos el..."
+   }
+  },
+  {
+   "articulo": "16",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "102",
+   "estado": "divergente",
+   "similitud": 0.9787,
+   "corpus": "ARTÍCULO 102. Estratos y metodología. Los inmuebles residenciales se clasiﬁcarán máximo en seis (6) estratos socioeconómicos (1, bajo-bajo; 2, bajo; 3, medio-bajo; 4, medio; 5, med",
+   "fuente": "Artículo 102. Estratos y metodología. Los inmuebles residenciales se clasificarán máximo en seis (6) estratos socioeconómicos (1, bajo-bajo; 2, bajo; 3, medio-bajo; 4, medio; 5, me",
+   "diff": {
+    "corpus": "...ser clasiﬁcada en un estrato superior al cuatro (4). Ley 689 de 2001 Departamento Administrativo de la Función Pública Los asentamientos indígenas ubicados en la zona rural dispersa reci...",
+    "fuente": "...odrá ser clasificada en un estrato superior al cuatro (4). Los asentamientos indígenas ubicados en la zona rural dispers..."
+   }
+  },
+  {
+   "articulo": "17",
+   "estado": "casi",
+   "similitud": 0.9833,
+   "corpus": "ARTÍCULO 17. Modifícase el artículo 104 de la Ley 142 de 1994 el cual quedará así: \"Artículo 104. Recursos de los usuarios. Toda persona o grupo de personas podrá solicitar por esc",
+   "fuente": "ARTÍCULO 17. Modifícase el artículo 104 de la Ley 142 de 1994 el cual quedará así: \"Artículo 104. Recursos de los usuarios. Toda persona o grupo de personas podrá solicitar por esc",
+   "diff": {
+    "corpus": "...es, operará el silencio administrativo positivo\". TÍTULO VI EL CONTRATO DE SERVICIOS PUBLICOS CAPÍTULO I NATURALEZA Y CA...",
+    "fuente": "...ses, operará el silencio administrativo positivo\". TITULO VI. EL CONTRATO DE SERVICIOS PUBLICOS. CAPITULO I. NATURALEZA Y..."
+   }
+  },
+  {
+   "articulo": "18",
+   "estado": "divergente",
+   "similitud": 0.959,
+   "corpus": "ARTÍCULO 18. Modifícase el artículo 130 de la Ley 142 de 1994, el cual quedará así: \"Artículo 130. Partes del contrato. Son partes del contrato la empresa de servicios públicos, el",
+   "fuente": "ARTÍCULO 18. Modifícase el artículo 130 de la Ley 142 de 1994, el cual quedará así: \"Artículo 130. Partes del contrato. Son partes del contrato la empresa de servicios públicos, el",
+   "diff": {
+    "corpus": "...rvicio se romperá la solidaridad prevista en esta norma\". Ver sentencia de la Corte Constitucional 389 de 2002 , Ver Sentencia de la Corte Constitucional T-262 de 2003 CAPÍTULO II EL CUMPLIMIENTO Y LA PRESTACIÓN DEL SERVICIO...",
+    "fuente": "...servicio se romperá la solidaridad prevista en esta norma\". CAPITULO II. EL CUMPLIMIENTO Y LA PRESTACIÓN DEL SERVICIO...."
+   }
+  },
+  {
+   "articulo": "19",
+   "estado": "divergente",
+   "similitud": 0.9407,
+   "corpus": "ARTÍCULO 19. Modifícase el artículo 140 de la Ley 142 de 1994, el cual quedará así: \"Artículo 140. Suspensión por incumplimiento. El incumplimiento del contrato por parte del suscr",
+   "fuente": "ARTÍCULO 19. Modifícase el artículo 140 de la Ley 142 de 1994, el cual quedará así: \"Artículo 140. Suspensión por incumplimiento. El incumplimiento del contrato por parte del suscr",
+   "diff": {
+    "corpus": "...aso de dos (2) períodos de facturación en el evento en que Ley 689 de 2001 Departamento Administrativo de la Función Pública ésta sea bimestral y de tres (3) períodos cuando sea mensual ...",
+    "fuente": "...caso de dos (2) períodos de facturación en el evento en que ésta sea bimestral y de tres (3) períodos cuando sea mensual..."
+   }
+  },
+  {
+   "articulo": "20",
+   "estado": "casi",
+   "similitud": 0.9992,
+   "corpus": "ARTÍCULO 20. Modifícase el artículo 159 de la Ley 142 de 1994, el cual quedará así: \"Artículo 159. De la notiﬁcación de la decisión sobre peticiones y recursos. La notiﬁcación de l",
+   "fuente": "ARTÍCULO 20. Modifícase el artículo 159 de la Ley 142 de 1994, el cual quedará así: \"Artículo 159. De la notificación de la decisión sobre peticiones y recursos. La notificación de",
+   "diff": {
+    "corpus": "... al momento de resolver en segunda instancia\". CAPÍTULO I NORMAS ESPECIALES REFERENTES AL GAS LICUADO PETRÓLEO, GLP...",
+    "fuente": "...nta al momento de resolver en segunda instancia\". CAPITULO I. NORMAS ESPECIALES REFERENTES AL GAS LICUADO PETRÓLEO, GLP...."
+   }
+  },
+  {
+   "articulo": "21",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "22",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "23",
+   "estado": "divergente",
+   "similitud": 0.9659,
+   "corpus": "ARTÍCULO 23. Margen de seguridad. Por razones de seguridad dentro del precio de venta del GLP la Comisión de Regulación de Energía y Gas (CREG) incluirá un rubro denominado \"Margen",
+   "fuente": "ARTÍCULO 23. MARGEN DE SEGURIDAD. Ver Notas de Vigencia Por razones de seguridad dentro del precio de venta del GLP la Comisión de Regulación de Energía y Gas (CREG) incluirá un ru",
+   "diff": {
+    "corpus": "...ARTÍCULO 23. Margen de seguridad. Por razones de seguridad dentro del precio de venta del GLP ...",
+    "fuente": "...ARTÍCULO 23. MARGEN DE SEGURIDAD. Ver Notas de Vigencia Por razones de seguridad dentro del precio de venta del GLP ..."
+   }
+  },
+  {
+   "articulo": "24",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "25",
+   "estado": "divergente",
+   "similitud": 0.5489,
+   "corpus": "ARTÍCULO 25. Vigencia. Esta ley entrará a regir dos (2) meses después de su promulgación, y deroga todas las normas que le sean contrarias. EL PRESIDENTE DEL HONORABLE SENADO DE LA",
+   "fuente": "ARTÍCULO 25. VIGENCIA. Esta ley entrará a regir dos (2) meses después de su promulgación, y deroga todas las normas que le sean contrarias. El Presidente del honorable Senado de la",
+   "diff": {
+    "corpus": "...NO NACIONAL PUBLÍQUESE Y CÚMPLASE. Dada en Bogotá, D. C., a los 28 días del mes de agosto de 2001. ANDRES PASTRANA ARANGO EL...",
+    "fuente": "...NO NACIONAL Publíquese y cúmplase. Dada en Bogotá, D. C., a 28 de agosto de 2001. ANDRES PASTRANA ARANGO El Ministro de ..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 5,
+  "casi": 7,
+  "divergentes": 14
+ }
+}

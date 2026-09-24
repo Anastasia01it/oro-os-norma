@@ -1,0 +1,307 @@
+{
+ "corpus": "Ley_0388_1997.md",
+ "fuente": "sistema/verificacion/fuentes/Ley_0388_1997.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 18,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.2944,
+   "corpus": "ARTICULO 1o. OBJETIVOS. La presente ley tiene por objetivos: 1. Armonizar y actualizar las disposiciones contenidas en la Ley 9ª de 1989 con las nuevas normas establecidas en la Co",
+   "fuente": "ARTICULO 1o. OBJETIVOS. La presente ley tiene por objetivos: 1. Armonizar y actualizar las disposiciones contenidas en la Ley 9ª de 1989 con las nuevas normas establecidas en la Co",
+   "diff": {
+    "corpus": "... y la Ley por la que se crea el Sistema Nacional Ambiental. PARÁGRAFO. Parágrafo adicionado por el artículo 53 de la Ley 207...",
+    "fuente": "... y la Ley por la que se crea el Sistema Nacional Ambiental. 2. El establecimiento de los mecanismos que permitan al municipio, en ejercicio de su autonomía, promover el ordenamiento de su territorio, el uso equitativo y racional del suelo, la preservación y defensa del patrimonio ecológico y cultural localizado en su ámbito territorial y la pre..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.9647,
+   "corpus": "ARTICULO 5o. CONCEPTO. El ordenamiento del territorio municipal y distrital comprende un conjunto de acciones político-administrativas y de planificación física concertadas, empren",
+   "fuente": "ARTICULO 5o. CONCEPTO. El ordenamiento del territorio municipal y distrital comprende un conjunto de acciones político-administrativas y de planificación física concertadas, empren",
+   "diff": {
+    "corpus": "...el medio ambiente y las tradiciones históricas y culturales. CAPITULO III. PLANES DE ORDENAMIENTO TERRITORIAL...",
+    "fuente": "...el medio ambiente y las tradiciones históricas y culturales...."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "divergente",
+   "similitud": 0.1336,
+   "corpus": "ARTICULO 9o. PLAN DE ORDENAMIENTO TERRITORIAL. El plan de ordenamiento territorial que los municipios y distritos deberán adoptar en aplicación de la presente ley, al cual se refie",
+   "fuente": "ARTICULO 9o. PLAN DE ORDENAMIENTO TERRITORIAL. El plan de ordenamiento territorial que los municipios y distritos deberán adoptar en aplicación de la presente ley, al cual se refie",
+   "diff": {
+    "corpus": ".... Los planes de ordenamiento del territorio se denominarán: PARAGRAFO. Cuando la presente ley se refiera a planes de ord...",
+    "fuente": ".... Los planes de ordenamiento del territorio se denominarán: a) Planes de ordenamiento territorial: elaborados y adoptados por las autoridades de los distritos y municipios con población superior a los 100.000 habitantes; b) Planes básicos de ordenamiento territorial: elaborados y adoptados por las autoridades de los municipios con población entre 30.000 y 100.000 habitantes; c) Esquemas de ordenamiento territorial: elaborados y adoptados por las autoridades de los municipios con población inferior a los 30.000 habitantes. PARAGRAFO. Cuando la presente ley se refiera a planes de ord..."
+   }
+  },
+  {
+   "articulo": "30",
+   "estado": "divergente",
+   "similitud": 0.9536,
+   "corpus": "ARTICULO 30. CLASES DE SUELO. Los planes de ordenamiento territorial clasificarán el territorio de los municipios y distritos en suelo urbano, rural y de expansión urbana. Al inter",
+   "fuente": "ARTICULO 30. CLASES DE SUELO. Los planes de ordenamiento territorial clasificarán el territorio de los municipios y distritos en suelo urbano, rural y de expansión urbana. Al inter",
+   "diff": {
+    "corpus": "...riterios generales establecidos en los artículos siguientes. CAPITULO V. ACTUACION URBANISTICA...",
+    "fuente": "...riterios generales establecidos en los artículos siguientes...."
+   }
+  },
+  {
+   "articulo": "36",
+   "estado": "divergente",
+   "similitud": 0.7919,
+   "corpus": "ARTÍCULO 36. ACTUACIÓN URBANÍSTICA. Artículo modificado por el artículo 28 de la Ley 2079 de 2021. El nuevo texto es el siguiente: Son actuaciones urbanísticas la parcelación, urba",
+   "fuente": "ARTÍCULO 36. ACTUACIÓN URBANÍSTICA. Artículo modificado por el artículo 28 de la Ley 2079 de 2021. El nuevo texto es el siguiente: Son actuaciones urbanísticas la parcelación, urba",
+   "diff": {
+    "corpus": "...ficios tal como se determina en el artículo 38 de esta ley. Jurisprudencia Unificación En los programas, proyectos y obras que deban ejecutar las e...",
+    "fuente": "...ficios tal como se determina en el artículo 38 de esta ley. En los programas, proyectos y obras que deban ejecutar las e..."
+   }
+  },
+  {
+   "articulo": "52",
+   "estado": "divergente",
+   "similitud": 0.8627,
+   "corpus": "ARTICULO 52. DESARROLLO Y CONSTRUCCION PRIORITARIA. Artículo corregido mediante FE DE ERRATAS contenida en el Diario Oficial No. 43.127 del 12 de septiembre de 1997, el texto corre",
+   "fuente": "ARTICULO 52. DESARROLLO Y CONSTRUCCION PRIORITARIA. Artículo corregido mediante FE DE ERRATAS contenida en el Diario Oficial No. 43.127 del 12 de septiembre de 1997, el texto corre",
+   "diff": {
+    "corpus": "... la entidad encargada por el alcalde municipal o distrital. PARAGRAFO. La declaratoria de desarrollo o construcción prio...",
+    "fuente": "... la entidad encargada por el alcalde municipal o distrital. Lo anterior sin perjuicio de que tales inmuebles pueden ser objeto de los procesos de enajenación voluntaria y expropiación de que trata la presente ley. PARAGRAFO. La declaratoria de desarrollo o construcción prio..."
+   }
+  },
+  {
+   "articulo": "58",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "59",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "60",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "61",
+   "estado": "divergente",
+   "similitud": 0.5217,
+   "corpus": "ARTICULO 61. MODIFICACIONES AL PROCEDIMIENTO DE ENAJENACION VOLUNTARIA. Se introducen las siguientes modificaciones al procedimiento de enajenación voluntaria regulado por la Ley 9",
+   "fuente": "ARTICULO 61. MODIFICACIONES AL PROCEDIMIENTO DE ENAJENACION VOLUNTARIA. Se introducen las siguientes modificaciones al procedimiento de enajenación voluntaria regulado por la Ley 9",
+   "diff": {
+    "corpus": "... de enajenación voluntaria regulado por la Ley 9a. de 1989: Notas del Editor El precio de adquisición será igual al valor comercial deter...",
+    "fuente": "... de enajenación voluntaria regulado por la Ley 9a. de 1989: El precio de adquisición será igual al valor comercial deter..."
+   }
+  },
+  {
+   "articulo": "63",
+   "estado": "divergente",
+   "similitud": 0.6624,
+   "corpus": "ARTICULO 63. MOTIVOS DE UTILIDAD PUBLICA. Se considera que existen motivos de utilidad pública o de interés social para expropiar por vía administrativa el derecho de propiedad y l",
+   "fuente": "ARTICULO 63. MOTIVOS DE UTILIDAD PUBLICA. Se considera que existen motivos de utilidad pública o de interés social para expropiar por vía administrativa el derecho de propiedad y l",
+   "diff": {
+    "corpus": "...procedimiento previsto en el capítulo VI de la presente ley. PARAGRAFO 1o. El pago del precio indemnizatorio se podrá realizar en dinero efectivo o títulos valores, derechos de construcción y desarrollo, de participación en el proyecto o permuta. En todo caso el pago se hará siempre en su totalidad de contado cuando el valor de la indemnización sea inferior a doscientos (200) salarios mínimos legales mensuales al momento de la adquisición voluntaria o de la expropiación. PARAGRAFO 2o. Ver Notas del Editor en relación con la vigencia de este parágrafo, a la luz de lo establecido por el Artículo 35-1 del Estatuto Tributario El ingreso obtenido por la enajenación de inmuebles a los cuales se refiere el presente capítulo no constituye, para fines tributarios, renta gravable ni ganancia ocasional, siempre y cuando la negociación se realice por la vía de la enajenación voluntaria. Notas del Editor CAPITULO IX. PARTICIPACION EN LA PLUSVALIA...",
+    "fuente": "...procedimiento previsto en el capítulo VI de la presente ley...."
+   }
+  },
+  {
+   "articulo": "73",
+   "estado": "divergente",
+   "similitud": 0.2728,
+   "corpus": "ARTICULO 73. NOCION. De conformidad con lo dispuesto por el artículo 82 de la Constitución Política, las acciones urbanísticas que regulan la utilización del suelo y del espacio aé",
+   "fuente": "ARTICULO 73. NOCION. De conformidad con lo dispuesto por el artículo 82 de la Constitución Política, las acciones urbanísticas que regulan la utilización del suelo y del espacio aé",
+   "diff": {
+    "corpus": "...articipación en la plusvalía en sus respectivos territorios. Notas del Editor PARAGRAFO. Para los efectos de esta ley, los conceptos urbanísticos de cambio de uso, aprovechamiento del suelo, e índices de ocupación y de construcción serán reglamentados por el Gobierno Nacional. PARAGRAFO 1o. Cuando sobre un mismo inmueble se produzcan simultáneamente dos o más hechos generadores en razón de las decisiones administrativas detalladas en los artículos precedentes, en el cálculo del mayor valor por metro cuadrado se tendrá en cuenta los valores acumulados, cuando a ello hubiere lugar. PARAGRAFO 2o. En razón a que el pago de la participación en la plusvalía al municipio o distrito se hace exigible en oportunidad posterior, de acuerdo con lo determinado por el artículo 83 de esta ley, el monto de la participación correspondiente a cada predio se ajustará de acuerdo con la variación de índices de precios al consumidor (IPC), a partir del momento en que quede en firme el acto de liquidación de la participación. PARAGRAFO. A fin de posibilitar a los ciudadanos en general y a los propietarios y poseedores de inmuebles en particular disponer de un conocimiento más simple y transparente de las consecuencias de las acciones urbanísticas generados del efecto plusvalía, las administraciones distritales y municipales divulgarán el efecto plusvalía por metro cuadrado para cada una de las zonas o subzonas geoeconómicas homogéneas beneficiarias. PARÁGRAFO 1. En el evento previsto en el numeral 1, el monto de Ia participación en plusvalía para el respectivo inmueble podrá recalcularse, aplicando el efecto plusvalía liquidado por metro cuadrado al número total de metros cuadrados adicionales objeto de Ia licencia correspondiente. PARÁGRAFO 2. Para Ia expedición de las licencias de construcción, así como para el otorgamiento de los actos de transferencia del dominio, en relación con inmuebles respecto de los cuales se haya liquidado e inscrito en el respectivo folio de matrícula inmobiliaria el efecto de plusvalía, será necesario acreditar su pago. PARÁGRAFO 3. Si por cualquier causa no se efectúa el pago de Ia participación en las situaciones previstas en este artículo, el cobro de Ia misma se hará exigible cuando ocurra cualquiera de las restantes situaciones aquí previstas. En todo caso, si Ia causa es Ia no liquidación e inscripción de Ia plusvalía, el alcalde municipal o distrital deberá adelantar el procedimiento previsto en el artículo 81 de Ia presente ley. Responderán solidariamente el poseedor y el propietario, cuando fuere el caso. PARÁGRAFO 4. Los municipios podrán exonerar del cobro de Ia participación en plusvalía a los inmuebles destinados a vivienda de interés social. PARAGRAFO. Las modalidades de pago de que trata este artículo podrán ser utilizadas alternativamente o en forma combinada. PARAGRAFO. El plan de ordenamiento o los instrumentos que lo desarrollen, definirán las prioridades de inversión de los recursos recaudados provenientes de la participación en las plusvalías. PARÁGRAFO 2. Parágrafo adicionado por el artículo 32 de la Ley 2079 de 2021. El nuevo texto es el siguiente: La participación en plusvalía que se ocasione en virtud de los hechos generadores del artículo 74 de la presente ley se podrá destinar a la ejecución de obras de infraestructura de carga general en el suelo en el que se efectuó el cambio de clasificación. Con el objeto de garantizar su ejecución, se podrán celebrar acuerdos de pago en especie en virtud de los cuales los propietarios o sujetos pasivos podrán celebrar contratos de fiducia en los que las entidades territoriales serán las beneficiarias, y cuyo objeto consista en la ejecución de obras de infraestructura vial, de servicios públicos, domiciliarios, áreas de recreación y equipamientos sociales, entre otras obras de carga general. PARAGRAFO. En todo caso, en la liquidación del efecto plusvalía en razón de los hechos generadores previstos en el artículo 74 de la presente ley, no se podrán tener en cuenta los mayores valores producidos por los mismos hechos, si en su momento éstos fueron tenidos en cuenta para la liquidación del monto de la contribución de valorización, cuando fuere del caso. PARAGRAFO. Además de los municipios y distritos, las áreas metropolitanas podrán participar en la plusvalía que generen las obras públicas que ejecuten, de acuerdo con lo que al respecto definan los planes integrales de desarrollo metropolitano, aplicándose, en lo pertinente lo señalado en este capítulo sobre tasas de participación, liquidación y cobro de la participación. CAPITULO X. VIVIENDA DE INTERES SOCIAL...",
+    "fuente": "...articipación en la plusvalía en sus respectivos territorios...."
+   }
+  },
+  {
+   "articulo": "91",
+   "estado": "divergente",
+   "similitud": 0.7684,
+   "corpus": "ARTICULO 91. CONCEPTO DE VIVIENDA DE INTERES SOCIAL. Consultar vigencia de este artículo directamente en la Ley 9 de 1989 El artículo 44 de la Ley 9ª de 1989, quedará así: \"Se enti",
+   "fuente": "ARTICULO 91. CONCEPTO DE VIVIENDA DE INTERES SOCIAL. Consultar vigencia de este artículo directamente en la Ley 9 de 1989 El artículo 44 de la Ley 9ª de 1989, quedará así: \"Se enti",
+   "diff": {
+    "corpus": "...de fondos del Estado destinados a los programas de vivienda. PARAGRAFO 1o. Las disposiciones expedidas por el Gobierno N...",
+    "fuente": "...de fondos del Estado destinados a los programas de vivienda. En todo caso, los recursos en dinero o en especie que destinen el Gobierno Nacional, en desarrollo de obligaciones legales, para promover la vivienda de interés social se dirigirá prioritariamente a atender la población más pobre del país, de acuerdo con los indicadores de necesidades básicas insatisfechas y los resultados de los estudios de ingresos y gastos.\" PARAGRAFO 1o. Las disposiciones expedidas por el Gobierno N..."
+   }
+  },
+  {
+   "articulo": "99",
+   "estado": "divergente",
+   "similitud": 0.5554,
+   "corpus": "ARTICULO 99. LICENCIAS. Se introducen las siguientes modificaciones y adiciones a las normas contenidas en la Ley 9ª de 1989 y en el Decreto-ley 2150 de 1995 en materia de licencia",
+   "fuente": "ARTICULO 99. LICENCIAS. Se introducen las siguientes modificaciones y adiciones a las normas contenidas en la Ley 9ª de 1989 y en el Decreto-ley 2150 de 1995 en materia de licencia",
+   "diff": {
+    "corpus": "... reglamentaciones que sirvieron de base para su expedición. PARÁGRAFO. Parágrafo derogado al no haber sido prorrogada su...",
+    "fuente": "... reglamentaciones que sirvieron de base para su expedición. 2. Dichas licencias se otorgarán con sujeción al Plan de Ordenamiento Territorial, planes parciales y a las normas urbanísticas que los desarrollan y complementan y de acuerdo con lo dispuesto en la Ley 99 de 1993 y en su reglamento, no se requerirá licencia o plan de manejo ambiental, cuando el plan haya sido expedido de conformidad con lo dispuesto en esta ley. 3. Ver Notas del Editor Las entidades competentes y los curadores urbanos, según sea del caso, tendrán un término de cuarenta y cinco (45) días hábiles para pronunciarse sobre las solicitudes de licencia, contados desde la fecha de la solicitud. Vencidos los plazos sin que las autoridades se hubieren pronunciado, las solicitudes de licencia se entenderán aprobadas en los términos solicitados, quedando obligados el curador y los funcionarios responsables a expedir oportunamente las constancias y certificaciones que se requieran para evidenciar la aprobación del proyecto presentado mediante la aplicación del silencio administrativo positivo. El plazo podrá prorrogarse hasta en la mitad del mismo, mediante resolución motivada, por una sola vez, cuando el tamaño o la complejidad del proyecto lo ameriten. 4. La invocación del silencio administrativo positivo se someterá al procedimiento previsto en el Código Contencioso Administrativo. 5. El urbanizador, el constructor, los arquitectos que firman los planos urbanísticos y arquitectónicos y los ingenieros que suscriban los planos técnicos y memorias son responsables de cualquier contravención y violación a las normas urbanísticas, sin perjuicio de la responsabilidad administrativa que se deriven para los funcionarios y curadores urbanos que expidan las licencias sin concordancia o en contravención o violación de las normas correspondientes. 6. Al acto administrativo que otorga la respectiva licencia le son aplicables en su totalidad las disposiciones sobre revocatoria directa establecidas en el Código Contencioso Administrativo. 7. Numeral modificado por el artículo 182 del Decreto Ley 19 de 2012. El nuevo texto es el siguiente: El Gobierno Nacional establecerá los documentos que deben acompañar las solicitudes de licencia y Ia vigencia de las licencias, según su clase. En todo caso, las licencias urbanísticas deberán resolverse exclusivamente con los requisitos fijados por las normas nacionales que reglamentán su trámite, y los municipios y distritos no podrán establecer ni exigir requisitos adicionales a los allí señalados. PARÁGRAFO. Parágrafo derogado al no haber sido prorrogada su..."
+   }
+  },
+  {
+   "articulo": "110",
+   "estado": "divergente",
+   "similitud": 0.3853,
+   "corpus": "ARTICULO 110. POLITICA URBANA Y PLAN DE DESARROLLO DE LA NACION. Como parte del Plan de Desarrollo, el Gobierno Nacional formulará la Política Nacional Urbana, tendiente a garantiz",
+   "fuente": "ARTICULO 110. POLITICA URBANA Y PLAN DE DESARROLLO DE LA NACION. Como parte del Plan de Desarrollo, el Gobierno Nacional formulará la Política Nacional Urbana, tendiente a garantiz",
+   "diff": {
+    "corpus": "...dos del Plan de Inversiones del Plan Nacional de Desarrollo. Notas del Editor PARAGRAFO. El Ministerio de Educación Nacional en coordinación con el Ministerio de Desarrollo Económico, incorporará dentro del proyecto \"Ciudad Educadora\" y demás proyectos de currículum escolar, los contenidos de la formación para el uso y disfrute de los espacios públicos urbanos, y demás contenido en la presente ley, en armonía con los principios de respeto y tolerancia acorde con su naturaleza colectiva. PARÁGRAFO 2. Parágrafo adicionado por el artículo 89 de la Ley 1753 de 2015. El nuevo texto es el siguiente: El Gobierno Nacional a través del Ministerio de Vivienda, Ciudad y Territorio, teniendo en cuenta el principio de autonomía territorial, también podrá tener la iniciativa para la formulación y ejecución de las actuaciones urbanas integrales de que tratan los artículos 113 y 114 de la Ley 388 de 1997, siempre que sean necesarias para la implementación de proyectos estratégicos de iniciativa de la Nación, que promuevan el desarrollo del Sistema de Ciudades y los corredores urbanos regionales. Estas actuaciones deberán delimitarse y definirse en estudios técnicos que seguirán el procedimiento establecido en los artículos 24, 25 y 26 de la misma ley, y se constituirán en determinantes del ordenamiento territorial. El Gobierno Nacional reglamentará los lineamientos generales para la formulación de estas actuaciones estratégicas con la participación de las diferentes entidades nacionales, así como la coordinación público privada. PARAGRAFO. Para la organización del expediente urbano y la elaboración y aprobación de los planes de ordenamiento territorial de los municipios con población inferior a 30.000 habitantes, las entidades nacionales prestarán su apoyo técnico y financiero. PARAGRAFO 1o. Para los efectos de la presente ley, se entiende como componentes de la acción sectorial del municipio o distrito, las decisiones administrativas, los programas o proyectos atinentes a la regulación de los usos del suelo y a su incorporación al desarrollo urbano; a la vivienda de interés social; al espacio público; al mejoramiento integral de asentamientos y a la renovación urbana; al saneamiento básico y el manejo ambiental; a la construcción de infraestructuras para redes de servicios públicos, redes viales primarias, sistemas de transporte y construcción de otras infraestructuras o equipamientos de impacto urbano o metropolitano. PARAGRAFO 2o. El Viceministerio de Vivienda, Desarrollo Urbano y Agua Potable determinará la forma de participación de la nación, después de realizar una evaluación que establezca el impacto espacial y urbano de los proyectos que solicitan el apoyo. Notas del Editor CAPITULO XIII. DISPOSICIONES GENERALES...",
+    "fuente": "...dos del Plan de Inversiones del Plan Nacional de Desarrollo...."
+   }
+  },
+  {
+   "articulo": "116",
+   "estado": "divergente",
+   "similitud": 0.8964,
+   "corpus": "ARTICULO 116. PROCEDIMIENTO DE LA ACCION DE CUMPLIMIENTO. Artículo corregido mediante FE DE ERRATAS contenida en el Diario Oficial No. 43.127 del 12 de septiembre de 1997, el texto",
+   "fuente": "ARTICULO 116. PROCEDIMIENTO DE LA ACCION DE CUMPLIMIENTO. Artículo corregido mediante FE DE ERRATAS contenida en el Diario Oficial No. 43.127 del 12 de septiembre de 1997, el texto",
+   "diff": {
+    "corpus": "...pondrá la correspondiente condena en la sentencia. PARAGRAFO . La solicitud de acción de cumplimiento substanciará con pr...",
+    "fuente": "...pondrá la correspondiente condena en la sentencia. PARAGRAFO. La solicitud de acción de cumplimiento substanciará con pr..."
+   }
+  },
+  {
+   "articulo": "126",
+   "estado": "divergente",
+   "similitud": 0.6196,
+   "corpus": "ARTICULO 126. Cuando una obra urbanística cuente con la aprobación de la entidad territorial o de desarrollo urbano correspondiente y sea solicitada por el 55% de los propietarios ",
+   "fuente": "ARTICULO 126. Cuando una obra urbanística cuente con la aprobación de la entidad territorial o de desarrollo urbano correspondiente y sea solicitada por el 55% de los propietarios ",
+   "diff": {
+    "corpus": "...ía para supervisar la ejecución de la obra que ha promovido. PARAGRAFO. Para garantizar la disponibilidad de recursos destinados a las restituciones de que trata el presente artículo, los presupuestos de obra incluirán tal rubro y se colocarán en el Fondo de Compensaciones de que trata el artículo 49 de esta ley, si los hubiere creado el municipio. PARAGRAFO 1o. Para garantizar la disponibilidad de recursos destinados a las compensaciones del presente artículo, los presupuestos de obra incluirán tal rubro y se colocarán en el Fondo de Compensaciones de que trata el artículo 49 de esta ley, si los hubiere creado el municipio. PARAGRAFO 2o. Los procedimientos y recursos para solicitar la compensación se regirán por lo dispuesto en el Código Contencioso Administrativo. PARAGRAFO 3o. En caso de peticiones de compensación infundadas, temerarias o de mala fe, el peticionario será sancionado con una multa equivalente al cuarenta por ciento (40%) de la compensación solicitada. CAPITULO XIV. DISPOSICIONES TRANSITORIAS...",
+    "fuente": "...ía para supervisar la ejecución de la obra que ha promovido...."
+   }
+  },
+  {
+   "articulo": "129",
+   "estado": "exacto"
+  }
+ ],
+ "sin_contraparte": [
+  "2",
+  "3",
+  "4",
+  "6",
+  "7",
+  "8",
+  "10",
+  "11",
+  "12",
+  "13",
+  "14",
+  "15",
+  "16",
+  "17",
+  "18",
+  "19",
+  "20",
+  "21",
+  "22",
+  "23",
+  "24",
+  "25",
+  "26",
+  "27",
+  "28",
+  "29",
+  "31",
+  "32",
+  "33",
+  "34",
+  "35",
+  "37",
+  "38",
+  "39",
+  "40",
+  "41",
+  "42",
+  "43.En",
+  "44",
+  "45",
+  "46",
+  "47",
+  "48",
+  "49",
+  "50",
+  "51",
+  "53",
+  "54",
+  "55",
+  "56",
+  "57",
+  "61-A",
+  "62",
+  "64",
+  "65",
+  "66",
+  "67",
+  "68",
+  "69",
+  "70",
+  "71",
+  "72",
+  "74",
+  "75",
+  "76",
+  "77",
+  "78",
+  "79",
+  "80",
+  "81",
+  "82",
+  "83",
+  "84",
+  "85",
+  "86",
+  "87",
+  "88",
+  "89",
+  "90",
+  "92",
+  "93",
+  "94",
+  "95",
+  "96",
+  "97",
+  "98",
+  "100",
+  "101",
+  "103",
+  "104",
+  "105",
+  "106",
+  "107",
+  "108",
+  "109",
+  "111",
+  "112",
+  "113",
+  "114",
+  "115",
+  "117",
+  "118",
+  "119",
+  "120",
+  "121",
+  "122",
+  "123",
+  "124",
+  "125.Las",
+  "127",
+  "128",
+  "130",
+  "131",
+  "132",
+  "133",
+  "134",
+  "135",
+  "136",
+  "137",
+  "138",
+  "139"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 4,
+  "casi": 0,
+  "divergentes": 14
+ }
+}

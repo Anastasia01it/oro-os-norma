@@ -1,0 +1,129 @@
+{
+ "lote": "decretos",
+ "archivos": [
+  {
+   "archivo": "DECRETO-1076-2015.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/decreto_1076_2015.htm",
+   "captura": "no_capturable_grande",
+   "articulos": null,
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "NO_CAPTURABLE"
+  },
+  {
+   "archivo": "DECRETO-1077-2015.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/decreto_1077_2015.htm",
+   "captura": "no_capturable_grande",
+   "articulos": null,
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "NO_CAPTURABLE"
+  },
+  {
+   "archivo": "DECRETO-4741-2005.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/decreto_4741_2005.htm",
+   "captura": "sistema/verificacion/fuentes/DECRETO-4741-2005.gestorcra.txt",
+   "articulos": 39,
+   "exactos": 0,
+   "casi": 1,
+   "divergentes": 38,
+   "primer_divergente": {
+    "articulo": "1",
+    "estado": "divergente",
+    "similitud": 0.7472,
+    "diff_corpus": "...Artículo 1o Objeto. En el marco de la gestión integral, el presente dec...",
+    "diff_fuente": "...ARTÍCULO 1o. OBJETO. Artículo compilado en el artículo 2.2.6.1.1.1 del D..."
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "DECRETO-1381-2024.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/decreto_1381_2024.htm",
+   "captura": "sistema/verificacion/fuentes/DECRETO-1381-2024.gestorcra.txt",
+   "articulos": 11,
+   "exactos": 6,
+   "casi": 4,
+   "divergentes": 1,
+   "primer_divergente": {
+    "articulo": "5",
+    "estado": "divergente",
+    "similitud": 0.3706,
+    "diff_corpus": "...ARTÍCULO 5. Vigencia y Derogatorias. El presente Decreto rige a partir...",
+    "diff_fuente": "...ARTÍCULO 5o. VIGENCIA Y DEROGATORIAS. El presente decreto rige a partir..."
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "Decreto_0086_2022.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/decreto_0086_2022.htm",
+   "captura": "sistema/verificacion/fuentes/Decreto_0086_2022.gestorcra.txt",
+   "articulos": 5,
+   "exactos": 4,
+   "casi": 0,
+   "divergentes": 1,
+   "primer_divergente": {
+    "articulo": "2",
+    "estado": "divergente",
+    "similitud": 0.4466,
+    "diff_corpus": "...ienda, Ciudad y Territorio, Jonathan Tybalt Malagón González...",
+    "diff_fuente": "...ienda, Ciudad y Territorio, Jonathan Tybalt Malagón González ! Saneamiento Básico - CRA ISBN 978-628-95145-2-0 Comis…"
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "Decreto_0775_2025.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/decreto_0775_2025.htm",
+   "captura": "sistema/verificacion/fuentes/Decreto_0775_2025.gestorcra.txt",
+   "articulos": 33,
+   "exactos": 29,
+   "casi": 3,
+   "divergentes": 1,
+   "primer_divergente": {
+    "articulo": "32",
+    "estado": "divergente",
+    "similitud": 0.5786,
+    "diff_corpus": "...dila. El Ministro de Trabajo, Antonio Eresmid Sanguino Páez....",
+    "diff_fuente": "...dila. El Ministro de Trabajo, Antonio Eresmid Sanguino Páez. ! Saneamiento Básico - CRA ISBN 978-628-95145-2-0 Comis…"
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "DECRETO-1345-2021.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/decreto_1345_2021.htm",
+   "captura": "sistema/verificacion/fuentes/DECRETO-1345-2021.gestorcra.txt",
+   "articulos": 3,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 3,
+   "primer_divergente": {
+    "articulo": "1",
+    "estado": "divergente",
+    "similitud": 0.9566,
+    "diff_corpus": "...Artículo 1. Modifíquese el artículo 2.3.2.5.3.1. de la Sección 3, del C...",
+    "diff_fuente": "...ARTÍCULO 1o. Decreto derogado por el artículo 5 del Decreto 1381 de 2024 Modifíquese el artículo 2.3.2.5.3.1. de la …"
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "Decreto_1784_2017.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/decreto_1784_2017.htm",
+   "captura": "sistema/verificacion/fuentes/Decreto_1784_2017.gestorcra.txt",
+   "articulos": 33,
+   "exactos": 26,
+   "casi": 5,
+   "divergentes": 2,
+   "primer_divergente": {
+    "articulo": "4",
+    "estado": "divergente",
+    "similitud": 0.6513,
+    "diff_corpus": "...ctor Vivienda, Ciudad y Territorio, el cual quedará así: \"CA PÍTULO 6. TRATAMIENTO. Artículo 2.3.2.6.1. Objeto. El p…",
+    "diff_fuente": "...ctor Vivienda, Ciudad y Territorio, el cual quedará así: \"CAPÍTULO 6. TRATAMIENTO...."
+   },
+   "veredicto": "NO_VERIFICADA"
+  }
+ ]
+}

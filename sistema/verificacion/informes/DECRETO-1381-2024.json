@@ -1,0 +1,94 @@
+{
+ "corpus": "DECRETO-1381-2024.md",
+ "fuente": "sistema/verificacion/fuentes/decreto_1381_2024.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 11,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9909,
+   "corpus": "ARTÍCULO 1. Modifíquense los numerales 6, 16, 36, 41, 85 y 87 del artículo 2.3.2.1.1. del Capítulo 1, del Título 2, de la Parte 3, del Libro 2 del Decreto Único Reglamentario del S",
+   "fuente": "ARTÍCULO 1o. Modifíquense los numerales 6, 16, 36, 41, 85 y 87 del artículo 2.3.2.1.1. del Capítulo 1, del Título 2, de la Parte 3, del Libro 2 del Decreto Único Reglamentario del ",
+   "diff": {
+    "corpus": "...ARTÍCULO 1. Modifíquense los numerales 6, 16, 36, 41, 85 y 87 del artí...",
+    "fuente": "...ARTÍCULO 1o. Modifíquense los numerales 6, 16, 36, 41, 85 y 87 del artí..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "casi",
+   "similitud": 0.9876,
+   "corpus": "ARTÍCULO 2. Adiciónense los siguientes numerales al artículo 2.3.2.1.1. del Capítulo 1, del Título 2, de la Parte 3, del Libro 2 del Decreto Único Reglamentario del Sector Vivienda",
+   "fuente": "ARTÍCULO 2o. Adiciónense los siguientes numerales al artículo 2.3.2.1.1. del Capítulo 1, del Título 2, de la Parte 3, del Libro 2 del Decreto Único Reglamentario del Sector Viviend",
+   "diff": {
+    "corpus": "...ARTÍCULO 2. Adiciónense los siguientes numerales al artículo 2.3.2.1.1...",
+    "fuente": "...ARTÍCULO 2o. Adiciónense los siguientes numerales al artículo 2.3.2.1.1..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "casi",
+   "similitud": 0.9841,
+   "corpus": "ARTÍCULO 3. Modifíquese el Capítulo 5, del Título 2, de la Parte 3, del Libro 2 del Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio, Decreto 1077 del 26 de may",
+   "fuente": "ARTÍCULO 3o. Modifíquese el Capítulo 5, del Título 2, de la Parte 3, del Libro 2 del Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio, Decreto número 1077 del 2",
+   "diff": {
+    "corpus": "...ARTÍCULO 3. Modifíquese el Capítulo 5, del Título 2, de la Parte 3, de...",
+    "fuente": "...ARTÍCULO 3o. Modifíquese el Capítulo 5, del Título 2, de la Parte 3, de..."
+   }
+  },
+  {
+   "articulo": "2.3.2.5.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.2.5.2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.2.5.3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.2.5.4",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.2.5.5",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.2.5.6",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4",
+   "estado": "casi",
+   "similitud": 0.9928,
+   "corpus": "ARTÍCULO 4. Régimen de transición. La implementación de los dispuesto en el presente decreto tendrá una transición en los términos establecidos en el parágrafo 1 del artículo 2.3.2",
+   "fuente": "ARTÍCULO 4o. RÉGIMEN DE TRANSICIÓN. La implementación de lo dispuesto en el presente decreto tendrá una transición en los términos establecidos en el parágrafo 1 del artículo 2.3.2",
+   "diff": {
+    "corpus": "...ARTÍCULO 4. Régimen de transición. La implementación de los dispuesto ...",
+    "fuente": "...ARTÍCULO 4o. RÉGIMEN DE TRANSICIÓN. La implementación de lo dispuesto e..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.3706,
+   "corpus": "ARTÍCULO 5. Vigencia y Derogatorias. El presente Decreto rige a partir de la fecha de su publicación en el Diario Oficial y modifica el Capítulo 5, del Título 2, de la Parte 3, del",
+   "fuente": "ARTÍCULO 5o. VIGENCIA Y DEROGATORIAS. El presente decreto rige a partir de la fecha de su publicación en el Diario Oficial y modifica el Capítulo 5, del Título 2, de la Parte 3, de",
+   "diff": {
+    "corpus": "...ARTÍCULO 5. Vigencia y Derogatorias. El presente Decreto rige a partir...",
+    "fuente": "...ARTÍCULO 5o. VIGENCIA Y DEROGATORIAS. El presente decreto rige a partir..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 6,
+  "casi": 4,
+  "divergentes": 1
+ }
+}

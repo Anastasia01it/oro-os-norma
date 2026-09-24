@@ -1,0 +1,187 @@
+{
+ "corpus": "LEY-2232-2022.md",
+ "fuente": "sistema/verificacion/fuentes/LEY-2232-2022.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 29,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9855,
+   "corpus": "ARTÍCULO 1o. OBJETO. Con el fin de resguardar los derechos fundamentales a la vida, la salud y el goce de un ambiente sano, se establecen medidas orientadas a la reducción de la pr",
+   "fuente": "ARTÍCULO 1o. OBJETO. Con el fin de resguardar los derechos fundamentales a la vida, la salud y el goce de un ambiente sano, se establecen medidas orientadas a la reducción de la pr",
+   "diff": {
+    "corpus": "...u cierre de ciclos, y se establecen medidas complementarias. Concordante...",
+    "fuente": "...u cierre de ciclos, y se establecen medidas complementarias...."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "casi",
+   "similitud": 0.9998,
+   "corpus": "ARTÍCULO 2o. DEFINICIONES. Para la aplicación de la presente ley, se deben considerar las siguientes definiciones: 1. Aprovechamiento de residuos plásticos. Procesos mediante los c",
+   "fuente": "ARTÍCULO 2o. DEFINICIONES. Para la aplicación de la presente ley, se deben considerar las siguientes definiciones: 1. Aprovechamiento de residuos plásticos. Procesos mediante los c",
+   "diff": {
+    "corpus": "...entran en la naturaleza tales como el dióxido de carbono (C0 2 ), agua o biomasa. Esta puede producirse en entornos ricos...",
+    "fuente": "...entran en la naturaleza tales como el dióxido de carbono (C02), agua o biomasa. Esta puede producirse en entornos ricos ..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.7047,
+   "corpus": "ARTÍCULO 4o. PROHIBICIÓN Y SUSTITUCIÓN GRADUAL DE LOS PLÁSTICOS DE UN SOLO USO. Se prohíbe la introducción en el mercado, comercialización y distribución, en el territorio nacional",
+   "fuente": "ARTÍCULO 4o. PROHIBICIÓN Y SUSTITUCIÓN GRADUAL DE LOS PLÁSTICOS DE UN SOLO USO. Se prohíbe la introducción en el mercado, comercialización y distribución, en el territorio nacional",
+   "diff": {
+    "corpus": "...ritorio nacional de los productos listados en el artículo 5o , en los plazos del artículo 6o , que estén fabricados, tota...",
+    "fuente": "...ritorio nacional de los productos listados en el artículo 5o, en los plazos del artículo 6o, que estén fabricados, total..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "casi",
+   "similitud": 0.9995,
+   "corpus": "ARTÍCULO 7o. POLÍTICA NACIONAL DE SUSTITUCIÓN DEL PLÁSTICO DE UN SOLO USO. El Ministerio del Ambiente y Desarrollo Sostenible o quien haga sus veces, elaborará y pondrá en marcha u",
+   "fuente": "ARTÍCULO 7o. POLÍTICA NACIONAL DE SUSTITUCIÓN DEL PLÁSTICO DE UN SOLO USO. El Ministerio del Ambiente y Desarrollo Sostenible o quien haga sus veces, elaborará y pondrá en marcha u",
+   "diff": {
+    "corpus": "...por alternativas sostenibles en los términos del artículo 2o , en cumplimiento del Plan nacional para la Gestión Sostenib...",
+    "fuente": "...por alternativas sostenibles en los términos del artículo 2o, en cumplimiento del Plan nacional para la Gestión Sostenib..."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "casi",
+   "similitud": 0.9983,
+   "corpus": "ARTÍCULO 8o. PROHIBICIÓN DE PLÁSTICOS OXODEGRADABLES. En el plazo establecido en el numeral segundo del artículo 6o , queda prohibida la introducción en el mercado, comercializació",
+   "fuente": "ARTÍCULO 8o. PROHIBICIÓN DE PLÁSTICOS OXODEGRADABLES. En el plazo establecido en el numeral segundo del artículo 6o, queda prohibida la introducción en el mercado, comercialización",
+   "diff": {
+    "corpus": "...n el plazo establecido en el numeral segundo del artículo 6o , queda prohibida la introducción en el mercado, comercializ...",
+    "fuente": "...n el plazo establecido en el numeral segundo del artículo 6o, queda prohibida la introducción en el mercado, comercializ..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "10",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "11",
+   "estado": "casi",
+   "similitud": 0.9997,
+   "corpus": "ARTÍCULO 11. ETIQUETADO DE LOS PRODUCTOS. El Gobierno nacional, a través del Ministerio de Ambiente y Desarrollo Sostenible en el término de doce (12) meses desde la entrada en vig",
+   "fuente": "ARTÍCULO 11. ETIQUETADO DE LOS PRODUCTOS. El Gobierno nacional, a través del Ministerio de Ambiente y Desarrollo Sostenible en el término de doce (12) meses desde la entrada en vig",
+   "diff": {
+    "corpus": "...o 5o de la presente ley y que, de acuerdo con el artículo 18 , deberán ser incorporados por el sector privado y el Gobier...",
+    "fuente": "...o 5o de la presente ley y que, de acuerdo con el artículo 18, deberán ser incorporados por el sector privado y el Gobier..."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "13",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "14",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "15",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "16",
+   "estado": "divergente",
+   "similitud": 0.3559,
+   "corpus": "ARTÍCULO 16. FORMALIZACIÓN DE LOS ACTORES DE LA CADENA DE VALOR DEL PLÁSTICO. El Gobierno nacional tendrá la obligación de promover la formalización de los actores de la cadena de ",
+   "fuente": "ARTÍCULO 16. FORMALIZACIÓN DE LOS ACTORES DE LA CADENA DE VALOR DEL PLÁSTICO. El Gobierno nacional tendrá la obligación de promover la formalización de los actores de la cadena de ",
+   "diff": {
+    "corpus": "...tados a partir de la entrada en vigencia de la presente ley. PARÁGRAFO. Para garantizar el cumplimiento de la incorporación establecida en los numerales sobre REP de botellas, envases y recipientes contenidos en este artículo, se tomarán las siguientes medidas: 1. El Ministerio de Ambiente estará encargado de recolectar y publicar toda la información relevante relativa a las industrias transformadoras de resina PET y HDPE reciclada en el país, con el fin de garantizar el cumplimiento de las metas trazadas en este artículo. 2. Se permitirá por el término de cinco años la exportación de botellas posconsumo y otros elementos de PET con destino a la fabricación de resina que luego sería importada, para efectos de dar cumplimiento a las metas trazadas en este artículo. Vencidos los cinco años, que empezarán a contar desde la entrada en vigencia de esta norma, y de conformidad con la información de la que trata el numeral anterior, el Ministerio de Ambiente y Desarrollo Sostenible evaluará la capacidad instalada local de transformación de resina PET reciclada para determinar si es suficiente para cubrir la demanda nacional. En caso de que no sea posible, se podrá prorrogar la posibilidad a la que hace referencia este numeral por una sola vez, por el mismo período. En cualquier caso, se deberá atender lo señalado en la Ley 253 de 1996 que acoge el Convenio de Basilea y su enmienda BCl412, así como de otros tratados internacionales de los cuales el Estado colombiano sea parte y de otras disposiciones legales vigentes en relación con los movimientos transfronterizos de residuos. 3. El Gobierno nacional estimulará la innovación en los productores de envases de PET y de otros materiales plásticos. 4. El Ministerio de Comercio Industria y Turismo, velará por la competitividad de los sectores productivos involucrados en el cumplimiento de esta ley, y evitará distorsiones en el mercado ante la comercialización de las Botellas de PET posconsumo, HDPE posconsumo y de otros materiales plásticos posconsumo. PARÁGRAFO 1o. Para la determinación de los porcentajes señalados en los numerales 1o y 2o del presente artículo se tomará en consideración el peso del plástico de los productos puestos en el mercado. PARÁGRAFO 2o. El cumplimiento de lo dispuesto en el presente artículo se aplicará en un término de ocho años, según el plazo establecidos en el numeral 2 del artículo 6o de la presente ley y solo aplicará a los productos plásticos de un solo uso listados en los numerales 4, 5, 8, 9, 10, 12, 13 y 14 del artículo 5o y que no cumplan con las demás excepciones establecidas en esta ley. PARÁGRAFO 3o. El Ministerio de Ambiente y Desarrollo Sostenible reglamentará en un plazo máximo de seis (6) meses posteriores a la entrada en vigencia de esta norma los aspectos técnicos necesarios para implementar lo señalado en el presente artículo. PARÁGRAFO 4o. Para el cumplimiento de lo señalado en el presente artículo, deberán involucrarse a asociaciones de recicladores y recicladores de oficio. PARÁGRAFO 1o. El Gobierno nacional, a través del Ministerio de Ambiente y Desarrollo Sostenible y las demás entidades que considere relevantes, reglamentará, dentro de los doce (12) meses siguientes a la entrada en vigencia de la presente ley, las condiciones técnicas necesarias para materializar el incentivo señalado en el presente artículo. PARÁGRAFO 2o. Dentro del mismo término señalado en el parágrafo 1, el Gobierno nacional deberá estudiar e implementar incentivos adicionales para la industria de la madera plástica cuyo insumo sea el reciclaje nacional y de otros productos elaborados a partir de mezclas de plásticos, metales u otros elementos que provengan de reciclaje nacional. Dentro de los incentivos que deberán ser estudiados y eventualmente otorgados se encuentran: 1. Establecimiento de líneas de crédito de bajo interés; 2. Incentivo a las compras públicas; 3. Establecimiento de normas técnicas para el desarrollo de estos materiales y productos; y 4. Los demás que el Gobierno nacional considere pertinentes. PARÁGRAFO 3o. Se establecerán, en el mismo sentido, incentivos para fomentar otros productos derivados del reciclaje de plásticos, tales como sus aplicaciones para la construcción de carreteras, para la construcción de vivienda, su uso como combustible o energético, las· soluciones de reciclaje químico, el tratamiento de· residuos plásticos como alternativa a la disposición final de residuos en relleno sanitario, entre otras tecnologías que permitan el cierre de ciclo de los plásticos....",
+    "fuente": "...tados a partir de la entrada en vigencia de la presente ley...."
+   }
+  },
+  {
+   "articulo": "20",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "21",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "22",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "23",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "24",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "25",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "26",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "27",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "28",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "29",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "30",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "31",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "32",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "33",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "34",
+   "estado": "exacto"
+  }
+ ],
+ "sin_contraparte": [
+  "5",
+  "6",
+  "17",
+  "18",
+  "19",
+  "35"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 22,
+  "casi": 5,
+  "divergentes": 2
+ }
+}

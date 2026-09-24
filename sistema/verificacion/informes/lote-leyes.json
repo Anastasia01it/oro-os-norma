@@ -1,0 +1,237 @@
+{
+ "lote": "leyes",
+ "archivos": [
+  {
+   "archivo": "normas_procesar/Ley_0100_1993.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_0100_1993.htm",
+   "captura": "sistema/verificacion/fuentes/Ley_0100_1993.gestorcra.txt",
+   "articulos": 50,
+   "exactos": 5,
+   "casi": 2,
+   "divergentes": 43,
+   "primer_divergente": {
+    "articulo": "1",
+    "corpus": "ARTÍCULO 1o. SISTEMA DE SEGURIDAD SOCIAL INTEGRAL. El sistema de seguridad social integral tiene por objeto garantizar l",
+    "fuente": "ARTÍCULO 1o. SISTEMA DE SEGURIDAD SOCIAL INTEGRAL. El sistema de seguridad social integral tiene por objeto garantizar l"
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": "captura 441KB >300KB: no pegar en contexto"
+  },
+  {
+   "archivo": "normas_procesar/Ley_0388_1997.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_0388_1997.htm",
+   "captura": "sistema/verificacion/fuentes/Ley_0388_1997.gestorcra.txt",
+   "articulos": 18,
+   "exactos": 4,
+   "casi": 0,
+   "divergentes": 14,
+   "primer_divergente": {
+    "articulo": "1",
+    "corpus": "ARTICULO 1o. OBJETIVOS. La presente ley tiene por objetivos: 1. Armonizar y actualizar las disposiciones contenidas en l",
+    "fuente": "ARTICULO 1o. OBJETIVOS. La presente ley tiene por objetivos: 1. Armonizar y actualizar las disposiciones contenidas en l"
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": ""
+  },
+  {
+   "archivo": "normas_procesar/Ley_1328_2009.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_1328_2009.htm",
+   "captura": "sistema/verificacion/fuentes/Ley_1328_2009.gestorcra.txt",
+   "articulos": 54,
+   "exactos": 39,
+   "casi": 1,
+   "divergentes": 14,
+   "primer_divergente": {
+    "articulo": "1",
+    "corpus": "ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. El presente régimen tiene por objeto establecer los principios y reglas que ",
+    "fuente": "ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. El presente régimen tiene por objeto establecer los principios y reglas que "
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": ""
+  },
+  {
+   "archivo": "normas_procesar/Ley_1450_2011.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_1450_2011.htm",
+   "captura": "sistema/verificacion/fuentes/Ley_1450_2011.gestorcra.txt",
+   "articulos": 13,
+   "exactos": 5,
+   "casi": 0,
+   "divergentes": 8,
+   "primer_divergente": {
+    "articulo": "6",
+    "corpus": "ARTÍCULO 6o. METAS DEL MILENIO. De acuerdo con la meta del PND de alcanzar plenamente los objetivos del milenio, las ent",
+    "fuente": "ARTÍCULO 6o. METAS DEL MILENIO. De acuerdo con la meta del PND de alcanzar plenamente los objetivos del milenio, las ent"
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": "captura 301KB >300KB: no pegar en contexto"
+  },
+  {
+   "archivo": "normas_procesar/Ley_1753_2015.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_1753_2015.htm",
+   "captura": "sistema/verificacion/fuentes/Ley_1753_2015.gestorcra.txt",
+   "articulos": 32,
+   "exactos": 8,
+   "casi": 5,
+   "divergentes": 19,
+   "primer_divergente": {
+    "articulo": "7",
+    "corpus": "ARTÍCULO 7o. ACUERDOS ESTRATÉGICOS DE CIENCIA, TECNOLOGÍA E INNOVACIÓN. Artículo derogado por el artículo 336 de la Ley ",
+    "fuente": "ARTÍCULO 7o. ACUERDOS ESTRATÉGICOS DE CIENCIA, TECNOLOGÍA E INNOVACIÓN. Artículo derogado por el artículo 336 de la Ley "
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": "captura 436KB >300KB: no pegar en contexto"
+  },
+  {
+   "archivo": "normas_procesar/Ley_1955_2019.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_1955_2019.htm",
+   "captura": "sistema/verificacion/fuentes/Ley_1955_2019.gestorcra.txt",
+   "articulos": 84,
+   "exactos": 34,
+   "casi": 3,
+   "divergentes": 47,
+   "primer_divergente": {
+    "articulo": "6",
+    "corpus": "ARTÍCULO 6o. ACCESO A RECURSOS GENÉTICOS Y PRODUCTOS DERIVADOS. Las personas naturales o jurídicas, nacionales o extranj",
+    "fuente": "ARTÍCULO 6o. ACCESO A RECURSOS GENÉTICOS Y PRODUCTOS DERIVADOS. Las personas naturales o jurídicas, nacionales o extranj"
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": "captura 625KB >300KB: no pegar en contexto"
+  },
+  {
+   "archivo": "normas_procesar/Ley_2294_2023.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_2294_2023.htm",
+   "captura": "sistema/verificacion/fuentes/Ley_2294_2023.gestorcra.txt",
+   "articulos": 176,
+   "exactos": 115,
+   "casi": 8,
+   "divergentes": 53,
+   "primer_divergente": {
+    "articulo": "1",
+    "corpus": "ARTÍCULO 1o. OBJETIVOS DEL PLAN NACIONAL DE DESARROLLO. El Plan Nacional de Desarrollo 2022-2026 “Colombia Potencia Mund",
+    "fuente": "ARTÍCULO 1o. OBJETIVOS DEL PLAN NACIONAL DE DESARROLLO. El Plan Nacional de Desarrollo 2022-2026 \"Colombia Potencia Mund"
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": "captura 677KB >300KB: no pegar en contexto"
+  },
+  {
+   "archivo": "normas_procesar/Ley_2466_2025.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_2466_2025.htm",
+   "captura": "sistema/verificacion/fuentes/Ley_2466_2025.gestorcra.txt",
+   "articulos": 70,
+   "exactos": 59,
+   "casi": 9,
+   "divergentes": 2,
+   "primer_divergente": {
+    "articulo": "17",
+    "corpus": "ARTÍCULO 17. PROTECCIÓN CONTRA LA DISCRIMINACIÓN. Adiciónese los numerales 10, 11, 12, 13 y 14 al artículo 59 del Código",
+    "fuente": "ARTÍCULO 17. PROTECCIÓN CONTRA LA DISCRIMINACIÓN. Adiciónese los numerales 10, 11, 12, 13 y 14 al artículo 59 del Código"
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": ""
+  },
+  {
+   "archivo": "normas_procesar/LEY-253-1996.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_0253_1996.htm",
+   "captura": "sistema/verificacion/fuentes/LEY-253-1996.gestorcra.txt",
+   "articulos": 0,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 0,
+   "primer_divergente": null,
+   "veredicto": "VERIFICADA",
+   "nota": "VEREDICTO VACIO: 0 articulos segmentados en corpus (pagina cruda sin marcadores 'Articulo')"
+  },
+  {
+   "archivo": "normas_procesar/LEY-632-2000.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_0632_2000.htm",
+   "captura": "sistema/verificacion/fuentes/LEY-632-2000.gestorcra.txt",
+   "articulos": 2,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 2,
+   "primer_divergente": {
+    "articulo": "1",
+    "corpus": "ARTICULO 1o. El numeral 24 del art&iacute;culo 14 de la Ley 142 de 1994, quedar&aacute; as&iacute;: \"14.24 Servicio P&ua",
+    "fuente": "ARTICULO 1o. El numeral 24 del artículo 14 de la Ley 142 de 1994, quedará así: \"14.24 Servicio Público de Aseo. Es el se"
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": ""
+  },
+  {
+   "archivo": "normas_procesar/LEY-689-2001.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_0689_2001.htm",
+   "captura": "sistema/verificacion/fuentes/LEY-689-2001.gestorcra.txt",
+   "articulos": 26,
+   "exactos": 5,
+   "casi": 7,
+   "divergentes": 14,
+   "primer_divergente": {
+    "articulo": "2",
+    "corpus": "ARTÍCULO 2°. Modifícase el numeral 20 del artículo 14 de la Ley 142 de 1994 el cual quedará así: \"14.20 Servicios Públic",
+    "fuente": "ARTÍCULO 2o. Modifícase el numeral 20 del artículo 14 de la Ley 142 de 1994 el cual quedará así: \" 14.20 Servicios Públi"
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": ""
+  },
+  {
+   "archivo": "normas_procesar/LEY-1196-2008.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_1196_2008.htm",
+   "captura": "sistema/verificacion/fuentes/LEY-1196-2008.gestorcra.txt",
+   "articulos": 0,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 0,
+   "primer_divergente": null,
+   "veredicto": "VERIFICADA",
+   "nota": "VEREDICTO VACIO: 0 articulos segmentados en corpus (pagina cruda sin marcadores 'Articulo')"
+  },
+  {
+   "archivo": "normas_procesar/LEY-142-1994.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_0142_1994.htm",
+   "captura": "sistema/verificacion/fuentes/LEY-142-1994.gestorcra.txt",
+   "articulos": 189,
+   "exactos": 37,
+   "casi": 33,
+   "divergentes": 119,
+   "primer_divergente": {
+    "articulo": "1",
+    "corpus": "ARTÍCULO 1. Ámbito de aplicación de la ley. Esta Ley se aplica a los servicios públicos domiciliarios de acueducto, alca",
+    "fuente": "ARTÍCULO 1o. ÁMBITO DE APLICACIÓN DE LA LEY. Ver Notas de Vigencia, en relación con los textos subrayados Aparte entre p"
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": "captura 360KB >300KB: no pegar en contexto"
+  },
+  {
+   "archivo": "normas_procesar/LEY-2232-2022.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/ley_2232_2022.htm",
+   "captura": "sistema/verificacion/fuentes/LEY-2232-2022.gestorcra.txt",
+   "articulos": 29,
+   "exactos": 22,
+   "casi": 5,
+   "divergentes": 2,
+   "primer_divergente": {
+    "articulo": "4",
+    "corpus": "ARTÍCULO 4o. PROHIBICIÓN Y SUSTITUCIÓN GRADUAL DE LOS PLÁSTICOS DE UN SOLO USO. Se prohíbe la introducción en el mercado",
+    "fuente": "ARTÍCULO 4o. PROHIBICIÓN Y SUSTITUCIÓN GRADUAL DE LOS PLÁSTICOS DE UN SOLO USO. Se prohíbe la introducción en el mercado"
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": ""
+  },
+  {
+   "archivo": "normas_procesar/CONSTITUCION-POLITICA-CP-1991.md",
+   "url": "https://normas.cra.gov.co/gestor/docs/constitucion_politica_1991.htm",
+   "captura": "sistema/verificacion/fuentes/CONSTITUCION-POLITICA-CP-1991.gestorcra.txt",
+   "articulos": 381,
+   "exactos": 0,
+   "casi": 14,
+   "divergentes": 367,
+   "primer_divergente": {
+    "articulo": "4",
+    "corpus": "Artículo 4 La Constitución es norma de normas. En todo caso de incompatibilidad entre la Constitución y la ley u otra no",
+    "fuente": "ARTICULO 4o. La Constitución es norma de normas. En todo caso de incompatibilidad entre la Constitución y la ley u otra "
+   },
+   "veredicto": "NO_VERIFICADA",
+   "nota": "captura 587KB >300KB: no pegar en contexto"
+  }
+ ]
+}

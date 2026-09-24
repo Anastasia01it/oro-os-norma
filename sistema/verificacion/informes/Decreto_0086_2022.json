@@ -1,0 +1,42 @@
+{
+ "corpus": "Decreto_0086_2022.md",
+ "fuente": "sistema/verificacion/fuentes/decreto_0086_2022.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 5,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.1.7.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.1.7.2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.1.7.3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.4466,
+   "corpus": "ARTÍCULO 2o. VIGENCIA. El presente decreto rige a partir de la fecha de su publicación y adiciona el Capítulo 7, al Título 1, de la Parte 3, del Libro 2 del Decreto Único Reglament",
+   "fuente": "ARTÍCULO 2o. VIGENCIA. El presente decreto rige a partir de la fecha de su publicación y adiciona el Capítulo 7, al Título 1, de la Parte 3, del Libro 2 del Decreto Único Reglament",
+   "diff": {
+    "corpus": "...ienda, Ciudad y Territorio, Jonathan Tybalt Malagón González...",
+    "fuente": "...ienda, Ciudad y Territorio, Jonathan Tybalt Malagón González ! Saneamiento Básico - CRA ISBN 978-628-95145-2-0 Comisión de Regulación de Agua Potable y Saneamiento Básico CRA - DRA © 2021 - 2025 Comisión de Regulación de Agua Potable y Saneamiento Básico Carrera 12 Nº 97-80, Piso 2, Bogotá D.C., Colombia 4:00 pm. Teléfono desde Colombia (60+1) 487 3820 notificacionesjudiciales@cra.gov.co ! ! ! ! ! Menú del pie Políticas Mapa del sitio ! !logo co !gov.co ! ! ! !InicioInicio MÓDULOS !Opción documentos Resolución Única de AAA !Opción documentos Resoluciones expedidas por la CRA !Opción documentos Circulares CRA !Opción documentos Conceptos jurídicos seleccionados !Opción documentos Compilación de normativa y jurisprudencia !Opción documentos Decreto Único Reglamentario - DUR !Opción documentos Contribuciones especiales !Opción documentos Resoluciones administrativas de carácter general !Opción documentos Proyectos de resolución CRA !Opción documentos Actualizaciones mensuales !Opción documentos Herramientas de búsqueda !Opción documentos Navegación temática !Opción documentos Normativa COVID 19 × !Contraste Contraste !Reducir Reducir letra !Aumentar Aumentar letra !Restaurar Retornar valores !Ir arriba Ir arriba !Ir abajo Ir abajo !Inicio documento !Fin documento Fin documento..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 4,
+  "casi": 0,
+  "divergentes": 1
+ }
+}
