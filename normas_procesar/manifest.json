@@ -1,0 +1,371 @@
+{
+  "format_version": 1,
+  "algorithm": "sha256",
+  "scope": "normas_procesar/*.md (primer nivel)",
+  "created_at": "2026-09-23T17:59:16-0500",
+  "file_count": 90,
+  "total_bytes": 21659798,
+  "set_hash": "ed71c7223adca6c26a2d9940e7381ba584895aefca26cf8b56d677ef347e6114",
+  "files": {
+    "ANEXO-A-Resolucion-SSPD-20211000650805-2021.md": {
+      "sha256": "dbf0aac546c183ef6847f945305f8426e254bf5fe3df2fdb2f1a9054da4d5330",
+      "bytes": 48014
+    },
+    "ANEXO-B-Listado-Residuos-SSPD-20211000650805-2021.md": {
+      "sha256": "bf9c10a6a852e05018a4f5e96dfa9071b1e12aefedc02aa274f7cd345ae41c77",
+      "bytes": 3155
+    },
+    "ANEXO-C-Flujos-Cargue-SSPD-20211000650805-2021.md": {
+      "sha256": "ee56fe5fff2df0543cc8cb5008baaaefab2c0ac470eb9820b8381d9ae8a5de55",
+      "bytes": 922
+    },
+    "ANEXO-Resolucion-SSPD-20184300130165-2018.md": {
+      "sha256": "f36fa0d35aa00a1c1bd9aebfda63c51650f9705c67f13f0888fe36b46a82ea81",
+      "bytes": 49362
+    },
+    "CIRCULAR-CONJUNTA-01-2017.md": {
+      "sha256": "e8eb9f47179cd7cfa38ba9b310a5d5360f39053b02083af79fc4972606a57f00",
+      "bytes": 45965
+    },
+    "CIRCULAR-EXTERNA-SSPD-20234300001184-2023.md": {
+      "sha256": "d7c94cc3c9e6d7b2cb8c5e7afe48e5b89cd44ee4d98644df4e4eec9478424239",
+      "bytes": 15653
+    },
+    "CONPES-3874-2016.md": {
+      "sha256": "39f42461fb79e92b4a9d4a5f09967e33d46be336b0f8ec29540676944426d38b",
+      "bytes": 171092
+    },
+    "CONSTITUCION-POLITICA-CP-1991.md": {
+      "sha256": "1b15d769e2788a9110eb5435b3450221bbace6be94caa5e41dc811ba9a017ae7",
+      "bytes": 360600
+    },
+    "CRA-DOCUMENTOS-TRABAJO-AA23072025.md": {
+      "sha256": "ef5f858d1aec36ac0f1a0d90b56bd3c8b633d0102481a1b177c6aea6de7ac15e",
+      "bytes": 1780609
+    },
+    "DECRETO-0271-2026.md": {
+      "sha256": "818b397be069b53069706183cf022b4dbb349c815d3da3c0287233f79a3f31a2",
+      "bytes": 37565
+    },
+    "DECRETO-1076-2015.md": {
+      "sha256": "3d76c393b218dd1082f60913c8114d98c2c41d1263ce42a89319d8252bd97e44",
+      "bytes": 2207274
+    },
+    "DECRETO-1077-2015.md": {
+      "sha256": "8ec85540a27c43245658d00b87360384e691c211bd089c5508aca27d22f0136e",
+      "bytes": 3326144
+    },
+    "DECRETO-1345-2021.md": {
+      "sha256": "64d4b4f768194623cb3323bcd778464ee4feadee0916e324ac5e00327299c05d",
+      "bytes": 7071
+    },
+    "DECRETO-1381-2024.md": {
+      "sha256": "5c0ca36900866355835ddd6323f3dd4790e62bdb68a7fe8e942737839e87b837",
+      "bytes": 79711
+    },
+    "DECRETO-2412-2018.md": {
+      "sha256": "ee2dd596eaa221a6b8a77544a7786d21f898f953c15a920dc444fb810101b1f1",
+      "bytes": 18884
+    },
+    "DECRETO-2811-1974.md": {
+      "sha256": "d9586224efb3b780a5a9e5134dc0c300637affcc5fed36eba496a83c63460607",
+      "bytes": 25727
+    },
+    "DECRETO-2981-2013.md": {
+      "sha256": "6cd806113bcb90818bd8dd03f2ad78b0ea726afcaf2c9b5036427ee771b8f08a",
+      "bytes": 104890
+    },
+    "DECRETO-4741-2005.md": {
+      "sha256": "c88600ba34eb34945db3334d728cd566cfdd95c6f46c7c7b9f0b9e6d33aaf223",
+      "bytes": 67717
+    },
+    "DECRETO-596-2016.md": {
+      "sha256": "a9b9d63a9fe4caa4c3f9178d32f634222f773f56ac39e872cb8aee2d7d4ab44f",
+      "bytes": 62659
+    },
+    "DECRETO-670-2025.md": {
+      "sha256": "01d46ed8cde3ee5c34764c2c1f2b09ef1fd0c23d2d68b9928e682224da22cacf",
+      "bytes": 87408
+    },
+    "Decreto_0086_2022.md": {
+      "sha256": "a687bb3645018c8eba0ee8d6ed29f1b292eb54ea04368a4337e60763f597c321",
+      "bytes": 16082
+    },
+    "Decreto_0775_2025.md": {
+      "sha256": "c9330ac01d25d28b9842fd48a460740fc13563b062d81893db5ba7466a6e66e1",
+      "bytes": 112056
+    },
+    "Decreto_0780_2016.md": {
+      "sha256": "bb08f5f62e4254ef38fba8f1936e5e9d47368cb7aafb636ecb7d13eab81b3f50",
+      "bytes": 3088083
+    },
+    "Decreto_1784_2017.md": {
+      "sha256": "c99e19cf020f63d0dd792860a5d5e1b78737137bcbdaa742092824b3dcc31b99",
+      "bytes": 39309
+    },
+    "GUIA-CRA-Documento-Pedagogico-Marco-Tarifario-Aseo-2025.md": {
+      "sha256": "2d8d721cc65ccda78e0f6590d1a5377f610aff3038517453444c5ac5a590e19d",
+      "bytes": 303899
+    },
+    "GUIA-CRA-Documento-Pedagogico-NMT-Aseo.md": {
+      "sha256": "076ef24abf36a197e4babf6e97a396456cd9865911133e1247631274f104ea21",
+      "bytes": 87307
+    },
+    "GUIA-Calculo-Tarifa-Aprovechamiento.md": {
+      "sha256": "9dd4756d57d49c38d225ef1b562900645aa8235cca5e546e1e839818d5f7c26e",
+      "bytes": 20000
+    },
+    "GUIA-DTO-Documento-Tecnico-Aprovechamiento-2019.md": {
+      "sha256": "4737b00b7754dba3d87e5480cc237d78ca92172b9aa819fe0aacf7b46bb77b74",
+      "bytes": 111603
+    },
+    "GUIA-SSPD-ABC-Aprovechamiento.md": {
+      "sha256": "6f8cfc4ee33dc7229ce049e4a522c9af52e0fe8727f8dc8bb5db02e6d2936d0a",
+      "bytes": 4989
+    },
+    "GUIA-SSPD-Guia-Practica-Verificacion-Aprovechamiento-2024.md": {
+      "sha256": "489923d9f103c82fc5fa18fb18b70b0cbdb0c33f6d2035882806cd3d6cc0d296",
+      "bytes": 80374
+    },
+    "GUIA-SSPD-Manual-Aplicativo-Aprovechamiento-2018.md": {
+      "sha256": "e69b36376ee62563fb5ea47546a5f32acb46ff8a16d5956bb1b998063090bd87",
+      "bytes": 56526
+    },
+    "LEY-1196-2008.md": {
+      "sha256": "d67328c2f9eb4b90359521a191e2b7b652b3240722e8fbd0fe83a197dbbdee2e",
+      "bytes": 141305
+    },
+    "LEY-142-1994.md": {
+      "sha256": "1b989c4f5a096263f65e4a1ca4ecf03af998f082165caaa2ac8e39984917169a",
+      "bytes": 267938
+    },
+    "LEY-2232-2022.md": {
+      "sha256": "bba4b3ee6687aed13a496253e6183e47522b533d6d5882fad85bbcad64fe7894",
+      "bytes": 61348
+    },
+    "LEY-253-1996.md": {
+      "sha256": "e4f7285ce38ec490c5209e3ba4b87182a1987086155b074ca84017d5f2fc566d",
+      "bytes": 99489
+    },
+    "LEY-632-2000.md": {
+      "sha256": "59e5a6803f8ffb29a9275330a700c8256047de391c9835f9813506360e6e37b4",
+      "bytes": 10931
+    },
+    "LEY-689-2001.md": {
+      "sha256": "dfe037cb66102c9d408de559746ef378d2d52d77ac2100b26b2c5530a2c5701e",
+      "bytes": 50848
+    },
+    "LEY-99-1993.md": {
+      "sha256": "d46b0b8de6a79bd1bb7621eaa68898f0713a0d2552b3a4f0f370cb025d874b34",
+      "bytes": 139399
+    },
+    "Ley_0100_1993.md": {
+      "sha256": "ac2bef95c2f7ecfe80a356083795081cdeba218498c5890180a2a1dfe5efb72b",
+      "bytes": 394229
+    },
+    "Ley_0388_1997.md": {
+      "sha256": "45ea80b4d8f3591031208b9b6e4e44490d9e6c905c8ab333aec384c297e396e4",
+      "bytes": 226790
+    },
+    "Ley_1328_2009.md": {
+      "sha256": "0dd883a842c0daaea947a27188f5e2c55795e3300be67a9db1bc4e08a023f380",
+      "bytes": 148152
+    },
+    "Ley_1450_2011.md": {
+      "sha256": "adb0a9cdf177a38506cbc78bb715ff7476f164468d823ce1d5477fd11626f625",
+      "bytes": 263617
+    },
+    "Ley_1753_2015.md": {
+      "sha256": "8c4779b37d996628643ad0b33405b1d439f85f90d207a4dbf3a9bc12a13c853a",
+      "bytes": 403354
+    },
+    "Ley_1955_2019.md": {
+      "sha256": "9f4c4e62e6c6c1410d31eae212362a2bc5c52d7edcb2517eb195b29f61e57552",
+      "bytes": 591101
+    },
+    "Ley_2294_2023.md": {
+      "sha256": "ea4cc16609287ba3e7f59cee15e3259827258c80772d581b4ef9865d69c06bd1",
+      "bytes": 650448
+    },
+    "Ley_2466_2025.md": {
+      "sha256": "b7d55002205726c97fa78e61f9b2f923e80b323a36dd70fa2cfc90d9260ce12d",
+      "bytes": 115141
+    },
+    "RESOLUCION-1164-2002.md": {
+      "sha256": "b88a1ec3886fe440042b3f513c30cd1819bde2e3675aefd8281d6ab373c181f0",
+      "bytes": 134951
+    },
+    "RESOLUCION-1257-2021.md": {
+      "sha256": "12289c0b596ce856a8ea761b17ccb92c941d357d468833c3fc7b55e71a069e40",
+      "bytes": 19486
+    },
+    "RESOLUCION-1362-2007.md": {
+      "sha256": "1a63b8e8183d5031e9d130bc0dfe92bc4e8f92fba19bf83f33fa6fb7c132ea6c",
+      "bytes": 25007
+    },
+    "RESOLUCION-1402-2018.md": {
+      "sha256": "8ba311bda06ea33d4c1eaba9788368a4988d31a877b0bad05a3a7e9c1c4b0167",
+      "bytes": 6223
+    },
+    "RESOLUCION-1511-2010.md": {
+      "sha256": "0dbc823406ab4f7d2e8c12e0aa781a74ec586da2765c0fd83dd1f78826d0f48b",
+      "bytes": 33211
+    },
+    "RESOLUCION-472-2017.md": {
+      "sha256": "cc9dbcecff19917d503777a811c24fd24831807f48fcc8d04464e491df3eedd8",
+      "bytes": 20089
+    },
+    "RESOLUCION-CRA-1011-2025.md": {
+      "sha256": "cd9306c9abd6456371a9472d14c3bd049d46cf0a8f2dad8c7f3ecca31c2757fc",
+      "bytes": 68664
+    },
+    "RESOLUCION-CRA-1027-2026.md": {
+      "sha256": "312cbfbfa4d813c9b0d1de8a620f0cfffee1088a33b519891d1d90fa9dd5c5db",
+      "bytes": 62101
+    },
+    "RESOLUCION-CRA-151-2001.md": {
+      "sha256": "43d53d7855fafbba94cc47e4f689e6998297f2d6769c2890d2a73dfc30975f30",
+      "bytes": 1132615
+    },
+    "RESOLUCION-CRA-304-2004.md": {
+      "sha256": "8f7caa7c70d10abaadbaef28a5faefd2087328dcc5a4f9103bdb7444239b21e7",
+      "bytes": 17994
+    },
+    "RESOLUCION-CRA-351-2005.md": {
+      "sha256": "cede56b85f39fb9fdff071ffd28e2cd27bb02cec7fb99c6381a94676e8722f95",
+      "bytes": 114847
+    },
+    "RESOLUCION-CRA-376-2006.md": {
+      "sha256": "520f4271a6c62507a4672f47c79cbbe5397c3aa8609848ad6755b75284ad0270",
+      "bytes": 70299
+    },
+    "RESOLUCION-CRA-688-2014.md": {
+      "sha256": "a37ee9a5e7fed76d62085477ebf7c1f03ea052bdc24387c3b8bd9f2932835bb7",
+      "bytes": 438939
+    },
+    "RESOLUCION-CRA-720-2015.md": {
+      "sha256": "7a49ac643e3893285e4e0f64ad999ff57e32214f72d9e443906d49aa8572f193",
+      "bytes": 225699
+    },
+    "RESOLUCION-CRA-778-2016.md": {
+      "sha256": "47cec8fe7a894585609f64a36d372b9e0626dc2113c2d48ba695cc3721492c66",
+      "bytes": 131648
+    },
+    "RESOLUCION-CRA-845-2018.md": {
+      "sha256": "a116596dcc0feced00a58bcc008934c6b30001f497ff4f7187f2735481207cc9",
+      "bytes": 41393
+    },
+    "RESOLUCION-CRA-894-2019.md": {
+      "sha256": "aa16be2d0822c0239db389f9846a0ca1057fdab7bb9999fe8d006f9b334a09ee",
+      "bytes": 78950
+    },
+    "RESOLUCION-CRA-943-2021.md": {
+      "sha256": "e15b89e68b50b379fe8cf9949a580a906b568db489d0fc34ec8adf0f2d942a4d",
+      "bytes": 1116578
+    },
+    "Resolucion_0276_2016.md": {
+      "sha256": "b98848de862aab909c8db42bcf94f3fbd1f3d3a4b04807b7b1435f6c6132f3eb",
+      "bytes": 30478
+    },
+    "Resolucion_0668_2016.md": {
+      "sha256": "fbf7702f26ae5e4dc08bc4f6b2dce4a3ab634999fbaf7db940ec36452504b8be",
+      "bytes": 28781
+    },
+    "Resolucion_0803_2024.md": {
+      "sha256": "8f28319540f2fa57e6b9e7c98af8a16f17cf1889f4b0ee6023ea6ac65e0ac5fc",
+      "bytes": 66765
+    },
+    "Resolucion_1344_2020.md": {
+      "sha256": "9ce2f731dadeee4c1c7d024cdf9a76b24f4aee19354cf636bee8e9115584cdb9",
+      "bytes": 5875
+    },
+    "Resolucion_1397_2018.md": {
+      "sha256": "55f7f873bfe7ff48e3ac99572227a341d434b7d1c1a66631fc5fe9cdb3a17fea",
+      "bytes": 9324
+    },
+    "Resolucion_2184_2019.md": {
+      "sha256": "90ef8df2bf4115119d47475565febd2b5b257eceeffdb3e7399640a1eac4803a",
+      "bytes": 11300
+    },
+    "Resolucion_CRA_0271_2003.md": {
+      "sha256": "96cb4143a14ff626beccf0fc6d1445f7f3702f8633ab13175ed7ad837a5d419e",
+      "bytes": 71912
+    },
+    "Resolucion_CRA_0779_2016.md": {
+      "sha256": "1b5ee461d942c4596345ee69311594efaeef61271dce08d2dbd3ea1dc44705ad",
+      "bytes": 17818
+    },
+    "Resolucion_CRA_0853_2018.md": {
+      "sha256": "a96bd6b104859f81806f0ff5925d2b61c708d3ee9b200f63055539f5dd0bf09c",
+      "bytes": 391483
+    },
+    "Resolucion_SSPD_13835_2016.md": {
+      "sha256": "66f80c86991d5101314a40e39e9cd70ac0803c3b5e5521f2109685a173e4688b",
+      "bytes": 24377
+    },
+    "Resolucion_SSPD_204125_2017.md": {
+      "sha256": "e9e802fa64b147416f87f25b4826ff561e04862c6e6e1f748e439b7b97ce4b75",
+      "bytes": 22447
+    },
+    "Resolucion_SSPD_237705_2017.md": {
+      "sha256": "e1750501e3101a680fbf2d022d5c6e7be7569c77218d9fd74b24e0202a83375b",
+      "bytes": 20050
+    },
+    "Resolucion_SSPD_35485_2012.md": {
+      "sha256": "849c506f261af0bd0da20b5ba8b310bfae764b4a7852dcdc8f012f700380d24b",
+      "bytes": 9464
+    },
+    "Resolucion_SSPD_48765_2010.md": {
+      "sha256": "0a4a58006054c5607f930d7b3da420823425965eeb13be9e72f18a01856be43a",
+      "bytes": 8810
+    },
+    "Resolucion_SSPD_54195_2015.md": {
+      "sha256": "ab4c6892cae3e6987caed63109b1ebb6815ea1235c360476bb3d4779f85cad4b",
+      "bytes": 67162
+    },
+    "SSPD-120515-2018.md": {
+      "sha256": "1ea54c9e1535c471d676fc17deede8d5729a58c4cf9399076db22108ed7c0adf",
+      "bytes": 15773
+    },
+    "SSPD-20161300037055-2016.md": {
+      "sha256": "02a1d98c2cd020dd9a8d799865f92284f2ec2448282024b5043f1af749fd34df",
+      "bytes": 52106
+    },
+    "SSPD-20184300130165-2018.md": {
+      "sha256": "15698725ce45d5544ef817a34d9f2ffd48cb0ed5dceb4f51dca333192285912a",
+      "bytes": 18136
+    },
+    "SSPD-20201000034455-2020.md": {
+      "sha256": "a6a2fc11190494c916a91bc14ac586b5fe224cb2fbdd6444f91c48f171d5ae23",
+      "bytes": 44732
+    },
+    "SSPD-20201000046075-2020.md": {
+      "sha256": "802b622f1fd70ebcc273b3e9c8461413301143234c5393e71963ed058200ebec",
+      "bytes": 37938
+    },
+    "SSPD-20211000214135-2022.md": {
+      "sha256": "8a037c24c87640c8c9c43d7d5f7d1423360e7238a7fe12de9a7e4bba9f10c4cb",
+      "bytes": 22016
+    },
+    "SSPD-20211000482115-2021.md": {
+      "sha256": "6c502d40104fa0a99bf9b06176da9d8d7435f35443b9959527fb25d57d0e3f4e",
+      "bytes": 21776
+    },
+    "SSPD-20211000650805-2021.md": {
+      "sha256": "8818fd742e7241dbd38ac0ba4e0a228a5ffe60015e78bef25aa47793d9c422d8",
+      "bytes": 19032
+    },
+    "ley_1581_de_2012.md": {
+      "sha256": "1a75da273c4efa76303dc3d4fe31c2967c47db8dc6a5935bdba0da33e52757f7",
+      "bytes": 89458
+    },
+    "resolucion_0412_de_2026.md": {
+      "sha256": "04b6e7698a4ebbf8fe3c9b6ffab6a33f52f4973571d19828a8efeca246bb32ba",
+      "bytes": 107655
+    },
+    "resolucion_cra_1040_de_2026.md": {
+      "sha256": "85b466a09de1ff7dc275f835a1172c0e7b764a01dbdbcc9126f4c4d69c04340b",
+      "bytes": 721696
+    }
+  }
+}
