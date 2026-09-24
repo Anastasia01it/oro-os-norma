@@ -1,0 +1,10 @@
+# Derivados reconstruibles — no se versionan (ver README, regla 1)
+sistema/data/corpus.index.sqlite
+procesador/v1.0.0-beta.1/output/
+
+# Búfer transitorio del piloto (la evidencia vive en registro.jsonl y ficha.json)
+sistema/piloto/respuesta.json
+
+# Python
+__pycache__/
+*.pyc
