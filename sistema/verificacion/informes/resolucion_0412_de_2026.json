@@ -1,0 +1,243 @@
+{
+ "corpus": "resolucion_0412_de_2026.md",
+ "fuente": "sistema/verificacion/fuentes/resolucion_0412_2026.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 50,
+ "resultados": [
+  {
+   "articulo": "1o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3o",
+   "estado": "casi",
+   "similitud": 0.9982,
+   "corpus": "ARTÍCULO 3o. REGLAMENTACIÓN DE CRITERIOS DIFERENCIALES. Para efectos de la inspección, vigilancia y control de las personas prestadoras de la actividad de aprovechamiento, se tendr",
+   "fuente": "ARTÍCULO 3o. REGLAMENTACIÓN DE CRITERIOS DIFERENCIALES. Para efectos de la inspección, vigilancia y control de las personas prestadoras de la actividad de aprovechamiento, se tendr",
+   "diff": {
+    "corpus": "...po de persona prestadora de la actividad de aprovechamiento: 2. Las Organizaciones de Recicladores de Oficio (ORO) están...",
+    "fuente": "...po de persona prestadora de la actividad de aprovechamiento: ! ! ! 2. Las Organizaciones de Recicladores de Oficio (ORO) están..."
+   }
+  },
+  {
+   "articulo": "4o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "6o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "7o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "8o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "9o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "10",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "11",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "12",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "13",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "14",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "ARTÍCULO 14. MATERIAL DE RECHAZOS EN LA ESTACIÓN DE CLASIFICACIÓN Y APROVECHAMIENTO (ECA). Para efectos del balance de masas, las personas prestadoras de la actividad de aprovecham",
+   "fuente": "ARTÍCULO 14. MATERIAL DE RECHAZOS EN LA ESTACIÓN DE CLASIFICACIÓN Y APROVECHAMIENTO (ECA). Para efectos del balance de masas, las personas prestadoras de la actividad de aprovecham",
+   "diff": {
+    "corpus": "...ACIÓN DEL SERVICIO DE LA ACTIVIDAD DE APROVECHAMIENTO (PPSA)...",
+    "fuente": "...ACIÓN DEL SERVICIO DE LA ACTIVIDAD DE APROVECHAMIENTO (PPSA)...."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "16",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "17",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "18",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "ARTÍCULO 18. INSPECCIÓN, VIGILANCIA Y CONTROL DEL PROGRAMA DE PRESTACIÓN DEL SERVICIO DE LA ACTIVIDAD DE APROVECHAMIENTO (PPSA). La inspección, vigilancia y control en la implement",
+   "fuente": "ARTÍCULO 18. INSPECCIÓN, VIGILANCIA Y CONTROL DEL PROGRAMA DE PRESTACIÓN DEL SERVICIO DE LA ACTIVIDAD DE APROVECHAMIENTO (PPSA). La inspección, vigilancia y control en la implement",
+   "diff": {
+    "corpus": "...ios del prestador. CAPÍTULO 4. DEL RÉGIMEN DE REGULARIZACIÓN...",
+    "fuente": "...ios del prestador. CAPÍTULO 4. DEL RÉGIMEN DE REGULARIZACIÓN...."
+   }
+  },
+  {
+   "articulo": "19",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "20",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "21",
+   "estado": "divergente",
+   "similitud": 0.4011,
+   "corpus": "ARTÍCULO 21. TEMPORALIDAD DE LAS FASES. Para efectos de los plazos establecidos en el artículo 2.3.2.5.3.5 del Decreto número 1077 de 2015, y con el fin de realizar la evaluación d",
+   "fuente": "ARTÍCULO 21. TEMPORALIDAD DE LAS FASES. Para efectos de los plazos establecidos en el artículo 2.3.2.5.3.5 del Decreto número 1077 de 2015, y con el fin de realizar la evaluación d",
+   "diff": {
+    "corpus": "...r al 14 de noviembre de 2024 y hasta el 14 de mayo de 2025. 2. Organizaciones de Recicladores de Oficio (ORO) TIPO III i...",
+    "fuente": "...r al 14 de noviembre de 2024 y hasta el 14 de mayo de 2025. Fase Tiempo Inicial 14/11/2024 al 13/12/2024 1 14/11/2024 al 13/11/2025 2 14/11/2025 al 13/11/2026 3 14/11/2026 al 13/11/2027 4 14/11/2027 al 13/11/2028 5 14/11/2028 al 13/11/2029 2. Organizaciones de Recicladores de Oficio (ORO) TIPO III i..."
+   }
+  },
+  {
+   "articulo": "22",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "23",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "24",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "25",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "26",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "27",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "28",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "29",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "30",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "31",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "32",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "33",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "34",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "35",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "36",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "37",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "38",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "39",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "40",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "41",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "42",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "43",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "44",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "45",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "46",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "47",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "48",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "49",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "50",
+   "estado": "ausente_en_fuente"
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 17,
+  "casi": 3,
+  "divergentes": 30
+ }
+}

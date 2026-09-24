@@ -1,0 +1,170 @@
+{
+ "corpus": "ley_1581_de_2012.md",
+ "fuente": "sistema/verificacion/fuentes/ley_1581_2012.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 30,
+ "resultados": [
+  {
+   "articulo": "1o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3o",
+   "estado": "casi",
+   "similitud": 0.9995,
+   "corpus": "ARTÍCULO 3o. DEFINICIONES. Para los efectos de la presente ley, se entiende por: a) Autorización: Consentimiento previo, expreso e informado del Titular para llevar a cabo el Trata",
+   "fuente": "ARTÍCULO 3o. DEFINICIONES. Para los efectos de la presente ley, se entiende por: a) Autorización: Consentimiento previo, expreso e informado del Titular para llevar a cabo el Trata",
+   "diff": {
+    "corpus": "...la base de datos y/o el Tratamiento de los datos; f) Titular : Persona natural cuyos datos personales sean objeto de Trat...",
+    "fuente": "...la base de datos y/o el Tratamiento de los datos; f) Titular: Persona natural cuyos datos personales sean objeto de Trat..."
+   }
+  },
+  {
+   "articulo": "4o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "5o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "6o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "7o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "8o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "9o",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "10",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "11",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "12",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "13",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "14",
+   "estado": "casi",
+   "similitud": 0.9996,
+   "corpus": "ARTÍCULO 14. CONSULTAS. Los Titulares o sus causahabientes podrán consultar la información personal del Titular que repose en cualquier base de datos, sea esta del sector público o",
+   "fuente": "ARTÍCULO 14. CONSULTAS. Los Titulares o sus causahabientes podrán consultar la información personal del Titular que repose en cualquier base de datos, sea esta del sector público o",
+   "diff": {
+    "corpus": "...atamiento, siempre y cuando se pueda mantener prueba de esta La consulta será atendida en un término máximo de diez (10)...",
+    "fuente": "...atamiento, siempre y cuando se pueda mantener prueba de esta. La consulta será atendida en un término máximo de diez (10)..."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "16",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "17",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "18",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "19",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "20",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "21",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "22",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "23",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "24",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "25",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "26",
+   "estado": "divergente",
+   "similitud": 0.6305,
+   "corpus": "ARTÍCULO 26. PROHIBICIÓN. Se prohíbe la transferencia de datos personales de cualquier tipo a países que no proporcionen niveles adecuados de protección de datos. Se entiende que u",
+   "fuente": "ARTÍCULO 26. PROHIBICIÓN. Se prohíbe la transferencia de datos personales de cualquier tipo a países que no proporcionen niveles adecuados de protección de datos. Se entiende que u",
+   "diff": {
+    "corpus": "...tiles, conforme a la legislación que les resulte aplicable; TÍTULO IX. OTRAS DISPOSICIONES....",
+    "fuente": "...tiles, conforme a la legislación que les resulte aplicable; d) Transferencias acordadas en el marco de tratados internacionales en los cuales la República de Colombia sea parte, con fundamento en el principio de reciprocidad; e) Transferencias necesarias para la ejecución de un contrato entre el Titular y el Responsable del Tratamiento, o para la ejecución de medidas precontractuales siempre y cuando se cuente con la autorización del Titular; PARÁGRAFO 1o. En los casos no contemplados como excepción en el presente artículo, corresponderá a la Superintendencia de Industria y Comercio, proferir la declaración de conformidad relativa a la transferencia internacional de datos personales. Para el efecto, el Superintendente queda facultado para requerir información y adelantar las diligencias tendientes a establecer el cumplimiento de los presupuestos que requiere la viabilidad de la operación. PARÁGRAFO 2o. Las disposiciones contenidas en el presente artículo serán aplicables para todos los datos personales, incluyendo aquellos contemplados en la Ley 1266 de 2008. TÍTULO IX. OTRAS DISPOSICIONES...."
+   }
+  },
+  {
+   "articulo": "27",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "28",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "29",
+   "estado": "casi",
+   "similitud": 0.9967,
+   "corpus": "ARTÍCULO 29. DEROGATORIAS. La presente ley deroga todas las disposiciones que le sean contrarias a excepción de aquellas contempladas en el artículo 2 o.",
+   "fuente": "ARTÍCULO 29. DEROGATORIAS. La presente ley deroga todas las disposiciones que le sean contrarias a excepción de aquellas contempladas en el artículo 2o.",
+   "diff": {
+    "corpus": "...rarias a excepción de aquellas contempladas en el artículo 2 o....",
+    "fuente": "...rarias a excepción de aquellas contempladas en el artículo 2o...."
+   }
+  },
+  {
+   "articulo": "30",
+   "estado": "divergente",
+   "similitud": 0.0079,
+   "corpus": "ARTÍCULO 30. VIGENCIA. La presente ley rige a partir de su promulgación.",
+   "fuente": "ARTÍCULO 30. VIGENCIA. La presente ley rige a partir de su promulgación. El Presidente del honorable Senado de la República, ROY LEONARDO BARRERAS MONTEALEGRE. El Secretario Genera",
+   "diff": {
+    "corpus": "... VIGENCIA. La presente ley rige a partir de su promulgación....",
+    "fuente": "... VIGENCIA. La presente ley rige a partir de su promulgación. El Presidente del honorable Senado de la República, ROY LEONARDO BARRERAS MONTEALEGRE. El Secretario General del honorable Senado de la República, GREGORIO ELJACH PACHECO. El Presidente de la honorable Cámara de Representantes, AUGUSTO POSADA SÁNCHEZ. La Secretaria General (E.) de la honorable Cámara de Representantes, FLOR MARINA DAZA RAMÍREZ. REPÚBLICA DE COLOMBIA – GOBIERNO NACIONAL Publíquese y cúmplase. En cumplimiento de lo dispuesto en la Sentencia C-748 de 2011 proferida por la Corte Constitucional, se procede a la sanción del proyecto de ley, la cual ordena la remisión del expediente al Congreso de la República, para continuar el trámite de rigor y posterior envío al Presidente de la República. Dada en Bogotá, D. C., a 17 de octubre de 2012. JUAN MANUEL SANTOS CALDERÓN La Ministra de Justicia y del Derecho, RUTH STELLA CORREA PALACIO. El Ministro de Hacienda y Crédito Público, MAURICIO CÁRDENAS SANTA MARÍA. El Ministro de Comercio, Industria y Turismo, SERGIO DIAZ-GRANADOS GUIDA. El Ministro de Tecnologías, de la Información y las Comunicaciones, DIEGO MOLANO VEGA. PROYECTO DE LEY ESTATUTARIA DE HABEAS DATA Y PROTECCION DE DATOS PERSONALES-Objeto CONTROL DE CONSTITUCIONALIDAD DE LOS PROYECTO DE LEY ESTATUTARIA-Características PROYECTO DE LEY ESTATUTARIA-Requisitos generales/PROYECTO DE LEY ESTATUTARIA-Requisitos especiales LEY ESTATUTARIA-Ley de especial jerarquía/LEY ESTATUTARIA-Materias sometidas a reserva de ley estatutaria Las Leyes Estatutarias constituyen un tipo de leyes de especial jerarquía, que tienen como fin esencial salvaguardar la entidad de las materias que regula, que son: los derechos y deberes fundamentales, así como los procedimientos y recursos para su protección; la administración de justicia; la organización y régimen de los partidos y movimientos políticos, el estatuto de la oposición y las funciones electorales; las instituciones y mecanismos de participación ciudadana; los estados de excepción, y la igualdad electoral entre candidatos a la Presidencia de la República; materias éstas que comportan una importancia cardinal para el desarrollo de los artículos 1 y 2 de la Carta, pues su regulación especial garantiza la vigencia de principios básicos constitucionales y propende por la consecución de los fines esenciales del Estado. De modo que imprimirle rigurosidad a la aprobación de la regulación de dichas materias y, además, mayor jerarquía a las leyes que las consagren, son medios idóneos para lograr la efectividad de los derechos constitucionales, la salvaguarda de un orden justo, así como la existencia de un sistema democrático y participativo. Si bien cualquier proyecto para convertirse en ley debe cumplir con los siguientes requisitos: ser publicado oficialmente por el Congreso antes de darle curso en la comisión respectiva; surtir los correspondientes debates en las comisiones y plenarias de las Cámaras, luego de que se hayan efectuado las ponencias respectivas y respetando los quórum previstos por los artículos 145 y 146 de la Constitución; realizar los anuncios del proyecto de ley previo a la discusión y votación en cada una de las comisiones y plenarias, exigencia que también se aplica a los debates sobre los informes de las comisiones de conciliación, los cuales deberán ser publicados por lo menos un día antes de darse su discusión y aprobación; respetar los términos para los debates previstos por el artículo 160, esto es ocho días entre el primer y segundo debate en cada Cámara, y quince días entre la aprobación del proyecto en una de las Cámaras y la iniciación del debate en la otra; respetar los principios de unidad de materia, de identidad y consecutividad; haber obtenido la sanción gubernamental, que como es obvio, en el caso de las leyes estatutarias, dicha sanción se surte después de que la Corte Constitucional haya efectuado la revisión previa y oficiosa de constitucionalidad y declarado, en consecuencia, que las disposiciones del proyecto se ajustan a la Carta. Además de lo anterior, por tratarse de un proyecto de ley estatutaria, es necesario que el proyecto: (i) haya sido aprobado por mayoría absoluta y (ii) haya sido tramitado en una sola legislatura. PROYECTO DE LEY ESTATUTARIA-Trámite en una sola legislatura se refiere únicamente al trámite en el Congreso Conforme a reiterada jurisprudencia de esta Corte, la Constitución ordena que dentro de la legislatura el proyecto haga tránsito en el Congreso, esto es, que sea modificado y aprobado por las Cámaras en ese lapso, pero la revisión constitucional por la Corte y la sanción presidencial pueden ocurrir por fuera de la legislatura, pues si el trámite que debe ser surtido en una sola legislatura incluyese la revisión por la Corte, o las objeciones y sanción presidenciales, sería prácticamente imposible aprobar, modificar o derogar leyes estatutarias, o éstas tendrían que ser tramitadas en el Congreso con excesiva celeridad, sin una adecuada discusión democrática, e incluso con improvisación. CONSULTA PREVIA DE COMUNIDADES INDIGENAS Y GRUPOS ETNICOS EN TRAMITE LEGISLATIVO DE LEY ESTATUTARIA-No resulta necesaria cuando regulación tiene carácter general sin que se afecte de manera directa comunidades étnicas Si bien la Corte precisó que la consulta previa a las comunidades étnicas que puedan resultar afectadas directamente por cualquier medida legislativa, constituye un requisito de procedimiento que debe surtirse antes del trámite legislativo respectivo, siendo necesaria en el caso de decisiones que conciernen directamente a una o varias comunidades étnicas; en el caso bajo estudio, un examen del contenido del proyecto de ley permite concluir que las medidas que mediante él se pretenden adoptar no conciernen directamente a ninguna comunidad étnica asentada en el territorio nacional, de modo que la consulta previa no era un requisito previo. En efecto, el proyecto solamente establece un régimen general para la protección de datos en Colombia que comprende una legislación destinada a la sociedad en general y no define un tratamiento específico directamente destinado a comunidades étnicas, por lo que no afecta de manera directa comunidades étnicas colombianas, no siendo en consecuencia necesario realizar procesos de consulta antes de dar inicio al trámite legislativo. CONTROL DE CONSTITUCIONALIDAD DE PROYECTO DE LEY ESTATUTARIA DE HABEAS DATA Y PROTECCION DE DATOS PERSONALES-Trámite legislativo En términos generales el trámite legislativo del proyecto de ley estatutaria de habeas data y protección de datos personales, cumplió con los requisitos constitucionales previstos para cualquier decisión legislativa y particularmente para este tipo de leyes de especial jerarquía, pues habiendo sido presentado ante el Congreso y su texto junto con la exposición de motivos publicada oportunamente, su aprobación, que tuvo inicio en la comisión primera de la Cámara de Representantes, se efectuó dentro de una sola legislatura; se cumplieron los debates en las comisiones permanentes y plenarias de ambas cámaras legislativas; se publicaron las ponencias junto con los pliegos modificatorios y se dio cumplimiento a los anuncios previos para discusión y aprobación; a raíz de las diferencias en los textos aprobados por la Cámara de Representantes y el Senado de la República, se conformó una comisión accidental de conciliación para superar las discrepancias y su informe de conciliación fue publicado y aprobado tanto por la Cámara de Representantes como por el Senado en votación nominal con mayoría absoluta, habiéndose verificado el anuncio previo para votación y aprobación correspondiente y se cumplieron los términos que deben mediar entre los debates en comisiones y entre cámaras legislativas. No obstante no puede decirse lo mismo respecto de los artículos 29, 30 y 31 en cuanto la forma en que fueron incluidos que no atendió los mandatos de los principios de consecutividad e identidad flexible, por lo que se declaran inexequibles. PRINCIPIO DE UNIDAD DE MATERIA EN PROYECTO DE LEY ESTATUTARIA-Caracterización/PRINCIPIO DE UNIDAD DE MATERIA EN PROYECTO DE LEY ESTATUTARIA-Vulneración constituye un vicio material Por el principio de unidad de materia cada una de las disposiciones que conforman un ordenamiento legal deben pertenecer a su núcleo temático, el cual puede precisarse, entre otros, con lo establecido en su título. Con este principio se busca evitar que la temática regulada por una disposición sea absolutamente ajena al núcleo temático de la ley que la contiene. Así, existe violación a la unidad de materia porque lo regulado en un artículo no tenga relación alguna con el tema del cuerpo legal que lo contiene, siendo entendido por la jurisprudencia constitucional que la violación del principio de unidad de materia constituye un vicio material. Refiriéndose al alcance constitucional del principio de unidad de materia, la Corte ha señalado que con él se pretende “asegurar que las leyes tengan un contenido sistemático e integrado, referido a un solo tema, o eventualmente, a varios temas relacionados entre sí. La importancia de este principio radica en que a través de su aplicación se busca evitar que los legisladores, y también los ciudadanos, sean sorprendidos con la aprobación subrepticia de normas que nada tienen que ver con la(s) materia(s) que constituye(n) el eje temático de la ley aprobada, y que por ese mismo motivo, pudieran no haber sido objeto del necesario debate democrático al interior de las cámaras legislativas. La debida observancia de este principio contribuye a la coherencia interna de las normas y facilita su cumplimiento y aplicación al evitar, o al menos reducir, las dificultades y discusiones interpretativas que en el futuro pudieran surgir como consecuencia de la existencia de disposiciones no relacionadas con la materia principal a la que la ley se refiere” PRINCIPIO DE UNIDAD DE MATERIA-Conexidad temática, teleológica, causal o sistemática PRINCIPIO DE IDENTIDAD RELATIVA EN TRAMITE LEGISLATIVO-Alcance El principio de identidad relativa surge del mandato constitucional según el cual durante el segundo debate cada cámara podrá introducir las enmiendas que considere pertinentes, siempre y cuando ellas no cambien la esencia del proyecto de ley hasta ese momento aprobado, pues, en ese caso, deberán surtir todos los debates requeridos de acuerdo al artículo 157. La Corte determinó como núcleo conceptual del principio de identidad relativa, “la idea que a lo largo de los cuatro debates se mantenga sustancialmente el mismo proyecto, es decir, que las modificaciones que en ejercicio de los principios de pluralismo y decisión mayoritaria pueden hacerse al proyecto, no sean de tal envergadura que terminen por convertirlo en otro completamente distinto”. PRINCIPIO DE CONSECUTIVIDAD EN TRAMITE LEGISLATIVO-Alcance/PRINCIPIOS DE IDENTIDAD RELATIVA Y CONSECUTIVIDAD EN TRAMITE LEGISLATIVO-Relación El principio de consecutividad consagra la obligación de que todos los asuntos aprobados en una ley hayan sido debatidos por las comisiones permanentes de ambas cámaras y por sus plenarias, lo que no significa que cada una de las variaciones surgidas durante el trámite legislativo deban devolverse a primer debate para que surtan todo el proceso, sino que aquellos asuntos no tratados en lo absoluto durante las etapas previas, deban devolverse para que sean aprobados o discutidos por la comisión y/o plenaria que estudió el proyecto con anterioridad. Si ello no ocurre, entonces se entiende que esas disposiciones se encuentran viciadas de inconstitucionalidad por violación del artículo 157 de la Carta. Así pues, el principio de consecutividad no se predica de los contenidos exactos de los artículos, sino de los asuntos o temas regulados en la ley que los contienen. Usualmente el principio de identidad relativa se relaciona de manera automática, e incluso se identifica, con el principio de consecutividad, relación que no es siempre ineludible pues puede ocurrir que una disposición no haya sido aprobada en cuatro debates sin que su contenido convierta al proyecto de ley en uno totalmente distinto. Sin embargo, sí debe afirmarse que siempre que se identifique un vicio por violación del principio de identidad con la introducción de una enmienda, se traduce en la vulneración de la consecutividad pues, precisamente, dichos cambios, a pesar de ser esenciales, no fueron aprobados o siquiera discutidos con todos los debates reglamentarios. Así, no toda trasgresión de la consecutividad implica la violación de la identidad pero, en cambio, toda violación a la identidad involucra una vulneración a la consecutividad. PRINCIPIOS DE CONSECUTIVIDAD E IDENTIDAD RELATIVA EN TRAMITE LEGISLATIVO-Desconocimiento constituye un vicio insubsanable PRINCIPIOS DE CONSECUTIVIDAD E IDENTIDAD RELATIVA EN PROYECTO DE LEY ESTATUTARIA DE HABEAS DATA Y PROTECCION DE DATOS PERSONALES-Desconocimiento por introducción de temas que no surtieron los debates reglamentarios PRINCIPIOS DE CONSECUTIVIDAD E IDENTIDAD RELATIVA EN PROYECTO DE LEY ESTATUTARIA DE HABEAS DATA Y PROTECCION DE DATOS PERSONALES-Desconocimiento por cuanto los artículos relacionados con los datos de antecedentes judiciales y el manejo de datos de inteligencia y contrainteligencia fueron introducidos en el tercer y cuarto debates En relación con los artículos 29, 30 y 31 del proyecto de ley estatutaria, relacionados con los datos relativos al certificado de antecedentes judiciales y el manejo de datos de inteligencia y contrainteligencia, si bien su contenido no es ajeno a la materia del proyecto de ley y por ende no vulneran la unidad de materia, si se vulnera de una manera palmaria el principio de consecutividad, por cuanto los asuntos de que tratan las precitadas disposiciones no fueron objeto de los debates previos, pues fueron introducidos en el tercer y cuarto debates. COMISIONES ACCIDENTALES DE CONCILIACION EN TRAMITE LEGISLATIVO-Conformación/COMISIONES ACCIDENTALES DE CONCILIACION EN TRAMITE LEGISLATIVO-Competencia La jurisprudencia ha sido clara en establecer que el objeto de las comisiones accidentales de conciliación y de la aprobación de sus informes, se circunscribe a superar las discrepancias en el texto de una y otra cámara teniendo en cuenta que dada la naturaleza meramente accidental de las comisiones de conciliación, no pueden suplir la función legislativa asignada por la Constitución y la ley, a las comisiones constitucionales permanentes y a las plenarias de cada Cámara, pues es en éstas, en donde debe surtirse el proceso de deliberación y aprobación de las distintas normas jurídicas. DERECHO AL HABEAS DATA-Origen, evolución y regulación en el ámbito del derecho internacional DERECHO AL HABEAS DATA-Concepto/DERECHO AL HABEAS DATA-Líneas interpretativas en la jurisprudencia constitucional/DERECHO AL HABEAS DATA-Fundamental autónomo En la jurisprudencia constitucional, el derecho al habeas data fue primero interpretado como una garantía del derecho a la intimidad, de allí que se hablara de la protección de los datos que pertenecen a la vida privada y familiar, entendida como la esfera individual impenetrable en la que cada cual puede realizar su proyecto de vida y en la que ni el Estado ni otros particulares pueden interferir. También, desde los primeros años de la nueva Carta, surgió al interior de la Corte una segunda línea interpretativa que consideraba el habeas data una manifestación del libre desarrollo de la personalidad. Según esta línea, el habeas data tiene su fundamento último “(…) en el ámbito de autodeterminación y libertad que el ordenamiento jurídico reconoce al sujeto como condición indispensable para el libre desarrollo de la personalidad y en homenaje justiciero a su dignidad. Ya a partir de 1995, surge una tercera línea interpretativa que es la que ha prevalecido desde entonces y que apunta al habeas data como un derecho autónomo, en que el núcleo del derecho al habeas data está compuesto por la autodeterminación informática y la libertad –incluida la libertad económica. Este derecho como fundamental autónomo, requiere para su efectiva protección de mecanismos que lo garanticen, los cuales no sólo deben pender de los jueces, sino de una institucionalidad administrativa que además del control y vigilancia tanto para los sujetos de derecho público como privado, aseguren la observancia efectiva de la protección de datos y, en razón de su carácter técnico, tenga la capacidad de fijar política pública en la materia, sin injerencias políticas para el cumplimiento de esas decisiones. DERECHO AL HABEAS DATA-Contenidos mínimos Dentro de las prerrogativas o contenidos mínimos que se desprenden del derecho al habeas data encontramos por lo menos las siguientes: (i) el derecho de las personas a conocer –acceso- la información que sobre ellas están recogidas en bases de datos, lo que conlleva el acceso a las bases de datos donde se encuentra dicha información; (ii) el derecho a incluir nuevos datos con el fin de se provea una imagen completa del titular; (iii) el derecho a actualizar la información, es decir, a poner al día el contenido de dichas bases de datos; (iv) el derecho a que la información contenida en bases de datos sea rectificada o corregida, de tal manera que concuerde con la realidad; (v) el derecho a excluir información de una base de datos, bien por que se está haciendo un uso indebido de ella, o por simple voluntad del titular –salvo las excepciones previstas en la normativa. RESERVA DE LEY ESTATUTARIA EN MATERIAS OBJETO DE SU REGULACION-Criterios jurisprudenciales para determinarla RESERVA DE LEY ESTATUTARIA EN MATERIA DE DERECHOS FUNDAMENTALES-Se predica sólo de los elementos estructurales esenciales/NUCLEO ESENCIAL DE UN DERECHO FUNDAMENTAL-Concepto La Corte ha indicado que respecto de los derechos fundamentales, la reserva de ley estatuaria no se predica de la regulación de todo evento ligado a los derechos fundamentales sino solamente los elementos estructurales esenciales de los derechos fundamentales, de modo que las leyes estatutarias no deben regular en d (Content truncated. Fetch a more specific URL or section for the full text.)..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 25,
+  "casi": 3,
+  "divergentes": 2
+ }
+}

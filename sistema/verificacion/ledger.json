@@ -1,0 +1,41 @@
+{
+  "actualizado": "2026-09-23",
+  "metodo": "sistema/scripts/verificar_fuente.py (fold+plano, segmentacion por articulo, umbral casi=0.98, fail-closed)",
+  "archivos": {
+    "ley_1581_de_2012.md": {
+      "estado": "NO_VERIFICADA",
+      "fuente": "https://normas.cra.gov.co/gestor/docs/ley_1581_2012.htm",
+      "captura": "sistema/verificacion/fuentes/ley_1581_2012.gestorcra.txt (completa)",
+      "informe": "sistema/verificacion/informes/ley_1581_de_2012.json",
+      "articulos": 30, "exactos": 25, "casi": 3, "divergentes": 2,
+      "hallazgos": [
+        {"id": "H1", "clase": "contenido_perdido", "articulo": "26",
+         "detalle": "El corpus trunca el art. 26: faltan los literales d), e), f) y los parágrafos 1o y 2o presentes en la fuente oficial.",
+         "severidad": "critica"},
+        {"id": "H2", "clase": "bloque_sancion_entre_espejos", "articulo": "30",
+         "detalle": "El bloque de firmas difiere entre espejos oficiales (gestor CRA: Barreras/Santos + nota C-748; corpus/SUIN: Londoño Ulloa + Director DAFP). El cuerpo de la norma es idéntico.",
+         "severidad": "documentar"}
+      ]
+    },
+    "resolucion_0412_de_2026.md": {
+      "estado": "PARCIAL",
+      "fuente": "https://normas.cra.gov.co/gestor/docs/resolucion_minviviendact_0412_2026.htm",
+      "captura": "sistema/verificacion/fuentes/resolucion_0412_2026.gestorcra.txt (truncada por limite de 5 MB del capturador)",
+      "informe": "sistema/verificacion/informes/resolucion_0412_de_2026.json",
+      "articulos": 50, "cubiertos_por_fuente": 21, "exactos": 17, "casi": 3,
+      "divergentes": [{"articulo": "21", "clase": "tabla_formato", "similitud": 0.4011}],
+      "sin_cobertura": "arts. 22-50 (captura truncada mid art. 21)",
+      "nota": "la propia fuente oficial muestra una corrupcion de texto en considerandos ('Decreto 1381 de 20e incorporan'): reportar al emisor, no heredar"
+    },
+    "LEY-142-1994.md": {
+      "estado": "PENDIENTE",
+      "fuente_identificada": "https://normas.cra.gov.co/gestor/docs/ley_0142_1994.htm",
+      "bloqueo": "pagina > 5 MB en una sola captura; requiere secciones o PDF"
+    }
+  },
+  "canales": {
+    "accesibles": ["normas.cra.gov.co (gestor CRA)", "minvivienda.gov.co (PDF y paginas)"],
+    "bloqueados_desde_este_entorno": ["funcionpublica.gov.co", "suin.gov.co", "secretariasenado.gov.co"],
+    "nota": "los bloqueados pueden reintentarse con canal alterno (descarga directa, otro origen de red, verificacion humana)"
+  }
+}
