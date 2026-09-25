@@ -149,6 +149,36 @@ ambos lados antes de comparar (determinista, con bitácora de lo retirado).
 Con D8 firmado se re-verifican 720/778 y se re-evalúan las NO_VERIFICADA
 por anotaciones.
 
+## Cierre de campaña de cobertura (2026-09-24)
+
+Todos los archivos del corpus quedaron rastreados en el ledger (objetivo
+90/90 con clases honestas). Balance de la campaña completa:
+
+- **Verificadas / con excepciones documentadas**: Res. 304-2004, 845-2018,
+  0271-2003, 0779-2016, 1511-2010, SSPD 20201000046075-2020, Circular Conjunta
+  01-2017, Decreto 0780-2016 (1462/1510), Decreto 1784-2017, más las con
+  excepción aceptada Ley 1581-2012.
+- **Hallazgos de contenido que exigen errata firmada**: Ley 142-1994 (~25
+  erratas de transcripción, una invierte el mandato del art. 24), Constitución
+  (D9: re-procesar; texto pre-AL 1/2023 y 1/2025 + ruido editorial Constitute),
+  Ley 99-1993 / Decreto 2811-1974 / Ley 632-2000 (entidades HTML sin
+  decodificar).
+- **Convenciones por decidir**: D8 (modo cuerpo normativo), D10 (Decreto
+  2981-2013: original 2013 vs compilado DUR 1077 — recomendación: original),
+  D11 (convención de versión: corpus conserva texto pre-modificación con
+  anotaciones vs texto consolidado del emisor; afecta a ~30 artículos de la
+  Ley 142 y a otras normas modificadas).
+- **Deuda técnica conocida**: fase de extracción PDF (13 documentos con
+  fuente capturada: guías, anexos, CONPES); OCR de 6 PDF escaneados SSPD
+  (tesseract-spa ya disponible); 2 documentos cra.gov.co (WAF) pendientes de
+  captura; Res. CRA 1040-2026 (hueco de despliegue del gestor, reintentar);
+  Decreto 0271-2026 (MinTrabajo inalcanzable); GUIA-DTO-2019 (borrador
+  retirado, sin rastro); método OCR para 1027-2026; método compilación para
+  943-2021.
+- **Excepciones de contenido a documentar, NO corregir**: ANEXO-B (documento
+  enriquecido: el corpus añade equivalencias CER/STAT/LER + nota DANE que el
+  PDF oficial no trae — valor agregado deliberado, firmar como excepción).
+
 ## Pendientes de decisión humana (actualizado)
 
 1. ~~Aprobar la corrección del H1~~ — **HECHO 2026-09-23**.
