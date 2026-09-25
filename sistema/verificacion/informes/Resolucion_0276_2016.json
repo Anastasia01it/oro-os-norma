@@ -6,42 +6,104 @@
  "resultados": [
   {
    "articulo": "1",
-   "estado": "ausente_en_fuente"
+   "estado": "divergente",
+   "similitud": 0.9744,
+   "corpus": "ARTÍCULO 1o. OBJETO. La presente resolución tiene como objeto establecer los lineamientos del esquema operativo de la actividad de aprovechamiento del servicio público de aseo y de",
+   "fuente": "Artículo 1. Objeío: La presente resolución tiene como objeto establecer los lineamientos del esquema operativo de la actividad de aprovechamiento del servicio público de aseo y del",
+   "diff": {
+    "corpus": "...ARTÍCULO 1o. OBJETO. La presente resolución tiene como objeto establece...",
+    "fuente": "...Artículo 1. Objeío: La presente resolución tiene como objeto establece..."
+   }
   },
   {
    "articulo": "2",
-   "estado": "ausente_en_fuente"
+   "estado": "divergente",
+   "similitud": 0.7371,
+   "corpus": "ARTÍCULO 2o. ÁMBITO DE APLICACIÓN. La presente resolución aplica a las entidades territoriales, a las personas prestadoras de la actividad de recolección y transporte de residuos n",
+   "fuente": "Artículo 2. Ámbito de Aplicación. La presente Resolución aplica a las entidades territoriales, a las personas prestadoras de la actividad de recolección y transporte de residuos no",
+   "diff": {
+    "corpus": "...ARTÍCULO 2o. ÁMBITO DE APLICACIÓN. La presente resolución aplica a las ...",
+    "fuente": "...Artículo 2. Ámbito de Aplicación. La presente Resolución aplica a las ..."
+   }
   },
   {
    "articulo": "4",
-   "estado": "ausente_en_fuente"
+   "estado": "casi",
+   "similitud": 0.992,
+   "corpus": "ARTÍCULO 4o. DISTRIBUCIÓN DEL COSTO DE COMERCIALIZACIÓN ASOCIADO A LA ACTIVIDAD DE APROVECHAMIENTO. De conformidad con el parágrafo 1 del artículo 2.3.2.5.2.1.2 del Decreto número ",
+   "fuente": "Artículo 4. Distribución del Costo de Comercialización asociado a la Actividad de Aprovechamiento. De conformidad con el parágrafo 1 del artículo 2.3.2.5.2.1.2 del Decreto 1077 de ",
+   "diff": {
+    "corpus": "...ARTÍCULO 4o. DISTRIBUCIÓN DEL COSTO DE COMERCIALIZACIÓN ASOCIADO A LA A...",
+    "fuente": "...Artículo 4. Distribución del Costo de Comercialización asociado a la A..."
+   }
   },
   {
    "articulo": "5",
-   "estado": "ausente_en_fuente"
+   "estado": "divergente",
+   "similitud": 0.7897,
+   "corpus": "ARTÍCULO 5o. MEDICIÓN Y BALANCE DE MASAS. Las personas prestadoras de la actividad de aprovechamiento deberán realizar el balance de masas a partir del pesaje de las cantidades men",
+   "fuente": "Artículo 5. Medición y Balance de masas. Las personas prestadoras de la actividad de aprovechamiento deberán realizar el balance de masas a partir del pesaje de las cantidades mens",
+   "diff": {
+    "corpus": "...ARTÍCULO 5o. MEDICIÓN Y BALANCE DE MASAS. Las personas prestadoras de l...",
+    "fuente": "...Artículo 5. Medición y Balance de masas. Las personas prestadoras de l..."
+   }
   },
   {
    "articulo": "6",
-   "estado": "ausente_en_fuente"
+   "estado": "casi",
+   "similitud": 0.9952,
+   "corpus": "ARTÍCULO 6o. MATERIAL DE RECHAZOS EN LA ESTACIÓN DE CLASIFICACIÓN Y APROVECHAMIENTO (ECA). Las personas prestadoras de la actividad de aprovechamiento deberán definir en su program",
+   "fuente": "Artículo 6. Materiaf de rechazos en la Estación de Clasificación y Aprovechamiento [ECA). Las personas prestadoras de la actividad de aprovechamiento deberán definir en su programa",
+   "diff": {
+    "corpus": "...ARTÍCULO 6o. MATERIAL DE RECHAZOS EN LA ESTACIÓN DE CLASIFICACIÓN Y APR...",
+    "fuente": "...Artículo 6. Materiaf de rechazos en la Estación de Clasificación y Apr..."
+   }
   },
   {
    "articulo": "7",
-   "estado": "ausente_en_fuente"
+   "estado": "divergente",
+   "similitud": 0.7568,
+   "corpus": "ARTÍCULO 7o. PRÁCTICAS NO AUTORIZADAS. De conformidad con el parágrafo del artículo 2.3.2.5.2.3.1 del Decreto número 1077 de 2015 adicionado por el Decreto número 596 del 11 de abr",
+   "fuente": "Artículo 7. Prácticas no autorizadas. De conformidad con el parágrafo del artículo 2.3.2.5.2.3.1 del Decreto 1077 de 2015 adicionado por el Decreto 596 del 11 de abril de 2016, se ",
+   "diff": {
+    "corpus": "...ARTÍCULO 7o. PRÁCTICAS NO AUTORIZADAS. De conformidad con el parágrafo ...",
+    "fuente": "...Artículo 7. Prácticas no autorizadas. De conformidad con el parágrafo ..."
+   }
   },
   {
    "articulo": "8",
-   "estado": "ausente_en_fuente"
+   "estado": "divergente",
+   "similitud": 0.2319,
+   "corpus": "ARTÍCULO 8o. REPORTE DE INFORMACIÓN PARA EL CÁLCULO DE LA REMUNERACIÓN VÍA TARIFA DE LA ACTIVIDAD DE APROVECHAMIENTO AL SISTEMA ÚNICO DE INFORMACIÓN (SUI). Para el cálculo de la re",
+   "fuente": "Artículo 8. Reporte: de información para el cálculo de la remuneración vía tarifa de la actividad de aprovechamiento al Sistema Único de Información (SUI). Para el cálculo de la re",
+   "diff": {
+    "corpus": "...ARTÍCULO 8o. REPORTE DE INFORMACIÓN PARA EL CÁLCULO DE LA REMUNERACIÓN VÍA TARIF...",
+    "fuente": "...Artículo 8. Reporte: de información para el cálculo de la remuneración vía tarif..."
+   }
   },
   {
    "articulo": "14",
-   "estado": "ausente_en_fuente"
+   "estado": "divergente",
+   "similitud": 0.5423,
+   "corpus": "ARTÍCULO 14. VIGENCIA Y DEROGATORIA. La presente resolución rige a partir de la fecha de su publicación y deroga cualquier disposición que le sea contraria. Publíquese y cúmplase. ",
+   "fuente": "Artículo 14. Vigencia y Derogatoria. La presente resolución rige a partir de la fecha de su publicación y deroga cualquier disposición que le sea contraria. PUBLIQUESE Y CÚMPLASE D",
+   "diff": {
+    "corpus": "...uier disposición que le sea contraria. Publíquese y cúmplase. Dada en Bogotá, D. C., a 29 de abril de 2016. El Ministro ...",
+    "fuente": "...uier disposición que le sea contraria. PUBLIQUESE Y CÚMPLASE Dada en Bogotá D.C., a los 29 ABR. 2016 LUIS FELIFME HENAO CARDONA Ministro ..."
+   }
   }
  ],
- "sin_contraparte": [],
+ "sin_contraparte": [
+  "3",
+  "9",
+  "10",
+  "12",
+  "13"
+ ],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
   "exactos": 0,
-  "casi": 0,
-  "divergentes": 8
+  "casi": 2,
+  "divergentes": 6
  }
 }

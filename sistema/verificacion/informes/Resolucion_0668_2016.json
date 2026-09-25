@@ -1,0 +1,173 @@
+{
+ "corpus": "Resolucion_0668_2016.md",
+ "fuente": "sistema/verificacion/fuentes/Resolucion_0668_2016.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 14,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.0717,
+   "corpus": "ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Establecer a cargo de los distribuid",
+   "fuente": "ARTÍCULO 1. Objeto y ámbito de aplicación. Establecer a cargo de los distribuidores de bolsas plásticas a que se refiere esta norma, la obligación de formular, implementar y manten",
+   "diff": {
+    "corpus": "...ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. Resolución derogada a parti...",
+    "fuente": "...ARTÍCULO 1. Objeto y ámbito de aplicación. Establecer a cargo de los d..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.1324,
+   "corpus": "ARTÍCULO 3o. PROGRAMA DE USO RACIONAL DE BOLSAS PLÁSTICAS. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Los distribuidores de",
+   "fuente": "ARTÍCULO 3. Programa de Uso Racional de Bolsas Plásticas. Los distribuidores de bolsas plásticas, deberán formular, implementar y mantener actualizado el Programa de Uso Racional d",
+   "diff": {
+    "corpus": "...ARTÍCULO 3o. PROGRAMA DE USO RACIONAL DE BOLSAS PLÁSTICAS. Resolución d...",
+    "fuente": "...ARTÍCULO 3. Programa de Uso Racional de Bolsas Plásticas. Los distribu..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.1935,
+   "corpus": "ARTÍCULO 4o. INFORMES DE AVANCE. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Los informes de avance anual contendrán como mí",
+   "fuente": "ARTÍCULO 4. Informes de avance. Los informes de avance anual contendrán como mínimo los logros del Programa de Uso Racional de Bolsas Plásticas, medidos en términos de los indicado",
+   "diff": {
+    "corpus": "...ARTÍCULO 4o. INFORMES DE AVANCE. Resolución derogada a partir del 7 de ...",
+    "fuente": "...ARTÍCULO 4. Informes de avance. Los informes de avance anual contendrá..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.2159,
+   "corpus": "ARTÍCULO 5o. PRESENTACIÓN DEL PROGRAMA DE USO RACIONAL DE BOLSAS PLÁSTICAS Y DEL INFORME DE AVANCE. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Res",
+   "fuente": "ARTÍCULO 5. Presentación del Programa de Uso Racional de Bolsas Plásticas y del informe de avance. Para efectos del seguimiento, los distribuidores presentarán el Programa de Uso R",
+   "diff": {
+    "corpus": "...ARTÍCULO 5o. PRESENTACIÓN DEL PROGRAMA DE USO RACIONAL DE BOLSAS PLÁSTI...",
+    "fuente": "...ARTÍCULO 5. Presentación del Programa de Uso Racional de Bolsas Plásti..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "divergente",
+   "similitud": 0.1157,
+   "corpus": "ARTÍCULO 6o. FECHAS DE PRESENTACIÓN DEL PROGRAMA Y DEL INFORME DE AVANCE. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Las fe",
+   "fuente": "ARTÍCULO 6. Fechas de presentación del programa y del informe de avance Las fechas límites de presentación del Programa de uso Racional de Bolsas Plásticas y del primer informe anu",
+   "diff": {
+    "corpus": "...ARTÍCULO 6o. FECHAS DE PRESENTACIÓN DEL PROGRAMA Y DEL INFORME DE AVANC...",
+    "fuente": "...ARTÍCULO 6. Fechas de presentación del programa y del informe de avanc..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "divergente",
+   "similitud": 0.0601,
+   "corpus": "ARTÍCULO 7o. COMPETENCIA. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Las autoridades ambientales competentes para el seguim",
+   "fuente": "ARTÍCULO 7. Competencia. Las Autoridades Ambientales competentes para el seguimiento de las metas establecidas en el Programa de Uso Racional de Bolsas Plásticas son: . i 2 (O 2016",
+   "diff": {
+    "corpus": "...ARTÍCULO 7o. COMPETENCIA. Resolución derogada a partir del 7 de julio d...",
+    "fuente": "...ARTÍCULO 7. Competencia. Las Autoridades Ambientales competentes para ..."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.6883,
+   "corpus": "ARTÍCULO 8o. OBLIGACIONES DE LOS DISTRIBUIDORES DE BOLSAS PLÁSTICAS. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 En el marco",
+   "fuente": "ARTÍCULO 8. Obligaciones de los Distribuidores de Bolsas Plásticas. En el marco del Programa de Uso Racional de Bolsas plásticas, son obligaciones de los Distribuidores las siguien",
+   "diff": {
+    "corpus": "...ARTÍCULO 8o. OBLIGACIONES DE LOS DISTRIBUIDORES DE BOLSAS PLÁSTICAS. Re...",
+    "fuente": "...ARTÍCULO 8. Obligaciones de los Distribuidores de Bolsas Plásticas. En..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "divergente",
+   "similitud": 0.0275,
+   "corpus": "ARTÍCULO 9o. INDICADORES. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Artículo modificado por el artículo 2 de la Resolución",
+   "fuente": "ARTÍCULO 9. Indicadores. El Programa de Uso Racional de Bolsas Plásticas deberá incorporar y reportar como mínimo los siguientes indicadores: Tabla 2. Indicadores del Programa de U",
+   "diff": {
+    "corpus": "...ARTÍCULO 9o. INDICADORES. Resolución derogada a partir del 7 de julio d...",
+    "fuente": "...ARTÍCULO 9. Indicadores. El Programa de Uso Racional de Bolsas Plástic..."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "divergente",
+   "similitud": 0.2841,
+   "corpus": "ARTÍCULO 12. PROHIBICIONES. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Se prohíbe: a) Abandonar, eliminar o enterrar de for",
+   "fuente": "ARTÍCULO 12. Prohibiciones. Se prohíbe: a. Abandonar, eliminar o enterrar de forma incontrolada, bolsas plásticas o fracciones de las mismas, en el territorio nacional. b. Acumular",
+   "diff": {
+    "corpus": "...ARTÍCULO 12. PROHIBICIONES. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Se pro...",
+    "fuente": "...ARTÍCULO 12. Prohibiciones. Se prohíbe: a. Abandonar, eliminar o enterrar de forma incontrolada, bolsas plásticas o fracciones de las mismas, en el territorio nacional. b. Acumular bolsas usadas a cielo abierto. “Resolución No. d iS in (0) del 28 ABR 201 Hoja No.9 YU OO “Por la cual se reglamenta el uso racio..."
+   }
+  },
+  {
+   "articulo": "13",
+   "estado": "divergente",
+   "similitud": 0.0994,
+   "corpus": "ARTÍCULO 13. DEBERES DE LOS CONSUMIDORES. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Son deberes de los consumidores las si",
+   "fuente": "ARTÍCULO 13. Deberes de los Consumidores. Son deberes de los consumidores las siguientes: a. No exigir bolsas plásticas adicionales a las requeridas para el transporte de las merca",
+   "diff": {
+    "corpus": "...ARTÍCULO 13. DEBERES DE LOS CONSUMIDORES. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de l...",
+    "fuente": "...ARTÍCULO 13. Deberes de los Consumidores. Son deberes de los consumidores las siguientes: a. No exigir bolsas plásticas adicionales a las re..."
+   }
+  },
+  {
+   "articulo": "14",
+   "estado": "divergente",
+   "similitud": 0.1648,
+   "corpus": "ARTÍCULO 14. CONSOLIDACIÓN DE LA INFORMACIÓN. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 El Ministerio de Ambiente y Desarr",
+   "fuente": "ARTÍCULO 14. Consolidación de la información. El Ministerio de Ambiente y Desarrollo Sostenible, a través de la Dirección de Asuntos Ambientales Sectorial y Urbana o la dirección q",
+   "diff": {
+    "corpus": "...ARTÍCULO 14. CONSOLIDACIÓN DE LA INFORMACIÓN. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de l...",
+    "fuente": "...ARTÍCULO 14. Consolidación de la información. El Ministerio de Ambiente y Desarrollo Sostenible, a través de la Dirección de Asuntos Ambientales Sectorial y Urbana o la dirección que haga sus veces, consolidará la información con el fin de medir..."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "divergente",
+   "similitud": 0.7943,
+   "corpus": "ARTÍCULO 15. VERACIDAD DE LA INFORMACIÓN. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 El Distribuidor será responsable de la",
+   "fuente": "ARTÍCULO 15 Veracidad de la información. El Distribuidor será responsable de la información entregada, la cual deberá ser veraz y exacta, y se entenderá presentada bajo la gravedad",
+   "diff": {
+    "corpus": "...ARTÍCULO 15. VERACIDAD DE LA INFORMACIÓN. Resolución derogada a partir d...",
+    "fuente": "...ARTÍCULO 15 Veracidad de la información. El Distribuidor será responsab..."
+   }
+  },
+  {
+   "articulo": "16",
+   "estado": "divergente",
+   "similitud": 0.8918,
+   "corpus": "ARTÍCULO 16. GRADUALIDAD. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Los distribuidores de bolsas plásticas diferentes a lo",
+   "fuente": "ARTICULO 16. Gradualidad. Los distribuidores de bolsas plásticas diferentes a los referidos en el alcance de la presente resolución, serán objeto de estrategias orientadas al uso r",
+   "diff": {
+    "corpus": "...ARTÍCULO 16. GRADUALIDAD. Resolución derogada a partir del 7 de julio de 2024 por el artículo 26 de la Resolución 803 de 2024 Los distribuidores de bolsas plásticas diferentes a los refe...",
+    "fuente": "...ARTICULO 16. Gradualidad. Los distribuidores de bolsas plásticas diferentes a los refe..."
+   }
+  },
+  {
+   "articulo": "17",
+   "estado": "divergente",
+   "similitud": 0.5155,
+   "corpus": "ARTÍCULO 17. VIGENCIA. La presente resolución rige a partir de su publicación en el Diario Oficial. Publíquese y cúmplase. Dada en Bogotá, D. C., a 28 de abril de 2016. El Ministro",
+   "fuente": "ARTÍCULO 17. Vigencia. La presente resolución rige a partir de su publicación en el Diario Oficial. PUBLÍQUESE Y CÚMPLASE Dado en la ciudad de Bogotá D.C. a los : GABRIEL VALLE la ",
+   "diff": {
+    "corpus": "...e su publicación en el Diario Oficial. Publíquese y cúmplase. Dada en Bogotá, D. C., a 28 de abril de 2016. El Ministro de Ambien...",
+    "fuente": "...e su publicación en el Diario Oficial. PUBLÍQUESE Y CÚMPLASE Dado en la ciudad de Bogotá D.C. a los : GABRIEL VALLE la ) Ministro de Ambiente..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "2",
+  "10",
+  "11"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 14
+ }
+}

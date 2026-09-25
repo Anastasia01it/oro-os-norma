@@ -1,0 +1,275 @@
+{
+ "lote": "E1",
+ "archivos": [
+  {
+   "archivo": "LEY-99-1993.md",
+   "canal": "gestor_cra",
+   "fuente_url": "https://normas.cra.gov.co/gestor/docs/ley_0099_1993.htm",
+   "captura": "html_gestor",
+   "nota": "Verificacion vacua: el corpus trae 2329 entidades HTML sin decodificar (art&iacute;culo), 0 articulos segmentables. Requiere decodificar entidades y re-verificar.",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 0,
+   "primer_divergente": null,
+   "veredicto": "VERIFICADA"
+  },
+  {
+   "archivo": "DECRETO-2811-1974.md",
+   "canal": "wayback",
+   "fuente_url": "http://web.archive.org/web/20260910053123/http://www.secretariasenado.gov.co/senado/basedoc/decreto_2811_1974.html",
+   "captura": "html_wayback",
+   "nota": "Corpus con 335 entidades HTML (C&oacute;digo, &#160;): solo 23/70+ articulos segmentables y todos divergentes por entidades. Fuente Senado correcta.",
+   "exactos": 0,
+   "casi": 1,
+   "divergentes": 22,
+   "primer_divergente": {
+    "articulo": "3",
+    "estado": "divergente",
+    "similitud": 0.527,
+    "diff_corpus": "...O 3o. De acuerdo con los objetivos enunciados, el presente C&oacute;digo regula: a). El manejo de los recursos natura",
+    "diff_fuente": "...O 3o. De acuerdo con los objetivos enunciados, el presente Código regula: a). El manejo de los recursos naturales ren"
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "DECRETO-2981-2013.md",
+   "canal": "gestor_cra",
+   "fuente_url": "https://normas.cra.gov.co/gestor/docs/decreto_2981_2013.htm",
+   "captura": "html_gestor",
+   "nota": "El gestor CRA muestra el texto compilado en el DUR 1077/2015 (notas 'Articulo compilado en...' por articulo); el corpus tiene el texto original 2013. Divergencia sistematica de version.",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 88,
+   "primer_divergente": {
+    "articulo": "1",
+    "estado": "divergente",
+    "similitud": 0.8282,
+    "diff_corpus": "...Artículo 1 Ámbito de aplicación. El presente decreto aplica al servici...",
+    "diff_fuente": "...ARTÍCULO 1o. ÁMBITO DE APLICACIÓN. Artículo compilado en el artículo 2.3..."
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "DECRETO-2412-2018.md",
+   "canal": "gestor_cra",
+   "fuente_url": "https://normas.cra.gov.co/gestor/docs/decreto_2412_2018.htm",
+   "captura": "html_gestor",
+   "nota": "Corpus trae mueble DAFP inline ('Decreto 2412 de 2018 Departamento Adm...') que la fuente gestor no tiene; 4 casi + 7 div.",
+   "exactos": 1,
+   "casi": 4,
+   "divergentes": 7,
+   "primer_divergente": {
+    "articulo": "2.3.2.7.2",
+    "estado": "divergente",
+    "similitud": 0.4935,
+    "diff_corpus": "...lico de aseo en libre competencia como en áreas de servicio Decreto 2412 de 2018 Departamento Administrativo de la Fu",
+    "diff_fuente": "...lico de aseo en libre competencia como en áreas de servicio exclusivo. PARÁGRAFO. El cobro del Incentivo al Aprovecha"
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "DECRETO-596-2016.md",
+   "canal": "gestor_cra",
+   "fuente_url": "https://normas.cra.gov.co/gestor/docs/decreto_0596_2016.htm",
+   "captura": "html_gestor",
+   "nota": "Gestor marca 'ARTICULO 1o. Derogado' (estado vigente) vs corpus texto original; divergencias de version/estado.",
+   "exactos": 1,
+   "casi": 7,
+   "divergentes": 6,
+   "primer_divergente": {
+    "articulo": "1",
+    "estado": "divergente",
+    "similitud": 0.9699,
+    "diff_corpus": "...ARTÍCULO 1. La Parte 3, del Título 2 del Decreto 1077 de 2015, \"Decret...",
+    "diff_fuente": "...ARTÍCULO 1o. Derogado La Parte 3, del Título 2 del Decreto número 1077 ..."
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "DECRETO-0271-2026.md",
+   "canal": "sin_canal",
+   "fuente_url": null,
+   "captura": "sin_canal",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "SIN_CANAL",
+   "motivo": "Norma de marzo 2026 (MinTrabajo) demasiado reciente: gestor CRA sin registro (sector Trabajo), sin captura en Wayback (mintrabajo/presidencia/suin consultados), y mintrabajo.gov.co inalcanzable desde este entorno."
+  },
+  {
+   "archivo": "DECRETO-670-2025.md",
+   "canal": "gestor_cra",
+   "fuente_url": "https://normas.cra.gov.co/gestor/docs/decreto_0670_2025.htm",
+   "captura": "html_gestor",
+   "nota": "2 divergentes leves (formato ARTICULO 5 vs 5o. y similar); contenido sustancialmente igual.",
+   "exactos": 4,
+   "casi": 4,
+   "divergentes": 2,
+   "primer_divergente": {
+    "articulo": "5",
+    "estado": "divergente",
+    "similitud": 0.9038,
+    "diff_corpus": "...ARTÍCULO 5. Adiciónese el numeral 10 del artículo 2.2.2.3.7.1. del Cap...",
+    "diff_fuente": "...ARTÍCULO 5o. Adiciónese el numeral 10 del artículo 2.2.2.3.7.1. del Cap..."
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "Decreto_0780_2016.md",
+   "canal": "gestor_cra",
+   "fuente_url": "https://normas.cra.gov.co/gestor/docs/decreto_0780_2016.htm",
+   "captura": "html_gestor",
+   "nota": "DUR Salud 3MB: 1324 exactos, 138 casi, 48 div (mayormente notas 'Notas del Editor' del corpus vs gestor).",
+   "exactos": 1324,
+   "casi": 138,
+   "divergentes": 48,
+   "primer_divergente": {
+    "articulo": "1.1.2.1",
+    "estado": "divergente",
+    "similitud": 0.9771,
+    "diff_corpus": "...otección Social del Ministerio de Salud y Protección Social. Notas del Editor...",
+    "diff_fuente": "...otección Social del Ministerio de Salud y Protección Social...."
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "RESOLUCION-1362-2007.md",
+   "canal": "wayback",
+   "fuente_url": "http://web.archive.org/web/20110804110559/http://www.minambiente.gov.co/documentos/res_1362_020807.pdf",
+   "captura": "pdf_texto_wayback",
+   "nota": "PDF oficial con texto; 10 exactos, 4 div por encabezados repetidos de pagina en el PDF.",
+   "exactos": 10,
+   "casi": 0,
+   "divergentes": 4,
+   "primer_divergente": {
+    "articulo": "4",
+    "estado": "divergente",
+    "similitud": 0.7061,
+    "diff_corpus": "... Registro de Generadores de Residuos o Desechos Peligrosos. El generador debe diligenciar la información en el aplica",
+    "diff_fuente": "... Registro de Generadores de Residuos o Desechos Peligrosos. Resolución No. 1362 del 2 de agosto de 2007 Hoja No. 4 Po"
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "RESOLUCION-1511-2010.md",
+   "canal": "wayback",
+   "fuente_url": "https://web.archive.org/web/20250430021526/https://www.minambiente.gov.co/wp-content/uploads/2021/10/Resolucion-1511-de-2010.pdf",
+   "captura": "pdf_escaneado_ocr",
+   "nota": "VERIFICADA contra PDF oficial (OCR); corpus y fuente coinciden.",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 0,
+   "primer_divergente": null,
+   "veredicto": "VERIFICADA"
+  },
+  {
+   "archivo": "RESOLUCION-1257-2021.md",
+   "canal": "wayback",
+   "fuente_url": "https://web.archive.org/web/20211227063420/https://www.minambiente.gov.co/wp-content/uploads/2021/12/Resolucion-1257-de-2021.pdf",
+   "captura": "pdf_escaneado_ocr",
+   "nota": "OCR de PDF oficial: 4 casi, 5 div restantes por ruido OCR (sellos/encabezados), tras normalizar grados OCR en numeros de articulo.",
+   "exactos": 0,
+   "casi": 4,
+   "divergentes": 5,
+   "primer_divergente": {
+    "articulo": "2",
+    "estado": "divergente",
+    "similitud": 0.896,
+    "diff_corpus": "...Artículo 2 Modificar el artículo 9% de la Resolución 0472 de 2017, el ...",
+    "diff_fuente": "...Artículo 2. Modificar el artículo 9” de la Resolución 0472 de 2017, el ..."
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "RESOLUCION-1402-2018.md",
+   "canal": "wayback",
+   "fuente_url": "https://web.archive.org/web/20240710185031/https://www.minambiente.gov.co/wp-content/uploads/2021/08/resolucion-1402-de-2018.zip",
+   "captura": "zip_pdf_escaneado_ocr",
+   "nota": "OCR de PDF oficial (dentro de ZIP): 3 casi, 3 div por ruido OCR.",
+   "exactos": 0,
+   "casi": 3,
+   "divergentes": 3,
+   "primer_divergente": {
+    "articulo": "2",
+    "estado": "divergente",
+    "similitud": 0.9471,
+    "diff_corpus": "...Artículo 2 Ámbito de Aplicación. La Metodología que se adopta a través del presente acto ad...",
+    "diff_fuente": "...ARTÍCULO 2. Ámbito de Aplicación. La Metodología que se adopta a travé..."
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "Resolucion_0276_2016.md",
+   "canal": "wayback",
+   "fuente_url": "https://web.archive.org/web/20250711140631/https://minvivienda.gov.co/sites/default/files/normativa/0276%20-%202016.pdf",
+   "captura": "pdf_escaneado_ocr",
+   "nota": "OCR de PDF oficial MinVivienda: 2 casi, 6 div por ruido OCR (sellos).",
+   "exactos": 0,
+   "casi": 2,
+   "divergentes": 6,
+   "primer_divergente": {
+    "articulo": "1",
+    "estado": "divergente",
+    "similitud": 0.9744,
+    "diff_corpus": "...ARTÍCULO 1o. OBJETO. La presente resolución tiene como objeto establece...",
+    "diff_fuente": "...Artículo 1. Objeío: La presente resolución tiene como objeto establece..."
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "Resolucion_0668_2016.md",
+   "canal": "wayback",
+   "fuente_url": "https://web.archive.org/web/20220320141131/https://www.minambiente.gov.co/wp-content/uploads/2021/10/Resolucion-0668-2016.pdf",
+   "captura": "pdf_escaneado_ocr",
+   "nota": "OCR PDF oficial 2016. Div principal: corpus inserta anotaciones inline 'Resolucion derogada ... Res. 803 de 2024' que el PDF original no tiene.",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 14,
+   "primer_divergente": {
+    "articulo": "1",
+    "estado": "divergente",
+    "similitud": 0.0717,
+    "diff_corpus": "...ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. Resolución derogada a parti...",
+    "diff_fuente": "...ARTÍCULO 1. Objeto y ámbito de aplicación. Establecer a cargo de los d..."
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "Resolucion_1344_2020.md",
+   "canal": "wayback",
+   "fuente_url": "https://web.archive.org/web/20210103161253/https://www.minambiente.gov.co//images/normativa/app/resoluciones/bc-Res_1344_de_2020.pdf",
+   "captura": "pdf_escaneado_ocr",
+   "nota": "OCR PDF oficial: 2 div por encabezado de pagina OCR interpolado.",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 2,
+   "primer_divergente": {
+    "articulo": "1",
+    "estado": "divergente",
+    "similitud": 0.8954,
+    "diff_corpus": "...olores usado actualmente y el código de colores establecido en la Resolución 2184 de 2019. Esta implementación gradua",
+    "diff_fuente": "...olores usado actualmente y el código de colores establecido Resolución No. 1344 del 24 DIC 2020 Hoja No.3 “Por la cua"
+   },
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "Resolucion_1397_2018.md",
+   "canal": "oficial_viva",
+   "fuente_url": "https://hac2-api.minambiente.gov.co/images/normativa/app/resoluciones/ff-RES%201397%20DE%202018.pdf",
+   "captura": "pdf_escaneado_ocr",
+   "nota": "PDF oficial via API minambiente (Wayback solo tenia enlaces rotos). Div: corpus inserta anotaciones inline de derogacion (Res. 2184/2019) + ruido OCR de sellos.",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 4,
+   "primer_divergente": {
+    "articulo": "1",
+    "estado": "divergente",
+    "similitud": 0.1715,
+    "diff_corpus": "...ARTÍCULO 1o. Resolución derogada por el artículo 5 de la Resolución 218...",
+    "diff_fuente": "...ARTÍCULO 1. Adiciónese a la tabla No. 2 del artículo 9 de la Resolució..."
+   },
+   "veredicto": "NO_VERIFICADA"
+  }
+ ]
+}

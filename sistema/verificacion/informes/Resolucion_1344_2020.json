@@ -1,0 +1,37 @@
+{
+ "corpus": "Resolucion_1344_2020.md",
+ "fuente": "sistema/verificacion/fuentes/Resolucion_1344_2020.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 2,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.8954,
+   "corpus": "ARTÍCULO 1. Adicionase el siguiente parágrafo al artículo 4 de la Resolución 2184 de 2019, así: “Parágrafo. - Para las actividades de qué trata el artículo 2.8.10.2 del Decreto 780",
+   "fuente": "Artículo 1. Adicionase el siguiente parágrafo al artículo 4 de la Resolución 2184 de 2019, así: “Parágrafo. - Para las actividades de qué trata el artículo 2.8.10.2 del Decreto 780",
+   "diff": {
+    "corpus": "...olores usado actualmente y el código de colores establecido en la Resolución 2184 de 2019. Esta implementación gradual deb...",
+    "fuente": "...olores usado actualmente y el código de colores establecido Resolución No. 1344 del 24 DIC 2020 Hoja No.3 “Por la cual se adiciona un parágrafo al artículo 4 de la Resolución 2184 de 2019 y se dictan otras disposiciones”..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.3052,
+   "corpus": "ARTÍCULO 2. VIGENCIA. La presente resolución rige a partir de su publicación en el Diario Oficial. PUBLIQUESE Y CUMPLASE Dada en Bogotá, D. C., 24 DIC 2020 CARLOS EDUARDO CORREA ES",
+   "fuente": "Artículo 2. Vigencia. La presente resolución rige a partir de su publicación en el Diario Oficial. PUBLÍQUESE Y CÚMPLASE Dada en Bogotá, D. C., 24 DIC 2020 CARLOS ED O CORREA ESCAF",
+   "diff": {
+    "corpus": "...UESE Y CUMPLASE Dada en Bogotá, D. C., 24 DIC 2020 CARLOS EDUARDO CORREA ESCAF Ministro de Ambiente y Desarrollo Sostenible ...",
+    "fuente": "...UESE Y CÚMPLASE Dada en Bogotá, D. C., 24 DIC 2020 CARLOS ED O CORREA ESCAF Ministro de Ambien Desarrollo Sostenible How ..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 2
+ }
+}

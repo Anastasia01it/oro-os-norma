@@ -6,34 +6,76 @@
  "resultados": [
   {
    "articulo": "1",
-   "estado": "ausente_en_fuente"
+   "estado": "casi",
+   "similitud": 0.9979,
+   "corpus": "Artículo 1 Adopción. La presente resolución tiene por objeto adoptar la Metodología General para la Elaboración y Presentación de Estudios Ambientales contenida en documento anexo,",
+   "fuente": "ARTÍCULO 1. Adopción. La presente resolución tiene por objeto adoptar la Metodología General para la Elaboración y Presentación de Estudios Ambientales contenida en documento anexo",
+   "diff": {
+    "corpus": "...Artículo 1 Adopción. La presente resolución tiene por objeto adoptar l...",
+    "fuente": "...ARTÍCULO 1. Adopción. La presente resolución tiene por objeto adoptar l..."
+   }
   },
   {
    "articulo": "2",
-   "estado": "ausente_en_fuente"
+   "estado": "divergente",
+   "similitud": 0.9471,
+   "corpus": "Artículo 2 Ámbito de Aplicación. La Metodología que se adopta a través del presente acto administrativo es un instrumento de consulta obligatoria y de orientación a los usuarios de",
+   "fuente": "ARTÍCULO 2. Ámbito de Aplicación. La Metodología que se adopta a través del presente acto administrativo es un instrumento de consulta obligatoria y de orientación a los usuarios d",
+   "diff": {
+    "corpus": "...Artículo 2 Ámbito de Aplicación. La Metodología que se adopta a través del presente acto ad...",
+    "fuente": "...ARTÍCULO 2. Ámbito de Aplicación. La Metodología que se adopta a travé..."
+   }
   },
   {
    "articulo": "3",
-   "estado": "ausente_en_fuente"
+   "estado": "divergente",
+   "similitud": 0.7615,
+   "corpus": "Artículo 3 Publicidad. La Metodología General para la Elaboración y Presentación de Estudios Ambientales adoptada mediante la presente resolución, deberá ser puesta a disposición d",
+   "fuente": "ARTÍCULO 3. Publicidad. La Metodología General para la Elaboración y Presentación de Estudios Ambientales adoptada mediante la presente resolución, deberá ser puesta a disposición ",
+   "diff": {
+    "corpus": "...Artículo 3 Publicidad. La Metodología General para la Elaboración y Presentación ...",
+    "fuente": "...ARTÍCULO 3. Publicidad. La Metodología General para la Elaboración y P..."
+   }
   },
   {
    "articulo": "4",
-   "estado": "ausente_en_fuente"
+   "estado": "casi",
+   "similitud": 0.9977,
+   "corpus": "Artículo 4 Actualización. La Metodología General para la Elaboración y Presentación de Estudios Ambientales, podrá ser actualizada por el Ministerio de Ambiente y Desarrollo Sosten",
+   "fuente": "ARTÍCULO 4. Actualización. La Metodología General para la Elaboración y Presentación de Estudios Ambientales, podrá ser actualizada por el Ministerio de Ambiente y Desarrollo Soste",
+   "diff": {
+    "corpus": "...Artículo 4 Actualización. La Metodología General para la Elaboración y...",
+    "fuente": "...ARTÍCULO 4. Actualización. La Metodología General para la Elaboración y..."
+   }
   },
   {
    "articulo": "5",
-   "estado": "ausente_en_fuente"
+   "estado": "casi",
+   "similitud": 0.9987,
+   "corpus": "Artículo 5 Régimen de Transición. Los estudios ambientales elaborados de acuerdo con la metodología adoptada mediante la Resolución 1503 de 2010 y que no hayan sido presentados, no",
+   "fuente": "ARTÍCULO 5. Régimen de Transición. Los estudios ambientales elaborados de acuerdo con la metodología adoptada mediante la Resolución 1503 de 2010 y que no hayan sido presentados, n",
+   "diff": {
+    "corpus": "...Artículo 5 Régimen de Transición. Los estudios ambientales elaborados ...",
+    "fuente": "...ARTÍCULO 5. Régimen de Transición. Los estudios ambientales elaborados ..."
+   }
   },
   {
    "articulo": "6",
-   "estado": "ausente_en_fuente"
+   "estado": "divergente",
+   "similitud": 0.287,
+   "corpus": "Artículo 6 Vigencia y Derogatorias. La presente resolución rige a partir de su publicación en el Diario Oficial y deroga la Resolución 1503 del 4 de agosto de 2010. Publíquese y cú",
+   "fuente": "ARTÍCULO 6. Vigencia y Derogatorias. La presente resolución rige a partir de su publicación en el Diario Oficial y deroga la Resolución 1503 del 4 de agosto de 2010. BLÍQUESE Y CÚM",
+   "diff": {
+    "corpus": "...Artículo 6 Vigencia y Derogatorias. La presente resolución rige a part...",
+    "fuente": "...ARTÍCULO 6. Vigencia y Derogatorias. La presente resolución rige a part..."
+   }
   }
  ],
  "sin_contraparte": [],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
   "exactos": 0,
-  "casi": 0,
-  "divergentes": 6
+  "casi": 3,
+  "divergentes": 3
  }
 }

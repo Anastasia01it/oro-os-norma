@@ -1,0 +1,119 @@
+{
+ "corpus": "RESOLUCION-1257-2021.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-1257-2021.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 9,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9974,
+   "corpus": "Artículo 1 Modifiquense las definiciones de almacenamiento y gran generador contenidas en el artículo 2 de la Resolución 0472 de 2017 y adiciónese a este mismo artículo las definic",
+   "fuente": "Artículo 1. Modifíquense las definiciones de almacenamiento y gran generador contenidas en el artículo 2 de la Resolución 0472 de 2017 y adiciónese a este mismo artículo las defini",
+   "diff": {
+    "corpus": "...Artículo 1 Modifiquense las definiciones de almacenamiento y gran gene...",
+    "fuente": "...Artículo 1. Modifíquense las definiciones de almacenamiento y gran gene..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.896,
+   "corpus": "Artículo 2 Modificar el artículo 9% de la Resolución 0472 de 2017, el cual quedará así: \"Por la cual se modifica la Resolución 0472 de 2017 sobre la gestión integral de Residuos de",
+   "fuente": "Artículo 2. Modificar el artículo 9” de la Resolución 0472 de 2017, el cual quedará así: “Artículo 9. Aprovechamiento. El aprovechamiento de RCD se realizará en plantas de aprovech",
+   "diff": {
+    "corpus": "...Artículo 2 Modificar el artículo 9% de la Resolución 0472 de 2017, el ...",
+    "fuente": "...Artículo 2. Modificar el artículo 9” de la Resolución 0472 de 2017, el ..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.8921,
+   "corpus": "Artículo 3 Modificar el artículo 12? de la Resolución 0472 de 2017, el cual quedará así: \"Artículo 12. Medidas mínimas de manejo ambiental de sitios de disposición final de RCD. Lo",
+   "fuente": "Artículo 3. Modificar el artículo 12\" de la Resolución 0472 de 2017, el cual quedará así: “Artículo 12. Medidas mínimas de manejo ambiental de sitios de disposición final de RCD. L",
+   "diff": {
+    "corpus": "...Artículo 3 Modificar el artículo 12? de la Resolución 0472 de 2017, el...",
+    "fuente": "...Artículo 3. Modificar el artículo 12\" de la Resolución 0472 de 2017, el..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "casi",
+   "similitud": 0.9968,
+   "corpus": "Artículo 4 Modifíquese el artículo 13% de la Resolución 0472 de 2017, el cual quedará así: \"Artículo 13\". Programa de manejo ambiental de RCD. El gran generador deberá formular, im",
+   "fuente": "Artículo 4. Modifíquese el artículo 13% de la Resolución 0472 de 2017, el cual quedará así: “Artículo 13\". Programa de manejo ambiental de RCD. El gran generador deberá formular, i",
+   "diff": {
+    "corpus": "...Artículo 4 Modifíquese el artículo 13% de la Resolución 0472 de 2017, ...",
+    "fuente": "...Artículo 4. Modifíquese el artículo 13% de la Resolución 0472 de 2017, ..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.393,
+   "corpus": "Artículo 5 Modificar el artículo 15% de la Resolución 0472 de 2017, el cual quedará así: \"Artículo 15\". Obligaciones de los generadores de RCD. Son obligaciones de los generadores ",
+   "fuente": "Artículo 5. Modificar el artículo 15% de la Resolución 0472 de 2017, el cual quedará así: “Artículo 15. Obligaciones de los generadores de RCD. Son obligaciones de los generadores ",
+   "diff": {
+    "corpus": "...Artículo 5 Modificar el artículo 15% de la Resolución 0472 de 2017, el...",
+    "fuente": "...Artículo 5. Modificar el artículo 15% de la Resolución 0472 de 2017, el..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "divergente",
+   "similitud": 0.6137,
+   "corpus": "Artículo 7 Modificar el artículo 17 de la Resolución 0472 de 2017, el cua! quedará así: \"Artículo 17\". Obligaciones de los departamentos, municipios y distritos. Son obligaciones d",
+   "fuente": "Artículo 7. Modificar el artículo 17% de la Resolución 0472 de 2017, el cual quedará así: “Artículo 17”. Obligaciones de los departamentos, municipios y distritos. Son obligaciones",
+   "diff": {
+    "corpus": "...Artículo 7 Modificar el artículo 17 de la Resolución 0472 de 2017, el ...",
+    "fuente": "...Artículo 7. Modificar el artículo 17% de la Resolución 0472 de 2017, el..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "divergente",
+   "similitud": 0.8102,
+   "corpus": "Artículo 9 Modificar el artículo 19 de la Resolución 0472 de 2017, el cual quedará así: \"Artículo 19. Metas de aprovechamiento de RCD. Los grandes generadores deberán aprovechar ef",
+   "fuente": "Artículo 9. Modificar el artículo 19% de la Resolución 0472 de 2017, el cual quedará así: “Artículo 19. Metas de aprovechamiento de RCD. Los grandes generadores deberán aprovechar ",
+   "diff": {
+    "corpus": "...Artículo 9 Modificar el artículo 19 de la Resolución 0472 de 2017, el ...",
+    "fuente": "...Artículo 9. Modificar el artículo 19% de la Resolución 0472 de 2017, el..."
+   }
+  },
+  {
+   "articulo": "10",
+   "estado": "casi",
+   "similitud": 0.986,
+   "corpus": "Artículo 10 Sin perjuicio de que el gran generador y el receptor cumplan con la normativa vigente relacionada con la calidad y uso de los materiales y productos, son obligaciones d",
+   "fuente": "Artículo 10. Obligaciones del receptor. Sin perjuicio de que el gran generador y el receptor cumplan con la normativa vigente relacionada con la calidad y uso de los materiales y p",
+   "diff": {
+    "corpus": "...Artículo 10 Sin perjuicio de que el gran generador y el receptor cumpla...",
+    "fuente": "...Artículo 10. Obligaciones del receptor. Sin perjuicio de que el gran generador y el receptor cumpla..."
+   }
+  },
+  {
+   "articulo": "11",
+   "estado": "casi",
+   "similitud": 0.9842,
+   "corpus": "Artículo 11 Modifíquense los anexos de la Resolución 0472 de 2017, salvo el Anexo IV, que se incorporan a esta resolución: Anexo l. Formato único para la formulación e implementaci",
+   "fuente": "Artículo 11. Modifíquense los anexos de la Resolución 0472 de 2017, salvo el Anexo IV, que se incorporan a esta resolución: Anexo !. Formato único para la formulación e implementac",
+   "diff": {
+    "corpus": "...Artículo 11 Modifíquense los anexos de la Resolución 0472 de 2017, salv...",
+    "fuente": "...Artículo 11. Modifíquense los anexos de la Resolución 0472 de 2017, salv..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "6",
+  "8",
+  "12",
+  "13"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 4,
+  "divergentes": 5
+ }
+}

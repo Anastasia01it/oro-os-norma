@@ -8,8 +8,11 @@
   "notas_vigencia_en_corpus": [
    "1",
    "2",
+   "5",
+   "6",
    "7",
    "12",
+   "15",
    "20",
    "23",
    "28",
@@ -18,28 +21,44 @@
    "34",
    "35",
    "36",
+   "37",
    "38",
+   "41",
    "45",
+   "53",
    "57",
    "58",
    "59",
+   "64",
    "65",
+   "67",
+   "69",
    "75",
+   "78",
    "80",
    "84",
    "86",
+   "87",
    "88",
    "90",
    "93",
+   "96",
    "103",
    "105",
+   "109",
    "110",
+   "117",
    "118",
    "123",
    "127",
+   "128",
    "129",
+   "134",
    "137",
+   "138",
+   "141",
    "150",
+   "152",
    "154",
    "155",
    "160",
@@ -47,7 +66,9 @@
    "171",
    "173",
    "177",
-   "182"
+   "180",
+   "182",
+   "189"
   ],
   "ordinal_formato": [
    "143"
@@ -55,78 +76,278 @@
   "contenido_real": [
    {
     "articulo": "3",
-    "diff_corpus": "ios a las personas de menores ingresos. ley 142 de 1994 departamento administrativo de la fu",
-    "diff_fuente": "ios a las personas de menores ingresos. 3.8. estimulo a la inversion de los particulares en los serv"
-   },
-   {
-    "articulo": "5",
-    "diff_corpus": "la prestacion de los servicios publicos. es competencia de los municipios en rela",
-    "diff_fuente": "la prestacion de los servicios publicos.es competencia de los municipios en rela"
-   },
-   {
-    "articulo": "6",
-    "diff_corpus": "dera que ocurre en los siguientes casos: ley 142 de 1994 departamento administrativo de la funcion p",
-    "diff_fuente": "dera que ocurre en los siguientes casos: 6.1. cuando, habiendo hecho los municip"
+    "diff_corpus": "lares en los servicios publicos. 9 respeto del principio de neutralidad, a fin d",
+    "diff_fuente": "lares en los servicios publicos. 9 respecto del principio de neutralidad, a fin "
    },
    {
     "articulo": "9",
     "diff_corpus": "articulo 9. derecho de los usuarios. los usuarios de los servicios publicos t",
-    "diff_fuente": "articulo 9. derecho de los usuarios. aparte entre parentesis cuadrados [...] adicionado mediante fe "
+    "diff_fuente": "articulo 9. derecho de los usuarios. [...] los usuarios de los servicios publico"
    },
    {
     "articulo": "11",
-    "diff_corpus": "dades prestadoras de servicios publicos. reglamentado por el decreto nacional 2668 de 1999, reglamen",
+    "diff_corpus": "dades prestadoras de servicios publicos. , para cumplir con la funcion social de",
     "diff_fuente": "dades prestadoras de servicios publicos.para cumplir con la funcion social de la"
    },
    {
     "articulo": "14",
-    "diff_corpus": " servicio publico. son las actividades a las que tambien se aplica esta ley, segun l",
+    "diff_corpus": " servicio publico. son las actividades a las que tambien se aplica esta ley, seg",
     "diff_fuente": " servicio publico. son las actividades a que tambien se aplica esta ley, segun l"
    },
    {
-    "articulo": "15",
-    "diff_corpus": "personas que prestan servicios publicos. pueden prestar los servicios publicos: 1",
-    "diff_fuente": "personas que prestan servicios publicos.pueden prestar los servicios publicos: 1"
-   },
-   {
     "articulo": "16",
-    "diff_corpus": "os productores de servicios marginales, independiente o para uso particular. los productores ",
-    "diff_fuente": "os productores de servicios marginales, [independiente] o para uso particular. aparte entre par"
+    "diff_corpus": "os productores de servicios marginales, independiente o para uso particular. los",
+    "diff_fuente": "os productores de servicios marginales, [independiente] o para uso particular. ["
    },
    {
     "articulo": "18",
-    "diff_corpus": "articulo 18. objeto. modificado parcialmente por el articulo 28 del decreto 1165 de 1999. la empresa",
-    "diff_fuente": "articulo 18. objeto. la empresa de servicios publicos tiene c"
+    "diff_corpus": "o formar consorcios con ellas. paragrafo . independientemente de su objeto socia",
+    "diff_fuente": "o formar consorcios con ellas. paragrafo. independientemente de su objeto social"
    },
    {
     "articulo": "19",
-    "diff_corpus": "o de las empresas de servicios publicos. las empresas de servicios publicos se so",
+    "diff_corpus": "o de las empresas de servicios publicos. las empresas de servicios publicos se s",
     "diff_fuente": "o de las empresas de servicios publicos.las empresas de servicios publicos se so"
    },
    {
     "articulo": "24",
-    "diff_corpus": "servaran estas reglas especiales: 24.1. los departamentos y los municipios no po",
-    "diff_fuente": "servaran estas reglas especiales: 24.1. ver notas del editor aparte entre parentesis cuadrados [...]"
+    "diff_corpus": "e observaran estas reglas especiales: 1 los departamentos y los municipios no po",
+    "diff_fuente": "e observaran estas reglas especiales: 1 [...] los departamentos y los municipios"
    },
    {
     "articulo": "25",
     "diff_corpus": " recuperacion del bien publico explotado, a traves de contratos de concesion. si",
-    "diff_fuente": " recuperacion del bien publico explotado a traves de contratos de concesion. aparte entre parentesis"
+    "diff_fuente": " recuperacion del bien publico explotado a traves de contratos de concesion. [.."
    },
    {
     "articulo": "27",
-    "diff_corpus": "ar ni recibir de las empresas privilegios subsidio distinto de los que en esta le",
-    "diff_fuente": "ar ni recibir de las empresas privilegio o subsidio distinto de los que en esta le"
+    "diff_corpus": "ar ni recibir de las empresas privilegios subsidio distinto de los que en esta l",
+    "diff_fuente": "ar ni recibir de las empresas privilegio o subsidio distinto de los que en esta "
    },
    {
     "articulo": "31",
-    "diff_corpus": "articulo 31. concordancia con el estatuto general de la contratacion publica. modi",
-    "diff_fuente": "articulo 31. regimen de la contratacion. articulo modif"
+    "diff_corpus": "articulo 31. concordancia con el estatuto general de la contratacion publica. lo",
+    "diff_fuente": "articulo 31. regimen de la contratacion. los contratos "
    },
    {
     "articulo": "32",
-    "diff_corpus": "nte por las reglas del derecho privado. nota: inciso declarado exequible por la cort",
-    "diff_fuente": "nte por las reglas del derecho privado. la regla precedente se aplicara, inclusive, a las sociedades"
+    "diff_corpus": "a del acto o del derecho que se ejerce. acuerdo con los estatutos de la entidad,",
+    "diff_fuente": "a del acto o del derecho que se ejerce. [...] se entiende que la autorizacion pa"
+   },
+   {
+    "articulo": "39",
+    "diff_corpus": "mpresa; salvo los contratos de que trata el numeral 39.1., todos aquellos a los ",
+    "diff_fuente": "mpresa; salvo los contratos de que tratan el del articulo 39 y el numeral 1 de l"
+   },
+   {
+    "articulo": "40",
+    "diff_corpus": "a entidad o entidades territoriales componentes, podran establecer mediante invi",
+    "diff_fuente": "a entidad o entidades territoriales competentes, podran establecer mediante invi"
+   },
+   {
+    "articulo": "44",
+    "diff_corpus": "entes inhabilidades e incompatibilidades; 1 salvo excepcion legal, no podran par",
+    "diff_fuente": "entes inhabilidades e incompatibilidades: 1 salvo excepcion legal, no podran par"
+   },
+   {
+    "articulo": "50",
+    "diff_corpus": "articulo 50. control fiscal. la vigilancia de la gestion fiscal de ",
+    "diff_fuente": "articulo 50. control fiscal en las empresas de servicios publicos domiciliarios "
+   },
+   {
+    "articulo": "51",
+    "diff_corpus": "auditoria externa. independientemente de los controles interno y fiscal, todas l",
+    "diff_fuente": "auditoria externa. independientemente del control interno, todas las empresas de"
+   },
+   {
+    "articulo": "52",
+    "diff_corpus": "n y resultados. el control de gestion y de resultados es un proceso que, dentro ",
+    "diff_fuente": "n y resultados. el control de gestion y resultados es un proceso, que dentro de "
+   },
+   {
+    "articulo": "60",
+    "diff_corpus": " se produciran los siguientes efectos: 1 el superintendente al tomar posesion, d",
+    "diff_fuente": " se produciran los siguientes efectos: 1. el superintendente al tomar posesion p"
+   },
+   {
+    "articulo": "61",
+    "diff_corpus": "igaciones de la empresa en liquidacion. titulo v regulacion, control y vigilanci",
+    "diff_fuente": "igaciones de la empresa en liquidacion. paragrafo al ordenar la liquidacion de u"
+   },
+   {
+    "articulo": "62",
+    "diff_corpus": "articulo 62. organizacion. decreto 266 de 2000 se causen honorarios. la inic",
+    "diff_fuente": "articulo 62. organizacion. en desarrollo del articulo 369 de la constitucion pol"
+   },
+   {
+    "articulo": "63",
+    "diff_corpus": " que sean pertinentes para el efecto. 5 solicitar al personero la imposicion de ",
+    "diff_fuente": " que sean pertinentes para el efecto. 5 ."
+   },
+   {
+    "articulo": "66",
+    "diff_corpus": "as que cumplan la funcion de vocales de los comites de desarrollo de los servici",
+    "diff_fuente": "as que cumplan la funcion de vocales de control de los comites de desarrollo y c"
+   },
+   {
+    "articulo": "71",
+    "diff_corpus": "articulo 71. composicion. las comisiones de regulacion estaran integradas por: 1",
+    "diff_fuente": "articulo 71. composicion."
+   },
+   {
+    "articulo": "73",
+    "diff_corpus": "micamente eficientes, no impliquen abusos de la posicion dominante, y produzcan ",
+    "diff_fuente": "micamente eficientes, no impliquen abuso de la posicion dominante, y produzcan s"
+   },
+   {
+    "articulo": "74",
+    "diff_corpus": "eciales de las comisiones de regulacion. con sujecion a lo dispuesto en esta ley",
+    "diff_fuente": "eciales de las comisiones de regulacion.con sujecion a lo dispuesto en esta ley "
+   },
+   {
+    "articulo": "76",
+    "diff_corpus": "rticulo 76. creacion y naturaleza. creasse la superintendencia de servicios publ",
+    "diff_fuente": "rticulo 76. creacion y naturaleza. crease la superintendencia de servicios publi"
+   },
+   {
+    "articulo": "77",
+    "diff_corpus": "7. direccion de la superintendencia. la representacion legal de la superintenden",
+    "diff_fuente": "7. direccion de la superintendencia. la direccion y representacion legal de la s"
+   },
+   {
+    "articulo": "79",
+    "diff_corpus": "ulo 79. funciones de la superintendencia de servicios publicos. , las personas p",
+    "diff_fuente": "ulo 79. funciones de la superintendencia. las personas prestadoras de servicios "
+   },
+   {
+    "articulo": "81",
+    "diff_corpus": "buena marcha del servicio publico, y al infractor de reincidencia. si la infracc",
+    "diff_fuente": "buena marcha del servicio publico, y al factor de reincidencia. si la infraccion"
+   },
+   {
+    "articulo": "82",
+    "diff_corpus": "ionatoria de los personeros municipales. sin perjuicio de la facultad sancionato",
+    "diff_fuente": "ionatoria de los personeros municipales."
+   },
+   {
+    "articulo": "85",
+    "diff_corpus": "io fijaran la tarifa correspondiente. 3 si en algun momento las comisiones o la ",
+    "diff_fuente": "io fijaran la tarifa correspondiente. 3 4. el calculo de la suma a cargo de cada"
+   },
+   {
+    "articulo": "89",
+    "diff_corpus": "lidaridad y redistribucion de ingresos. , las comisiones de regulacion exigiran ",
+    "diff_fuente": "lidaridad y redistribucion de ingresos. las comisiones de regulacion exigiran gr"
+   },
+   {
+    "articulo": "98",
+    "diff_corpus": "o estan sujetas a regulacion, tarifas interiores a los costos operacionales, esp",
+    "diff_fuente": "o estan sujetas a regulacion, tarifas inferiores a los costos operacionales, esp"
+   },
+   {
+    "articulo": "99",
+    "diff_corpus": "s infrinjan de cualquier otra manera. 5 los subsidios no excederan, en ningun ca",
+    "diff_fuente": "s infrinjan de cualquier otra manera. 5 [...] los subsidios no excederan, en nin"
+   },
+   {
+    "articulo": "101",
+    "diff_corpus": "rticulo 101. regimen de estratificacion. la estratificacion se sometera a las si",
+    "diff_fuente": "rticulo 101. regimen de estratificacion.la estratificacion se sometera a las sig"
+   },
+   {
+    "articulo": "102",
+    "diff_corpus": "etodologia. los inmuebles residenciales a los cuales se provean servicios public",
+    "diff_fuente": "etodologia. los inmuebles residenciales se clasificaran maximo en seis (6 estrat"
+   },
+   {
+    "articulo": "104",
+    "diff_corpus": "ona o grupo de personas podra solicitar revision del estrato que se le asigne. l",
+    "diff_fuente": "ona o grupo de personas podra solicitar por escrito la revision del estrato urba"
+   },
+   {
+    "articulo": "125",
+    "diff_corpus": "culo 125. actualizacion de las tarifas. - (ley 508 de 1999 fue durante el period",
+    "diff_fuente": "culo 125. actualizacion de las tarifas. durante el periodo de vigencia de cada f"
+   },
+   {
+    "articulo": "126",
+    "diff_corpus": "126. vigencia de las formulas de tarifas . las formulas tarifarias tendran una v",
+    "diff_fuente": "126. vigencia de las formulas de tarifas. las formulas tarifarias tendran una vi"
+   },
+   {
+    "articulo": "130",
+    "diff_corpus": "articulo 130. partes del contrato. , son partes del contrato la empresa de ",
+    "diff_fuente": "articulo 130. partes del contrato. son partes del contrato la empresa de servici"
+   },
+   {
+    "articulo": "139",
+    "diff_corpus": "ancias, para que el suscriptor o usuarios pueda hacer valer sus derechos.",
+    "diff_fuente": "ancias, para que el suscriptor o usuario pueda hacer valer sus derechos."
+   },
+   {
+    "articulo": "140",
+    "diff_corpus": "prestadora, sin exceder en todo caso de tres periodos de facturacion, y el fraud",
+    "diff_fuente": "prestadora, sin exceder en todo caso de dos (2 periodos de facturacion en el eve"
+   },
+   {
+    "articulo": "142",
+    "diff_corpus": "articulo 142. restablecimiento del servicio. para restab",
+    "diff_fuente": "articulo 142. reestablecimiento del servicio. para restab"
+   },
+   {
+    "articulo": "144",
+    "diff_corpus": "res, y del mantenimiento que deba darselas. no sera obligacion del suscriptor o ",
+    "diff_fuente": "res, y del mantenimiento que deba darseles. no sera obligacion del suscriptor o "
+   },
+   {
+    "articulo": "148",
+    "diff_corpus": "para cada servicio publico domiciliario. inciso. (",
+    "diff_fuente": "para cada servicio publico domiciliario."
+   },
+   {
+    "articulo": "151",
+    "diff_corpus": "zacion de la propiedad de las empresas. los contratos uniformes podran establece",
+    "diff_fuente": "zacion de la propiedad de las empresas. articulo derogado, al no ser incluido ni"
+   },
+   {
+    "articulo": "158",
+    "diff_corpus": " del termino para responder el recurso. la empresa respondera los recursos, quej",
+    "diff_fuente": " del termino para responder el recurso. . el texto es el siguiente: ambito de ap"
+   },
+   {
+    "articulo": "159",
+    "diff_corpus": "a decision sobre peticiones y recursos. , la notificacion de la decision sobre u",
+    "diff_fuente": "a decision sobre peticiones y recursos. la notificacion de la decision sobre un "
+   },
+   {
+    "articulo": "162",
+    "diff_corpus": "gua potable. el ministerio de desarrollo, a traves del vice-ministerio de vivien",
+    "diff_fuente": "gua potable. el ministerio de desarrollo , a traves del vice-ministerio de vivie"
+   },
+   {
+    "articulo": "167",
+    "diff_corpus": "articulo 167. reformas y escision de i.s.a. s.a. autorizase al gobierno nacional",
+    "diff_fuente": "articulo 167. reformas y escision de isa. s.a. autorizase al gobierno nacional "
+   },
+   {
+    "articulo": "176",
+    "diff_corpus": "articulo 176. cuando la nacion considere necesario podra, directamente",
+    "diff_fuente": "articulo 176.cuando la nacion lo considere necesario podra, directamente"
+   },
+   {
+    "articulo": "179",
+    "diff_corpus": "179. transito de legislacion en tarifas. las normas sobre tarifas actualmente vi",
+    "diff_fuente": "179. transito de legislacion en tarifas."
+   },
+   {
+    "articulo": "181",
+    "diff_corpus": "des descentralizadas de aquella o de este, para asumir o adquirir pasivos, inclu",
+    "diff_fuente": "des descentralizadas de aquella o de estas, para asumir o adquirir pasivos, incl"
+   },
+   {
+    "articulo": "184",
+    "diff_corpus": "legislacion en cuanto a estratificacion. las estratificaciones que se hayan hech",
+    "diff_fuente": "legislacion en cuanto a estratificacion.las estratificaciones que se hayan hecho"
    }
   ]
  },

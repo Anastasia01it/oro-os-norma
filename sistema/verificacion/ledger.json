@@ -610,6 +610,150 @@
    "divergentes": null,
    "nota": "",
    "informe": "sistema/verificacion/informes/RESOLUCION-472-2017.json"
+  },
+  "LEY-99-1993.md": {
+   "estado": "VERIFICADA",
+   "clase": "entidades_html_sin_decodificar",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 0,
+   "nota": "Verificacion vacua: el corpus trae 2329 entidades HTML sin decodificar (art&iacute;culo), 0 articulos segmentables. Requiere decodificar entidades y re-verificar.",
+   "informe": "sistema/verificacion/informes/LEY-99-1993.json"
+  },
+  "DECRETO-2811-1974.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "entidades_html_sin_decodificar",
+   "exactos": 0,
+   "casi": 1,
+   "divergentes": 22,
+   "nota": "Corpus con 335 entidades HTML (C&oacute;digo, &#160;): solo 23/70+ articulos segmentables y todos divergentes por entidades. Fuente Senado correcta.",
+   "informe": "sistema/verificacion/informes/DECRETO-2811-1974.json"
+  },
+  "DECRETO-2981-2013.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "html_gestor",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 88,
+   "nota": "El gestor CRA muestra el texto compilado en el DUR 1077/2015 (notas 'Articulo compilado en...' por articulo); el corpus tiene el texto original 2013. Divergencia sistematica de version.",
+   "informe": "sistema/verificacion/informes/DECRETO-2981-2013.json"
+  },
+  "DECRETO-2412-2018.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "html_gestor",
+   "exactos": 1,
+   "casi": 4,
+   "divergentes": 7,
+   "nota": "Corpus trae mueble DAFP inline ('Decreto 2412 de 2018 Departamento Adm...') que la fuente gestor no tiene; 4 casi + 7 div.",
+   "informe": "sistema/verificacion/informes/DECRETO-2412-2018.json"
+  },
+  "DECRETO-596-2016.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "html_gestor",
+   "exactos": 1,
+   "casi": 7,
+   "divergentes": 6,
+   "nota": "Gestor marca 'ARTICULO 1o. Derogado' (estado vigente) vs corpus texto original; divergencias de version/estado.",
+   "informe": "sistema/verificacion/informes/DECRETO-596-2016.json"
+  },
+  "DECRETO-0271-2026.md": {
+   "estado": "SIN_CANAL",
+   "clase": "sin_canal",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/DECRETO-0271-2026.json"
+  },
+  "DECRETO-670-2025.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "html_gestor",
+   "exactos": 4,
+   "casi": 4,
+   "divergentes": 2,
+   "nota": "2 divergentes leves (formato ARTICULO 5 vs 5o. y similar); contenido sustancialmente igual.",
+   "informe": "sistema/verificacion/informes/DECRETO-670-2025.json"
+  },
+  "Decreto_0780_2016.md": {
+   "estado": "VERIFICADA_CON_EXCEPCIONES",
+   "clase": "html_gestor",
+   "exactos": 1324,
+   "casi": 138,
+   "divergentes": 48,
+   "nota": "1462/1510 verificados (1324 ex+138 casi); div por notas de editor del corpus que el gestor no tiene. DUR Salud completo.",
+   "informe": "sistema/verificacion/informes/Decreto_0780_2016.json"
+  },
+  "RESOLUCION-1362-2007.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "pdf_texto_wayback",
+   "exactos": 10,
+   "casi": 0,
+   "divergentes": 4,
+   "nota": "PDF oficial con texto; 10 exactos, 4 div por encabezados repetidos de pagina en el PDF.",
+   "informe": "sistema/verificacion/informes/RESOLUCION-1362-2007.json"
+  },
+  "RESOLUCION-1511-2010.md": {
+   "estado": "VERIFICADA",
+   "clase": "pdf_escaneado_ocr",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 0,
+   "nota": "VERIFICADA contra PDF oficial (OCR); corpus y fuente coinciden.",
+   "informe": "sistema/verificacion/informes/RESOLUCION-1511-2010.json"
+  },
+  "RESOLUCION-1257-2021.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "pdf_escaneado_ocr",
+   "exactos": 0,
+   "casi": 4,
+   "divergentes": 5,
+   "nota": "OCR de PDF oficial: 4 casi, 5 div restantes por ruido OCR (sellos/encabezados), tras normalizar grados OCR en numeros de articulo.",
+   "informe": "sistema/verificacion/informes/RESOLUCION-1257-2021.json"
+  },
+  "RESOLUCION-1402-2018.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "zip_pdf_escaneado_ocr",
+   "exactos": 0,
+   "casi": 3,
+   "divergentes": 3,
+   "nota": "OCR de PDF oficial (dentro de ZIP): 3 casi, 3 div por ruido OCR.",
+   "informe": "sistema/verificacion/informes/RESOLUCION-1402-2018.json"
+  },
+  "Resolucion_0276_2016.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "pdf_escaneado_ocr",
+   "exactos": 0,
+   "casi": 2,
+   "divergentes": 6,
+   "nota": "OCR de PDF oficial MinVivienda: 2 casi, 6 div por ruido OCR (sellos).",
+   "informe": "sistema/verificacion/informes/Resolucion_0276_2016.json"
+  },
+  "Resolucion_0668_2016.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "pdf_escaneado_ocr",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 14,
+   "nota": "OCR PDF oficial 2016. Div principal: corpus inserta anotaciones inline 'Resolucion derogada ... Res. 803 de 2024' que el PDF original no tiene.",
+   "informe": "sistema/verificacion/informes/Resolucion_0668_2016.json"
+  },
+  "Resolucion_1344_2020.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "pdf_escaneado_ocr",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 2,
+   "nota": "OCR PDF oficial: 2 div por encabezado de pagina OCR interpolado.",
+   "informe": "sistema/verificacion/informes/Resolucion_1344_2020.json"
+  },
+  "Resolucion_1397_2018.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "pdf_escaneado_ocr",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 4,
+   "nota": "PDF oficial via API minambiente (Wayback solo tenia enlaces rotos). Div: corpus inserta anotaciones inline de derogacion (Res. 2184/2019) + ruido OCR de sellos.",
+   "informe": "sistema/verificacion/informes/Resolucion_1397_2018.json"
   }
  },
  "canales": {

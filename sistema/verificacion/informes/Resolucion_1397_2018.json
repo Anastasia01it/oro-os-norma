@@ -1,0 +1,59 @@
+{
+ "corpus": "Resolucion_1397_2018.md",
+ "fuente": "sistema/verificacion/fuentes/Resolucion_1397_2018.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 4,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.1715,
+   "corpus": "ARTÍCULO 1o. Resolución derogada por el artículo 5 de la Resolución 2184 de 2019 Adiciónese a la Tabla N° 2 del artículo 9o de la Resolución 668 de 2016 el siguiente indicador:",
+   "fuente": "ARTÍCULO 1. Adiciónese a la tabla No. 2 del artículo 9 de la Resolución 668 de 2016 el siguiente indicador: E 2 5 JUL 2018 Resolución Ng. “Y “%] f del Hoja No. 3 “Por la cual se ad",
+   "diff": {
+    "corpus": "...ARTÍCULO 1o. Resolución derogada por el artículo 5 de la Resolución 218...",
+    "fuente": "...ARTÍCULO 1. Adiciónese a la tabla No. 2 del artículo 9 de la Resolució..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.8993,
+   "corpus": "ARTÍCULO 2o. Resolución derogada por el artículo 5 de la Resolución 2184 de 2019 Adiciónese al artículo 10 de la Resolución 668 de 2016, un numeral 4 con la siguiente meta: “Artícu",
+   "fuente": "ARTICULO 2. Adiciónese al artículo 10 de la Resolución 668 de 2016, un numeral 4 con la siguiente meta: “ARTÍCULO 10. Metas. Todos los distribuidores deberán dar cumplimiento a las",
+   "diff": {
+    "corpus": "...ARTÍCULO 2o. Resolución derogada por el artículo 5 de la Resolución 218...",
+    "fuente": "...ARTICULO 2. Adiciónese al artículo 10 de la Resolución 668 de 2016, un..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.0737,
+   "corpus": "ARTÍCULO 3o. Resolución derogada por el artículo 5 de la Resolución 2184 de 2019 La presente resolución aplica sin perjuicio de los mecanismos e instrumentos que hayan implementado",
+   "fuente": "ARTÍCULO 3. La presente resolución aplica sin perjuicio de los mecanismos e instrumentos que hayan implementado los municipios y distritos en sus Planes de Gestión Integral de Resi",
+   "diff": {
+    "corpus": "...ARTÍCULO 3o. Resolución derogada por el artículo 5 de la Resolución 218...",
+    "fuente": "...ARTÍCULO 3. La presente resolución aplica sin perjuicio de los mecanis..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.3101,
+   "corpus": "ARTÍCULO 4o. VIGENCIA. La presente resolución rige a partir de su publicación en el Diario Oficial. Publíquese y cúmplase. Dado en Bogotá, D. C., a 25 de julio de 2018. El Ministro",
+   "fuente": "ARTÍCULO 4. Vigencia. La presente resolución rige a partir de su publicación en el Diario Oficial. a 25 JU Resolución mol L JUL 2018 Hoja No. 5 \"Por la cual se adiciona la resoluci",
+   "diff": {
+    "corpus": "...ARTÍCULO 4o. VIGENCIA. La presente resolución rige a partir de su publi...",
+    "fuente": "...ARTÍCULO 4. Vigencia. La presente resolución rige a partir de su publi..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 4
+ }
+}
