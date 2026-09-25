@@ -1,106 +1,99 @@
 {
  "corpus": "LEY-142-1994.md",
- "fuente": "sistema/verificacion/fuentes/LEY-142-1994.gestorcra.txt",
+ "fuente": "sistema/verificacion/fuentes/LEY-142-1994.oficial.txt",
  "umbral": 0.98,
  "articulos_corpus": 189,
  "resultados": [
   {
    "articulo": "1",
    "estado": "divergente",
-   "similitud": 0.852,
+   "similitud": 0.8527,
    "corpus": "ARTÍCULO 1. Ámbito de aplicación de la ley. Esta Ley se aplica a los servicios públicos domiciliarios de acueducto, alcantarillado, aseo, energía eléctrica, distribución de gas com",
    "fuente": "ARTÍCULO 1o. ÁMBITO DE APLICACIÓN DE LA LEY. Ver Notas de Vigencia, en relación con los textos subrayados Aparte entre paréntesis cuadrados [...] adicionado mediante FE DE ERRATAS.",
    "diff": {
-    "corpus": "...ARTÍCULO 1. Ámbito de aplicación de la ley. Esta Ley se aplica a los s...",
-    "fuente": "...ARTÍCULO 1o. ÁMBITO DE APLICACIÓN DE LA LEY. Ver Notas de Vigencia, en ..."
+    "corpus": "...ARTÍCULO 1. Ámbito de aplicación de la ley. Esta Ley se aplica a los servicios públicos domiciliarios de acuedu...",
+    "fuente": "...ARTÍCULO 1o. ÁMBITO DE APLICACIÓN DE LA LEY. Ver Notas de Vigencia, en relación con los textos subrayados Aparte entre paréntesis cuadrados [...] adicionado me..."
    }
   },
   {
    "articulo": "2",
    "estado": "divergente",
-   "similitud": 0.2184,
+   "similitud": 0.2226,
    "corpus": "ARTÍCULO 2. Intervención del Estado en los servicios públicos. El Estado intervendrá en los servicios públicos, conforme a las reglas de competencia de que trata esta Ley, en el ma",
    "fuente": "ARTÍCULO 2o. INTERVENCIÓN DEL ESTADO EN LOS SERVICIOS PÚBLICOS.El Estado intervendrá en los servicios públicos, conforme a las reglas de competencia de que trata esta Ley, en el ma",
    "diff": {
-    "corpus": "...ARTÍCULO 2. Intervención del Estado en los servicios públicos. El Esta...",
-    "fuente": "...ARTÍCULO 2o. INTERVENCIÓN DEL ESTADO EN LOS SERVICIOS PÚBLICOS.El Estad..."
+    "corpus": "...TÍCULO 2. Intervención del Estado en los servicios públicos. El Estado intervendrá en los servicios públicos, conforme a ...",
+    "fuente": "...TÍCULO 2o. INTERVENCIÓN DEL ESTADO EN LOS SERVICIOS PÚBLICOS.El Estado intervendrá en los servicios públicos, conforme a..."
    }
   },
   {
    "articulo": "3",
    "estado": "divergente",
-   "similitud": 0.562,
+   "similitud": 0.5748,
    "corpus": "ARTÍCULO 3. Instrumentos de la intervención estatal. Constituyen instrumentos para la intervención estatal en los servicios públicos todas las atribuciones y funciones asignadas a ",
    "fuente": "ARTÍCULO 3o. INSTRUMENTOS DE LA INTERVENCIÓN ESTATAL. Constituyen instrumentos para la intervención estatal en los servicios públicos todas las atribuciones y funciones asignadas a",
    "diff": {
-    "corpus": "...ARTÍCULO 3. Instrumentos de la intervención estatal. Constituyen instr...",
-    "fuente": "...ARTÍCULO 3o. INSTRUMENTOS DE LA INTERVENCIÓN ESTATAL. Constituyen instr..."
+    "corpus": "...amiento de subsidios a las personas de menores ingresos. Ley 142 de 1994 3.8. Estímulo a la inversión de los particulares en los ser...",
+    "fuente": "...torgamiento de subsidios a las personas de menores ingresos. 3.8. Estímulo a la inversión de los particulares en los servicios públicos. 3.9. Respecto del principio de neutralidad, a fin de asegurar..."
    }
   },
   {
    "articulo": "4",
-   "estado": "casi",
-   "similitud": 0.9981,
-   "corpus": "ARTÍCULO 4. Servicios Públicos Esenciales. Para los efectos de la correcta aplicación del inciso primero del artículo 56 de la Constitución Política de Colombia, todos los servicio",
-   "fuente": "ARTÍCULO 4o. SERVICIOS PÚBLICOS ESENCIALES. Para los efectos de la correcta aplicación del inciso primero del artículo 56 de la Constitución Política de Colombia, todos los servici",
-   "diff": {
-    "corpus": "...ARTÍCULO 4. Servicios Públicos Esenciales. Para los efectos de la corr...",
-    "fuente": "...ARTÍCULO 4o. SERVICIOS PÚBLICOS ESENCIALES. Para los efectos de la corr..."
-   }
+   "estado": "exacto"
   },
   {
    "articulo": "5",
    "estado": "divergente",
-   "similitud": 0.6973,
+   "similitud": 0.6986,
    "corpus": "ARTÍCULO 5. Competencia de los municipios en cuanto a la prestación de los servicios públicos. Es competencia de los municipios en relación con los servicios públicos, que ejercerá",
    "fuente": "ARTÍCULO 5o. COMPETENCIA DE LOS MUNICIPIOS EN CUANTO A LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS.Es competencia de los municipios en relación con los servicios públicos, que ejercerá",
    "diff": {
-    "corpus": "...ARTÍCULO 5. Competencia de los municipios en cuanto a la prestación de...",
-    "fuente": "...ARTÍCULO 5o. COMPETENCIA DE LOS MUNICIPIOS EN CUANTO A LA PRESTACIÓN DE..."
+    "corpus": "...icipios en cuanto a la prestación de los servicios públicos. Es competencia de los municipios en relación con los servici...",
+    "fuente": "...NICIPIOS EN CUANTO A LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS.Es competencia de los municipios en relación con los servic..."
    }
   },
   {
    "articulo": "6",
    "estado": "divergente",
-   "similitud": 0.9695,
+   "similitud": 0.9764,
    "corpus": "ARTÍCULO 6. Prestación directa de servicios por parte de los municipios. Los municipios prestarán directamente los servicios públicos de su competencia, cuando las características ",
    "fuente": "ARTÍCULO 6o. PRESTACIÓN DIRECTA DE SERVICIOS POR PARTE DE LOS MUNICIPIOS. Los municipios prestarán directamente los servicios públicos de su competencia, cuando las características",
    "diff": {
-    "corpus": "...ARTÍCULO 6. Prestación directa de servicios por parte de los municipio...",
-    "fuente": "...ARTÍCULO 6o. PRESTACIÓN DIRECTA DE SERVICIOS POR PARTE DE LOS MUNICIPIO..."
+    "corpus": "...en, lo cual se entenderá que ocurre en los siguientes casos: Ley 142 de 1994 6.1. Cuando, habiendo hecho los municipios invitación públi...",
+    "fuente": "...jen, lo cual se entenderá que ocurre en los siguientes casos: 6.1. Cuando, habiendo hecho los municipios invitación públ..."
    }
   },
   {
    "articulo": "7",
    "estado": "divergente",
-   "similitud": 0.6855,
+   "similitud": 0.7001,
    "corpus": "ARTÍCULO 7. Competencia de los departamentos para la prestación de los servicios públicos. Son de competencia de los departamentos en relación con los servicios públicos, las sigui",
    "fuente": "ARTÍCULO 7o. COMPETENCIA DE LOS DEPARTAMENTOS PARA LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS. Son de competencia de los departamentos en relación con los servicios públicos, las sigu",
    "diff": {
-    "corpus": "...ARTÍCULO 7. Competencia de los departamentos para la prestación de los...",
-    "fuente": "...ARTÍCULO 7o. COMPETENCIA DE LOS DEPARTAMENTOS PARA LA PRESTACIÓN DE LOS..."
+    "corpus": "...nciones de su competencia en materia de servicios públicos: Ley 142 de 1994 7.3. Organizar sistemas de coordinación de las e...",
+    "fuente": "... funciones de su competencia en materia de servicios públicos. 7.3. Organizar sistemas de coordinación de las entidades prestadoras de servicios públicos y promover, cuando razones técnicas y económicas lo aconsej..."
    }
   },
   {
    "articulo": "8",
    "estado": "casi",
-   "similitud": 0.9813,
+   "similitud": 0.9816,
    "corpus": "ARTÍCULO 8. Competencia de la Nación para la prestación de los servicios públicos. Es competencia de la Nación: 8.1. En forma privativa, planiﬁcar, asignar, gestionar y controlar e",
    "fuente": "ARTÍCULO 8o. COMPETENCIA DE LA NACIÓN PARA LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS.Es competencia de la Nación: 8.1. En forma privativa, planificar, asignar, gestionar y controlar ",
    "diff": {
-    "corpus": "...ARTÍCULO 8. Competencia de la Nación para la prestación de los servici...",
-    "fuente": "...ARTÍCULO 8o. COMPETENCIA DE LA NACIÓN PARA LA PRESTACIÓN DE LOS SERVICI..."
+    "corpus": "...a de la Nación para la prestación de los servicios públicos. Es competencia de la Nación: 8.1. En forma privativa, planiﬁ...",
+    "fuente": "...IA DE LA NACIÓN PARA LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS.Es competencia de la Nación: 8.1. En forma privativa, plani..."
    }
   },
   {
    "articulo": "9",
    "estado": "divergente",
-   "similitud": 0.5597,
+   "similitud": 0.5749,
    "corpus": "ARTÍCULO 9. Derecho de los usuarios. Los usuarios de los servicios públicos tienen derecho, además de los consagrados en el Estatuto Nacional del Usuario y demás normas que consagr",
    "fuente": "ARTÍCULO 9o. DERECHO DE LOS USUARIOS. Aparte entre paréntesis cuadrados [...] adicionado mediante FE DE ERRATAS. El texto corregido es el siguiente: Los usuarios de los servicios p",
    "diff": {
-    "corpus": "...ARTÍCULO 9. Derecho de los usuarios. Los usuarios de los servicios púb...",
-    "fuente": "...ARTÍCULO 9o. DERECHO DE LOS USUARIOS. Aparte entre paréntesis cuadrados..."
+    "corpus": "...ARTÍCULO 9. Derecho de los usuarios. Los usuarios de los servicios públicos tienen derecho, ademá...",
+    "fuente": "...ARTÍCULO 9o. DERECHO DE LOS USUARIOS. Aparte entre paréntesis cuadrados [...] adicionado mediante FE DE ERRATAS. El texto corregido es el siguiente: Los usuarios de los servicios públicos tienen derecho, adem..."
    }
   },
   {
@@ -110,7 +103,7 @@
   {
    "articulo": "11",
    "estado": "divergente",
-   "similitud": 0.9495,
+   "similitud": 0.9585,
    "corpus": "ARTÍCULO 11. Función social de la propiedad en las entidades prestadoras de servicios públicos. Reglamentado por el Decreto Nacional 2668 de 1999, Reglamentado por el Decreto Nacio",
    "fuente": "ARTÍCULO 11. FUNCIÓN SOCIAL DE LA PROPIEDAD EN LAS ENTIDADES PRESTADORAS DE SERVICIOS PÚBLICOS.Para cumplir con la función social de la propiedad, pública o privada, las entidades ",
    "diff": {
@@ -143,12 +136,12 @@
   {
    "articulo": "14",
    "estado": "divergente",
-   "similitud": 0.6807,
+   "similitud": 0.5964,
    "corpus": "ARTÍCULO 14. Deﬁniciones. Para interpretar y aplicar esta Ley se tendrán en cuenta las siguientes deﬁniciones: 14.1. Acometida. Derivación de la red local del servicio respectivo q",
    "fuente": "ARTÍCULO 14. DEFINICIONES. Para interpretar y aplicar esta Ley se tendrán en cuenta las siguientes definiciones: 14.1. ACOMETIDA. Derivación de la red local del servicio respectivo",
    "diff": {
-    "corpus": "...plementaria de un servicio público. Son las actividades a las que también se aplica esta Ley, según la precisión que se hace...",
-    "fuente": "...COMPLEMENTARIA DE UN SERVICIO PÚBLICO. Son las actividades a que también se aplica esta Ley, según la precisión que se h..."
+    "corpus": "...la o éstas tienen aportes iguales o superiores al 50%. NOTA: Expresión subrayada declarada EXEQUIBLE mediante Sentencia de la Corte Constitucional C-736 de 2007. 14.7. Empresa de servicios públicos privada. Es aquella cuyo capi...",
+    "fuente": "...aquella o éstas tienen aportes iguales o superiores al 50%. 14.7. EMPRESA DE SERVICIOS PÚBLICOS PRIVADA. Es aquella cuyo..."
    }
   },
   {
@@ -165,7 +158,7 @@
   {
    "articulo": "16",
    "estado": "divergente",
-   "similitud": 0.9422,
+   "similitud": 0.9545,
    "corpus": "ARTÍCULO 16. Aplicación de la ley a los productores de servicios marginales, independiente o para uso particular. Los productores de servicios marginales o para uso particular se s",
    "fuente": "ARTÍCULO 16. APLICACIÓN DE LA LEY A LOS PRODUCTORES DE SERVICIOS MARGINALES, [INDEPENDIENTE] O PARA USO PARTICULAR. Aparte entre paréntesis cuadrados [...] corregido mediante FE DE",
    "diff": {
@@ -176,18 +169,18 @@
   {
    "articulo": "17",
    "estado": "casi",
-   "similitud": 0.989,
+   "similitud": 0.9898,
    "corpus": "ARTÍCULO 17. Naturaleza. Las empresas de servicios públicos son sociedades por acciones cuyo objeto es la prestación de los servicios públicos de que trata esta Ley. PARÁGRAFO 1. L",
    "fuente": "ARTÍCULO 17. NATURALEZA. Las empresas de servicios públicos son sociedades por acciones cuyo objeto es la prestación de los servicios públicos de que trata esta Ley. PARÁGRAFO 1o. ",
    "diff": {
-    "corpus": "...de los servicios públicos de que trata esta Ley. PARÁGRAFO 1. Las entidades descentralizadas de cualquier orden territor...",
-    "fuente": "...de los servicios públicos de que trata esta Ley. PARÁGRAFO 1o. Las entidades descentralizadas de cualquier orden territor..."
+    "corpus": "...os deberán, al ﬁnalizar el ejercicio ﬁscal, constituir reservas para rehabilitación, expansión y reposición de los siste...",
+    "fuente": "...úblicos deberán, al finalizar el ejercicio fiscal, constituír sic reservas para rehabilitación, expansión y reposición de lo..."
    }
   },
   {
    "articulo": "18",
    "estado": "divergente",
-   "similitud": 0.2898,
+   "similitud": 0.3,
    "corpus": "ARTÍCULO 18. Objeto. Modiﬁcado parcialmente por el Artículo 28 del Decreto 1165 de 1999. La Empresa de servicios públicos tiene como objeto la prestación de uno o más de los servic",
    "fuente": "ARTÍCULO 18. OBJETO. La Empresa de servicios públicos tiene como objeto la prestación de uno o más de los servicios públicos a los que se aplica esta Ley, o realizar una o varias d",
    "diff": {
@@ -198,7 +191,7 @@
   {
    "articulo": "19",
    "estado": "divergente",
-   "similitud": 0.7209,
+   "similitud": 0.7231,
    "corpus": "ARTÍCULO 19. Régimen Jurídico de las empresas de servicios públicos. Las empresas de servicios públicos se someterán al siguiente régimen jurídico: 19.1. El nombre de la empresa de",
    "fuente": "ARTÍCULO 19. RÉGIMEN JURÍDICO DE LAS EMPRESAS DE SERVICIOS PÚBLICOS.Las empresas de servicios públicos se someterán al siguiente régimen jurídico: 19.1. El nombre de la empresa deb",
    "diff": {
@@ -208,12 +201,12 @@
   },
   {
    "articulo": "20",
-   "estado": "divergente",
-   "similitud": 0.9759,
+   "estado": "casi",
+   "similitud": 0.993,
    "corpus": "ARTÍCULO 20. Régimen de las empresas de servicios públicos en municipios menores y zonas rurales. Las empresas de servicios públicos que operen exclusivamente en uno de los municip",
    "fuente": "ARTÍCULO 20. RÉGIMEN DE LAS EMPRESAS DE SERVICIOS PÚBLICOS EN MUNICIPIOS MENORES Y ZONAS RURALES. Las empresas de servicios públicos que operen exclusivamente en uno de los municip",
    "diff": {
-    "corpus": "... de Comercio, en lo pertinente, y funcionar con dos o más socios. Ley 142 de 1994 Departamento Administrativo de la Func...",
+    "corpus": "... de Comercio, en lo pertinente, y funcionar con dos o más socios. Ley 142 de 1994 20.2. Los títulos representativos de c...",
     "fuente": "...o de Comercio, en lo pertinente, y funcionar con dos o mas sic socios. 20.2. Los títulos representativos de capital que expi..."
    }
   },
@@ -239,7 +232,7 @@
   {
    "articulo": "24",
    "estado": "divergente",
-   "similitud": 0.9287,
+   "similitud": 0.9402,
    "corpus": "ARTÍCULO 24. Régimen Tributario. Todas las entidades prestadoras de servicios públicos están sujetas al régimen tributario nacional y de las entidades territoriales, pero se observ",
    "fuente": "ARTÍCULO 24. RÉGIMEN TRIBUTARIO. Todas las entidades prestadoras de servicios públicos están sujetas al régimen tributario nacional y de las entidades territoriales, pero se observ",
    "diff": {
@@ -250,12 +243,12 @@
   {
    "articulo": "25",
    "estado": "divergente",
-   "similitud": 0.8235,
+   "similitud": 0.9422,
    "corpus": "ARTÍCULO 25. Concesiones, y permisos ambientales y sanitarios. Quienes presten servicios públicos requieren contratos de concesión, con las autoridades competentes según la ley, pa",
    "fuente": "ARTÍCULO 25. CONCESIONES, Y PERMISOS AMBIENTALES Y SANITARIOS. Quienes presten servicios públicos requieren contratos de concesión, con las autoridades competentes según la ley, pa",
    "diff": {
-    "corpus": "...n el mantenimiento y recuperación del bien público explotado, a través de contratos de concesión. Si se trata de la pres...",
-    "fuente": "...n el mantenimiento y recuperación del bien público explotado a través de contratos de concesión. Aparte entre paréntesis cuadrados [...] adicionado mediante FE DE ERRATAS. El texto corregido es el siguiente: Si se trata de la prestación de los servicios de agua potable o saneamiento básico, de conformidad con la distribución de competencias dispues..."
+    "corpus": "... bien público explotado a través de contratos de concesión. Si se trata de la prestación de los servicios de agua potabl...",
+    "fuente": "... bien público explotado a través de contratos de concesión. Aparte entre paréntesis cuadrados [...] adicionado mediante FE DE ERRATAS. El texto corregido es el siguiente: Si se trata de la prestación de los servicios de agua potabl..."
    }
   },
   {
@@ -272,12 +265,12 @@
   {
    "articulo": "27",
    "estado": "divergente",
-   "similitud": 0.9126,
+   "similitud": 0.9246,
    "corpus": "ARTÍCULO 27. Reglas especiales sobre la participación de entidades públicas. La Nación, las entidades territoriales, y las entidades descentralizadas de cualquier nivel administrat",
    "fuente": "ARTÍCULO 27. REGLAS ESPECIALES SOBRE LA PARTICIPACIÓN DE ENTIDADES PUBLICAS. La Nación, las entidades territoriales, y las entidades descentralizadas de cualquier nivel administrat",
    "diff": {
-    "corpus": "...7.1. No podrán otorgar ni recibir de las empresas privilegios subsidio distinto de los que en esta Ley se precisan. Ley 1...",
-    "fuente": "...7.1. No podrán otorgar ni recibir de las empresas privilegio o subsidio distinto de los que en esta Ley se precisan. 27.2...."
+    "corpus": "...gio o subsidio distinto de los que en esta Ley se precisan. Ley 142 de 1994 27.2. Podrán enajenar sus aportes, para lo cual se tendrán e...",
+    "fuente": "...gio o subsidio distinto de los que en esta Ley se precisan. 27.2. Podrán enajenar sus aportes, para lo cual se tendrán e..."
    }
   },
   {
@@ -294,7 +287,7 @@
   {
    "articulo": "29",
    "estado": "divergente",
-   "similitud": 0.9591,
+   "similitud": 0.9595,
    "corpus": "ARTÍCULO 29.- Amparo policivo. Las autoridades nacionales, departamentales y municipales, tanto civiles como de policía, inmediatamente se lo solicite una empresa de servicios públ",
    "fuente": "ARTÍCULO 29. AMPARO POLICIVO. Las autoridades nacionales, departamentales y municipales, tanto civiles como de policía, inmediatamente se lo solicite una empresa de servicios públi",
    "diff": {
@@ -305,7 +298,7 @@
   {
    "articulo": "30",
    "estado": "divergente",
-   "similitud": 0.8373,
+   "similitud": 0.881,
    "corpus": "ARTÍCULO 30. Principios de interpretación. Las normas que esta Ley contiene sobre contratos se interpretarán de acuerdo con los principios que contiene el título preliminar; en la ",
    "fuente": "ARTÍCULO 30. PRINCIPIOS DE INTERPRETACIÓN.Las normas que esta ley contiene sobre contratos se interpretarán de acuerdo con los principios que contiene el título preliminar; en la f",
    "diff": {
@@ -348,12 +341,12 @@
   },
   {
    "articulo": "34",
-   "estado": "divergente",
-   "similitud": 0.9782,
+   "estado": "casi",
+   "similitud": 0.9946,
    "corpus": "ARTÍCULO 34. Prohibición de prácticas discriminatorias, abusivas o restrictivas. Las empresas de servicios públicos, en todos sus actos y contratos, deben evitar privilegios y disc",
    "fuente": "ARTÍCULO 34. PROHIBICIÓN DE PRÁCTICAS DISCRIMINATORIAS, ABUSIVAS O RESTRICTIVAS. Las empresas de servicios públicos, en todos sus actos y contratos, deben evitar privilegios y disc",
    "diff": {
-    "corpus": "...rifas que no cubran los gastos de operación de un servicio; Ley 142 de 1994 Departamento Administrativo de la Función Pública 34.2. La prestación gratuita o a precios o tarifas inferiore...",
+    "corpus": "...rifas que no cubran los gastos de operación de un servicio; Ley 142 de 1994 34.2. La prestación gratuita o a precios o tarifas inferiore...",
     "fuente": "...arifas que no cubran los gastos de operación de un servicio; 34.2. La prestación gratuita o a precios o tarifas inferior..."
    }
   },
@@ -370,12 +363,12 @@
   },
   {
    "articulo": "36",
-   "estado": "divergente",
-   "similitud": 0.9785,
+   "estado": "casi",
+   "similitud": 0.9947,
    "corpus": "ARTÍCULO 36. Reglas contractuales especiales. Se aplicarán a los contratos de las empresas de servicios públicos las siguientes reglas especiales: 36.1. Podrá convenirse que la con",
    "fuente": "ARTÍCULO 36. REGLAS CONTRACTUALES ESPECIALES. Se aplicarán a los contratos de las empresas de servicios públicos las siguientes reglas especiales: 36.1. Podrá convenirse que la con",
    "diff": {
-    "corpus": "...de recuperación con la comisión encargada de regularlas. Ley 142 de 1994 Departamento Administrativo de la Función Pública...",
+    "corpus": "...de recuperación con la comisión encargada de regularlas. Ley 142 de 1994...",
     "fuente": "...lan de recuperación con la comisión encargada de regularlas...."
    }
   },
@@ -404,7 +397,7 @@
   {
    "articulo": "39",
    "estado": "divergente",
-   "similitud": 0.8836,
+   "similitud": 0.892,
    "corpus": "ARTÍCULO 39. Contratos especiales. Para los efectos de la gestión de los servicios públicos se autoriza la celebración, entre otros, de los siguientes contratos especiales: 39.1. C",
    "fuente": "ARTÍCULO 39. CONTRATOS ESPECIALES. Para los efectos de la gestión de los servicios públicos se autoriza la celebración, entre otros, de los siguientes contratos especiales: 39.1. V",
    "diff": {
@@ -415,23 +408,23 @@
   {
    "articulo": "40",
    "estado": "divergente",
-   "similitud": 0.7383,
+   "similitud": 0.7398,
    "corpus": "ARTÍCULO 40. Áreas de Servicio exclusivo. Por motivos de interés social y con el propósito de que la cobertura de los servicios públicos de acueducto y alcantarillado, saneamiento ",
    "fuente": "ARTÍCULO 40. ÁREAS DE SERVICIO EXCLUSIVO. Por motivos de interés social y con el propósito de que la cobertura de los servicios públicos de acueducto y alcantarillado, saneamiento ",
    "diff": {
-    "corpus": "... menores ingresos, la entidad o entidades territoriales componentes, podrán establecer mediante invitación pública, áreas ...",
-    "fuente": "... menores ingresos, la entidad o entidades territoriales competentes, podrán establecer mediante invitación pública, áreas ..."
+    "corpus": "...tura a las personas de menores ingresos. PARÁGRAFO 2. Derogado por el art. 7, Ley 286 de 1996. - Si durante la vigencia de estos contratos ...",
+    "fuente": "...a cobertura a las personas de menores ingresos. PARÁGRAFO 2o. Parágrafo derogado por el artículo 7o. de la Ley 286 de 1996 . TÍTULO III. RÉGIMEN LABORAL..."
    }
   },
   {
    "articulo": "41",
    "estado": "divergente",
-   "similitud": 0.8875,
+   "similitud": 0.8889,
    "corpus": "ARTÍCULO 41. Aplicación del Código Sustantivo del Trabajo. Las personas que presten sus servicios a las empresas de servicios públicos privadas o mixtas, tendrán el carácter de tra",
    "fuente": "ARTÍCULO 41. APLICACIÓN DEL CÓDIGO SUSTANTIVO DEL TRABAJO. Aparte tachado INEXEQUIBLE Las personas que presten sus servicios a las empresas de servicios públicos privadas o mixtas,",
    "diff": {
-    "corpus": "...ARTÍCULO 41. Aplicación del Código Sustantivo del Trabajo. Las personas que presten sus servicios a las empresas de ser...",
-    "fuente": "...ARTÍCULO 41. APLICACIÓN DEL CÓDIGO SUSTANTIVO DEL TRABAJO. Aparte tachado INEXEQUIBLE Las personas que presten sus servicios a las empresas de ser..."
+    "corpus": "...ARTÍCULO 41. Aplicación del Código Sustantivo del Trabajo. Las personas que presten sus servicios a las empresas de se...",
+    "fuente": "...ARTÍCULO 41. APLICACIÓN DEL CÓDIGO SUSTANTIVO DEL TRABAJO. Aparte tachado INEXEQUIBLE Las personas que presten sus servicios a las empresas de se..."
    }
   },
   {
@@ -445,22 +438,22 @@
   {
    "articulo": "44",
    "estado": "divergente",
-   "similitud": 0.7852,
+   "similitud": 0.7912,
    "corpus": "ARTÍCULO 44. Conﬂicto de intereses; inhabilidades e incompatibilidades. Para los efectos del funcionamiento de las empresas de servicios públicos y de las autoridades competentes e",
    "fuente": "ARTÍCULO 44. CONFLICTO DE INTERESES; INHABILIDADES E INCOMPATIBILIDADES. Para los efectos del funcionamiento de las empresas de servicios públicos y de las autoridades competentes ",
    "diff": {
-    "corpus": "...stablecen las siguientes inhabilidades e incompatibilidades; Ley 142 de 1994 Departamento Administrativo de la Función Pública 44.1. Salvo excepción legal, no podrán participar en la admi...",
-    "fuente": "...establecen las siguientes inhabilidades e incompatibilidades: 44.1. Salvo excepción legal, no podrán participar en la adm..."
+    "corpus": "...tablecen las siguientes inhabilidades e incompatibilidades: Ley 142 de 1994 44.1. Salvo excepción legal, no podrán participar en la admi...",
+    "fuente": "...stablecen las siguientes inhabilidades e incompatibilidades: 44.1. Salvo excepción legal, no podrán participar en la adm..."
    }
   },
   {
    "articulo": "45",
    "estado": "divergente",
-   "similitud": 0.4699,
+   "similitud": 0.4845,
    "corpus": "ARTÍCULO 45. Principios rectores del control. El propósito esencial del control empresarial es hacer coincidir los objetivos de quienes prestan servicios públicos con sus ﬁnes soci",
    "fuente": "ARTÍCULO 45. PRINCIPIOS RECTORES DEL CONTROL. El propósito esencial del control empresarial es hacer coincidir los objetivos de quienes prestan servicios públicos con sus fines soc",
    "diff": {
-    "corpus": "...rmidad o control numérico formal y complementario de éste. Ley 142 de 1994 Departamento Administrativo de la Función Públi...",
+    "corpus": "...rmidad o control numérico formal y complementario de éste. Ley 142 de 1994 El control debe lograr un balance, integrando l...",
     "fuente": "...ormidad o control numérico formal y complementario de éste. El control debe lograr un balance, integrando los instrumentos existentes en materia de vigilancia, y armonizando la participación de las diferentes instancias ..."
    }
   },
@@ -494,7 +487,7 @@
   {
    "articulo": "51",
    "estado": "divergente",
-   "similitud": 0.306,
+   "similitud": 0.3062,
    "corpus": "ARTÍCULO 51. Auditoría Externa. Modiﬁcado por el art. 6 de la Ley 689 de 2001. Independientemente de los controles interno y ﬁscal, todas las empresas de servicios públicos están o",
    "fuente": "ARTÍCULO 51. AUDITORÍA EXTERNA. Artículo modificado por el artículo 6 de la Ley 689 de 2001. Aparte subrayado CONDICIONALMENTE EXEQUIBLE. El nuevo texto es el siguiente: Independie",
    "diff": {
@@ -505,7 +498,7 @@
   {
    "articulo": "52",
    "estado": "divergente",
-   "similitud": 0.1427,
+   "similitud": 0.1425,
    "corpus": "ARTÍCULO 52. Concepto de control de gestión y resultados. Modiﬁcado por el art. 7 de la Ley 689 de 2001. El control de gestión y de resultados es un proceso que, dentro de directri",
    "fuente": "ARTÍCULO 52. CONCEPTO DE CONTROL DE GESTIÓN Y RESULTADOS. Artículo modificado por el artículo 7 de la Ley 689 de 2001. El nuevo texto es el siguiente: El control de gestión y resul",
    "diff": {
@@ -516,7 +509,7 @@
   {
    "articulo": "53",
    "estado": "divergente",
-   "similitud": 0.2501,
+   "similitud": 0.2502,
    "corpus": "ARTÍCULO 53. Sistemas de Información. Corresponde a la Superintendencia de Servicios Públicos, en desarrollo de sus funciones de inspección y vigilancia, establecer los sistemas de",
    "fuente": "ARTÍCULO 53. SISTEMAS DE INFORMACIÓN. Corresponde a la Superintendencia de Servicios Públicos, en desarrollo de sus funciones de inspección y vigilancia, establecer los sistemas de",
    "diff": {
@@ -553,11 +546,11 @@
   {
    "articulo": "57",
    "estado": "divergente",
-   "similitud": 0.9359,
+   "similitud": 0.9528,
    "corpus": "ARTÍCULO 57. Facultad de imponer servidumbres, hacer ocupaciones temporales y remover obstáculos. Cuando sea necesario para prestar los servicios públicos, las empresas podrán pasa",
    "fuente": "ARTÍCULO 57. FACULTAD DE IMPONER SERVIDUMBRES, HACER OCUPACIONES TEMPORALES Y REMOVER OBSTÁCULOS. Cuando sea necesario para prestar los servicios públicos, las empresas podrán pasa",
    "diff": {
-    "corpus": "...ea, subterránea o superﬁcial, las líneas, cables o tuberías Ley 142 de 1994 Departamento Administrativo de la Función Pública necesarias; ocupar temporalmente las zonas que requieran en ...",
+    "corpus": "...ea, subterránea o superﬁcial, las líneas, cables o tuberías Ley 142 de 1994 necesarias; ocupar temporalmente las zonas que requieran en ...",
     "fuente": "...ea, subterránea o superficial, las líneas, cables o tuberías necesarias; ocupar temporalmente las zonas que requieran en..."
    }
   },
@@ -575,7 +568,7 @@
   {
    "articulo": "59",
    "estado": "divergente",
-   "similitud": 0.9601,
+   "similitud": 0.9748,
    "corpus": "ARTÍCULO 59. Causales, modalidad y duración. Modiﬁcado parcialmente por el Artículo 28 Decreto 1165 de 1999. El Superintendente de servicios públicos podrá tomar posesión de una em",
    "fuente": "ARTÍCULO 59. CAUSALES, MODALIDAD Y DURACIÓN.El Superintendente de servicios públicos podrá tomar posesión de una empresa, en los siguientes casos: 59.1. Cuando la empresa no quiera",
    "diff": {
@@ -608,7 +601,7 @@
   {
    "articulo": "62",
    "estado": "divergente",
-   "similitud": 0.2381,
+   "similitud": 0.2969,
    "corpus": "ARTÍCULO 62. Organización. Modiﬁcado por el art. 10 de la Ley 689 de 2001. Modiﬁcado parcialmente (Inciso 8) por el Artículo 40 Decreto 266 de 2000 Decreto 266 de 2000 declarado in",
    "fuente": "ARTÍCULO 62. ORGANIZACIÓN. Artículo modificado por el artículo 10 de la Ley 689 de 2001. El nuevo texto es el siguiente: En desarrollo del artículo 369 de la Constitución Política ",
    "diff": {
@@ -619,11 +612,11 @@
   {
    "articulo": "63",
    "estado": "divergente",
-   "similitud": 0.8071,
+   "similitud": 0.822,
    "corpus": "ARTÍCULO 63. Funciones. Con el ﬁn de asegurar la participación de los usuarios en la gestión y ﬁscalización de las empresas de servicios públicos domiciliarios, los Comités de Desa",
    "fuente": "ARTÍCULO 63. FUNCIONES. Con el fin de asegurar la participación de los usuarios en la gestión y fiscalización de las empresas de servicios públicos domiciliarios, los Comités de De",
    "diff": {
-    "corpus": "...n la prestación de los servicios públicos domiciliarios. Ley 142 de 1994 Departamento Administrativo de la Función Pública 63.2. Procurar que la comunidad aporte los recursos necesarios ...",
+    "corpus": "...n la prestación de los servicios públicos domiciliarios. Ley 142 de 1994 63.2. Procurar que la comunidad aporte los recursos necesarios ...",
     "fuente": "...s en la prestación de los servicios públicos domiciliarios. 63.2. Procurar que la comunidad aporte los recursos necesari..."
    }
   },
@@ -641,11 +634,11 @@
   {
    "articulo": "65",
    "estado": "divergente",
-   "similitud": 0.5771,
+   "similitud": 0.5873,
    "corpus": "ARTÍCULO 65. Las autoridades y la participación de los usuarios. Para la adecuada instrumentación de la participación ciudadana corresponde a las autoridades: 65.1. Las autoridades",
    "fuente": "ARTÍCULO 65. LAS AUTORIDADES Y LA PARTICIPACIÓN DE LOS USUARIOS. Para la adecuada instrumentación de la participación ciudadana corresponde a las autoridades: 65.1. Las autoridades",
    "diff": {
-    "corpus": "...tarlos y asesorarlos permanentemente en su operación. 65.2. Modiﬁcado parcialmente por el Artículo 28 Decreto 1165 de 1999 (Decreto 1165 de 1999 declarado INEXEQUIBLE mediante Sentencia Ley 142 de 1994 Departamento Administrativo de la Función Pública C-969-99). Los departamentos tendrán a su cargo la promoción y coordinac...",
+    "corpus": "...tarlos y asesorarlos permanentemente en su operación. 65.2. Modiﬁcado parcialmente por el Artículo 28 Decreto 1165 de 1999 (Decreto 1165 de 1999 declarado INEXEQUIBLE mediante Sentencia Ley 142 de 1994 C-969-99). Los departamentos tendrán a su cargo la promoción y coordinac...",
     "fuente": "...tarlos y asesorarlos permanentemente en su operación. 65.2. Los departamentos tendrán a su cargo la promoción y coordina..."
    }
   },
@@ -663,7 +656,7 @@
   {
    "articulo": "67",
    "estado": "divergente",
-   "similitud": 0.9432,
+   "similitud": 0.9516,
    "corpus": "ARTÍCULO 67. Funciones de los Ministerios en relación con los servicios públicos. El Ministerio de Minas y Energía, el de Comunicaciones y el de Desarrollo, tendrán, en relación co",
    "fuente": "ARTÍCULO 67. FUNCIONES DE LOS MINISTERIOS EN RELACIÓN CON LOS SERVICIOS PÚBLICOS. Ver Notas de Vigencia al final del artículo El Ministerio de Minas y Energía, el de Comunicaciones",
    "diff": {
@@ -678,7 +671,7 @@
   {
    "articulo": "69",
    "estado": "divergente",
-   "similitud": 0.6416,
+   "similitud": 0.753,
    "corpus": "ARTÍCULO 69. Organización y naturaleza. Créanse como unidades administrativas especiales, con independencia administrativa, técnica y patrimonial, y adscritas al respectivo ministe",
    "fuente": "ARTÍCULO 69. ORGANIZACIÓN Y NATURALEZA.. sic Créanse como unidades administrativas especiales, con independencia administrativa, técnica y patrimonial, y adscritas al respectivo mi",
    "diff": {
@@ -700,7 +693,7 @@
   {
    "articulo": "71",
    "estado": "divergente",
-   "similitud": 0.0871,
+   "similitud": 0.09,
    "corpus": "ARTÍCULO 71. Composición. Derogado por el art. 8, Decreto Nacional 2474 de 1999. Las comisiones de regulación estarán integradas por: 71.1. El Ministro respectivo o su delegado, qu",
    "fuente": "ARTÍCULO 71. COMPOSICIÓN. Artículo derogado por el artículo 8 del Decreto 2474 de 1999 .",
    "diff": {
@@ -715,7 +708,7 @@
   {
    "articulo": "73",
    "estado": "divergente",
-   "similitud": 0.2163,
+   "similitud": 0.2175,
    "corpus": "ARTÍCULO 73. Funciones y facultades generales. Modiﬁcado parcialmente por el Artículo 28 del Decreto 1165 de 1999 (Decreto 1165 de 1999 declarado INEXEQUIBLE mediante Sentencia C-9",
    "fuente": "ARTÍCULO 73. FUNCIONES Y FACULTADES GENERALES. Ver Notas del Editor Las comisiones de regulación tienen la función de regular los monopolios en la prestación de los servicios públi",
    "diff": {
@@ -726,7 +719,7 @@
   {
    "articulo": "74",
    "estado": "divergente",
-   "similitud": 0.3825,
+   "similitud": 0.3863,
    "corpus": "ARTÍCULO 74. Funciones especiales de las comisiones de regulación. Con sujeción a lo dispuesto en esta Ley y las demás disposiciones que la complementen, serán además, funciones y ",
    "fuente": "ARTÍCULO 74. FUNCIONES ESPECIALES DE LAS COMISIONES DE REGULACIÓN.Con sujeción a lo dispuesto en esta Ley y las demás disposiciones que la complementen, serán además, funciones y f",
    "diff": {
@@ -737,7 +730,7 @@
   {
    "articulo": "75",
    "estado": "divergente",
-   "similitud": 0.7981,
+   "similitud": 0.8388,
    "corpus": "ARTÍCULO 75. Funciones presidenciales de la Superintendencia de servicios públicos. Modiﬁcado parcialmente por el Artículo 28 del Decreto 1165 de 1999 (Decreto 1165 de 1999 declara",
    "fuente": "ARTÍCULO 75. FUNCIONES PRESIDENCIALES DE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS. El Presidente de la República ejercerá el control, la inspección y vigilancia de las entidades q",
    "diff": {
@@ -748,11 +741,11 @@
   {
    "articulo": "76",
    "estado": "divergente",
-   "similitud": 0.101,
+   "similitud": 0.1012,
    "corpus": "ARTÍCULO 76. Creación y naturaleza. Modiﬁcado parcialmente por el Artículo 28 del Decreto 1165 de 1999 (Decreto 1165 de 1999 declarado INEXEQUIBLE mediante Sentencia C-969-99). Cré",
    "fuente": "ARTÍCULO 76. CREACIÓN Y NATURALEZA. Créase la Superintendencia de Servicios Públicos Domiciliarios, como un organismo de carácter técnico, adscrito al Ministerio de Desarrollo Econ",
    "diff": {
-    "corpus": "...ARTÍCULO 76. Creación y naturaleza. Modiﬁcado parcialmente por el Artículo 28 del Decreto 1165 de 1999 (Decreto 1165 de 1999 declarado INEXEQUIBLE mediante Sentencia C-969-99). Créasse la Superintendencia...",
+    "corpus": "...ARTÍCULO 76. Creación y naturaleza. Modiﬁcado parcialmente por el Artículo 28 del Decreto 1165 de 1999 (Decreto 1165 de 1999 declarado INEXEQUIBLE mediante Sentencia C-969-99). Créase la Superintendencia ...",
     "fuente": "...ARTÍCULO 76. CREACIÓN Y NATURALEZA. Créase la Superintendencia de Servicios Públicos Domiciliarios, como un organismo de carácter técnico,..."
    }
   },
@@ -781,11 +774,11 @@
   {
    "articulo": "79",
    "estado": "divergente",
-   "similitud": 0.0499,
-   "corpus": "ARTÍCULO 79. Funciones de la Superintendencia de Servicios Públicos. Modiﬁcado por el art. 13 de la Ley 689 de 2001. , Adicionado por el art. 96, Ley 1151 de 2007. Las personas pre",
+   "similitud": 0.0482,
+   "corpus": "ARTÍCULO 79. Funciones de la Superintendencia de Servicios Públicos. Modiﬁcado por el art. 13 de la Ley 689 de 2001. Adicionado por el art. 96, Ley 1151 de 2007. Las personas prest",
    "fuente": "ARTÍCULO 79. FUNCIONES DE LA SUPERINTENDENCIA. Artículo modificado por el artículo 13 de la Ley 689 de 2001. El nuevo texto es el siguiente: Las personas prestadoras de servicios p",
    "diff": {
-    "corpus": "...ARTÍCULO 79. Funciones de la Superintendencia de Servicios Públicos. Modiﬁcado por el art. 13 de la Ley 689 de 2001. , Adiciona...",
+    "corpus": "...ARTÍCULO 79. Funciones de la Superintendencia de Servicios Públicos. Modiﬁcado por el art. 13 de la Ley 689 de 2001. Adicionado...",
     "fuente": "...ARTÍCULO 79. FUNCIONES DE LA SUPERINTENDENCIA. Artículo modificado por el artículo 13 de la Ley 689 de 20..."
    }
   },
@@ -803,7 +796,7 @@
   {
    "articulo": "81",
    "estado": "divergente",
-   "similitud": 0.9099,
+   "similitud": 0.919,
    "corpus": "ARTÍCULO 81. Sanciones. Adicionado parcialmente (parágrafos 1 y 2) por el Artículo 208 de la Ley 1753 de 2015. La Superintendencia de servicios públicos domiciliarios podrá imponer",
    "fuente": "ARTÍCULO 81. SANCIONES. La Superintendencia de servicios públicos domiciliarios podrá imponer las siguientes sanciones a quienes violen las normas a las que deben estar sujetas, se",
    "diff": {
@@ -847,7 +840,7 @@
   {
    "articulo": "85",
    "estado": "divergente",
-   "similitud": 0.9068,
+   "similitud": 0.9139,
    "corpus": "ARTÍCULO 85. Contribuciones especiales. Reglamentado por el Decreto Nacional 707 de 1995. Con el ﬁn de recuperar los costos del servicio de regulación que preste cada comisión, y l",
    "fuente": "ARTÍCULO 85. CONTRIBUCIONES ESPECIALES. Con el fin de recuperar los costos del servicio de regulación que preste cada comisión, y los de control y vigilancia que preste el Superint",
    "diff": {
@@ -857,19 +850,19 @@
   },
   {
    "articulo": "86",
-   "estado": "divergente",
-   "similitud": 0.9562,
-   "corpus": "ARTÍCULO 86. El régimen tarifario. El régimen tarifario en los servicios públicos a los que esta Ley se reﬁere, está compuesto por reglas relativas a: Ley 142 de 1994 Departamento ",
+   "estado": "casi",
+   "similitud": 0.989,
+   "corpus": "ARTÍCULO 86. El régimen tarifario. El régimen tarifario en los servicios públicos a los que esta Ley se reﬁere, está compuesto por reglas relativas a: Ley 142 de 1994 86.1. El régi",
    "fuente": "ARTÍCULO 86. EL RÉGIMEN TARIFARIO. El régimen tarifario en los servicios públicos a los que esta Ley se refiere, está compuesto por reglas relativas a: 86.1. El régimen de regulaci",
    "diff": {
-    "corpus": "...esta Ley se reﬁere, está compuesto por reglas relativas a: Ley 142 de 1994 Departamento Administrativo de la Función Pública 86.1. El régimen de regulación o de libertad. 86.2. El sistem...",
+    "corpus": "...esta Ley se reﬁere, está compuesto por reglas relativas a: Ley 142 de 1994 86.1. El régimen de regulación o de libertad. 86.2. El sistem...",
     "fuente": "...esta Ley se refiere, está compuesto por reglas relativas a: 86.1. El régimen de regulación o de libertad. 86.2. El siste..."
    }
   },
   {
    "articulo": "87",
    "estado": "divergente",
-   "similitud": 0.8456,
+   "similitud": 0.8561,
    "corpus": "ARTÍCULO 87. Criterios para deﬁnir el régimen tarifario. El régimen tarifario estará orientado por los criterios de eﬁciencia económica, neutralidad, solidaridad, redistribución, s",
    "fuente": "ARTÍCULO 87. CRITERIOS PARA DEFINIR EL RÉGIMEN TARIFARIO. El régimen tarifario estará orientado por los criterios de eficiencia económica, neutralidad, solidaridad, redistribución,",
    "diff": {
@@ -879,19 +872,19 @@
   },
   {
    "articulo": "88",
-   "estado": "divergente",
-   "similitud": 0.9747,
+   "estado": "casi",
+   "similitud": 0.9935,
    "corpus": "ARTÍCULO 88. Regulación y libertad de tarifas. Al ﬁjar sus tarifas, las empresas de servicios públicos se someterán al régimen de regulación, el cual podrá incluir las modalidades ",
    "fuente": "ARTÍCULO 88. REGULACIÓN Y LIBERTAD DE TARIFAS. Al fijar sus tarifas, las empresas de servicios públicos se someterán al régimen de regulación, el cual podrá incluir las modalidades",
    "diff": {
-    "corpus": "...los criterios y deﬁniciones de esta Ley. Capítulo II FORMULAS Y PRACTICAS DE TARIFAS Ley 142 de 1994 Departamento Admini...",
+    "corpus": "...los criterios y deﬁniciones de esta Ley. Capítulo II FORMULAS Y PRACTICAS DE TARIFAS Ley 142 de 1994...",
     "fuente": "...ase en los criterios y definiciones de esta Ley. CAPÍTULO II. FORMULAS Y PRACTICAS DE TARIFAS..."
    }
   },
   {
    "articulo": "89",
    "estado": "divergente",
-   "similitud": 0.8445,
+   "similitud": 0.8541,
    "corpus": "ARTÍCULO 89. Aplicación de los criterios de solidaridad y redistribución de ingresos. Reglamentado por el Decreto Nacional 565 de 1996, Reglamentado Parcialmente por el Decreto Nac",
    "fuente": "ARTÍCULO 89. APLICACIÓN DE LOS CRITERIOS DE SOLIDARIDAD Y REDISTRIBUCIÓN DE INGRESOS. Ver Notas del Editor Las comisiones de regulación exigirán gradualmente a todos quienes presta",
    "diff": {
@@ -927,12 +920,12 @@
   },
   {
    "articulo": "93",
-   "estado": "divergente",
-   "similitud": 0.9368,
-   "corpus": "ARTÍCULO 93. Costos de compras al por mayor para empresas distribuidoras con posición dominante. Al elaborar las fórmulas de tarifas a las Ley 142 de 1994 Departamento Administrati",
+   "estado": "casi",
+   "similitud": 0.9839,
+   "corpus": "ARTÍCULO 93. Costos de compras al por mayor para empresas distribuidoras con posición dominante. Al elaborar las fórmulas de tarifas a las Ley 142 de 1994 empresas que tengan posic",
    "fuente": "ARTÍCULO 93. COSTOS DE COMPRAS AL POR MAYOR PARA EMPRESAS DISTRIBUIDORAS CON POSICIÓN DOMINANTE. Al elaborar las fórmulas de tarifas a las empresas que tengan posición dominante en",
    "diff": {
-    "corpus": "...sición dominante. Al elaborar las fórmulas de tarifas a las Ley 142 de 1994 Departamento Administrativo de la Función Pública empresas que tengan posición dominante en un mercado, y cuya...",
+    "corpus": "...sición dominante. Al elaborar las fórmulas de tarifas a las Ley 142 de 1994 empresas que tengan posición dominante en un mercado, y cuya...",
     "fuente": "...SICIÓN DOMINANTE. Al elaborar las fórmulas de tarifas a las empresas que tengan posición dominante en un mercado, y cuya..."
    }
   },
@@ -961,19 +954,19 @@
   },
   {
    "articulo": "98",
-   "estado": "divergente",
-   "similitud": 0.9732,
+   "estado": "casi",
+   "similitud": 0.993,
    "corpus": "ARTÍCULO 98. Prácticas tarifarias restrictivas de la competencia. Se prohíbe a quienes presten los servicios públicos: 98.1. Dar a los clientes de un mercado competitivo, o cuyas t",
    "fuente": "ARTÍCULO 98. PRÁCTICAS TARIFARIAS RESTRICTIVAS DE LA COMPETENCIA. Se prohíbe a quienes presten los servicios públicos: 98.1. Dar a los clientes de un mercado competitivo, o cuyas t",
    "diff": {
-    "corpus": "...o, o cuyas tarifas no están sujetas a regulación, tarifas interiores a los costos operacionales, especialmente cuando la ...",
-    "fuente": "...o, o cuyas tarifas no están sujetas a regulación, tarifas inferiores a los costos operacionales, especialmente cuando la ..."
+    "corpus": "...ción dominante ante el mercado o ante clientes potenciales. Ley 142 de 1994 98.3 Discriminar contra unos clientes que poseen las mismas ...",
+    "fuente": "...ción dominante ante el mercado o ante clientes potenciales. 98.3. Discriminar contra unos clientes que poseen las mismas..."
    }
   },
   {
    "articulo": "99",
    "estado": "divergente",
-   "similitud": 0.5882,
+   "similitud": 0.5945,
    "corpus": "ARTÍCULO 99. Forma de subsidiar. Las entidades señaladas en el artículo 368 de la Constitución Política podrán conceder subsidios en sus respectivos presupuestos de acuerdo a las s",
    "fuente": "ARTÍCULO 99. FORMA DE SUBSIDIAR. Las entidades señaladas en el artículo 368 de la Constitución Política podrán conceder subsidios en sus respectivos presupuestos de acuerdo a las s",
    "diff": {
@@ -984,18 +977,18 @@
   {
    "articulo": "100",
    "estado": "casi",
-   "similitud": 0.9876,
+   "similitud": 0.9881,
    "corpus": "ARTÍCULO 100. Presupuesto y fuentes de los subsidios. En los presupuestos de la Nación y de las entidades territoriales, las apropiaciones para inversión en acueducto y saneamiento",
    "fuente": "ARTÍCULO 100. PRESUPUESTO Y FUENTES DE LOS SUBSIDIOS. En los presupuestos de la Nación y de las entidades territoriales, las apropiaciones para inversión en acueducto y saneamiento",
    "diff": {
     "corpus": "... impuesto predial uniﬁcado al que se reﬁere el artículo 7 de la Ley 44 de 1990. En ningún caso se utilizarán recursos de...",
-    "fuente": "...l impuesto predial unificado al que se refiere el artículo 7o. de la Ley 44 de 1990. En ningún caso se utilizarán recursos..."
+    "fuente": "...l impuesto predial unificado al que se refiere el artículo 7o. de la Ley 44 de 1990. En ningún caso se utilizarán recurso..."
    }
   },
   {
    "articulo": "101",
    "estado": "divergente",
-   "similitud": 0.8542,
+   "similitud": 0.8637,
    "corpus": "ARTÍCULO 101. Régimen de estratiﬁcación. La estratiﬁcación se someterá a las siguientes reglas. 101.1. Es deber de cada municipio clasiﬁcar en estratos los inmuebles residenciales ",
    "fuente": "ARTÍCULO 101. RÉGIMEN DE ESTRATIFICACIÓN.La estratificación se someterá a las siguientes reglas. 101.1. Es deber de cada municipio clasificar en estratos los inmuebles residenciale",
    "diff": {
@@ -1039,11 +1032,11 @@
   {
    "articulo": "105",
    "estado": "divergente",
-   "similitud": 0.9589,
+   "similitud": 0.9688,
    "corpus": "ARTÍCULO 105. Principios y reglas de reorganización administrativa. De conformidad con lo dispuesto en los numerales 14 y 16 del artículo 189 y el artículo 370 de la Constitución P",
    "fuente": "ARTÍCULO 105. PRINCIPIOS Y REGLAS DE REORGANIZACIÓN ADMINISTRATIVA. De conformidad con lo dispuesto en los numerales 14 y 16 del artículo 189 y el artículo 370 de la Constitución P",
    "diff": {
-    "corpus": "...jerzan funciones iguales o incompatibles con lo dispuesto Ley 142 de 1994 Departamento Administrativo de la Función Pública en esta Ley. 105.2. Las modiﬁcaciones se harán sobre la base d...",
+    "corpus": "...jerzan funciones iguales o incompatibles con lo dispuesto Ley 142 de 1994 en esta Ley. 105.2. Las modiﬁcaciones se harán sobre la base d...",
     "fuente": "... ejerzan funciones iguales o incompatibles con lo dispuesto en esta Ley. 105.2. Las modificaciones se harán sobre la bas..."
    }
   },
@@ -1069,7 +1062,7 @@
   {
    "articulo": "109",
    "estado": "divergente",
-   "similitud": 0.9524,
+   "similitud": 0.9735,
    "corpus": "ARTÍCULO 109. Funcionario para la práctica de pruebas y decisión de recursos. Al practicar pruebas, las funciones que corresponderían al juez en un proceso civil las cumplirá la au",
    "fuente": "ARTÍCULO 109. FUNCIONARIO PARA LA PRÁCTICA DE PRUEBAS Y DECISIÓN DE RECURSOS. Al practicar pruebas, las funciones que corresponderían al juez en un proceso civil las cumplirá la au",
    "diff": {
@@ -1140,11 +1133,11 @@
   {
    "articulo": "118",
    "estado": "divergente",
-   "similitud": 0.8942,
+   "similitud": 0.9721,
    "corpus": "ARTÍCULO 118. Entidad con facultades para imponer la servidumbre. Tienen facultades para imponer la servidumbre por acto administrativo las entidades territoriales y la Nación, cua",
    "fuente": "ARTÍCULO 118. ENTIDAD CON FACULTADES PARA IMPONER LA SERVIDUMBRE. Tienen facultades para imponer la servidumbre por acto administrativo las entidades territoriales y la Nación, cua",
    "diff": {
-    "corpus": "...servicio público respectivo, y las comisiones de regulación. Ley 142 de 1994 Departamento Administrativo de la Función Pública...",
+    "corpus": "...servicio público respectivo, y las comisiones de regulación. Ley 142 de 1994...",
     "fuente": "...servicio público respectivo, y las comisiones de regulación...."
    }
   },
@@ -1180,12 +1173,12 @@
   },
   {
    "articulo": "123",
-   "estado": "divergente",
-   "similitud": 0.9012,
+   "estado": "casi",
+   "similitud": 0.9839,
    "corpus": "ARTÍCULO 123. Nombramiento de liquidador; procedimiento. La liquidación de las empresas de servicios públicos se hará siempre por una persona que designe o contrate la Superintende",
    "fuente": "ARTÍCULO 123. NOMBRAMIENTO DE LIQUIDADOR; PROCEDIMIENTO. La liquidación de las empresas de servicios públicos se hará siempre por una persona que designe o contrate la Superintende",
    "diff": {
-    "corpus": "...o no se opongan a normas especiales de esta Ley. CAPITULO V Ley 142 de 1994 Departamento Administrativo de la Función Pública LAS FORMULAS TARIFARIAS...",
+    "corpus": "...o no se opongan a normas especiales de esta Ley. CAPITULO V Ley 142 de 1994 LAS FORMULAS TARIFARIAS...",
     "fuente": "...to no se opongan a normas especiales de esta Ley. CAPÍTULO V. LAS FÓRMULAS TARIFARIAS..."
    }
   },
@@ -1218,7 +1211,7 @@
   {
    "articulo": "127",
    "estado": "divergente",
-   "similitud": 0.8632,
+   "similitud": 0.905,
    "corpus": "ARTÍCULO 127. Inicio de la actuación administrativa para ﬁjar nuevas tarifas. Antes de doce meses de la fecha prevista para que termine la vigencia de las fórmulas tarifarias, la c",
    "fuente": "ARTÍCULO 127. INICIO DE LA ACTUACIÓN ADMINISTRATIVA PARA FIJAR NUEVAS TARIFAS. Antes de doce meses de la fecha prevista para que termine la vigencia de las fórmulas tarifarias, la ",
    "diff": {
@@ -1251,7 +1244,7 @@
   {
    "articulo": "130",
    "estado": "divergente",
-   "similitud": 0.2252,
+   "similitud": 0.2287,
    "corpus": "ARTÍCULO 130. Partes del contrato. Modiﬁcado por el art. 43, Decreto Nacional 266 de 2000, Modiﬁcado por el art. 18, Ley 689 de 2001. Son partes del contrato la empresa de servicio",
    "fuente": "ARTÍCULO 130. PARTES DEL CONTRATO. Artículo modificado por el artículo 18 de la Ley 689 de 2001. El nuevo texto es el siguiente: Son partes del contrato la empresa de servicios púb",
    "diff": {
@@ -1277,11 +1270,11 @@
   {
    "articulo": "133",
    "estado": "casi",
-   "similitud": 0.9866,
+   "similitud": 0.9964,
    "corpus": "ARTÍCULO 133. Abuso de la posición dominante. Se presume que hay abuso de la posición dominante de la empresa de servicios públicos, en los contratos a los que se reﬁere este libro",
    "fuente": "ARTÍCULO 133. ABUSO DE LA POSICIÓN DOMINANTE. Se presume que hay abuso de la posición dominante de la empresa de servicios públicos, en los contratos a los que se refiere este libr",
    "diff": {
-    "corpus": "...los derechos que ella tiene frente al suscriptor o usuario; Ley 142 de 1994 Departamento Administrativo de la Función Pública 133.8. Las que obligan al suscriptor o usuario a preparar do...",
+    "corpus": "...los derechos que ella tiene frente al suscriptor o usuario; Ley 142 de 1994 133.8. Las que obligan al suscriptor o usuario a preparar do...",
     "fuente": "... los derechos que ella tiene frente al suscriptor o usuario; 133.8. Las que obligan al suscriptor o usuario a preparar d..."
    }
   },
@@ -1314,11 +1307,11 @@
   {
    "articulo": "137",
    "estado": "divergente",
-   "similitud": 0.6111,
+   "similitud": 0.6293,
    "corpus": "ARTÍCULO 137. Reparaciones por falla en la prestación del servicio. La falla del servicio da derecho al suscriptor o usuario, desde el momento en el que se presente, a la resolució",
    "fuente": "ARTÍCULO 137. REPARACIONES POR FALLA EN LA PRESTACIÓN DEL SERVICIO. La falla del servicio da derecho al suscriptor o usuario, desde el momento en el que se presente, a la resolució",
    "diff": {
-    "corpus": "...alor del consumo de un día del usuario afectado por cada Ley 142 de 1994 Departamento Administrativo de la Función Pública...",
+    "corpus": "...alor del consumo de un día del usuario afectado por cada Ley 142 de 1994 día en que el servicio haya fallado totalmente o ...",
     "fuente": "...l valor del consumo de un día del usuario afectado por cada día en que el servicio haya fallado totalmente o en proporción a la duración de la fa..."
    }
   },
@@ -1336,18 +1329,18 @@
   {
    "articulo": "139",
    "estado": "divergente",
-   "similitud": 0.9674,
+   "similitud": 0.9683,
    "corpus": "ARTÍCULO 139. Suspensión en interés del servicio. No es falla en la prestación del servicio la suspensión que haga la empresa para: 139.1. Hacer reparaciones técnicas, mantenimient",
    "fuente": "ARTÍCULO 139. SUSPENSIÓN EN INTERÉS DEL SERVICIO. No es falla en la prestación del servicio la suspensión que haga la empresa para: 139.1. Hacer reparaciones técnicas, mantenimient",
    "diff": {
-    "corpus": "...ntro de las circunstancias, para que el suscriptor o usuarios pueda hacer valer sus derechos. Ver Concepto de la SSPD 470...",
-    "fuente": "...ntro de las circunstancias, para que el suscriptor o usuario pueda hacer valer sus derechos...."
+    "corpus": "... que el suscriptor o usuario pueda hacer valer sus derechos. Ver Concepto de la SSPD 470 de 2011...",
+    "fuente": "... que el suscriptor o usuario pueda hacer valer sus derechos...."
    }
   },
   {
    "articulo": "140",
    "estado": "divergente",
-   "similitud": 0.3186,
+   "similitud": 0.3257,
    "corpus": "ARTÍCULO 140. Suspensión por incumplimiento. Modiﬁcado por el art. 19 de la Ley 689 de 2001. El incumplimiento del contrato por parte del suscriptor o usuario da lugar a la suspens",
    "fuente": "ARTÍCULO 140. SUSPENSIÓN POR INCUMPLIMIENTO. Artículo modificado por el artículo 19 de la Ley 689 de 2001. El nuevo texto es el siguiente: El incumplimiento del contrato por parte ",
    "diff": {
@@ -1369,12 +1362,12 @@
   {
    "articulo": "142",
    "estado": "divergente",
-   "similitud": 0.0882,
-   "corpus": "ARTÍCULO 142. Restablecimiento del servicio. Modiﬁcado por el art. 39, Decreto Nacional 266 de 2000. Para restablecer el servicio, si la suspensión o el corte fueron imputables al ",
+   "similitud": 0.0898,
+   "corpus": "ARTÍCULO 142. Reestablecimiento del servicio. Modiﬁcado por el art. 39, Decreto Nacional 266 de 2000. Para restablecer el servicio, si la suspensión o el corte fueron imputables al",
    "fuente": "ARTÍCULO 142. REESTABLECIMIENTO DEL SERVICIO. Para restablecer el servicio, si la suspensión o el corte fueron imputables al suscriptor o usuario, éste debe eliminar su causa, paga",
    "diff": {
-    "corpus": "...ARTÍCULO 142. Restablecimiento del servicio. Modiﬁcado por el art. 39, Decre...",
-    "fuente": "...ARTÍCULO 142. REESTABLECIMIENTO DEL SERVICIO. Para restablecer el servicio, s..."
+    "corpus": "...ARTÍCULO 142. Reestablecimiento del servicio. Modiﬁcado por el art. 39, Decreto Nacional 266 de 2000. Para res...",
+    "fuente": "...ARTÍCULO 142. REESTABLECIMIENTO DEL SERVICIO. Para restablecer el servicio, si la suspensión o el corte fueron imputables al suscriptor o usuario, éste debe elimina..."
    }
   },
   {
@@ -1391,12 +1384,12 @@
   {
    "articulo": "144",
    "estado": "divergente",
-   "similitud": 0.9559,
+   "similitud": 0.9737,
    "corpus": "ARTÍCULO 144. De los medidores individuales. Los contratos uniformes pueden exigir que los suscriptores o usuarios adquieran, instalen, mantengan y reparen los instrumentos necesar",
    "fuente": "ARTÍCULO 144. DE LOS MEDIDORES INDIVIDUALES. Los contratos uniformes pueden exigir que los suscriptores o usuarios adquieran, instalen, mantengan y reparen los instrumentos necesar",
    "diff": {
-    "corpus": "...nicas de los medidores, y del mantenimiento que deba dárselas. No será obligación del suscriptor o usuario cerciorarse de...",
-    "fuente": "...cnicas de los medidores, y del mantenimiento que deba dárseles. No será obligación del suscriptor o usuario cerciorarse d..."
+    "corpus": "... pueden reservar a las empresas, por razones de seguridad Ley 142 de 1994 comprobables, la calibración y mantenimiento de ...",
+    "fuente": "...os pueden reservar a las empresas, por razones de seguridad comprobables, la calibración y mantenimiento de los medidores...."
    }
   },
   {
@@ -1413,7 +1406,7 @@
   {
    "articulo": "146",
    "estado": "casi",
-   "similitud": 0.9805,
+   "similitud": 0.9899,
    "corpus": "ARTÍCULO 146. La medición del consumo, y el precio en el contrato. Reglamentado por el Decreto Nacional 2668 de 1999. La empresa y el suscriptor o usuario tienen derecho a que los ",
    "fuente": "ARTÍCULO 146. LA MEDICIÓN DEL CONSUMO, Y EL PRECIO EN EL CONTRATO. La empresa y el suscriptor o usuario tienen derecho a que los consumos se midan; a que se empleen para ello los i",
    "diff": {
@@ -1450,11 +1443,11 @@
   {
    "articulo": "150",
    "estado": "divergente",
-   "similitud": 0.9101,
+   "similitud": 0.9766,
    "corpus": "ARTÍCULO 150. De los cobros inoportunos. Al cabo de cinco meses de haber entregado las facturas, las empresas no podrán cobrar bienes o servicios que no facturaron por error, omisi",
    "fuente": "ARTÍCULO 150. DE LOS COBROS INOPORTUNOS. Al cabo de cinco meses de haber entregado las facturas, las empresas no podrán cobrar bienes o servicios que no facturaron por error, omisi",
    "diff": {
-    "corpus": "...os casos en que se compruebe dolo del suscriptor o usuario. Ley 142 de 1994 Departamento Administrativo de la Función Pública...",
+    "corpus": "...os casos en que se compruebe dolo del suscriptor o usuario. Ley 142 de 1994...",
     "fuente": "...los casos en que se compruebe dolo del suscriptor o usuario...."
    }
   },
@@ -1486,12 +1479,12 @@
   },
   {
    "articulo": "154",
-   "estado": "divergente",
-   "similitud": 0.9795,
+   "estado": "casi",
+   "similitud": 0.9949,
    "corpus": "ARTÍCULO 154. De los recursos. El recurso es un acto del suscriptor o usuario para obligar a la empresa a revisar ciertas decisiones que afectan la prestación del servicio o la eje",
    "fuente": "ARTÍCULO 154. DE LOS RECURSOS. El recurso es un acto del suscriptor o usuario para obligar a la empresa a revisar ciertas decisiones que afectan la prestación del servicio o la eje",
    "diff": {
-    "corpus": "...criptores o usuarios que deseen emplearlos. La apelación se Ley 142 de 1994 Departamento Administrativo de la Función Pública presentará ante la superintendencia....",
+    "corpus": "...criptores o usuarios que deseen emplearlos. La apelación se Ley 142 de 1994 presentará ante la superintendencia....",
     "fuente": "...criptores o usuarios que deseen emplearlos. La apelación se presentará ante la superintendencia...."
    }
   },
@@ -1538,12 +1531,12 @@
   },
   {
    "articulo": "160",
-   "estado": "divergente",
-   "similitud": 0.9449,
+   "estado": "casi",
+   "similitud": 0.9861,
    "corpus": "ARTÍCULO 160. Prioridades en la aplicación de las normas. Cuando la Comisión de regulación de agua potable y saneamiento, y la Superintendencia de Servicios Públicos Domiciliarios ",
    "fuente": "ARTÍCULO 160. PRIORIDADES EN LA APLICACIÓN DE LAS NORMAS. Cuando la Comisión de Regulación de Agua Potable y Saneamiento, y la Superintendencia de Servicios Públicos Domiciliarios ",
    "diff": {
-    "corpus": "... y calidad, éstos se logren sin sacriﬁcio de la cobertura. Ley 142 de 1994 Departamento Administrativo de la Función Pública...",
+    "corpus": "... y calidad, éstos se logren sin sacriﬁcio de la cobertura. Ley 142 de 1994...",
     "fuente": "...a y calidad, éstos se logren sin sacrificio de la cobertura...."
    }
   },
@@ -1565,11 +1558,11 @@
   {
    "articulo": "163",
    "estado": "divergente",
-   "similitud": 0.4626,
+   "similitud": 0.4684,
    "corpus": "ARTÍCULO 163. Fórmulas tarifarias para empresas de acueducto y saneamiento básico. Las fórmulas tarifarias, además de tomar en cuenta los costos de expansión y reposición de los si",
    "fuente": "ARTÍCULO 163. FÓRMULAS TARIFARIAS PARA EMPRESAS DE ACUEDUCTO Y SANEAMIENTO BÁSICO. Las fórmulas tarifarias, además de tomar en cuenta los costos de expansión y reposición de los si",
    "diff": {
-    "corpus": "...básico, incluirán los costos de administración, operación y Ley 142 de 1994 Departamento Administrativo de la Función Públ...",
+    "corpus": "...básico, incluirán los costos de administración, operación y Ley 142 de 1994 mantenimiento asociados con el servicio. Ademá...",
     "fuente": "...básico, incluirán los costos de administración, operación y mantenimiento asociados con el servicio. Además, tendrán en cuenta indicadores de gestión operacional y administrativa, definidos de acuerdo con indicadores de em..."
    }
   },
@@ -1587,7 +1580,7 @@
   {
    "articulo": "165",
    "estado": "casi",
-   "similitud": 0.9969,
+   "similitud": 0.9985,
    "corpus": "ARTÍCULO 165. Financiamiento de Findeter. Las entidades prestadoras de servicios públicos podrán recibir ﬁnanciamiento y asesoría por parte de la Financiera de Desarrollo Territori",
    "fuente": "ARTÍCULO 165. FINANCIAMIENTO DE FINDETER. Las entidades prestadoras de servicios públicos podrán recibir financiamiento y asesoría por parte de la Financiera de Desarrollo Territor",
    "diff": {
@@ -1609,12 +1602,12 @@
   {
    "articulo": "167",
    "estado": "divergente",
-   "similitud": 0.7981,
-   "corpus": "ARTÍCULO 167. Reformas y escisión de I.S.A. S.A. Autorizase al gobierno nacional para modiﬁcar el objeto social de Interconexión Eléctrica S.A., que en lo sucesivo será el de atend",
+   "similitud": 0.9742,
+   "corpus": "ARTÍCULO 167. Reformas y escisión de ISA. S.A. Autorízase al gobierno nacional para modiﬁcar el objeto social de Interconexión Eléctrica S.A., que en lo sucesivo será el de atender",
    "fuente": "ARTÍCULO 167. REFORMAS Y ESCISIÓN DE ISA. S.A. Ver Notas del Editor Autorízase al gobierno nacional para modificar el objeto social de Interconexión Eléctrica S.A., que en lo suces",
    "diff": {
-    "corpus": "...ARTÍCULO 167. Reformas y escisión de I.S.A. S.A. Autorizase al gobierno nacional para modiﬁcar el ...",
-    "fuente": "...ARTÍCULO 167. REFORMAS Y ESCISIÓN DE ISA. S.A. Ver Notas del Editor Autorízase al gobierno nacional ..."
+    "corpus": "...ARTÍCULO 167. Reformas y escisión de ISA. S.A. Autorízase al gobierno nacional para modiﬁcar el objeto soci...",
+    "fuente": "...ARTÍCULO 167. REFORMAS Y ESCISIÓN DE ISA. S.A. Ver Notas del Editor Autorízase al gobierno nacional para modificar el objeto soc..."
    }
   },
   {
@@ -1638,12 +1631,12 @@
   },
   {
    "articulo": "171",
-   "estado": "divergente",
-   "similitud": 0.9746,
+   "estado": "casi",
+   "similitud": 0.9937,
    "corpus": "ARTÍCULO 171. Funciones del Centro Nacional de Despacho. El centro nacional de despacho tendrá las siguientes funciones especíﬁcas, que deberá desempeñar ciñéndose a lo establecido",
    "fuente": "ARTÍCULO 171. FUNCIONES DEL CENTRO NACIONAL DE DESPACHO. El centro nacional de despacho tendrá las siguientes funciones específicas, que deberá desempeñar ciñéndose a lo establecid",
    "diff": {
-    "corpus": "...ciones o conductas contrarias al reglamento de operación. Ley 142 de 1994 Departamento Administrativo de la Función Pública...",
+    "corpus": "...ciones o conductas contrarias al reglamento de operación. Ley 142 de 1994...",
     "fuente": "...olaciones o conductas contrarias al reglamento de operación...."
    }
   },
@@ -1671,14 +1664,7 @@
   },
   {
    "articulo": "174",
-   "estado": "casi",
-   "similitud": 0.9993,
-   "corpus": "ARTÍCULO 174. Áreas de Servicio exclusivo para gas domiciliario. Por motivos de interés social y con el propósito de que la utilización racional del recurso gas natural, permita la",
-   "fuente": "ARTÍCULO 174. ÁREAS DE SERVICIO EXCLUSIVO PARA GAS DOMICILIARIO. Por motivos de interés social y con el propósito de que la utilización racional del recurso gas natural, permita la",
-   "diff": {
-    "corpus": "...ciones contenidas en el artículo 40 de esta Ley. PARÁGRAFO 1. Es obligación del Ministerio de Minas y Energía, al estudi...",
-    "fuente": "...ciones contenidas en el artículo 40 de esta Ley. PARÁGRAFO 1o. Es obligación del Ministerio de Minas y Energía, al estudi..."
-   }
+   "estado": "exacto"
   },
   {
    "articulo": "175",
@@ -1686,23 +1672,23 @@
   },
   {
    "articulo": "176",
-   "estado": "divergente",
-   "similitud": 0.9733,
-   "corpus": "ARTÍCULO 176. Cuando la Nación considere necesario podrá, directamente o a través de contratos con terceros, organizar licitaciones a las que pueda presentarse cualquier empresa, p",
+   "estado": "casi",
+   "similitud": 0.9979,
+   "corpus": "ARTÍCULO 176. Cuando la Nación lo considere necesario podrá, directamente o a través de contratos con terceros, organizar licitaciones a las que pueda presentarse cualquier empresa",
    "fuente": "ARTÍCULO 176.Cuando la Nación lo considere necesario podrá, directamente o a través de contratos con terceros, organizar licitaciones a las que pueda presentarse cualquier empresa ",
    "diff": {
-    "corpus": "...ARTÍCULO 176. Cuando la Nación considere necesario podrá, directamente o a través de contr...",
-    "fuente": "...ARTÍCULO 176.Cuando la Nación lo considere necesario podrá, directamente o a través de contr..."
+    "corpus": "...ARTÍCULO 176. Cuando la Nación lo considere necesario podrá, directamente ...",
+    "fuente": "...ARTÍCULO 176.Cuando la Nación lo considere necesario podrá, directamente ..."
    }
   },
   {
    "articulo": "177",
-   "estado": "divergente",
-   "similitud": 0.9522,
+   "estado": "casi",
+   "similitud": 0.9874,
    "corpus": "ARTÍCULO 177. Protección de empleados. Para proteger a los empleados públicos al cumplir esta Ley, se aplicará en todo cuanto sea pertinente el Capítulo IV del Decreto 2152 de 1992",
    "fuente": "ARTÍCULO 177. PROTECCIÓN DE EMPLEADOS. Para proteger a los empleados públicos al cumplir esta Ley, se aplicará en todo cuanto sea pertinente el Capitulo IV del Decreto 2152 de 1992",
    "diff": {
-    "corpus": "...ulación que crearon los Decretos 2119, 2152 y 2122 de 1992, Ley 142 de 1994 Departamento Administrativo de la Función Pública pasarán a ocupar las mismas posiciones en las comisiones que...",
+    "corpus": "...ulación que crearon los Decretos 2119, 2152 y 2122 de 1992, Ley 142 de 1994 pasarán a ocupar las mismas posiciones en las comisiones que...",
     "fuente": "...ulación que crearon los Decretos 2119, 2152 y 2122 de 1992, pasarán a ocupar las mismas posiciones en las comisiones que..."
    }
   },
@@ -1713,7 +1699,7 @@
   {
    "articulo": "179",
    "estado": "divergente",
-   "similitud": 0.2588,
+   "similitud": 0.2592,
    "corpus": "ARTÍCULO 179. Tránsito de legislación en tarifas. Derogado por el Artículo 7 de la Ley 286 de 1996. Las normas sobre tarifas actualmente vigentes continuarán en vigor hasta un máxi",
    "fuente": "ARTÍCULO 179. TRÁNSITO DE LEGISLACIÓN EN TARIFAS. Artículo derogado por el artículo 7o. de la Ley 286 de 1996 .",
    "diff": {
@@ -1735,7 +1721,7 @@
   {
    "articulo": "181",
    "estado": "divergente",
-   "similitud": 0.0409,
+   "similitud": 0.0408,
    "corpus": "ARTÍCULO 181. Viabilidad empresarial. Ampliado (hasta por seis meses más) por el Artículo 4 de la LEY 286 de 1996. Todas las empresas de servicios públicos, o quienes al entrar en ",
    "fuente": "ARTÍCULO 181. VIABILIDAD EMPRESARIAL. Pérdida de fuerza ejecutoria por cumplimiento del plazo para el cual fue expedido Todas las empresas de servicios públicos, o quienes al entra",
    "diff": {
@@ -1746,7 +1732,7 @@
   {
    "articulo": "182",
    "estado": "divergente",
-   "similitud": 0.5784,
+   "similitud": 0.6346,
    "corpus": "ARTÍCULO 182. Formación de empresas nuevas. Ampliado (hasta de dieciocho (18) meses) por el Artículo 3 de la Ley 286 de 1996. Cuando la Nación o las entidades territoriales hayan e",
    "fuente": "ARTÍCULO 182. FORMACIÓN DE EMPRESAS NUEVAS. Cuando la Nación o las entidades territoriales hayan estado prestando directamente un servicio público, deberán constituir las empresas ",
    "diff": {
@@ -1783,7 +1769,7 @@
   {
    "articulo": "186",
    "estado": "casi",
-   "similitud": 0.9819,
+   "similitud": 0.9991,
    "corpus": "ARTÍCULO 186. Concordancias y derogaciones. Para efectos del artículo 84 de la Constitución Política, esta Ley reglamenta de manera general las actividades relacionadas con los ser",
    "fuente": "ARTÍCULO 186. CONCORDANCIAS Y DEROGACIONES. Para efectos del artículo 84 de la Constitución Política, esta Ley reglamenta de manera general las actividades relacionadas con los ser",
    "diff": {
@@ -1816,20 +1802,20 @@
   {
    "articulo": "189",
    "estado": "divergente",
-   "similitud": 0.0431,
+   "similitud": 0.039,
    "corpus": "ARTÍCULO 189. Vigencia. Salvo cuando ella disponga otra cosa, esta Ley rige a partir de la fecha de su publicación en el Diario Oﬁcial. ARTÍCULO NUEVO. Adicionado por el art. 14, L",
    "fuente": "ARTÍCULO 189. VIGENCIA. Salvo cuando ella disponga otra cosa, esta Ley rige a partir de la fecha de su publicación en el Diario Oficial . El Presidente del Honorable Senado de la R",
    "diff": {
-    "corpus": "... a partir de la fecha de su publicación en el Diario Oﬁcial. ARTÍCULO NUEVO. Adicionado por el art. 14, Ley 689 de 2001....",
-    "fuente": "... a partir de la fecha de su publicación en el Diario Oficial . El Presidente del Honorable Senado de la República JORGE R..."
+    "corpus": "... a partir de la fecha de su publicación en el Diario Oﬁcial. ARTÍCULO NUEVO. Adicionado por el art. 14, Ley 689 de 2001. Del sistema ú...",
+    "fuente": "... a partir de la fecha de su publicación en el Diario Oficial . El Presidente del Honorable Senado de la República JORGE RAMON ELÍAS NADER Secretario General del Honorable Senado de la República, PEDRO PUMAREJO VEGA El Presidente de la Honorable Cámara de Representantes,..."
    }
   }
  ],
  "sin_contraparte": [],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
-  "exactos": 37,
-  "casi": 33,
-  "divergentes": 119
+  "exactos": 39,
+  "casi": 44,
+  "divergentes": 106
  }
 }

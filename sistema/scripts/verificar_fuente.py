@@ -34,6 +34,15 @@ JUNK_SUBSTR = [
     "sede principal", "horario de atencion", "atencion y servicios a la ciudadania",
     "transparencia y acceso a inform", "documentacion relacionada",
     "seccion del suin", "busqueda por fecha", "ver mas",
+    # Mueble del visor EVA (funcionpublica.gov.co) incrustado en el corpus
+    # original de la Ley 142: cabecera/pie de pagina por pagina impresa
+    # (hallazgo del analisis dedicado, 2026-09-24: 79 segmentos contaminados).
+    "departamento administrativo de la funcion publica",
+    "fecha y hora de creacion", "opcion documentos", "fin documento",
+]
+# Mueble EVA: linea que es SOLO "ley 142 de 1994 <pagina>".
+JUNK_REGEX = [
+    re.compile(r"^ley 142 de 1994 \d+$"),
 ]
 # Palabras de navegacion: SOLO si la linea completa es corta (<80) — una linea
 # legal corta que las contenga cae tambien, pero eso inclina a NO_VERIFICADA
@@ -61,7 +70,11 @@ STRUCT_RX = re.compile(
 
 
 def fold(s: str) -> str:
-    return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c)).lower()
+    s = "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c)).lower()
+    # Ordinales de numeracion en el cuerpo: "paragrafo 1o." == "paragrafo 1."
+    # (misma convencion ya aceptada para las claves en norm_key).
+    s = re.sub(r"(?<=\d)(?:o|°|º)(?=\s|\.|,|;|:|\)|$)", "", s)
+    return s
 
 
 def plano(s: str) -> str:
@@ -101,6 +114,8 @@ def limpiar(texto: str) -> str:
         if not f or f in ("---",):
             continue
         if any(j in f for j in JUNK_SUBSTR):
+            continue
+        if any(rx.search(f) for rx in JUNK_REGEX):
             continue
         if len(f) < 80 and any(f == j or f.startswith(j + " ") or f.startswith(j + ":")
                                for j in JUNK_CORTO):

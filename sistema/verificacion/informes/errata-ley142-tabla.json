@@ -1,0 +1,312 @@
+{
+  "erratas": [
+    {
+      "articulo": "3",
+      "buscar": "3.9. Respeto del principio de neutralidad",
+      "reemplazar": "3.9. Respecto del principio de neutralidad",
+      "justificacion": "Typo: el original 1994 dice 'Respecto del principio de neutralidad' (confirma fuente CRA)."
+    },
+    {
+      "articulo": "14",
+      "buscar": "actividades a las que también se aplica esta Ley",
+      "reemplazar": "actividades a que también se aplica esta Ley",
+      "justificacion": "Sobran 'las': la fuente oficial dice 'Son las actividades a que también se aplica esta Ley'."
+    },
+    {
+      "articulo": "18",
+      "buscar": "están facultades para hacer inversiones",
+      "reemplazar": "están facultadas para hacer inversiones",
+      "justificacion": "Typo verbal: la fuente dice 'todas las personas jurídicas están facultadas para hacer inversiones'."
+    },
+    {
+      "articulo": "18",
+      "buscar": "PARÁGRAFO . Independientemente de su objeto social",
+      "reemplazar": "PARÁGRAFO. Independientemente de su objeto social",
+      "justificacion": "Espacio sobrante antes del punto: la fuente dice 'PARÁGRAFO. Independientemente'."
+    },
+    {
+      "articulo": "24",
+      "buscar": "impuestos que sean\naplicables a los demás",
+      "reemplazar": "impuestos que no sean\naplicables a los demás",
+      "justificacion": "Palabra perdida (fe de erratas): el texto corregido oficial incluye '[no]' ('que [no] sean aplicables a los demás contribuyentes')."
+    },
+    {
+      "articulo": "25",
+      "buscar": "explotado, a través\nde contratos de concesión",
+      "reemplazar": "explotado a través\nde contratos de concesión",
+      "justificacion": "Coma añadida: la fuente dice 'del bien público explotado a través de contratos de concesión'."
+    },
+    {
+      "articulo": "25",
+      "buscar": "competencias\ndispuesta por la ley",
+      "reemplazar": "competencias\ndispuestas por la ley",
+      "justificacion": "Fe de erratas: el texto corregido oficial dice 'distribución de competencias dispuestas por la ley'."
+    },
+    {
+      "articulo": "27",
+      "buscar": "privilegios subsidio distinto",
+      "reemplazar": "privilegio o subsidio distinto",
+      "justificacion": "Palabra perdida y número: la fuente dice 'No podrán otorgar ni recibir de las empresas privilegio o subsidio distinto'."
+    },
+    {
+      "articulo": "40",
+      "buscar": "territoriales componentes",
+      "reemplazar": "territoriales competentes",
+      "justificacion": "Typo: la fuente dice 'la entidad o entidades territoriales competentes'."
+    },
+    {
+      "articulo": "44",
+      "buscar": "inhabilidades e incompatibilidades;",
+      "reemplazar": "inhabilidades e incompatibilidades:",
+      "justificacion": "Puntuación: el original abre la enumeración con dos puntos ('incompatibilidades: 44.1. ...')."
+    },
+    {
+      "articulo": "73",
+      "buscar": "no impliquen abusos de la posición dominante",
+      "reemplazar": "no impliquen abuso de la posición dominante",
+      "justificacion": "Número: la fuente (sin nota de reforma) dice 'no impliquen abuso de la posición dominante'."
+    },
+    {
+      "articulo": "76",
+      "buscar": "Créasse la Superintendencia",
+      "reemplazar": "Créase la Superintendencia",
+      "justificacion": "Typo: la fuente dice 'Créase la Superintendencia de Servicios Públicos Domiciliarios'."
+    },
+    {
+      "articulo": "79",
+      "buscar": "2001. , Adicionado por el art.",
+      "reemplazar": "2001. Adicionado por el art.",
+      "justificacion": "Resto de edición: coma y espacio sobrantes tras la nota 'Modificado por el art. 13 de la Ley 689 de 2001.'."
+    },
+    {
+      "articulo": "98",
+      "buscar": "tarifas interiores a los costos operacionales",
+      "reemplazar": "tarifas inferiores a los costos operacionales",
+      "justificacion": "Typo: la fuente dice 'tarifas inferiores a los costos operacionales' (numeral 98.1)."
+    },
+    {
+      "articulo": "139",
+      "buscar": "para que el suscriptor o usuarios pueda hacer valer",
+      "reemplazar": "para que el suscriptor o usuario pueda hacer valer",
+      "justificacion": "Número: la fuente dice 'para que el suscriptor o usuario pueda hacer valer sus derechos'."
+    },
+    {
+      "articulo": "142",
+      "buscar": "ARTÍCULO 142. Restablecimiento del servicio.",
+      "reemplazar": "ARTÍCULO 142. Reestablecimiento del servicio.",
+      "justificacion": "Typo en título: la fuente oficial titula 'REESTABLECIMIENTO DEL SERVICIO.' (sin nota de reforma)."
+    },
+    {
+      "articulo": "144",
+      "buscar": "deba dárselas",
+      "reemplazar": "deba dárseles",
+      "justificacion": "Pronombre: la fuente dice 'el mantenimiento que deba dárseles' (a los medidores)."
+    },
+    {
+      "articulo": "167",
+      "buscar": "Reformas y escisión de I.S.A. S.A. Autorizase al gobierno nacional",
+      "reemplazar": "Reformas y escisión de ISA. S.A. Autorízase al gobierno nacional",
+      "justificacion": "Sigla y tilde: la fuente titula 'REFORMAS Y ESCISIÓN DE ISA. S.A.' y escribe 'Autorízase'."
+    },
+    {
+      "articulo": "176",
+      "buscar": "Cuando la Nación considere necesario podrá",
+      "reemplazar": "Cuando la Nación lo considere necesario podrá",
+      "justificacion": "Palabra perdida: la fuente dice 'Cuando la Nación lo considere necesario podrá'."
+    },
+    {
+      "articulo": "181",
+      "buscar": "de aquella o de éste, para asumir",
+      "reemplazar": "de aquella o de éstas, para asumir",
+      "justificacion": "Concordancia: la fuente dice 'las entidades descentralizadas de aquella o de éstas, para asumir'."
+    }
+  ],
+  "version_o_anotacion": [
+    {
+      "articulo": "9",
+      "clase": "anotacion",
+      "motivo": "Fuente con nota fe de erratas y aparte '[...]' elidido antes de 'Los usuarios'; corpus sin corchetes, adición no reconstruible."
+    },
+    {
+      "articulo": "11",
+      "clase": "anotacion",
+      "motivo": "Corpus añade notas 'Reglamentado por el Decreto...'; texto base idéntico al original."
+    },
+    {
+      "articulo": "16",
+      "clase": "anotacion",
+      "motivo": "Fuente marca '[INDEPENDIENTE]' corregido mediante fe de erratas; corpus lleva la palabra corregida sin corchetes."
+    },
+    {
+      "articulo": "19",
+      "clase": "anotacion",
+      "motivo": "Diferencia solo de espaciado tras el punto ('PÚBLICOS.Las' en fuente): artefacto del gestor."
+    },
+    {
+      "articulo": "31",
+      "clase": "version",
+      "motivo": "Artículo modificado por Ley 689/2001: fuente titula 'RÉGIMEN DE LA CONTRATACIÓN' con texto nuevo."
+    },
+    {
+      "articulo": "32",
+      "clase": "anotacion",
+      "motivo": "Corpus añade notas de exequibilidad (C-066/97); el texto corregido por fe de erratas está presente en ambos."
+    },
+    {
+      "articulo": "39",
+      "clase": "version",
+      "motivo": "Parágrafo modificado por Ley 689/2001: fuente dice 'de que tratan el parágrafo del artículo 39 <sic> y el numeral 39.1'."
+    },
+    {
+      "articulo": "50",
+      "clase": "version",
+      "motivo": "Artículo modificado por Ley 689/2001; corpus conserva título y texto anteriores."
+    },
+    {
+      "articulo": "51",
+      "clase": "version",
+      "motivo": "Modificado por Ley 689/2001: fuente dice 'Independientemente del control interno'; corpus 'de los controles interno y fiscal'."
+    },
+    {
+      "articulo": "52",
+      "clase": "version",
+      "motivo": "Modificado por Ley 689/2001: fuente dice 'El control de gestión y resultados'; corpus 'gestión y de resultados'."
+    },
+    {
+      "articulo": "60",
+      "clase": "version",
+      "motivo": "Modificado por Ley 689/2001: fuente dice 'el Superintendente al tomar posesión podrá celebrar'; corpus 'deberá celebrar' (texto pre-2001)."
+    },
+    {
+      "articulo": "61",
+      "clase": "version",
+      "motivo": "Parágrafo adicionado por Ley 689/2001 ('Al ordenar la liquidación...') ausente en corpus; falta también cierre sobre licitaciones/servidumbres."
+    },
+    {
+      "articulo": "62",
+      "clase": "version",
+      "motivo": "Artículo modificado por Ley 689/2001: fuente con texto nuevo ('En desarrollo del artículo 369...')."
+    },
+    {
+      "articulo": "63",
+      "clase": "version",
+      "motivo": "Numeral 63.5 declarado INEXEQUIBLE en fuente (texto suprimido); corpus conserva el texto original."
+    },
+    {
+      "articulo": "66",
+      "clase": "version",
+      "motivo": "Modificado por Ley 689/2001: fuente dice 'vocales de control de los comités'; corpus 'vocales de los comités de desarrollo'."
+    },
+    {
+      "articulo": "71",
+      "clase": "version",
+      "motivo": "Artículo derogado por Decreto 2474/1999 según fuente; corpus conserva el texto."
+    },
+    {
+      "articulo": "74",
+      "clase": "anotacion",
+      "motivo": "Diferencia solo de espaciado tras el punto ('REGULACIÓN.Con' en fuente): artefacto del gestor."
+    },
+    {
+      "articulo": "77",
+      "clase": "version",
+      "motivo": "Modificado por Ley 689/2001: fuente dice 'La dirección y representación legal de la Superintendencia'."
+    },
+    {
+      "articulo": "82",
+      "clase": "version",
+      "motivo": "Fuente marca '<Artículo INEXEQUIBLE>'; corpus conserva el texto original completo."
+    },
+    {
+      "articulo": "85",
+      "clase": "version",
+      "motivo": "Numeral 85.3 derogado por Ley 1151/2007 en fuente; corpus conserva texto con nota de modificación (Ley 812/2003)."
+    },
+    {
+      "articulo": "89",
+      "clase": "anotacion",
+      "motivo": "Corpus añade notas 'Reglamentado por.../Modificado parcialmente...'; texto base idéntico al original."
+    },
+    {
+      "articulo": "99",
+      "clase": "anotacion",
+      "motivo": "Fuente con nota fe de erratas ('[...] adicionado') en 99.5; texto de corpus coincide con el corregido."
+    },
+    {
+      "articulo": "101",
+      "clase": "anotacion",
+      "motivo": "Diferencia solo de espaciado tras el punto ('ESTRATIFICACIÓN.La' en fuente): artefacto del gestor."
+    },
+    {
+      "articulo": "102",
+      "clase": "version",
+      "motivo": "Artículo modificado por Ley 689/2001: fuente dice 'Los inmuebles residenciales se clasificarán...'."
+    },
+    {
+      "articulo": "104",
+      "clase": "version",
+      "motivo": "Artículo modificado por Ley 689/2001: fuente dice 'podrá solicitar por escrito la revisión del estrato urbano o rural'."
+    },
+    {
+      "articulo": "125",
+      "clase": "version",
+      "motivo": "Corpus marca 'Derogado por el Artículo 105 del Decreto 955 de 2000 (declarado INEXEQUIBLE)'; fuente conserva texto original vigente."
+    },
+    {
+      "articulo": "126",
+      "clase": "version",
+      "motivo": "Artículo modificado por Ley 2099/2021 según fuente; corpus conserva texto anterior."
+    },
+    {
+      "articulo": "130",
+      "clase": "version",
+      "motivo": "Artículo modificado por Ley 689/2001 según fuente; corpus conserva texto con notas de modificación."
+    },
+    {
+      "articulo": "140",
+      "clase": "version",
+      "motivo": "Modificado por Ley 689/2001: fuente dice 'dos (2) períodos de facturación... bimestral y de tres (3)'; corpus 'tres períodos'."
+    },
+    {
+      "articulo": "148",
+      "clase": "anotacion",
+      "motivo": "Corpus añade nota 'Inciso. Adicionado por el art. 75, Decreto 1122 de 1999' sin texto de inciso; fuente no registra el inciso."
+    },
+    {
+      "articulo": "151",
+      "clase": "version",
+      "motivo": "Artículo derogado por Ley 1450/2011 según fuente; corpus conserva texto con nota de modificación (Ley 812/2003)."
+    },
+    {
+      "articulo": "158",
+      "clase": "anotacion",
+      "motivo": "Fuente con nota de subrogación por Decreto 2150/1995 (C-451-99); corpus con nota propia sobre Decreto 1122/1999 INEXEQUIBLE."
+    },
+    {
+      "articulo": "159",
+      "clase": "version",
+      "motivo": "Artículo modificado por Ley 689/2001 según fuente; corpus conserva texto anterior con notas."
+    },
+    {
+      "articulo": "162",
+      "clase": "anotacion",
+      "motivo": "Fuente con marcador de llamada 'Desarrollo*' y espacio antes de coma ('Desarrollo ,'): artefactos del capturador."
+    },
+    {
+      "articulo": "179",
+      "clase": "version",
+      "motivo": "Artículo derogado por Ley 286/1996 según fuente; corpus conserva el texto con nota de derogación."
+    },
+    {
+      "articulo": "184",
+      "clase": "anotacion",
+      "motivo": "Diferencia solo de espaciado tras el punto ('ESTRATIFICACIÓN.Las' en fuente): artefacto del gestor."
+    }
+  ],
+  "requiere_revision": [
+    {
+      "articulo": "81",
+      "motivo": "Corpus dice 'y al infractor de reincidencia' pero la fuente dice 'y al factor de reincidencia'. El español jurídico sugiere 'infractor', pero si la fuente oficial dice 'factor' se sospecha del capturador; requiere verificación contra el Diario Oficial antes de corregir."
+    }
+  ]
+}

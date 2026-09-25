@@ -11,23 +11,23 @@
   {
    "articulo": "2",
    "estado": "divergente",
-   "similitud": 0.633,
+   "similitud": 0.6319,
    "corpus": "ARTÍCULO 2o. OBJETO. Artículo integrado y unificado en el artículo 5.3.5.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del ",
    "fuente": "ARTÍCULO 2o. OBJETO. Artículo integrado y unificado en el artículo 5.3.5.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del ",
    "diff": {
-    "corpus": "...ión determinado en el artículo 1o de la presente resolución. PARÁGRAFO. Para las actividades de transferencia, tratamiento y disposición final prestadas por una persona diferente a la de recolección y transporte de residuos sólidos no aprovechables, su órgano decisorio competente adoptará el costo tarifario asociado a estas actividades, para lo cual deberá dar cumplimiento a las disposiciones contenidas en la sección 5.1.2 de la Resolución CRA 151 de 2001 o la norma que la modifique, adicione, sustituya o aclare, cuando a ello hubiere lugar....",
-    "fuente": "...ión determinado en el artículo 1o de la presente resolución...."
+    "corpus": "...ación determinado en el artículo 1o de la presente resolución. PARÁGRAFO. Para las actividades de transferencia, tratamiento y disposición final prestadas por una persona diferente a la de recolección y transporte de residuos sólidos no aprovechables, su órgano decisorio competente adoptará el costo tarifario asociado a estas actividades, para lo cual deberá dar cumplimiento a las disposiciones contenidas en la sección 5.1.2 de la Resolución CRA 151 de 2001 o la norma que la modifique, adicione, sustituya o aclare, cuando a ello hubiere lugar....",
+    "fuente": "...ación determinado en el artículo 1o de la presente resolución...."
    }
   },
   {
    "articulo": "5",
    "estado": "divergente",
-   "similitud": 0.3083,
+   "similitud": 0.308,
    "corpus": "ARTÍCULO 5o. DEFINICIONES. Artículo integrado y unificado en el artículo 5.3.5.1.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
    "fuente": "ARTÍCULO 5o. DEFINICIONES. Artículo integrado y unificado en el artículo 5.3.5.1.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
    "diff": {
-    "corpus": "...umeral 7 del artículo 2.3.2.1.1. del Decreto 1077 de 2015). PARÁGRAFO. El número de suscriptores del municipio en su área ur...",
-    "fuente": "...umeral 7 del artículo 2.3.2.1.1. del Decreto 1077 de 2015). 5.2 Área urbana. Zona geográfica del municipio debidamente delimitada en el compon..."
+    "corpus": "...Numeral 7 del artículo 2.3.2.1.1. del Decreto 1077 de 2015). PARÁGRAFO. El número de suscriptores del municipio en su área u...",
+    "fuente": "...Numeral 7 del artículo 2.3.2.1.1. del Decreto 1077 de 2015). 5.2 Área urbana. Zona geográfica del municipio debidamente delimitada en el compo..."
    }
   },
   {
@@ -37,8 +37,8 @@
    "corpus": "ARTÍCULO 7o. ESQUEMAS DE PRESTACIÓN. Artículo integrado y unificado en el artículo 5.3.5.1.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2",
    "fuente": "ARTÍCULO 7o. ESQUEMAS DE PRESTACIÓN. Artículo integrado y unificado en el artículo 5.3.5.1.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2",
    "diff": {
-    "corpus": "...015, o aquel que lo modifique, adicione, sustituya o aclare. PARÁGRAFO 1. Es responsabilidad del municipio garantizar la prestación del servicio público de aseo en aquellas áreas que no sean reportadas como APS por ningún prestador. PARÁGRAFO 2. Para los esquemas de prestación regional, la persona prestadora deberá definir por cada municipio o centro poblado rural una APS independiente, de manera que los costos asociados a las actividades de barrido de vías y áreas públicas, limpieza urbana y comercialización, que no pueden ser compartidos, se estimen de manera particular por APS. TÍTULO II. DEL CÁLCULO DE LA METODOLOGÍA TARIFARIA PARA EL PRIMER SEGMENTO. CAPÍTULO I. DEL CÁLCULO DEL COSTO FIJO, EL COSTO VARIABLE, EL PROMEDIO PARA LA ESTIMACIÓN Y EL CENTROIDE....",
-    "fuente": "...015, o aquel que lo modifique, adicione, sustituya o aclare...."
+    "corpus": "...2015, o aquel que lo modifique, adicione, sustituya o aclare. PARÁGRAFO 1. Es responsabilidad del municipio garantizar la prestación del servicio público de aseo en aquellas áreas que no sean reportadas como APS por ningún prestador. PARÁGRAFO 2. Para los esquemas de prestación regional, la persona prestadora deberá definir por cada municipio o centro poblado rural una APS independiente, de manera que los costos asociados a las actividades de barrido de vías y áreas públicas, limpieza urbana y comercialización, que no pueden ser compartidos, se estimen de manera particular por APS. TÍTULO II. DEL CÁLCULO DE LA METODOLOGÍA TARIFARIA PARA EL PRIMER SEGMENTO. CAPÍTULO I. DEL CÁLCULO DEL COSTO FIJO, EL COSTO VARIABLE, EL PROMEDIO PARA LA ESTIMACIÓN Y EL CENTROIDE....",
+    "fuente": "...2015, o aquel que lo modifique, adicione, sustituya o aclare...."
    }
   },
   {
@@ -66,12 +66,12 @@
   {
    "articulo": "15",
    "estado": "divergente",
-   "similitud": 0.8796,
+   "similitud": 0.8794,
    "corpus": "ARTÍCULO 15. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.2.2.1 de la Resolución CRA 943 de 2021",
    "fuente": "ARTÍCULO 15. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.2.2.1 de la Resolución CRA 943 de 2021",
    "diff": {
-    "corpus": "...derado por el número de suscriptores de cada servicio, así: Donde: Costo de Comercialización por Suscriptor adoptado por...",
-    "fuente": "...derado por el número de suscriptores de cada servicio, así: ! Donde: ! Costo de Comercialización por Suscriptor adoptado p..."
+    "corpus": "...onderado por el número de suscriptores de cada servicio, así: Donde: Costo de Comercialización por Suscriptor adoptado p...",
+    "fuente": "...onderado por el número de suscriptores de cada servicio, así: ! Donde: ! Costo de Comercialización por Suscriptor adoptado..."
    }
   },
   {
@@ -228,7 +228,7 @@
   {
    "articulo": "40",
    "estado": "divergente",
-   "similitud": 0.8996,
+   "similitud": 0.8995,
    "corpus": "ARTÍCULO 40. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.3.2.1 de la Resolución CRA 943 de 2021",
    "fuente": "ARTÍCULO 40. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.3.2.1 de la Resolución CRA 943 de 2021",
    "diff": {
@@ -383,7 +383,7 @@
   {
    "articulo": "65",
    "estado": "divergente",
-   "similitud": 0.8896,
+   "similitud": 0.8894,
    "corpus": "ARTÍCULO 65. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.4.2.1 de la Resolución CRA 943 de 2021",
    "fuente": "ARTÍCULO 65. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.4.2.1 de la Resolución CRA 943 de 2021",
    "diff": {
@@ -457,8 +457,8 @@
    "corpus": "ARTÍCULO 76. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.4.5.6 de la Resolución CRA 943 de 2021. Debe tener",
    "fuente": "ARTÍCULO 76. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.4.5.6 de la Resolución CRA 943 de 2021. Debe tener",
    "diff": {
-    "corpus": "...sustituya o aclare, de acuerdo con la fórmula definida para del precio máximo o mínimo que hubiese adoptado la persona p...",
-    "fuente": "...sustituya o aclare, de acuerdo con la fórmula definida para ! del precio máximo o mínimo que hubiese adoptado la persona p..."
+    "corpus": "... sustituya o aclare, de acuerdo con la fórmula definida para del precio máximo o mínimo que hubiese adoptado la persona ...",
+    "fuente": "... sustituya o aclare, de acuerdo con la fórmula definida para ! del precio máximo o mínimo que hubiese adoptado la persona ..."
    }
   },
   {
@@ -563,7 +563,7 @@
   {
    "articulo": "88",
    "estado": "divergente",
-   "similitud": 0.8836,
+   "similitud": 0.8834,
    "corpus": "ARTÍCULO 88. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.5.2.1 de la Resolución CRA 943 de 2021",
    "fuente": "ARTÍCULO 88. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.5.5.2.1 de la Resolución CRA 943 de 2021",
    "diff": {
@@ -711,7 +711,7 @@
   {
    "articulo": "105",
    "estado": "divergente",
-   "similitud": 0.7494,
+   "similitud": 0.7497,
    "corpus": "ARTÍCULO 105. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.6.1.2 de la Resolución CRA 943 de 2021. D",
    "fuente": "ARTÍCULO 105. COSTO VARIABLE POR TONELADA DE RESIDUOS SÓLIDOS NO APROVECHABLES (CVNA). Artículo integrado y unificado en el artículo 5.3.5.6.1.2 de la Resolución CRA 943 de 2021. D",
    "diff": {
@@ -722,7 +722,7 @@
   {
    "articulo": "109",
    "estado": "divergente",
-   "similitud": 0.9162,
+   "similitud": 0.9161,
    "corpus": "ARTÍCULO 109. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCSZ). Artículo integrado y unificado en el artículo 5.3.5.6.2.1 de la Resolución CRA 943 de 20",
    "fuente": "ARTÍCULO 109. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCSZ). Artículo integrado y unificado en el artículo 5.3.5.6.2.1 de la Resolución CRA 943 de 20",
    "diff": {
@@ -811,8 +811,8 @@
    "corpus": "ARTÍCULO 121. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.6.5.6 de la Resolución CRA 943 de 2021. Debe tene",
    "fuente": "ARTÍCULO 121. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.5.6.5.6 de la Resolución CRA 943 de 2021. Debe tene",
    "diff": {
-    "corpus": "...sustituya o aclare, de acuerdo con la fórmula definida para del precio máximo o mínimo que hubiese adoptado la persona p...",
-    "fuente": "...sustituya o aclare, de acuerdo con la fórmula definida para ! del precio máximo o mínimo que hubiese adoptado la persona p..."
+    "corpus": "... sustituya o aclare, de acuerdo con la fórmula definida para del precio máximo o mínimo que hubiese adoptado la persona ...",
+    "fuente": "... sustituya o aclare, de acuerdo con la fórmula definida para ! del precio máximo o mínimo que hubiese adoptado la persona ..."
    }
   },
   {
@@ -1222,12 +1222,12 @@
   {
    "articulo": "175",
    "estado": "divergente",
-   "similitud": 0.5857,
+   "similitud": 0.5858,
    "corpus": "ARTÍCULO 175. VIGENCIA DEL RÉGIMEN TARIFARIO Y DE LAS METODOLOGÍAS TARIFARIAS. Artículo integrado y unificado en el artículo 5.3.5.9.8 de la Resolución CRA 943 de 2021. Debe teners",
    "fuente": "ARTÍCULO 175. VIGENCIA DEL RÉGIMEN TARIFARIO Y DE LAS METODOLOGÍAS TARIFARIAS. Artículo integrado y unificado en el artículo 5.3.5.9.8 de la Resolución CRA 943 de 2021. Debe teners",
    "diff": {
-    "corpus": "...e acto administrativo, a más tardar el 1o. de julio de 2021. PARÁGRAFO 1o. La implementación de la progresividad no requiere que las personas prestadoras modifiquen el estudio de costos y tarifas, ni que adelanten actuación administrativa alguna ante la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA). PARÁGRAFO 2o. La progresividad establecida en el presente artículo es optativa para las personas prestadoras. No hay lugar a recuperación de ingresos dejados de percibir por la decisión empresarial de su adopción. PARÁGRAFO 3o. La progresividad debe ser implementada en el número de periodos que determine la persona prestadora, el cual no debe exceder los 24 meses calendario a partir del inicio de la aplicación del plan de progresividad. PARÁGRAFO 1o. El valor del incremento objeto de progresividad para cada uno de los costos económicos del servicio público de aseo (VPROGAseo), definido en el plan de progresividad, será el mismo durante toda la aplicación de dicho plan y los incrementos serán aplicados de acuerdo con el periodo de facturación que tenga establecido la persona prestadora del servicio, sin perjuicio de las actualizaciones tarifarias de carácter normativo. PARÁGRAFO 2o. El primer ajuste a cada uno de los costos económicos deberá realizarse al inicio de la aplicación del plan de progresividad. PARÁGRAFO 3o. Las personas prestadoras del servicio público de aseo que opten por la progresividad deberán informar a los suscriptores, previo a su aplicación, el plan de progresividad a implementar y cumplir con lo previsto en el artículo 5.1.2.1 de la Sección 5.1.2 de la Resolución CRA 151 de 2001, o la norma que la modifique, adicione o sustituya para el reporte de las variaciones tarifarias....",
-    "fuente": "...e acto administrativo, a más tardar el 1o. de julio de 2021...."
+    "corpus": "...sente acto administrativo, a más tardar el 1o. de julio de 2021. PARÁGRAFO 1o. La implementación de la progresividad no requiere que las personas prestadoras modifiquen el estudio de costos y tarifas, ni que adelanten actuación administrativa alguna ante la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA). PARÁGRAFO 2o. La progresividad establecida en el presente artículo es optativa para las personas prestadoras. No hay lugar a recuperación de ingresos dejados de percibir por la decisión empresarial de su adopción. PARÁGRAFO 3o. La progresividad debe ser implementada en el número de periodos que determine la persona prestadora, el cual no debe exceder los 24 meses calendario a partir del inicio de la aplicación del plan de progresividad. PARÁGRAFO 1o. El valor del incremento objeto de progresividad para cada uno de los costos económicos del servicio público de aseo (VPROGAseo), definido en el plan de progresividad, será el mismo durante toda la aplicación de dicho plan y los incrementos serán aplicados de acuerdo con el periodo de facturación que tenga establecido la persona prestadora del servicio, sin perjuicio de las actualizaciones tarifarias de carácter normativo. PARÁGRAFO 2o. El primer ajuste a cada uno de los costos económicos deberá realizarse al inicio de la aplicación del plan de progresividad. PARÁGRAFO 3o. Las personas prestadoras del servicio público de aseo que opten por la progresividad deberán informar a los suscriptores, previo a su aplicación, el plan de progresividad a implementar y cumplir con lo previsto en el artículo 5.1.2.1 de la Sección 5.1.2 de la Resolución CRA 151 de 2001, o la norma que la modifique, adicione o sustituya para el reporte de las variaciones tarifarias....",
+    "fuente": "...sente acto administrativo, a más tardar el 1o. de julio de 2021...."
    }
   }
  ],

@@ -19,8 +19,8 @@
    "corpus": "ARTÍCULO 3o. DEFINICIONES. Para los efectos de la presente ley, se entiende por: a) Autorización: Consentimiento previo, expreso e informado del Titular para llevar a cabo el Trata",
    "fuente": "ARTÍCULO 3o. DEFINICIONES. Para los efectos de la presente ley, se entiende por: a) Autorización: Consentimiento previo, expreso e informado del Titular para llevar a cabo el Trata",
    "diff": {
-    "corpus": "...la base de datos y/o el Tratamiento de los datos; f) Titular : Persona natural cuyos datos personales sean objeto de Trat...",
-    "fuente": "...la base de datos y/o el Tratamiento de los datos; f) Titular: Persona natural cuyos datos personales sean objeto de Trat..."
+    "corpus": "... la base de datos y/o el Tratamiento de los datos; f) Titular : Persona natural cuyos datos personales sean objeto de Tra...",
+    "fuente": "... la base de datos y/o el Tratamiento de los datos; f) Titular: Persona natural cuyos datos personales sean objeto de Tra..."
    }
   },
   {
@@ -133,7 +133,7 @@
   {
    "articulo": "29",
    "estado": "casi",
-   "similitud": 0.9967,
+   "similitud": 0.9934,
    "corpus": "ARTÍCULO 29. DEROGATORIAS. La presente ley deroga todas las disposiciones que le sean contrarias a excepción de aquellas contempladas en el artículo 2 o.",
    "fuente": "ARTÍCULO 29. DEROGATORIAS. La presente ley deroga todas las disposiciones que le sean contrarias a excepción de aquellas contempladas en el artículo 2o.",
    "diff": {

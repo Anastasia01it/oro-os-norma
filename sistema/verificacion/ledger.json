@@ -53,10 +53,10 @@
    "estado": "NO_VERIFICADA",
    "clase": "erratas_corpus_y_deriva_version",
    "articulos": 189,
-   "exactos": 37,
-   "casi": 33,
-   "divergentes": 119,
-   "nota": "Analisis dedicado (analisis-ley142.json): 63 div por notas editoriales en linea; 55 contenido_real = ~25 ERRATAS de transcripcion del corpus (art.24 pierde 'no', 40 'componentes'->'competentes', 73 'abusos', 167 'podara'...) + ~30 deriva de version real (corpus conserva texto pre-ley689/2001, pre-ley1450/2011; fuente CRA ya muestra modificado/INEXEQUIBLE). Errata por lote pendiente de firma; convencion de version (D11) pendiente.",
+   "exactos": 39,
+   "casi": 44,
+   "divergentes": 106,
+   "nota": "Errata H3 APLICADA 2026-09-24 (20 correcciones en 18 articulos, bitacora errata-ley142.jsonl; art.24 recupera el 'no' de la fe de erratas — cambia el mandato; art.40 competentes; art.176 'lo' perdido). 83/189 verificados (44%). Restantes 106: 36 version/anotacion (D11) + asimetria de notas editoriales (D8 pendiente) + art.81 en revision contra Diario Oficial ('infractor' vs captura 'factor').",
    "informe": "sistema/verificacion/informes/analisis-ley142.json"
   },
   "RESOLUCION-CRA-1011-2025.md": {

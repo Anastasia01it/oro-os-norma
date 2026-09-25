@@ -2,10 +2,10 @@
   "format_version": 1,
   "algorithm": "sha256",
   "scope": "normas_procesar/*.md (primer nivel)",
-  "created_at": "2026-09-24T06:57:43-0500",
+  "created_at": "2026-09-25T11:28:20-0500",
   "file_count": 90,
-  "total_bytes": 21659755,
-  "set_hash": "49b73fa91ed64f362934b10fcaab2a0d463629a5ef264cde28ccd4b90c1aefd3",
+  "total_bytes": 21659754,
+  "set_hash": "2a74d9b910fe3a2b9e6d8f02b4052119682007d01c3d962f66a2ef98ac4ae964",
   "files": {
     "ANEXO-A-Resolucion-SSPD-20211000650805-2021.md": {
       "sha256": "dbf0aac546c183ef6847f945305f8426e254bf5fe3df2fdb2f1a9054da4d5330",
@@ -136,8 +136,8 @@
       "bytes": 140487
     },
     "LEY-142-1994.md": {
-      "sha256": "1b989c4f5a096263f65e4a1ca4ecf03af998f082165caaa2ac8e39984917169a",
-      "bytes": 267938
+      "sha256": "9d741aa69d6c4d63a3485eb7cebbf77a560873b90da2e2268fb1246b9e2d47a7",
+      "bytes": 267937
     },
     "LEY-2232-2022.md": {
       "sha256": "bba4b3ee6687aed13a496253e6183e47522b533d6d5882fad85bbcad64fe7894",
