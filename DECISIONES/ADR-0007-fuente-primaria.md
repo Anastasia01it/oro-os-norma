@@ -237,3 +237,14 @@ del corpus corregido en los 106 campos).
 4. **¿Corrección de la corrupción de la fuente oficial** (Res. 0412)? Se
    reporta a la CRA/MinVivienda; el corpus mantiene su texto hasta tener
    fuente correcta.
+
+### Medición de impacto H3 sobre el piloto M6 (2026-09-24, cerrada sin re-correr)
+
+Se midió el solape entre las 20 líneas corregidas (líneas 71–2968 del corpus)
+y (a) los fragmentos leídos por el piloto (líneas 1–55, 841–843, 973–975,
+1654–1742, 2689–2697, 3083–3123) y (b) las 29 líneas citadas como evidencia
+en la ficha aceptada (formato `LEY-142-1994.md#L<n>`): **solape CERO en
+ambos**. Conclusión con evidencia: la errata H3 **no afecta la ficha M6
+aceptada**; no se re-corrió el piloto (sería reproducción sin delta). Tag
+`piloto-m6-aceptado` marca el estado aceptado. Si en el futuro se amplía la
+lectura del piloto más allá del 5 %, la errata ya está en el corpus.
