@@ -753,6 +753,150 @@
    "divergentes": 4,
    "nota": "PDF oficial via API minambiente (Wayback solo tenia enlaces rotos). Div: corpus inserta anotaciones inline de derogacion (Res. 2184/2019) + ruido OCR de sellos.",
    "informe": "sistema/verificacion/informes/Resolucion_1397_2018.json"
+  },
+  "CIRCULAR-CONJUNTA-01-2017.md": {
+   "estado": "VERIFICADA_CON_EXCEPCIONES",
+   "clase": "",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 2,
+   "nota": "2 divergencias son FALSO POSITIVO documentado (segmentos coinciden verbatim; el gestor envuelve referencias en hipervinculos y rompe el regex). Documento correcto. OJO: existe otra Circular 1 de 2017 (SSPD, tarifario) que NO es esta.",
+   "informe": "sistema/verificacion/informes/CIRCULAR-CONJUNTA-01-2017.json"
+  },
+  "CIRCULAR-EXTERNA-SSPD-20234300001184-2023.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "CONPES-3874-2016.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "CRA-DOCUMENTOS-TRABAJO-AA23072025.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "GUIA-CRA-Documento-Pedagogico-Marco-Tarifario-Aseo-2025.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "GUIA-CRA-Documento-Pedagogico-NMT-Aseo.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "GUIA-Calculo-Tarifa-Aprovechamiento.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "GUIA-DTO-Documento-Tecnico-Aprovechamiento-2019.md": {
+   "estado": "sin_canal",
+   "clase": "sin_canal",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "GUIA-SSPD-ABC-Aprovechamiento.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "GUIA-SSPD-Guia-Practica-Verificacion-Aprovechamiento-2024.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "GUIA-SSPD-Manual-Aplicativo-Aprovechamiento-2018.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "ANEXO-A-Resolucion-SSPD-20211000650805-2021.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "ANEXO-B-Listado-Residuos-SSPD-20211000650805-2021.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "documento_enriquecido",
+   "nota": "PDF oficial capturado. OJO: el oficial solo trae FAMILIA/MATERIAL/CODIGO; el corpus AÑADE equivalencias CER/STAT/LER y nota DANE 1776/2019 -> documento enriquecido: documentar como excepcion, NO corregir.",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "ANEXO-C-Flujos-Cargue-SSPD-20211000650805-2021.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "ANEXO-Resolucion-SSPD-20184300130165-2018.md": {
+   "estado": "fuente_pdf_pendiente_extraccion",
+   "clase": "pdf",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
+  },
+  "resolucion_cra_1040_de_2026.md": {
+   "estado": "no_verificada_fuente_no_disponible",
+   "clase": "html",
+   "nota": "",
+   "informe": "sistema/verificacion/informes/lote-E3.json",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null
   }
  },
  "canales": {
