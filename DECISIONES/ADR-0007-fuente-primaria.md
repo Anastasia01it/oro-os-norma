@@ -187,11 +187,21 @@ anotaciones. La deriva de versión entre corpus y fuente vigente (p. ej. Ley
 142 post-ley 689/2001, 1450/2011) se clasifica y documenta en el ledger —
 NO se corrige importando el texto nuevo, salvo errata firmada caso por caso.
 
-Ejecución de la errata: tabla corrección en
-`sistema/verificacion/informes/errata-ley142-tabla.json` (evidencia por
-artículo, regla buscar/reemplazar con unicidad verificada), bitácora en
-`informes/errata-ley142.jsonl`, re-verificación posterior y sellos nuevos.
-Los artículos en clase version/anotación quedan documentados, no tocados.
+Ejecución de la errata: **HECHA 2026-09-24** — tabla corrección en
+`sistema/verificacion/informes/errata-ley142-tabla.json` (55 artículos
+clasificados: 20 erratas / 36 versión-anotación / 1 revisión), bitácora
+`informes/errata-ley142.jsonl`, 20/20 aplicadas con unicidad verificada.
+Resultado: 37/33/119 → **39 exactos / 44 casi / 106 divergentes** (83/189 =
+44 % verificados). La fuente confirma el "no" del art. 24 como fe de erratas
+(`[no]` en el gestor). Endurecimiento de herramienta en el mismo commit:
+ordinales de cuerpo en `fold()` ("PARÁGRAFO 1o." == "PARÁGRAFO 1.") y mueble
+del visor EVA añadido al JUNK (79 segmentos contaminados; controles intactos).
+Los artículos en clase versión/anotación quedan documentados, no tocados
+(D11). **Pendiente: art. 81** (corpus "infractor" vs captura "factor") —
+revisión contra Diario Oficial, decisión humana.
+**Deuda: re-correr la ficha piloto M6 sobre la Ley 142 corregida y diffs
+contra la ficha aceptada** (aprobado como parte de esta errata: medir impacto
+del corpus corregido en los 106 campos).
 
 ## Pendientes de decisión humana (actualizado)
 
