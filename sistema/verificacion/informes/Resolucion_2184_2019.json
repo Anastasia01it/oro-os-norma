@@ -1,0 +1,62 @@
+{
+ "corpus": "Resolucion_2184_2019.md",
+ "fuente": "sistema/verificacion/fuentes/Resolucion_2184_2019.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 4,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.8982,
+   "corpus": "ARTÍCULO 1o. Artículo derogado por el artículo 26 de la Resolución 803 de 2024 Adóptese el “Formato Único Nacional para la presentación del Programa de Uso Racional de Bolsas Plást",
+   "fuente": "ARTÍCULO 1. Adóptese el “Formato Único Nacional para la presentación del Programa de Uso Racional de Bolsas Plásticas y del informe de avance”, a que se refiere el artículo 5 de la",
+   "diff": {
+    "corpus": "...ARTÍCULO 1o. Artículo derogado por el artículo 26 de la Resolución 803 ...",
+    "fuente": "...ARTÍCULO 1. Adóptese el “Formato Único Nacional para la presentación d..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.4187,
+   "corpus": "ARTÍCULO 2o. Artículo derogado por el artículo 26 de la Resolución 803 de 2024 Modifíquese el artículo 9o de la Resolución 668 de 2016, el cual quedará así: “Artículo 9o. Indicador",
+   "fuente": "ARTÍCULO 2. Modifíquese el artículo 9 de la resolución 668 de 2016, el cual quedara así: “ARTICULO 9. Indicadores. El Programa de Uso Racional de Bolsas Plásticas debe incorporar y",
+   "diff": {
+    "corpus": "...ARTÍCULO 2o. Artículo derogado por el artículo 26 de la Resolución 803 ...",
+    "fuente": "...ARTÍCULO 2. Modifíquese el artículo 9 de la resolución 668 de 2016, el..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.9355,
+   "corpus": "ARTÍCULO 3o. Artículo derogado por el artículo 26 de la Resolución 803 de 2024 Modifíquese el literal c), del artículo 11 de la Resolución 668 de 2016, cuyo texto quedará así: c) P",
+   "fuente": "ARTÍCULO 3. Modifíquese el literal c, del artículo 11 de la Resolución 668 de 2016, cuyo texto quedará así: c. Presentar un reporte anual a la autoridad ambiental competente inform",
+   "diff": {
+    "corpus": "...ARTÍCULO 3o. Artículo derogado por el artículo 26 de la Resolución 803 ...",
+    "fuente": "...ARTÍCULO 3. Modifíquese el literal c, del artículo 11 de la Resolución..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.5301,
+   "corpus": "ARTÍCULO 4o. Adóptese en el territorio nacional, el código de colores para la separación de residuos sólidos en la fuente, asi: a) Color verde para depositar residuos orgánicos apr",
+   "fuente": "ARTÍCULO 4. Adóptese en el territorio nacional, el código de colores para la separación de residuos sólidos en la fuente, así: a. Color verde para depositar residuos orgánicos apro",
+   "diff": {
+    "corpus": "...ARTÍCULO 4o. Adóptese en el territorio nacional, el código de colores p...",
+    "fuente": "...ARTÍCULO 4. Adóptese en el territorio nacional, el código de colores p..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "5",
+  "9"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 4
+ }
+}

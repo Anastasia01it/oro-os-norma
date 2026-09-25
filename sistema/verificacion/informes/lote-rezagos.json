@@ -1,0 +1,33 @@
+{
+ "lote": "rezagos",
+ "generado": "2026-09-24",
+ "archivos": [
+  {
+   "archivo": "normas_procesar/Resolucion_0803_2024.md",
+   "fuente_url": null,
+   "captura": null,
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "NO_LOCALIZADA",
+   "detalle": "6 intentos agotados sin captura: (1) CRA gestor resolucion_minvivienda_0803_2024.htm y resolucion_minambiente_0803_2024.htm -> 404; (2) CDX Wayback domain minambiente/minvivienda/suin filter 0803 -> vacio; (3) CDX urlkey + PDF directo minambiente -> vacio/404; (4) DuckDuckGo html -> pagina desafio, sin enlaces; (5) minambiente.gov.co/documento-norma/resolucion-0803-de-2024/ -> 404 (la pagina homologa de la 2184 si existe y sirve PDF); (6) Wayback availability API sin snapshot + Bing sin resultados parseables (JS wall). Nota: el corpus de la Res. 2184/2019 cita 'artículo 26 de la Resolución 803 de 2024' (misma norma); probablemente publicada en Diario Oficial 52.677 del 26-12-2024; reintentar por SUIN viewDocument o EVA funcionpublica."
+  },
+  {
+   "archivo": "normas_procesar/Resolucion_2184_2019.md",
+   "fuente_url": "https://www.minambiente.gov.co/documento-norma/resolucion-2184-de-2019/",
+   "captura": "sistema/verificacion/fuentes/Resolucion_2184_2019.oficial.txt",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 4,
+   "primer_divergente": {
+    "articulo": "1",
+    "similitud": 0.8982,
+    "corpus": "ARTÍCULO 1o. Artículo derogado por el artículo 26 de la Resolución 803 de 2024 Adóptese el \"Formato Único Nacional...",
+    "fuente": "ARTÍCULO 1. Adóptese el \"Formato Único Nacional para la presentación del Programa de Uso Racional de Bolsas Plásticas..."
+   },
+   "veredicto": "NO_VERIFICADA",
+   "detalle": "Fuente oficial localizada en intento 5: la URL documento-norma sirve directamente un PDF escaneado de 9 paginas (imagen, sin capa de texto; pdftotext vacio). OCR con tesseract 5.3.4 spa (binario en /tmp/tess/root/usr/bin, TESSDATA_PREFIX /tmp/tess/spa/.../5/tessdata), 300 dpi. Las 4 divergencias son explicables y no indican corrupcion del corpus: (a) el corpus trae anotaciones inline de gestor/SUIN ('Artículo derogado por el artículo 26 de la Resolución 803 de 2024') que el PDF original no contiene (arts. 1-3, sim 0.90-0.94 por lo demas coincidentes); (b) ruido OCR propio de fuente escaneada (acentos, 'quedara/quedará'). Fail-closed correcto; recomendable re-verificar contra texto SUIN nativo si se localiza."
+  }
+ ]
+}

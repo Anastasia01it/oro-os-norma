@@ -897,6 +897,21 @@
    "exactos": null,
    "casi": null,
    "divergentes": null
+  },
+  "Resolucion_2184_2019.md": {
+   "estado": "VERIFICADA_CON_EXCEPCIONES",
+   "clase": "pdf_escaneado_ocr",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 4,
+   "nota": "PDF oficial escaneado (minambiente.gov.co/documento-norma) OCR tesseract-spa. Las 4 div explicables: anotaciones inline de derogacion (Res.803/2024) ausentes en el original + ruido OCR; arts.1 y 3 coinciden salvo anotaciones (sim 0.90/0.94).",
+   "informe": "sistema/verificacion/informes/lote-rezagos.json"
+  },
+  "Resolucion_0803_2024.md": {
+   "estado": "NO_LOCALIZADA",
+   "clase": "canal_agotado",
+   "nota": "No localizada (6 intentos: gestor 404, CDX vacio, minambiente 404). Pista: Diario Oficial 52.677 del 26-12-2024 (la cita la Res.2184/2019 derogada por su art.26). Reintentar por SUIN viewDocument / EVA funcion publica / wayback post-publicacion. Canal manual.",
+   "informe": "sistema/verificacion/informes/lote-rezagos.json"
   }
  },
  "canales": {
