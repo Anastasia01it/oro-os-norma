@@ -2,7 +2,7 @@
  "corpus": "Ley_1955_2019.md",
  "fuente": "sistema/verificacion/fuentes/Ley_1955_2019.gestorcra.txt",
  "umbral": 0.98,
- "articulos_corpus": 84,
+ "articulos_corpus": 83,
  "resultados": [
   {
    "articulo": "1",
@@ -233,14 +233,10 @@
   },
   {
    "articulo": "84",
-   "estado": "exacto"
-  },
-  {
-   "articulo": "33-A",
    "estado": "divergente",
-   "similitud": 0.582,
-   "corpus": "Artículo 33-A. La inscripción en el Registro Único de Predios y Territorios Abandonados (Rupta), creado por la Ley 387 de 1995, procederá de oficio, o por solicitud del interesado ",
-   "fuente": "Artículo 33-A. La inscripción en el Registro Único de Predios y Territorios Abandonados (Rupta), creado por la Ley 387 de 1995, procederá de oficio, o por solicitud del interesado ",
+   "similitud": 0.6189,
+   "corpus": "ARTÍCULO 84. REGISTRO ÚNICO DE PREDIOS Y TERRITORIOS ABANDONADOS (RUPTA). Consultar vigencia directamente en la norma que modifica Adiciónese a la Ley 387 de 1995 sic, 1997 un nuev",
+   "fuente": "ARTÍCULO 84. REGISTRO ÚNICO DE PREDIOS Y TERRITORIOS ABANDONADOS (RUPTA). Consultar vigencia directamente en la norma que modifica Adiciónese a la Ley 387 de 1995 sic, 1997 un nuev",
    "diff": {
     "corpus": "...administrativo especial, en armonía con la Ley 1448 de 2011. PARÁGRAFO. El acto administrativo que adopte la concertación ambiental en el proceso de formulación de un plan parcial se sujetará a las determinantes ambientales incorporadas en el trámite de revisión o modificación de los planes de ordenamiento territorial. PARÁGRAFO 1o. Las obligaciones contingentes que son atendidas por el Fondo mantendrán su naturaleza y condición de contingentes, siempre y cuando estén aprobadas en el respectivo plan de aportes y hasta el monto estipulado en este, sin que su cobertura quede condicionada al momento de la realización de los aportes al Fondo. Así mismo, con cargo a los recursos del Fondo de Contingencias se podrán atender los intereses asociados a las obligaciones contingentes, exclusivamente dentro de los plazos establecidos en cada contrato. Se podrán cubrir con plazos adicionales las contingencias que se presenten en las concesiones viales de cuarta generación 4G. PARÁGRAFO 2o. La entidad que administre el Fondo de Contingencias de las Entidades Estatales podrá, previa solicitud de la entidad aportante, transferir recursos de uno a otro riesgo del mismo u otro proyecto de la misma entidad, con la finalidad de atender las obligaciones contingentes amparadas. Dicha transferencia deberá contar con la aprobación previa del plan de aportes por parte de la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, siempre y cuando cumpla los siguientes requisitos: (i) cuando la entidad aportante determine a través del seguimiento que el riesgo ha disminuido totalmente, caso en el que el valor a transferir será el 100% del saldo de la subcuenta; o (ii) cuando la entidad aportante determine a través del seguimiento que el riesgo ha disminuido parcialmente, caso en el cual el valor a transferir será el exceso del saldo en la subcuenta....",
     "fuente": "...administrativo especial, en armonía con la Ley 1448 de 2011...."
@@ -804,9 +800,7 @@
   "166",
   "167",
   "168",
-  "256-1",
   "170",
-  "158-1",
   "173",
   "174",
   "175",
@@ -821,7 +815,6 @@
   "188",
   "189",
   "190",
-  "257-1",
   "191",
   "192",
   "193",
@@ -957,7 +950,7 @@
  ],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
-  "exactos": 34,
+  "exactos": 33,
   "casi": 3,
   "divergentes": 47
  }

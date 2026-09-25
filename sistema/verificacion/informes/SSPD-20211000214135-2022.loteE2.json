@@ -1,0 +1,14 @@
+{
+ "corpus": "SSPD-20211000214135-2022.md",
+ "fuente": "/tmp/e2/capturas/SSPD-20211000214135-2022.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 0,
+ "resultados": [],
+ "sin_contraparte": [],
+ "veredicto": "VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 0
+ }
+}

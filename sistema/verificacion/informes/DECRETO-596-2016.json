@@ -1,0 +1,162 @@
+{
+ "corpus": "DECRETO-596-2016.md",
+ "fuente": "sistema/verificacion/fuentes/DECRETO-596-2016.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 14,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.9699,
+   "corpus": "ARTÍCULO 1. La Parte 3, del Título 2 del Decreto 1077 de 2015, \"Decreto Único Reglamentario del Sector de Vivienda, Ciudad y Territorio\", tendrán un nuevo Capítulo 5 con el siguien",
+   "fuente": "ARTÍCULO 1o. Derogado La Parte 3, del Título 2 del Decreto número 1077 de 2015, “Decreto Único Reglamentario del Sector de Vivienda, Ciudad y Territorio”, tendrá un nuevo Capítulo ",
+   "diff": {
+    "corpus": "...ARTÍCULO 1. La Parte 3, del Título 2 del Decreto 1077 de 2015, \"Decret...",
+    "fuente": "...ARTÍCULO 1o. Derogado La Parte 3, del Título 2 del Decreto número 1077 ..."
+   }
+  },
+  {
+   "articulo": "2.3.2.5.1",
+   "estado": "casi",
+   "similitud": 0.9911,
+   "corpus": "ARTÍCULO 2.3.2.5.1.2. Ámbito de Aplicación. El presente capítulo aplica a las entidades territoriales, a las personas prestadoras de la actividad de recolección y transporte de res",
+   "fuente": "ARTÍCULO 2.3.2.5.1.2. ÁMBITO DE APLICACIÓN. Derogado El presente capítulo aplica a las entidades territoriales, a las personas prestadoras de la actividad de recolección y transpor",
+   "diff": {
+    "corpus": "...ARTÍCULO 2.3.2.5.1.2. Ámbito de Aplicación. El presente capítulo aplica a las entidades territoriales, a...",
+    "fuente": "...ARTÍCULO 2.3.2.5.1.2. ÁMBITO DE APLICACIÓN. Derogado El presente capítulo aplica a las entidades territoriales, a..."
+   }
+  },
+  {
+   "articulo": "2.3.2.5.2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.2.5.3",
+   "estado": "casi",
+   "similitud": 0.9936,
+   "corpus": "ARTÍCULO 2.3.2.5.3.6. Aspectos administrativos mínimos. Las organizaciones de recicladores de oﬁcio que estén en proceso de formalización como prestadores de la actividad de aprove",
+   "fuente": "ARTÍCULO 2.3.2.5.3.6. ASPECTOS ADMINISTRATIVOS MÍNIMOS. Derogado Las organizaciones de recicladores de oficio que estén en proceso de formalización como prestadores de la actividad",
+   "diff": {
+    "corpus": "...ARTÍCULO 2.3.2.5.3.6. Aspectos administrativos mínimos. Las organizaciones de recicladores de oﬁcio que estén en proceso d...",
+    "fuente": "...ARTÍCULO 2.3.2.5.3.6. ASPECTOS ADMINISTRATIVOS MÍNIMOS. Derogado Las organizaciones de recicladores de oficio que estén ..."
+   }
+  },
+  {
+   "articulo": "2.3.2.5.4",
+   "estado": "casi",
+   "similitud": 0.9931,
+   "corpus": "ARTÍCULO 2.3.2.5.4.2. Deberes de los usuarios. Acorde con los deﬁnidos en la Ley y los reglamentos, y sin perjuicio de aquellos contemplados en el artículo 2.3.2.2.4.2.109 del pres",
+   "fuente": "ARTÍCULO 2.3.2.5.4.2. DEBERES DE LOS USUARIOS. Derogado Acorde con los definidos en la ley y los reglamentos, y sin perjuicio de aquellos contemplados en el artículo 2.3.2.2.4.2.10",
+   "diff": {
+    "corpus": "...ARTÍCULO 2.3.2.5.4.2. Deberes de los usuarios. Acorde con los deﬁnidos en la Ley y los reglamentos, y sin ...",
+    "fuente": "...ARTÍCULO 2.3.2.5.4.2. DEBERES DE LOS USUARIOS. Derogado Acorde con los definidos en la ley y los reglamentos, y sin..."
+   }
+  },
+  {
+   "articulo": "2.3.2.5.5",
+   "estado": "casi",
+   "similitud": 0.9947,
+   "corpus": "ARTÍCULO 2.3.2.5.5.2. Aportes Bajo condición. Se entenderá que son aportes bajo condición la entrega por el municipio o distrito de bienes o derechos en infraestructura y equipos a",
+   "fuente": "ARTÍCULO 2.3.2.5.5.2. APORTES BAJO CONDICIÓN. Derogado Se entenderá que son aportes bajo condición la entrega por el municipio o distrito de bienes o derechos en infraestructura y ",
+   "diff": {
+    "corpus": "...ARTÍCULO 2.3.2.5.5.2. Aportes Bajo condición. Se entenderá que son aportes bajo condición la entrega por ...",
+    "fuente": "...ARTÍCULO 2.3.2.5.5.2. APORTES BAJO CONDICIÓN. Derogado Se entenderá que son aportes bajo condición la entrega por ..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "casi",
+   "similitud": 0.9851,
+   "corpus": "ARTÍCULO 2. Modifíquense los numerales 6 y 36 del artículo 2.3.2.1.1. Decreto Único Reglamentario 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendrá el s",
+   "fuente": "ARTÍCULO 2o. Derogado Modifíquense los numerales 6 y 36 del artículo 2.3.2.1.1. Decreto Único Reglamentario número 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en ade",
+   "diff": {
+    "corpus": "...ARTÍCULO 2. Modifíquense los numerales 6 y 36 del artículo 2.3.2.1.1. D...",
+    "fuente": "...ARTÍCULO 2o. Derogado Modifíquense los numerales 6 y 36 del artículo 2.3.2.1.1. D..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "casi",
+   "similitud": 0.9935,
+   "corpus": "ARTÍCULO 3. Adiciónense los numerales 85, 86 y 87 al artículo 2.3.2.1.1. del Decreto Único Reglamentario 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en ad el ante te",
+   "fuente": "ARTÍCULO 3o. Adiciónense los numerales 85, 86 y 87 al artículo 2.3.2.1.1. del Decreto Único Reglamentario número 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adela",
+   "diff": {
+    "corpus": "...ARTÍCULO 3. Adiciónense los numerales 85, 86 y 87 al artículo 2.3.2.1....",
+    "fuente": "...ARTÍCULO 3o. Adiciónense los numerales 85, 86 y 87 al artículo 2.3.2.1...."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.9731,
+   "corpus": "ARTÍCULO 4. Modifíquese el artículo 2.3.2.2.2.8.80 del Decreto Único Reglamentario 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendrá el siguiente conten",
+   "fuente": "ARTÍCULO 4o. Derogado Modifíquese el artículo 2.3.2.2.2.8.80 del Decreto Único Reglamentario número 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendrá el",
+   "diff": {
+    "corpus": "...ARTÍCULO 4. Modifíquese el artículo 2.3.2.2.2.8.80 del Decreto Único Re...",
+    "fuente": "...ARTÍCULO 4o. Derogado Modifíquese el artículo 2.3.2.2.2.8.80 del Decreto Único Re..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.7114,
+   "corpus": "ARTÍCULO 5. Modifíquese el artículo 2.3.2.2.2.8.82 del Decreto Único Reglamentario 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendrá el siguiente conten",
+   "fuente": "ARTÍCULO 5o. Derogado Modifíquese el artículo 2.3.2.2.2.8.82 del Decreto Único Reglamentario número 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendrá el",
+   "diff": {
+    "corpus": "...ARTÍCULO 5. Modifíquese el artículo 2.3.2.2.2.8.82 del Decreto Único Re...",
+    "fuente": "...ARTÍCULO 5o. Derogado Modifíquese el artículo 2.3.2.2.2.8.82 del Decreto Único Re..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "divergente",
+   "similitud": 0.9749,
+   "corpus": "ARTÍCULO 6. Modifíquese el artículo 2.3.2.2.2.9.86 del Decreto Único Reglamentario 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendrá el siguiente conten",
+   "fuente": "ARTÍCULO 6o. Derogado Modifíquese el artículo 2.3.2.2.2.9.86 del Decreto Único Reglamentario número 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendrá el",
+   "diff": {
+    "corpus": "...ARTÍCULO 6. Modifíquese el artículo 2.3.2.2.2.9.86 del Decreto Único Re...",
+    "fuente": "...ARTÍCULO 6o. Derogado Modifíquese el artículo 2.3.2.2.2.9.86 del Decreto Único Re..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "casi",
+   "similitud": 0.9882,
+   "corpus": "ARTÍCULO 7. Modifíquese el artículo 2.3.4.2.2 del Decreto Único Reglamentario 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendrá el siguiente contenido: ",
+   "fuente": "ARTÍCULO 7o. Modifíquese el artículo 2.3.4.2.2 del Decreto Único Reglamentario número 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendrá el siguiente con",
+   "diff": {
+    "corpus": "...ARTÍCULO 7. Modifíquese el artículo 2.3.4.2.2 del Decreto Único Reglam...",
+    "fuente": "...ARTÍCULO 7o. Modifíquese el artículo 2.3.4.2.2 del Decreto Único Reglam..."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.964,
+   "corpus": "ARTÍCULO 8. Modifíquese el parágrafo del artículo 2.3.3.1.7.23. del Decreto Único Reglamentario 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendrá el sig",
+   "fuente": "ARTÍCULO 8o. Modifíquese el parágrafo del artículo 2.3.3.1.7.23. del Decreto Único Reglamentario número 1077 de 2015 del sector Vivienda, Ciudad y Territorio, que en adelante tendr",
+   "diff": {
+    "corpus": "...ARTÍCULO 8. Modifíquese el parágrafo del artículo 2.3.3.1.7.23. del De...",
+    "fuente": "...ARTÍCULO 8o. Modifíquese el parágrafo del artículo 2.3.3.1.7.23. del De..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "divergente",
+   "similitud": 0.2364,
+   "corpus": "ARTÍCULO 9. Vigencia y Derogatoria. El presente decreto rige a partir de la fecha de su publicación y deroga cualquier disposición que le sea contraria. PUBLÍQUESE Y CUMPLASE Dado ",
+   "fuente": "ARTÍCULO 9o. VIGENCIA Y DEROGATORIA. El presente decreto rige a partir de la fecha de su publicación y deroga cualquier disposición que le sea contraria. Publíquese y cúmplase. Dad",
+   "diff": {
+    "corpus": "...ARTÍCULO 9. Vigencia y Derogatoria. El presente decreto rige a partir ...",
+    "fuente": "...ARTÍCULO 9o. VIGENCIA Y DEROGATORIA. El presente decreto rige a partir ..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 1,
+  "casi": 7,
+  "divergentes": 6
+ }
+}

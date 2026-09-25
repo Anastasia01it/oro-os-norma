@@ -292,8 +292,15 @@
    }
   },
   {
-   "articulo": "29.-",
-   "estado": "ausente_en_fuente"
+   "articulo": "29",
+   "estado": "divergente",
+   "similitud": 0.9591,
+   "corpus": "ARTÍCULO 29.- Amparo policivo. Las autoridades nacionales, departamentales y municipales, tanto civiles como de policía, inmediatamente se lo solicite una empresa de servicios públ",
+   "fuente": "ARTÍCULO 29. AMPARO POLICIVO. Las autoridades nacionales, departamentales y municipales, tanto civiles como de policía, inmediatamente se lo solicite una empresa de servicios públi",
+   "diff": {
+    "corpus": "...ARTÍCULO 29.- Amparo policivo. Las autoridades nacionales, departamentale...",
+    "fuente": "...ARTÍCULO 29. AMPARO POLICIVO. Las autoridades nacionales, departamentale..."
+   }
   },
   {
    "articulo": "30",
@@ -1679,7 +1686,14 @@
   },
   {
    "articulo": "176",
-   "estado": "ausente_en_fuente"
+   "estado": "divergente",
+   "similitud": 0.9733,
+   "corpus": "ARTÍCULO 176. Cuando la Nación considere necesario podrá, directamente o a través de contratos con terceros, organizar licitaciones a las que pueda presentarse cualquier empresa, p",
+   "fuente": "ARTÍCULO 176.Cuando la Nación lo considere necesario podrá, directamente o a través de contratos con terceros, organizar licitaciones a las que pueda presentarse cualquier empresa ",
+   "diff": {
+    "corpus": "...ARTÍCULO 176. Cuando la Nación considere necesario podrá, directamente o a través de contr...",
+    "fuente": "...ARTÍCULO 176.Cuando la Nación lo considere necesario podrá, directamente o a través de contr..."
+   }
   },
   {
    "articulo": "177",
@@ -1811,10 +1825,7 @@
    }
   }
  ],
- "sin_contraparte": [
-  "29",
-  "176.Cuando"
- ],
+ "sin_contraparte": [],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
   "exactos": 37,

@@ -129,7 +129,13 @@ def segmentar(texto_limpio: str):
         # Mayusculas (ARTICULO) o tipo titulo (Articulo) abren segmento; minusculas
         # no: son envolturas duras de referencias cruzadas ("...los arts. 5 y 6 del
         # articulo 2o de la Resolucion..." empieza linea al cortarse) -> claves falsas.
-        m = re.match(r"^\s*(ART[ÍI]CULO|Art[íi]culo)\s+(\d\S{0,9}|nuevo)(?=[\.\s,:;]|$)", ln)
+        # Token de articulo: digitos con decimales opcionales y sufijo de letra
+        # opcional (178A). Sin la letra opcional, la fuente CRA ("ARTICULO 5o.El
+        # Estado", sin espacio tras el ordinal) producia clave "5o.El" y 269
+        # articulos de la Constitucion caian como ausentes (hallazgo analisis
+        # dedicado CP-1991, 2026-09-24). El lookahead exige separador: jamás
+        # cruza hacia la palabra siguiente.
+        m = re.match(r"^\s*(ART[ÍI]CULO|Art[íi]culo)\s+(\d+(?:\.\d+)*[A-Za-z]?|nuevo)(?=[\.\s,:;]|$)", ln)
         if m:
             actual = norm_key(m.group(2))
             segmentos.setdefault(actual, []).append([])

@@ -7,23 +7,23 @@
   {
    "articulo": "5.12.1",
    "estado": "casi",
-   "similitud": 0.9955,
+   "similitud": 0.9949,
    "corpus": "Artículo 5.12.1. ÁMBITO DE APLICACIÓN. La presente resolución aplica para todas las personas prestadoras del servicio público de aseo de la actividad de recolección y transporte d",
-   "fuente": "Artículo 5.12.1. Ámbito de aplicación. La presente resolución aplica para todas las personas prestadoras del servicio público de aseo de la actividad de recolección y transporte de",
+   "fuente": "Artículo 5.12.1. Ámbito de aplicación . La presente resolución aplica para todas las personas prestadoras del servicio público de aseo de la actividad de recolección y transporte d",
    "diff": {
-    "corpus": "...n de Cuentas de que trata el artículo 2.3.2.5.4.8. del Decreto 1077 de 2015, independientemente de la metodología tarifa...",
-    "fuente": "... de Cuentas de que trata el artículo 2.3.2.5.4.8. del Decreto número 1077 de 2015, independientemente de la metodología tarifar..."
+    "corpus": "...Artículo 5.12.1. ÁMBITO DE APLICACIÓN. La presente resolución aplica para todas las personas pre...",
+    "fuente": "...Artículo 5.12.1. Ámbito de aplicación . La presente resolución aplica para todas las personas pres..."
    }
   },
   {
    "articulo": "5.12.2",
    "estado": "divergente",
-   "similitud": 0.4937,
+   "similitud": 0.4935,
    "corpus": "Artículo 5.12.2. ACTUALIZACIÓN DE LOS REGLAMENTOS DE ACUERDO CON LAS MODIFICACIONES DEL DECRETO 1381 DE 2024. Las personas prestadoras que conforman los Comités de Conciliación de ",
-   "fuente": "Artículo 5.12.2. Actualización de los reglamentos de acuerdo con las modificaciones del decreto número 1381 de 2024. Las personas prestadoras que conforman los Comités de Conciliac",
+   "fuente": "Artículo 5.12.2. Actualización de los reglamentos de acuerdo con las modificaciones del decreto número 1381 de 2024 . Las personas prestadoras que conforman los Comités de Concilia",
    "diff": {
     "corpus": "...S REGLAMENTOS DE ACUERDO CON LAS MODIFICACIONES DEL DECRETO 1381 DE 2024. Las personas prestadoras que conforman los Com...",
-    "fuente": "...s reglamentos de acuerdo con las modificaciones del decreto número 1381 de 2024. Las personas prestadoras que conforman los Com..."
+    "fuente": "...s reglamentos de acuerdo con las modificaciones del decreto número 1381 de 2024 . Las personas prestadoras que conforman los Co..."
    }
   },
   {

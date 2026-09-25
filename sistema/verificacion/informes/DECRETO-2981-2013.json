@@ -1,0 +1,1005 @@
+{
+ "corpus": "DECRETO-2981-2013.md",
+ "fuente": "sistema/verificacion/fuentes/DECRETO-2981-2013.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 88,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.8282,
+   "corpus": "Artículo 1 Ámbito de aplicación. El presente decreto aplica al servicio público de aseo de que trata la Ley 142 de 1994, a las personas prestadoras de residuos aprovechables y no a",
+   "fuente": "ARTÍCULO 1o. ÁMBITO DE APLICACIÓN. Artículo compilado en el artículo 2.3.2.2.1 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1",
+   "diff": {
+    "corpus": "...Artículo 1 Ámbito de aplicación. El presente decreto aplica al servici...",
+    "fuente": "...ARTÍCULO 1o. ÁMBITO DE APLICACIÓN. Artículo compilado en el artículo 2.3..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.7636,
+   "corpus": "Artículo 2. Definiciones. Para los efectos de este decreto, se adoptan las siguientes definiciones: Aforo: Es el resultado de las mediciones puntuales, que realiza un aforador debi",
+   "fuente": "ARTÍCULO 2o. DEFINICIONES. Artículo compilado en el artículo 2.3.2.1.1 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del m",
+   "diff": {
+    "corpus": "...Artículo 2. Definiciones. Para los efectos de este decreto, ...",
+    "fuente": "...ARTÍCULO 2o. DEFINICIONES. Artículo compilado en el artículo 2.3.2.1.1 del Decreto Único Reglamentario 1077 de 2..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.8725,
+   "corpus": "Artículo 3. Principios básicos para la prestación del servicio de aseo. En la prestación del servicio público de aseo, y en el marco de la Gestión Integral de Residuos Sólidos, se ",
+   "fuente": "ARTÍCULO 3o. PRINCIPIOS BÁSICOS PARA LA PRESTACIÓN DEL SERVICIO DE ASEO. Artículo compilado en el artículo 2.3.2.2.1.2 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en",
+   "diff": {
+    "corpus": "...Artículo 3. Principios básicos para la prestación del servicio de aseo...",
+    "fuente": "...ARTÍCULO 3o. PRINCIPIOS BÁSICOS PARA LA PRESTACIÓN DEL SERVICIO DE ASEO..."
+   }
+  },
+  {
+   "articulo": "4.Calidad",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.7811,
+   "corpus": "Artículo 5. Continuidad del servicio. El servicio público de aseo se debe prestar en todas sus actividades de manera continua e ininterrumpida, con las frecuencias mínimas establec",
+   "fuente": "ARTÍCULO 5o.CONTINUIDAD DEL SERVICIO. Artículo compilado en el artículo 2.3.2.2.1.4 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "diff": {
+    "corpus": "...Artículo 5. Continuidad del servicio. El servicio público de aseo se deb...",
+    "fuente": "...ARTÍCULO 5o.CONTINUIDAD DEL SERVICIO. Artículo compilado en el artículo ..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "divergente",
+   "similitud": 0.7243,
+   "corpus": "Artículo 6.Responsabilidad de la prestación del servicio público de aseo. De conformidad con la ley, es responsabilidad de los municipios y distritos asegurar que se preste a todos",
+   "fuente": "ARTÍCULO 6o. RESPONSABILIDAD DE LA PRESTACIÓN DEL SERVICIO PÚBLICO DE ASEO. Artículo compilado en el artículo 2.3.2.2.1.5 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse",
+   "diff": {
+    "corpus": "...Artículo 6.Responsabilidad de la prestación del servicio público de ase...",
+    "fuente": "...ARTÍCULO 6o. RESPONSABILIDAD DE LA PRESTACIÓN DEL SERVICIO PÚBLICO DE ASE..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "divergente",
+   "similitud": 0.5277,
+   "corpus": "Artículo 7. Responsabilidad en el manejo de los residuos sólidos. La responsabilidad por los impactos generados por las actividades del servicio público de aseo, incluido el aprove",
+   "fuente": "ARTÍCULO 7o. RESPONSABILIDAD EN EL MANEJO DE LOS RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.1.6 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuent",
+   "diff": {
+    "corpus": "...Artículo 7. Responsabilidad en el manejo de los residuos sólidos. La r...",
+    "fuente": "...ARTÍCULO 7o. RESPONSABILIDAD EN EL MANEJO DE LOS RESIDUOS SÓLIDOS. Artí..."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.8086,
+   "corpus": "Artículo 8. Cobertura. Los municipios o distritos, deben garantizar la prestación del servicio de aseo a todos sus habitantes dentro de su territorio por parte de las personas pres",
+   "fuente": "ARTÍCULO 8o. COBERTURA. Artículo compilado en el artículo 2.3.2.2.1.7 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mi",
+   "diff": {
+    "corpus": "...Artículo 8. Cobertura. Los municipios o distritos, deben garantizar la prestación ...",
+    "fuente": "...ARTÍCULO 8o. COBERTURA. Artículo compilado en el artículo 2.3.2.2.1.7 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los municipios o distritos, deben garantizar la prestación ..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "divergente",
+   "similitud": 0.7331,
+   "corpus": "Artículo 9. Función social y ecológica. Las personas que prestan el servicio público de aseo deben cumplir con las obligaciones de la función social y ecológica de la propiedad, de",
+   "fuente": "ARTÍCULO 9o. FUNCIÓN SOCIAL Y ECOLÓGICA. Artículo compilado en el artículo 2.3.2.2.1.8 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artí",
+   "diff": {
+    "corpus": "...Artículo 9. Función social y ecológica. Las personas que prestan el se...",
+    "fuente": "...ARTÍCULO 9o. FUNCIÓN SOCIAL Y ECOLÓGICA. Artículo compilado en el artíc..."
+   }
+  },
+  {
+   "articulo": "10",
+   "estado": "divergente",
+   "similitud": 0.7837,
+   "corpus": "Artículo 10. Economías de escala. El municipio o distrito, al adoptar el respectivo Plan de Gestión Integral de los Residuos Sólidos, deberá propender porque en la prestación del s",
+   "fuente": "ARTÍCULO 10. ECONOMÍAS DE ESCALA. Artículo compilado en el artículo 2.3.2.2.1.9 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.",
+   "diff": {
+    "corpus": "...Artículo 10. Economías de escala. El municipio o distrito, al adoptar el respectivo Plan de Gestión Integral de los Residuos Sólidos, deberá propender p...",
+    "fuente": "...ARTÍCULO 10. ECONOMÍAS DE ESCALA. Artículo compilado en el artículo 2.3.2.2.1.9 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuest..."
+   }
+  },
+  {
+   "articulo": "11",
+   "estado": "divergente",
+   "similitud": 0.9296,
+   "corpus": "Artículo 11. Programa para la Prestación del Servicio de Aseo. Las personas prestadoras del servicio público de aseo deberán formular e implementar el Programa para la Prestación d",
+   "fuente": "ARTÍCULO 11. PROGRAMA PARA LA PRESTACIÓN DEL SERVICIO DE ASEO. Artículo compilado en el artículo 2.3.2.2.1.10 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta l",
+   "diff": {
+    "corpus": "...tículo 11. Programa para la Prestación del Servicio de Aseo. Las personas prestadoras del servicio público de aseo deber...",
+    "fuente": "...TÍCULO 11. PROGRAMA PARA LA PRESTACIÓN DEL SERVICIO DE ASEO. Artículo compilado en el artículo 2.3.2.2.1.10 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las personas prestadoras del servicio público de aseo deber..."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "divergente",
+   "similitud": 0.69,
+   "corpus": "Artículo 12. Libre competencia en el servicio público de aseo y actividades complementarias. Salvo en los casos expresamente consagrados en la Constitución Política y en la ley, ex",
+   "fuente": "ARTÍCULO 12. LIBRE COMPETENCIA EN EL SERVICIO PÚBLICO DE ASEO Y ACTIVIDADES COMPLEMENTARIAS. Artículo compilado en el artículo 2.3.2.2.1.11 del Decreto Único Reglamentario 1077 de ",
+   "diff": {
+    "corpus": "...n el servicio público de aseo y actividades complementarias. Salvo en los casos expresamente consagrados en la Constituc...",
+    "fuente": "...N EL SERVICIO PÚBLICO DE ASEO Y ACTIVIDADES COMPLEMENTARIAS. Artículo compilado en el artículo 2.3.2.2.1.11 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Salvo en los casos expresamente consagrados en la Constituc..."
+   }
+  },
+  {
+   "articulo": "13",
+   "estado": "divergente",
+   "similitud": 0.6309,
+   "corpus": "Artículo 13. Permisos ambientales. Quienes presten el servicio público de aseo deberán obtener los permisos, licencias y demás autorizaciones que la índole de sus actividades requi",
+   "fuente": "ARTÍCULO 13. PERMISOS AMBIENTALES. Artículo compilado en el artículo 2.3.2.2.1.12 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo ",
+   "diff": {
+    "corpus": "...Artículo 13. Permisos ambientales. Quienes presten el servicio público de aseo deberán obtener ...",
+    "fuente": "...ARTÍCULO 13. PERMISOS AMBIENTALES. Artículo compilado en el artículo 2.3.2.2.1.12 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Quienes presten el servicio público de aseo deberán obtener ..."
+   }
+  },
+  {
+   "articulo": "14",
+   "estado": "divergente",
+   "similitud": 0.6565,
+   "corpus": "Artículo 14. Actividades del servicio público de aseo. Para efectos de este decreto se consideran como actividades del servicio público de aseo, las siguientes: Recolección. Transp",
+   "fuente": "ARTÍCULO 14. ACTIVIDADES DEL SERVICIO PÚBLICO DE ASEO. Artículo compilado en el artículo 2.3.2.2.2.1.13 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo disp",
+   "diff": {
+    "corpus": "...Artículo 14. Actividades del servicio público de aseo. Para efectos de este decreto se consideran como actividades ...",
+    "fuente": "...ARTÍCULO 14. ACTIVIDADES DEL SERVICIO PÚBLICO DE ASEO. Artículo compilado en el artículo 2.3.2.2.2.1.13 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Para efectos de este decreto se consideran como actividades ..."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "divergente",
+   "similitud": 0.9086,
+   "corpus": "Artículo 15. Costos asociados al servicio público de aseo. Los costos asociados al servicio público de aseo, deberán corresponder a las actividades del servicio definidas en este d",
+   "fuente": "ARTÍCULO 15. COSTOS ASOCIADOS AL SERVICIO PÚBLICO DE ASEO. Artículo compilado en el artículo 2.3.2.2.2.1.14 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo ",
+   "diff": {
+    "corpus": "...Artículo 15. Costos asociados al servicio público de aseo. Los costos asociados al servicio público de aseo, deberán co...",
+    "fuente": "...ARTÍCULO 15. COSTOS ASOCIADOS AL SERVICIO PÚBLICO DE ASEO. Artículo compilado en el artículo 2.3.2.2.2.1.14 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los costos asociados al servicio público de aseo, deberán co..."
+   }
+  },
+  {
+   "articulo": "16",
+   "estado": "divergente",
+   "similitud": 0.2342,
+   "corpus": "Artículo 16. Programa de gestión del riesgo. La persona prestadora del servicio público de aseo deberá estructurar y mantener actualizado un programa de gestión del riesgo de acuer",
+   "fuente": "ARTÍCULO 16. PROGRAMA DE GESTIÓN DEL RIESGO. Artículo compilado en el artículo 2.3.2.2.2.1.15 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por ",
+   "diff": {
+    "corpus": "...Artículo 16. Programa de gestión del riesgo. La persona prestadora del servicio público de aseo deberá estructurar y mantener actualizado un programa de gestión del riesgo de acuerdo a la normatividad vigente, en las diferentes actividades de la prestación del servicio, el cual deberá ser presentado a la Superintendencia de Servicios Públicos Domiciliarios. En caso de presentarse un evento de riesgo la persona prestadora del servicio deberá ejecutar las medidas de mitigación y corrección pertinentes. Así mismo, el prestador deberá garantizar la capacitación de todo su personal sobre los procedimientos a seguir en caso de presentarse cualquier evento de riesgo. e DECRETO NÚMERO. 2981 del Hoja No.10 “Por el cual se reglamenta la prestació...",
+    "fuente": "...ARTÍCULO 16. PROGRAMA DE GESTIÓN DEL RIESGO. Artículo compilado en el artículo 2.3.2.2.2.1.15 del Decreto Único Reglamentario 1077 de 2015..."
+   }
+  },
+  {
+   "articulo": "17",
+   "estado": "divergente",
+   "similitud": 0.9556,
+   "corpus": "Artículo 17. Obligaciones de los usuarios para el almacenamiento y la presentación de residuos sólidos. Son obligaciones de los usuarios del servicio público de aseo, en cuanto al ",
+   "fuente": "ARTÍCULO 17. OBLIGACIONES DE LOS USUARIOS PARA EL ALMACENAMIENTO Y LA PRESENTACIÓN DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.2.16 del Decreto Único Reglament",
+   "diff": {
+    "corpus": "...ara el almacenamiento y la presentación de residuos sólidos. Son obligaciones de los usuarios del servicio público de as...",
+    "fuente": "...ARA EL ALMACENAMIENTO Y LA PRESENTACIÓN DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.2.16 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Son obligaciones de los usuarios del servicio público de as..."
+   }
+  },
+  {
+   "articulo": "18",
+   "estado": "divergente",
+   "similitud": 0.8885,
+   "corpus": "Artículo 18. Características de los recipientes retornables para almacenamiento de residuos sólidos. Los recipientes retornables, utilizados para almacenamiento y presentación de l",
+   "fuente": "ARTÍCULO 18. CARACTERÍSTICAS DE LOS RECIPIENTES RETORNABLES PARA ALMACENAMIENTO DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.2.17 del Decreto Único Reglamentari",
+   "diff": {
+    "corpus": "...ientes retornables para almacenamiento de residuos sólidos. Los recipientes retornables, utilizados para almacenamiento y presentación de los r...",
+    "fuente": "...IENTES RETORNABLES PARA ALMACENAMIENTO DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.2.17 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del ..."
+   }
+  },
+  {
+   "articulo": "19",
+   "estado": "divergente",
+   "similitud": 0.839,
+   "corpus": "Artículo 19. Características de los recipientes no retornables. Los recipientes no retornables, utilizados para almacenamiento y presentación de los residuos sólidos deberán tener ",
+   "fuente": "ARTÍCULO 19. CARACTERÍSTICAS DE LOS RECIPIENTES NO RETORNABLES. Artículo compilado en el artículo 2.3.2.2.2.2.18 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuent",
+   "diff": {
+    "corpus": "...culo 19. Características de los recipientes no retornables. Los recipientes no retornables, utilizados para almacenamiento y presentación de los r...",
+    "fuente": "...CULO 19. CARACTERÍSTICAS DE LOS RECIPIENTES NO RETORNABLES. Artículo compilado en el artículo 2.3.2.2.2.2.18 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del ..."
+   }
+  },
+  {
+   "articulo": "20",
+   "estado": "divergente",
+   "similitud": 0.5359,
+   "corpus": "Artículo 20. Sistemas de almacenamiento colectivo de residuos sólidos. Todo usuario agrupado del servicio público de aseo, deberá tener una unidad de almacenamiento de residuos sól",
+   "fuente": "ARTÍCULO 20. SISTEMAS DE ALMACENAMIENTO COLECTIVO DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.2.19 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse e",
+   "diff": {
+    "corpus": ".... Sistemas de almacenamiento colectivo de residuos sólidos. Todo usuario agrupado del servicio público de aseo, deberá tener una unida...",
+    "fuente": ".... SISTEMAS DE ALMACENAMIENTO COLECTIVO DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.2.19 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuest..."
+   }
+  },
+  {
+   "articulo": "21",
+   "estado": "divergente",
+   "similitud": 0.7437,
+   "corpus": "Artículo 21. Empaque de los residuos para evacuación por ductos. Los residuos sólidos que sean evacuados por ductos, serán empacados en recipientes no retornables que reúnan las ca",
+   "fuente": "ARTÍCULO 21. EMPAQUE DE LOS RESIDUOS PARA EVACUACIÓN POR DUCTOS. Artículo compilado en el artículo 2.3.2.2.2.2.20 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuen",
+   "diff": {
+    "corpus": "...ulo 21. Empaque de los residuos para evacuación por ductos. Los residuos sólidos que sean evacuados por ductos, serán em...",
+    "fuente": "...ULO 21. EMPAQUE DE LOS RESIDUOS PARA EVACUACIÓN POR DUCTOS. Artículo compilado en el artículo 2.3.2.2.2.2.20 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los residuos sólidos que sean evacuados por ductos, serán em..."
+   }
+  },
+  {
+   "articulo": "22",
+   "estado": "divergente",
+   "similitud": 0.8892,
+   "corpus": "Artículo 22. Sitios de ubicación para la presentación de los residuos sólidos. La presentación de los residuos se podrá realizar, en la unidad de almacenamiento o en el andén en el",
+   "fuente": "ARTÍCULO 22. SITIOS DE UBICACIÓN PARA LA PRESENTACIÓN DE LOS RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.2.21 del Decreto Único Reglamentario 1077 de 2015. Debe t",
+   "diff": {
+    "corpus": "... de ubicación para la presentación de los residuos sólidos. La presentación de los residuos se podrá realizar, en la uni...",
+    "fuente": "... DE UBICACIÓN PARA LA PRESENTACIÓN DE LOS RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.2.21 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La presentación de los residuos se podrá realizar, en la uni..."
+   }
+  },
+  {
+   "articulo": "23",
+   "estado": "divergente",
+   "similitud": 0.8918,
+   "corpus": "Artículo 23. Obligación de trasladar residuos sólidos hasta los sitios de recolección. En el caso de urbanizaciones, barrios o agrupaciones de viviendas y/o demás predios que por s",
+   "fuente": "ARTÍCULO 23. OBLIGACIÓN DE TRASLADAR RESIDUOS SÓLIDOS HASTA LOS SITIOS DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.2.22 del Decreto Único Reglamentario 1077 de 2015",
+   "diff": {
+    "corpus": "...trasladar residuos sólidos hasta los sitios de recolección. En el caso de urbanizaciones, barrios o agrupaciones de vivi...",
+    "fuente": "...TRASLADAR RESIDUOS SÓLIDOS HASTA LOS SITIOS DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.2.22 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 En el caso de urbanizaciones, barrios o agrupaciones de vivi..."
+   }
+  },
+  {
+   "articulo": "24",
+   "estado": "divergente",
+   "similitud": 0.3374,
+   "corpus": "Artículo 24. Características de las cajas de almacenamiento. Las cajas de almacenamiento deben cumplir con las siguientes condiciones: 1 El tamaño, la capacidad y el sistema de car",
+   "fuente": "ARTÍCULO 24. CARACTERÍSTICAS DE LAS CAJAS DE ALMACENAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.2.23 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta l",
+   "diff": {
+    "corpus": "...rtículo 24. Características de las cajas de almacenamiento. Las cajas de almacenamiento deben cumplir con las siguientes...",
+    "fuente": "...RTÍCULO 24. CARACTERÍSTICAS DE LAS CAJAS DE ALMACENAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.2.23 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las cajas de almacenamiento deben cumplir con las siguientes..."
+   }
+  },
+  {
+   "articulo": "25",
+   "estado": "divergente",
+   "similitud": 0.8693,
+   "corpus": "Artículo 25. Sitios de ubicación para las cajas de almacenamiento. El sitio escogido para ubicar cajas de almacenamiento para residuos sólidos, deberá permitir, como mínimo, lo sig",
+   "fuente": "ARTÍCULO 25. SITIOS DE UBICACIÓN PARA LAS CAJAS DE ALMACENAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.2.24 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cu",
+   "diff": {
+    "corpus": "...o 25. Sitios de ubicación para las cajas de almacenamiento. El sitio escogido para ubicar cajas de almacenamiento para residuos sólid...",
+    "fuente": "...O 25. SITIOS DE UBICACIÓN PARA LAS CAJAS DE ALMACENAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.2.24 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuest..."
+   }
+  },
+  {
+   "articulo": "26",
+   "estado": "divergente",
+   "similitud": 0.7836,
+   "corpus": "Artículo 26.Ubicación de cajas de almacenamiento en áreas públicas. La colocación de cajas de almacenamiento en áreas públicas debe contar con la autorización de la entidad territo",
+   "fuente": "ARTÍCULO 26. UBICACIÓN DE CAJAS DE ALMACENAMIENTO EN ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.2.25 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en ",
+   "diff": {
+    "corpus": "...Artículo 26.Ubicación de cajas de almacenamiento en áreas públicas. La c...",
+    "fuente": "...ARTÍCULO 26. UBICACIÓN DE CAJAS DE ALMACENAMIENTO EN ÁREAS PÚBLICAS. Artí..."
+   }
+  },
+  {
+   "articulo": "27",
+   "estado": "divergente",
+   "similitud": 0.7513,
+   "corpus": "Artículo 27. Recolección separada. La recolección de los residuos sólidos ordinarios debe hacerse en forma separada de los residuos especiales. En el caso de los residuos ordinario",
+   "fuente": "ARTÍCULO 27. RECOLECCIÓN SEPARADA. Artículo compilado en el artículo 2.3.2.2.2.3.26 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "diff": {
+    "corpus": "...Artículo 27. Recolección separada. La recolección de los residuos sólidos ordinarios debe hacerse en forma separada de los residuos especiales. ...",
+    "fuente": "...ARTÍCULO 27. RECOLECCIÓN SEPARADA. Artículo compilado en el artículo 2.3.2.2.2.3.26 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 d..."
+   }
+  },
+  {
+   "articulo": "28",
+   "estado": "divergente",
+   "similitud": 0.1036,
+   "corpus": "Artículo 28. Requisitos de la actividad de recolección. La actividad de recolección se realizará observando entre otros los siguientes requisitos: 1 La recolección deberá efectuars",
+   "fuente": "ARTÍCULO 28. REQUISITOS DE LA ACTIVIDAD DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.27 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dis",
+   "diff": {
+    "corpus": "...Artículo 28. Requisitos de la actividad de recolección. La actividad de recolección se realizará observando entre ot...",
+    "fuente": "...ARTÍCULO 28. REQUISITOS DE LA ACTIVIDAD DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.27 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La actividad de recolección se realizará observando entre ot..."
+   }
+  },
+  {
+   "articulo": "29",
+   "estado": "divergente",
+   "similitud": 0.7682,
+   "corpus": "Artículo 29. Sistemas de recolección. La recolección de residuos debe realizarse a partir de su presentación en la acera, unidades de almacenamiento o cajas de almacenamiento. Cuan",
+   "fuente": "ARTÍCULO 29. SISTEMAS DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.28 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artí",
+   "diff": {
+    "corpus": "...Artículo 29. Sistemas de recolección. La recolección de residuos debe realizarse a partir de su presentación en la acera, un...",
+    "fuente": "...ARTÍCULO 29. SISTEMAS DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.28 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 d..."
+   }
+  },
+  {
+   "articulo": "30",
+   "estado": "divergente",
+   "similitud": 0.2984,
+   "corpus": "Artículo 30. Recolección en zonas suburbanas, rurales y centros poblados rurales. Para la prestación del servicio de recolección en las zonas suburbanas, rurales y centros poblados",
+   "fuente": "ARTÍCULO 30. RECOLECCIÓN EN ZONAS SUBURBANAS, RURALES Y CENTROS POBLADOS RURALES. Artículo compilado en el artículo 2.3.2.2.2.3.29 del Decreto Único Reglamentario 1077 de 2015. Deb",
+   "diff": {
+    "corpus": "...ón en zonas suburbanas, rurales y centros poblados rurales. Para la prestación del servicio de recolección en las zonas suburbanas, rurales y centros poblados rurales se contemplarán las siguientes condiciones: 1 Existencia de vías adecuadas, de tal manera que se pueda hacer la recolección domiciliaria a lo largo de éstas o al menos en sitios de almacenamiento colectivo previamente convenidos con la comunidad. 2. En los sitios de almacenamiento colectivo debe haber con...",
+    "fuente": "...ÓN EN ZONAS SUBURBANAS, RURALES Y CENTROS POBLADOS RURALES. Artículo compilado en el artículo 2.3.2.2.2.3.29 del Decreto Único Reglamentario 1077 de 2015..."
+   }
+  },
+  {
+   "articulo": "31",
+   "estado": "divergente",
+   "similitud": 0.9255,
+   "corpus": "Artículo 31. Establecimiento de macrorrutas y microrrutas. Las personas prestadoras del servicio público de aseo deberán establecer las macrorrutas y microrrutas que deben seguir c",
+   "fuente": "ARTÍCULO 31. ESTABLECIMIENTO DE MACRORRUTAS Y MICRORRUTAS. Artículo compilado en el artículo 2.3.2.2.2.3.30 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo ",
+   "diff": {
+    "corpus": "...Artículo 31. Establecimiento de macrorrutas y microrrutas. Las personas prestadoras del servicio público de aseo deberá...",
+    "fuente": "...ARTÍCULO 31. ESTABLECIMIENTO DE MACRORRUTAS Y MICRORRUTAS. Artículo compilado en el artículo 2.3.2.2.2.3.30 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las personas prestadoras del servicio público de aseo deberá..."
+   }
+  },
+  {
+   "articulo": "32",
+   "estado": "divergente",
+   "similitud": 0.8881,
+   "corpus": "Artículo 32. Horarios de recolección. La persona prestadora del servicio público de aseo determinará el horario de la recolección de los residuos sólidos teniendo en cuenta la cant",
+   "fuente": "ARTÍCULO 32. HORARIOS DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.31 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artí",
+   "diff": {
+    "corpus": "...Artículo 32. Horarios de recolección. La persona prestadora del servicio público de aseo determin...",
+    "fuente": "...ARTÍCULO 32. HORARIOS DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.31 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La persona prestadora del servicio público de aseo determin..."
+   }
+  },
+  {
+   "articulo": "33",
+   "estado": "divergente",
+   "similitud": 0.8441,
+   "corpus": "Artículo 33. Frecuencias de recolección. La frecuencia de recolección dependerá de la naturaleza y cantidad de generación de residuos, de los programas de aprovechamiento de la zon",
+   "fuente": "ARTÍCULO 33. FRECUENCIAS DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.32 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el a",
+   "diff": {
+    "corpus": "...Artículo 33. Frecuencias de recolección. La frecuencia de recolección dependerá de la naturaleza y ca...",
+    "fuente": "...ARTÍCULO 33. FRECUENCIAS DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.32 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La frecuencia de recolección dependerá de la naturaleza y ca..."
+   }
+  },
+  {
+   "articulo": "34",
+   "estado": "divergente",
+   "similitud": 0.4997,
+   "corpus": "Artículo 34. Divulgación de frecuencias, rutas y horarios. La recolección se efectuará según horarios y frecuencias en las macrorrutas y microrrutas establecidas previamente en el ",
+   "fuente": "ARTÍCULO 34. DIVULGACIÓN DE FRECUENCIAS, RUTAS Y HORARIOS. Artículo compilado en el artículo 2.3.2.2.2.3.33 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo ",
+   "diff": {
+    "corpus": "...Artículo 34. Divulgación de frecuencias, rutas y horarios. La recolección se efectuará según horarios y frecuencias en ...",
+    "fuente": "...ARTÍCULO 34. DIVULGACIÓN DE FRECUENCIAS, RUTAS Y HORARIOS. Artículo compilado en el artículo 2.3.2.2.2.3.33 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La recolección se efectuará según horarios y frecuencias en ..."
+   }
+  },
+  {
+   "articulo": "35",
+   "estado": "divergente",
+   "similitud": 0.9253,
+   "corpus": "Artículo 35. Cumplimiento de las rutas. Las rutas y horarios deberán ser cumplidas por las personas prestadoras del servicio público de aseo de conformidad con los contratos de pre",
+   "fuente": "ARTÍCULO 35. CUMPLIMIENTO DE LAS RUTAS. Artículo compilado en el artículo 2.3.2.2.2.3.34 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el ar",
+   "diff": {
+    "corpus": "...Artículo 35. Cumplimiento de las rutas. Las rutas y horarios deberán ser cumplidas por las personas...",
+    "fuente": "...ARTÍCULO 35. CUMPLIMIENTO DE LAS RUTAS. Artículo compilado en el artículo 2.3.2.2.2.3.34 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las rutas y horarios deberán ser cumplidas por las personas..."
+   }
+  },
+  {
+   "articulo": "36",
+   "estado": "divergente",
+   "similitud": 0.9369,
+   "corpus": "Artículo 36. Normas sobre recolección a partir de cajas de almacenamiento. La recolección mediante cajas de almacenamiento se sujetará, entre otras, a las siguientes condiciones: 1",
+   "fuente": "ARTÍCULO 36. NORMAS SOBRE RECOLECCIÓN A PARTIR DE CAJAS DE ALMACENAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.3.35 del Decreto Único Reglamentario 1077 de 2015. Debe tener",
+   "diff": {
+    "corpus": "...rmas sobre recolección a partir de cajas de almacenamiento. La recolección mediante cajas de almacenamiento se sujetará,...",
+    "fuente": "...RMAS SOBRE RECOLECCIÓN A PARTIR DE CAJAS DE ALMACENAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.3.35 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La recolección mediante cajas de almacenamiento se sujetará,..."
+   }
+  },
+  {
+   "articulo": "37",
+   "estado": "divergente",
+   "similitud": 0.9121,
+   "corpus": "Artículo 37. Características de los vehículos de recolección y transporte de residuos sólidos. Los vehículos para la prestación del servicio de aseo, empleados en las actividades d",
+   "fuente": "ARTÍCULO 37. CARACTERÍSTICAS DE LOS VEHÍCULOS DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.3.36 del Decreto Único Reglamentario 1077",
+   "diff": {
+    "corpus": "... vehículos de recolección y transporte de residuos sólidos. Los vehículos para la prestación del servicio de aseo, emple...",
+    "fuente": "... VEHÍCULOS DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.3.36 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los vehículos para la prestación del servicio de aseo, emple..."
+   }
+  },
+  {
+   "articulo": "38",
+   "estado": "divergente",
+   "similitud": 0.8244,
+   "corpus": "Artículo 38. Condiciones de equipos y accesorios para recolección y transporte de residuos sólidos. Los equipos, accesorios y ayudas de que estén dotados los vehículos destinados p",
+   "fuente": "ARTÍCULO 38. CONDICIONES DE EQUIPOS Y ACCESORIOS PARA RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.3.37 del Decreto Único Reglamentario",
+   "diff": {
+    "corpus": "...cesorios para recolección y transporte de residuos sólidos. Los equipos, accesorios y ayudas de que estén dotados los ve...",
+    "fuente": "...CESORIOS PARA RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.3.37 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los equipos, accesorios y ayudas de que estén dotados los ve..."
+   }
+  },
+  {
+   "articulo": "39",
+   "estado": "divergente",
+   "similitud": 0.7745,
+   "corpus": "Artículo 39. Lavado de los vehículos y equipos de recolección y transporte. Los vehículos de recolección y transporte de residuos sólidos deberán lavarse al final de la jornada dia",
+   "fuente": "ARTÍCULO 39. LAVADO DE LOS VEHÍCULOS Y EQUIPOS DE RECOLECCIÓN Y TRANSPORTE. Artículo compilado en el artículo 2.3.2.2.2.3.38 del Decreto Único Reglamentario 1077 de 2015. Debe tene",
+   "diff": {
+    "corpus": "...ado de los vehículos y equipos de recolección y transporte. Los vehículos de recolección y transporte de residuos sólido...",
+    "fuente": "...ADO DE LOS VEHÍCULOS Y EQUIPOS DE RECOLECCIÓN Y TRANSPORTE. Artículo compilado en el artículo 2.3.2.2.2.3.38 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los vehículos de recolección y transporte de residuos sólido..."
+   }
+  },
+  {
+   "articulo": "40",
+   "estado": "divergente",
+   "similitud": 0.9443,
+   "corpus": "Artículo 40. Trasbordo en la actividad de recolección. Cuando existan restricciones para el ingreso de los vehículos recolectores en zonas de difícil acceso, el prestador del servi",
+   "fuente": "ARTÍCULO 40. TRASBORDO EN LA ACTIVIDAD DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.39 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo disp",
+   "diff": {
+    "corpus": "...Artículo 40. Trasbordo en la actividad de recolección. Cuando existan restricciones para el ingreso de los vehícul...",
+    "fuente": "...ARTÍCULO 40. TRASBORDO EN LA ACTIVIDAD DE RECOLECCIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.39 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Cuando existan restricciones para el ingreso de los vehícul..."
+   }
+  },
+  {
+   "articulo": "41",
+   "estado": "divergente",
+   "similitud": 0.8234,
+   "corpus": "Artículo 41. Recolección de residuos acumulados por el barrido manual de calles. La recolección y el transporte de los residuos sólidos provenientes del barrido manual de calles de",
+   "fuente": "ARTÍCULO 41. RECOLECCIÓN DE RESIDUOS ACUMULADOS POR EL BARRIDO MANUAL DE CALLES. Artículo compilado en el artículo 2.3.2.2.2.3.40 del Decreto Único Reglamentario 1077 de 2015. Debe",
+   "diff": {
+    "corpus": "...ción de residuos acumulados por el barrido manual de calles. La recolección y el transporte de los residuos sólidos prov...",
+    "fuente": "...CIÓN DE RESIDUOS ACUMULADOS POR EL BARRIDO MANUAL DE CALLES. Artículo compilado en el artículo 2.3.2.2.2.3.40 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La recolección y el transporte de los residuos sólidos prov..."
+   }
+  },
+  {
+   "articulo": "42",
+   "estado": "divergente",
+   "similitud": 0.8523,
+   "corpus": "Artículo 42. Recolección de residuos de poda de árboles y corte de césped. La recolección y transporte de los residuos sólidos originados por poda de árboles o arbustos, y corte de",
+   "fuente": "ARTÍCULO 42. RECOLECCIÓN DE RESIDUOS DE PODA DE ÁRBOLES Y CORTE DE CÉSPED. Artículo compilado en el artículo 2.3.2.2.2.3.41 del Decreto Único Reglamentario 1077 de 2015. Debe tener",
+   "diff": {
+    "corpus": "...colección de residuos de poda de árboles y corte de césped. La recolección y transporte de los residuos sólidos originad...",
+    "fuente": "...COLECCIÓN DE RESIDUOS DE PODA DE ÁRBOLES Y CORTE DE CÉSPED. Artículo compilado en el artículo 2.3.2.2.2.3.41 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La recolección y transporte de los residuos sólidos originad..."
+   }
+  },
+  {
+   "articulo": "43",
+   "estado": "divergente",
+   "similitud": 0.8037,
+   "corpus": "Artículo 43. Recolección en plazas de mercado, mataderos y cementerios. Para la recolección de los residuos ordinarios generados en las plazas de mercado, mataderos y cementerios d",
+   "fuente": "ARTÍCULO 43. RECOLECCIÓN EN PLAZAS DE MERCADO, MATADEROS Y CEMENTERIOS. Artículo compilado en el artículo 2.3.2.2.2.3.42 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse ",
+   "diff": {
+    "corpus": "... Recolección en plazas de mercado, mataderos y cementerios. Para la recolección de los residuos ordinarios generados en las plazas de mercado, mataderos y cementerios ...",
+    "fuente": "... RECOLECCIÓN EN PLAZAS DE MERCADO, MATADEROS Y CEMENTERIOS. Artículo compilado en el artículo 2.3.2.2.2.3.42 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuest..."
+   }
+  },
+  {
+   "articulo": "44",
+   "estado": "divergente",
+   "similitud": 0.9008,
+   "corpus": "Artículo 44. Recolección de animales muertos. Para la recolección de animales muertos de especies menores, que no excedan los 50 kg, abandonados en las vías y áreas públicas, la pe",
+   "fuente": "ARTÍCULO 44. RECOLECCIÓN DE ANIMALES MUERTOS. Artículo compilado en el artículo 2.3.2.2.2.3.43 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por",
+   "diff": {
+    "corpus": "...Artículo 44. Recolección de animales muertos. Para la recolección de animales muertos de especies menores...",
+    "fuente": "...ARTÍCULO 44. RECOLECCIÓN DE ANIMALES MUERTOS. Artículo compilado en el artículo 2.3.2.2.2.3.43 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Para la recolección de animales muertos de especies menores..."
+   }
+  },
+  {
+   "articulo": "45",
+   "estado": "divergente",
+   "similitud": 0.1897,
+   "corpus": "Artículo 45. Recolección de residuos de construcción y demolición. La responsabilidad por el manejo y disposición de los residuos de construcción y demolición serán del generador, ",
+   "fuente": "ARTÍCULO 45. RECOLECCIÓN DE RESIDUOS DE CONSTRUCCIÓN Y DEMOLICIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.44 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cu",
+   "diff": {
+    "corpus": "...o 45. Recolección de residuos de construcción y demolición. La responsabilidad por el manejo y disposición de los residuos de construcción y demolición serán del generador, con sujeción a las normas que regulen la materia....",
+    "fuente": "...O 45. RECOLECCIÓN DE RESIDUOS DE CONSTRUCCIÓN Y DEMOLICIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.44 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuest..."
+   }
+  },
+  {
+   "articulo": "46",
+   "estado": "divergente",
+   "similitud": 0.8569,
+   "corpus": "Artículo 46. Censo de puntos críticos. Las personas prestadoras del servicio público de aseo en las actividades de recolección y transporte en su área de prestación, harán censos d",
+   "fuente": "ARTÍCULO 46. CENSO DE PUNTOS CRÍTICOS. Artículo compilado en el artículo 2.3.2.2.2.3.45 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el art",
+   "diff": {
+    "corpus": "...Artículo 46. Censo de puntos críticos. Las personas prestadoras del servicio público de aseo en las...",
+    "fuente": "...ARTÍCULO 46. CENSO DE PUNTOS CRÍTICOS. Artículo compilado en el artículo 2.3.2.2.2.3.45 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las personas prestadoras del servicio público de aseo en las..."
+   }
+  },
+  {
+   "articulo": "47",
+   "estado": "divergente",
+   "similitud": 0.8878,
+   "corpus": "Artículo 47. Almacenamiento y recolección de residuos generados en eventos y espectáculos masivos. El almacenamiento y presentación de residuos generados con ocasión de eventos y e",
+   "fuente": "ARTÍCULO 47. ALMACENAMIENTO Y RECOLECCIÓN DE RESIDUOS GENERADOS EN EVENTOS Y ESPECTÁCULOS MASIVOS. Artículo compilado en el artículo 2.3.2.2.2.3.46 del Decreto Único Reglamentario ",
+   "diff": {
+    "corpus": "...ón de residuos generados en eventos y espectáculos masivos. El almacenamiento y presentación de residuos generados con o...",
+    "fuente": "...ÓN DE RESIDUOS GENERADOS EN EVENTOS Y ESPECTÁCULOS MASIVOS. Artículo compilado en el artículo 2.3.2.2.2.3.46 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 El almacenamiento y presentación de residuos generados con o..."
+   }
+  },
+  {
+   "articulo": "48",
+   "estado": "divergente",
+   "similitud": 0.8706,
+   "corpus": "Artículo 48. Almacenamiento y recolección de residuos generados en puntos de ventas en áreas públicas. Los vendedores estacionarios localizados en áreas públicas, debidamente autor",
+   "fuente": "ARTÍCULO 48. ALMACENAMIENTO Y RECOLECCIÓN DE RESIDUOS GENERADOS EN PUNTOS DE VENTAS EN ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.3.47 del Decreto Único Reglamenta",
+   "diff": {
+    "corpus": "...e residuos generados en puntos de ventas en áreas públicas. Los vendedores estacionarios localizados en áreas públicas, ...",
+    "fuente": "...E RESIDUOS GENERADOS EN PUNTOS DE VENTAS EN ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.3.47 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los vendedores estacionarios localizados en áreas públicas, ..."
+   }
+  },
+  {
+   "articulo": "49",
+   "estado": "divergente",
+   "similitud": 0.7973,
+   "corpus": "Artículo 49. Responsabilidad por los residuos sólidos generados en el cargue y descargue de mercancías y materiales. Los responsables de cargue, descargue y transporte de mercancía",
+   "fuente": "ARTÍCULO 49. RESPONSABILIDAD POR LOS RESIDUOS SÓLIDOS GENERADOS EN EL CARGUE Y DESCARGUE DE MERCANCÍAS Y MATERIALES. Artículo compilado en el artículo 2.3.2.2.2.3.48 del Decreto Ún",
+   "diff": {
+    "corpus": "...erados en el cargue y descargue de mercancías y materiales. Los responsables de cargue, descargue y transporte de mercancías o mater...",
+    "fuente": "...ERADOS EN EL CARGUE Y DESCARGUE DE MERCANCÍAS Y MATERIALES. Artículo compilado en el artículo 2.3.2.2.2.3.48 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del ..."
+   }
+  },
+  {
+   "articulo": "50",
+   "estado": "divergente",
+   "similitud": 0.791,
+   "corpus": "Artículo 50. Monitoreo de la actividad de recolección de residuos sólidos. Las personas prestadoras del servicio público de aseo que atiendan en ciudades de más de un millón de hab",
+   "fuente": "ARTÍCULO 50. MONITOREO DE LA ACTIVIDAD DE RECOLECCIÓN DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.3.49 del Decreto Único Reglamentario 1077 de 2015. Debe tener",
+   "diff": {
+    "corpus": "...nitoreo de la actividad de recolección de residuos sólidos. Las personas prestadoras del servicio público de aseo que at...",
+    "fuente": "...NITOREO DE LA ACTIVIDAD DE RECOLECCIÓN DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.3.49 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las personas prestadoras del servicio público de aseo que at..."
+   }
+  },
+  {
+   "articulo": "51",
+   "estado": "divergente",
+   "similitud": 0.9379,
+   "corpus": "Artículo 51. Características de las bases de operación. Las personas prestadoras del servicio público de aseo que presten el servicio en municipio o distritos mayores de 5.000 usua",
+   "fuente": "ARTÍCULO 51. CARACTERÍSTICAS DE LAS BASES DE OPERACIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.50 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dis",
+   "diff": {
+    "corpus": "...Artículo 51. Características de las bases de operación. Las personas prestadoras del servicio público de aseo que p...",
+    "fuente": "...ARTÍCULO 51. CARACTERÍSTICAS DE LAS BASES DE OPERACIÓN. Artículo compilado en el artículo 2.3.2.2.2.3.50 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las personas prestadoras del servicio público de aseo que p..."
+   }
+  },
+  {
+   "articulo": "52",
+   "estado": "divergente",
+   "similitud": 0.4257,
+   "corpus": "Artículo 52. Responsabilidad en barrido y limpieza de vías y áreas públicas. Las labores de barrido y limpieza de vías y áreas públicas son responsabilidad de la persona prestadora",
+   "fuente": "ARTÍCULO 52. RESPONSABILIDAD EN BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.51 del Decreto Único Reglamentario 1077 de 2015. Debe ten",
+   "diff": {
+    "corpus": "...onsabilidad en barrido y limpieza de vías y áreas públicas. Las labores de barrido y limpieza de vías y áreas públicas son responsabilidad de la persona prestadora del servicio público de aseo en el área de prestación donde realice las actividades de recolección y transporte. La prestación de este componente en todo caso deberá reali...",
+    "fuente": "...ONSABILIDAD EN BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.51 del Decreto Único Reglamentario 1077 de 2015. ..."
+   }
+  },
+  {
+   "articulo": "53",
+   "estado": "divergente",
+   "similitud": 0.9495,
+   "corpus": "Artículo 53. Acuerdos de Barrido y Limpieza. Las personas prestadoras deberán suscribir acuerdos de barrido y limpieza en los que se determinen las vías y áreas públicas que cada p",
+   "fuente": "ARTÍCULO 53. ACUERDOS DE BARRIDO Y LIMPIEZA. Artículo compilado en el artículo 2.3.2.2.2.4.52 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por ",
+   "diff": {
+    "corpus": "...Artículo 53. Acuerdos de Barrido y Limpieza. Las personas prestadoras deberán suscribir acuerdos de barr...",
+    "fuente": "...ARTÍCULO 53. ACUERDOS DE BARRIDO Y LIMPIEZA. Artículo compilado en el artículo 2.3.2.2.2.4.52 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las personas prestadoras deberán suscribir acuerdos de barr..."
+   }
+  },
+  {
+   "articulo": "54",
+   "estado": "divergente",
+   "similitud": 0.6336,
+   "corpus": "Artículo 54. Frecuencias mínimas de barrido y limpieza de vías y áreas públicas. La frecuencia mínima de barrido y limpieza del área de prestación a cargo del prestador será de dos",
+   "fuente": "ARTÍCULO 54. FRECUENCIAS MÍNIMAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.53 del Decreto Único Reglamentario 1077 de 2015. Debe",
+   "diff": {
+    "corpus": "...cias mínimas de barrido y limpieza de vías y áreas públicas. La frecuencia mínima de barrido y limpieza del área de pres...",
+    "fuente": "...CIAS MÍNIMAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.53 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La frecuencia mínima de barrido y limpieza del área de pres..."
+   }
+  },
+  {
+   "articulo": "55",
+   "estado": "divergente",
+   "similitud": 0.7169,
+   "corpus": "Artículo 55. Establecimiento del horario de barrido y limpieza de vías y áreas públicas. El barrido y limpieza de vías y áreas públicas deberá realizarse en horarios que causen la ",
+   "fuente": "ARTÍCULO 55. ESTABLECIMIENTO DEL HORARIO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.54 del Decreto Único Reglamentario 1077 de 20",
+   "diff": {
+    "corpus": "...del horario de barrido y limpieza de vías y áreas públicas. El barrido y limpieza de vías y áreas públicas deberá realiz...",
+    "fuente": "...DEL HORARIO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.54 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 El barrido y limpieza de vías y áreas públicas deberá realiz..."
+   }
+  },
+  {
+   "articulo": "56",
+   "estado": "divergente",
+   "similitud": 0.8608,
+   "corpus": "Artículo 56. Establecimiento de macrorrutas y microrrutas para el barrido y limpieza de vías y áreas públicas. Las personas prestadoras del servicio público de aseo están obligadas",
+   "fuente": "ARTÍCULO 56. ESTABLECIMIENTO DE MACRORRUTAS Y MICRORRUTAS PARA EL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.55 del Decreto Único Re",
+   "diff": {
+    "corpus": "...rrutas para el barrido y limpieza de vías y áreas públicas. Las personas prestadoras del servicio público de aseo están ...",
+    "fuente": "...RRUTAS PARA EL BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.55 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las personas prestadoras del servicio público de aseo están ..."
+   }
+  },
+  {
+   "articulo": "57",
+   "estado": "divergente",
+   "similitud": 0.8189,
+   "corpus": "Artículo 57. Actividad de barrido y limpieza manual de vías y áreas públicas. Los residuos resultantes de la labor de barrido y limpieza manual de vías y áreas públicas deberán ser",
+   "fuente": "ARTÍCULO 57. ACTIVIDAD DE BARRIDO Y LIMPIEZA MANUAL DE VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.56 del Decreto Único Reglamentario 1077 de 2015. Debe te",
+   "diff": {
+    "corpus": "...idad de barrido y limpieza manual de vías y áreas públicas. Los residuos resultantes de la labor de barrido y limpieza m...",
+    "fuente": "...IDAD DE BARRIDO Y LIMPIEZA MANUAL DE VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.56 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los residuos resultantes de la labor de barrido y limpieza m..."
+   }
+  },
+  {
+   "articulo": "58",
+   "estado": "divergente",
+   "similitud": 0.9199,
+   "corpus": "Artículo 58. Instalación de cestas o canastillas públicas de residuos sólidos en las vías y áreas públicas. Las personas prestadoras del servicio de aseo deberán colocar canastilla",
+   "fuente": "ARTÍCULO 58. INSTALACIÓN DE CESTAS O CANASTILLAS PÚBLICAS DE RESIDUOS SÓLIDOS EN LAS VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.57 del Decreto Único Regla",
+   "diff": {
+    "corpus": "... públicas de residuos sólidos en las vías y áreas públicas. Las personas prestadoras del servicio de aseo deberán coloca...",
+    "fuente": "... PÚBLICAS DE RESIDUOS SÓLIDOS EN LAS VÍAS Y ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.57 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las personas prestadoras del servicio de aseo deberán coloca..."
+   }
+  },
+  {
+   "articulo": "59",
+   "estado": "divergente",
+   "similitud": 0.5893,
+   "corpus": "Artículo 59. Características de las canastillas o cestas públicas. Las canastillas o cestas públicas deben cumplir con las siguientes características: 1 Estar diseñadas de tal form",
+   "fuente": "ARTÍCULO 59. CARACTERÍSTICAS DE LAS CANASTILLAS O CESTAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.58 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cu",
+   "diff": {
+    "corpus": "...o 59. Características de las canastillas o cestas públicas. Las canastillas o cestas públicas deben cumplir con las siguientes características: 1 Estar diseñadas de tal forma que...",
+    "fuente": "...O 59. CARACTERÍSTICAS DE LAS CANASTILLAS O CESTAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.4.58 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuest..."
+   }
+  },
+  {
+   "articulo": "60",
+   "estado": "divergente",
+   "similitud": 0.4338,
+   "corpus": "Artículo 60. Equipo para la actividad de barrido manual. El personal operativo para la actividad de barrido manual deberá contar con el equipo necesario para la limpieza, barrido, ",
+   "fuente": "ARTÍCULO 60. EQUIPO PARA LA ACTIVIDAD DE BARRIDO MANUAL. Artículo compilado en el artículo 2.3.2.2.2.4.59 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo di",
+   "diff": {
+    "corpus": "...Artículo 60. Equipo para la actividad de barrido manual. El personal operativo para la actividad de barrido manual de...",
+    "fuente": "...ARTÍCULO 60. EQUIPO PARA LA ACTIVIDAD DE BARRIDO MANUAL. Artículo compilado en el artículo 2.3.2.2.2.4.59 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 El personal operativo para la actividad de barrido manual de..."
+   }
+  },
+  {
+   "articulo": "61",
+   "estado": "divergente",
+   "similitud": 0.9243,
+   "corpus": "Artículo 61. Actividad de barrido mecánico. Se podrá utilizar barrido mecánico en aquellas calles pavimentadas que por su longitud, estado de las vías, amplitud, volumen de los res",
+   "fuente": "ARTÍCULO 61. ACTIVIDAD DE BARRIDO MECÁNICO. Artículo compilado en el artículo 2.3.2.2.2.4.60 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por e",
+   "diff": {
+    "corpus": "...Artículo 61. Actividad de barrido mecánico. Se podrá utilizar barrido mecánico en aquellas calles pavime...",
+    "fuente": "...ARTÍCULO 61. ACTIVIDAD DE BARRIDO MECÁNICO. Artículo compilado en el artículo 2.3.2.2.2.4.60 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Se podrá utilizar barrido mecánico en aquellas calles pavime..."
+   }
+  },
+  {
+   "articulo": "62",
+   "estado": "divergente",
+   "similitud": 0.8637,
+   "corpus": "Artículo 62. Responsabilidad de los anunciantes en materia de limpieza. La limpieza y remoción de los avisos publicitarios o propaganda será responsabilidad de los anunciantes, qui",
+   "fuente": "ARTÍCULO 62. RESPONSABILIDAD DE LOS ANUNCIANTES EN MATERIA DE LIMPIEZA. Artículo compilado en el artículo 2.3.2.2.2.4.61 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse ",
+   "diff": {
+    "corpus": "... Responsabilidad de los anunciantes en materia de limpieza. La limpieza y remoción de los avisos publicitarios o propaga...",
+    "fuente": "... RESPONSABILIDAD DE LOS ANUNCIANTES EN MATERIA DE LIMPIEZA. Artículo compilado en el artículo 2.3.2.2.2.4.61 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La limpieza y remoción de los avisos publicitarios o propaga..."
+   }
+  },
+  {
+   "articulo": "63",
+   "estado": "divergente",
+   "similitud": 0.8245,
+   "corpus": "Artículo 63. Limpieza de playas. La persona prestadora del servicio público de aseo deberá efectuar la limpieza de playas costeras o ribereñas en las áreas urbanas definidas en el ",
+   "fuente": "ARTÍCULO 63. LIMPIEZA DE PLAYAS. Artículo compilado en el artículo 2.3.2.2.2.4.62 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo ",
+   "diff": {
+    "corpus": "...Artículo 63. Limpieza de playas. La persona prestadora del servicio público de aseo deberá ef...",
+    "fuente": "...ARTÍCULO 63. LIMPIEZA DE PLAYAS. Artículo compilado en el artículo 2.3.2.2.2.4.62 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La persona prestadora del servicio público de aseo deberá ef..."
+   }
+  },
+  {
+   "articulo": "64",
+   "estado": "divergente",
+   "similitud": 0.121,
+   "corpus": "Artículo 64. Responsabilidad en el lavado de áreas públicas. Las labores de lavado de áreas públicas son responsabilidad de los prestadores del servicio ON e DECRETO NÚMERO 0% 2981",
+   "fuente": "ARTÍCULO 64. RESPONSABILIDAD EN EL LAVADO DE ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.5.63 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta l",
+   "diff": {
+    "corpus": "...rtículo 64. Responsabilidad en el lavado de áreas públicas. Las labores de lavado de áreas públicas son responsabilidad ...",
+    "fuente": "...RTÍCULO 64. RESPONSABILIDAD EN EL LAVADO DE ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.5.63 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las labores de lavado de áreas públicas son responsabilidad ..."
+   }
+  },
+  {
+   "articulo": "65",
+   "estado": "divergente",
+   "similitud": 0.9366,
+   "corpus": "Artículo 65. Acuerdos de lavado de áreas públicas. Las personas prestadoras deberán suscribir acuerdos donde se determinen las áreas públicas, incluidos los puentes peatonales a ca",
+   "fuente": "ARTÍCULO 65. ACUERDOS DE LAVADO DE ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.5.64 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuest",
+   "diff": {
+    "corpus": "...Artículo 65. Acuerdos de lavado de áreas públicas. Las personas prestadoras deberán suscribir acuerdos donde s...",
+    "fuente": "...ARTÍCULO 65. ACUERDOS DE LAVADO DE ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.5.64 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las personas prestadoras deberán suscribir acuerdos donde s..."
+   }
+  },
+  {
+   "articulo": "66",
+   "estado": "divergente",
+   "similitud": 0.9262,
+   "corpus": "Artículo 66. Alcance del lavado de áreas públicas. La actividad de lavado de áreas públicas dentro del servicio de aseo comprende el lavado de puentes peatonales y de aquellas área",
+   "fuente": "ARTÍCULO 66. ALCANCE DEL LAVADO DE ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.5.65 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuest",
+   "diff": {
+    "corpus": "...Artículo 66. Alcance del lavado de áreas públicas. La actividad de lavado de áreas públicas dentro del servicio de aseo comprende el lavado de pu...",
+    "fuente": "...ARTÍCULO 66. ALCANCE DEL LAVADO DE ÁREAS PÚBLICAS. Artículo compilado en el artículo 2.3.2.2.2.5.65 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del ..."
+   }
+  },
+  {
+   "articulo": "67",
+   "estado": "divergente",
+   "similitud": 0.867,
+   "corpus": "Artículo 67. Actividad de corte de césped. Esta actividad debe realizarse en las áreas verdes públicas de los municipios, tales como: separadores viales ubicados en vías de tránsit",
+   "fuente": "ARTÍCULO 67. ACTIVIDAD DE CORTE DE CÉSPED. Artículo compilado en el artículo 2.3.2.2.2.6.66 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el",
+   "diff": {
+    "corpus": "...Artículo 67. Actividad de corte de césped. Esta actividad debe realizarse en las áreas verdes públicas ...",
+    "fuente": "...ARTÍCULO 67. ACTIVIDAD DE CORTE DE CÉSPED. Artículo compilado en el artículo 2.3.2.2.2.6.66 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Esta actividad debe realizarse en las áreas verdes públicas ..."
+   }
+  },
+  {
+   "articulo": "68",
+   "estado": "divergente",
+   "similitud": 0.8877,
+   "corpus": "Artículo 68. Frecuencias y horarios para la actividad de corte de césped. El desarrollo de las tareas de corte de césped se hará de forma programada, teniendo en cuenta que el área",
+   "fuente": "ARTÍCULO 68. FRECUENCIAS Y HORARIOS PARA LA ACTIVIDAD DE CORTE DE CÉSPED. Artículo compilado en el artículo 2.3.2.2.2.6.67 del Decreto Único Reglamentario 1077 de 2015. Debe teners",
+   "diff": {
+    "corpus": "...Frecuencias y horarios para la actividad de corte de césped. El desarrollo de las tareas de corte de césped se hará de f...",
+    "fuente": "...FRECUENCIAS Y HORARIOS PARA LA ACTIVIDAD DE CORTE DE CÉSPED. Artículo compilado en el artículo 2.3.2.2.2.6.67 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 El desarrollo de las tareas de corte de césped se hará de f..."
+   }
+  },
+  {
+   "articulo": "69",
+   "estado": "divergente",
+   "similitud": 0.8708,
+   "corpus": "Artículo 69. Normas de seguridad para la actividad de corte de césped. La persona prestadora del servicio público de aseo deberá adoptar todas las medidas J) e DECRETO NÚMERO del H",
+   "fuente": "ARTÍCULO 69. NORMAS DE SEGURIDAD PARA LA ACTIVIDAD DE CORTE DE CÉSPED. Artículo compilado en el artículo 2.3.2.2.2.6.68 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse e",
+   "diff": {
+    "corpus": ".... Normas de seguridad para la actividad de corte de césped. La persona prestadora del servicio público de aseo deberá ad...",
+    "fuente": ".... NORMAS DE SEGURIDAD PARA LA ACTIVIDAD DE CORTE DE CÉSPED. Artículo compilado en el artículo 2.3.2.2.2.6.68 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La persona prestadora del servicio público de aseo deberá op..."
+   }
+  },
+  {
+   "articulo": "70",
+   "estado": "divergente",
+   "similitud": 0.8551,
+   "corpus": "Artículo 70. Normas de seguridad para el operario en la actividad de corte de césped. En la ejecución de esta actividad la persona prestadora deberá brindar las medidas de segurida",
+   "fuente": "ARTÍCULO 70. NORMAS DE SEGURIDAD PARA EL OPERARIO EN LA ACTIVIDAD DE CORTE DE CÉSPED. Artículo compilado en el artículo 2.3.2.2.2.6.69 del Decreto Único Reglamentario 1077 de 2015.",
+   "diff": {
+    "corpus": "...uridad para el operario en la actividad de corte de césped. En la ejecución de esta actividad la persona prestadora debe...",
+    "fuente": "...URIDAD PARA EL OPERARIO EN LA ACTIVIDAD DE CORTE DE CÉSPED. Artículo compilado en el artículo 2.3.2.2.2.6.69 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 En la ejecución de esta actividad la persona prestadora debe..."
+   }
+  },
+  {
+   "articulo": "71",
+   "estado": "divergente",
+   "similitud": 0.9295,
+   "corpus": "Artículo 71. Actividad de poda de árboles. Las actividades que la componen son: corte de ramas, follajes, recolección, presentación y transporte para disposición final o aprovecham",
+   "fuente": "ARTÍCULO 71. ACTIVIDAD DE PODA DE ÁRBOLES. Artículo compilado en el artículo 2.3.2.2.2.6.70 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el",
+   "diff": {
+    "corpus": "...Artículo 71. Actividad de poda de árboles. Las actividades que la componen son: corte de ramas, follaje...",
+    "fuente": "...ARTÍCULO 71. ACTIVIDAD DE PODA DE ÁRBOLES. Artículo compilado en el artículo 2.3.2.2.2.6.70 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Las actividades que la componen son: corte de ramas, follaje..."
+   }
+  },
+  {
+   "articulo": "72",
+   "estado": "divergente",
+   "similitud": 0.5822,
+   "corpus": "Artículo 72. Normas de seguridad para la actividad de poda de árboles. La persona prestadora del servicio público de aseo deberá adoptar todas las medidas tendientes a evitar accid",
+   "fuente": "ARTÍCULO 72. NORMAS DE SEGURIDAD PARA LA ACTIVIDAD DE PODA DE ÁRBOLES. Artículo compilado en el artículo 2.3.2.2.2.6.71 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse e",
+   "diff": {
+    "corpus": ".... Normas de seguridad para la actividad de poda de árboles. La persona prestadora del servicio público de aseo deberá ad...",
+    "fuente": ".... NORMAS DE SEGURIDAD PARA LA ACTIVIDAD DE PODA DE ÁRBOLES. Artículo compilado en el artículo 2.3.2.2.2.6.71 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La persona prestadora del servicio público de aseo deberá ad..."
+   }
+  },
+  {
+   "articulo": "73",
+   "estado": "divergente",
+   "similitud": 0.8551,
+   "corpus": "Artículo 73. Normas de seguridad para el operario en la actividad de poda de árboles. En la ejecución de esta actividad la persona prestadora deberá brindar las medidas de segurida",
+   "fuente": "ARTÍCULO 73. NORMAS DE SEGURIDAD PARA EL OPERARIO EN LA ACTIVIDAD DE PODA DE ÁRBOLES. Artículo compilado en el artículo 2.3.2.2.2.6.72 del Decreto Único Reglamentario 1077 de 2015.",
+   "diff": {
+    "corpus": "...uridad para el operario en la actividad de poda de árboles. En la ejecución de esta actividad la persona prestadora debe...",
+    "fuente": "...URIDAD PARA EL OPERARIO EN LA ACTIVIDAD DE PODA DE ÁRBOLES. Artículo compilado en el artículo 2.3.2.2.2.6.72 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 En la ejecución de esta actividad la persona prestadora debe..."
+   }
+  },
+  {
+   "articulo": "74",
+   "estado": "divergente",
+   "similitud": 0.7006,
+   "corpus": "Artículo 74. Autorizaciones para las actividades de poda de árboles. Para la actividad de poda de árboles se deberán obtener las autorizaciones que establezca la respectiva autorid",
+   "fuente": "ARTÍCULO 74. AUTORIZACIONES PARA LAS ACTIVIDADES DE PODA DE ÁRBOLES. Artículo compilado en el artículo 2.3.2.2.2.6.73 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en ",
+   "diff": {
+    "corpus": "...74. Autorizaciones para las actividades de poda de árboles. Para la actividad de poda de árboles se deberán obtener las ...",
+    "fuente": "...74. AUTORIZACIONES PARA LAS ACTIVIDADES DE PODA DE ÁRBOLES. Artículo compilado en el artículo 2.3.2.2.2.6.73 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Para la actividad de poda de árboles se deberán obtener las ..."
+   }
+  },
+  {
+   "articulo": "75,",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "76",
+   "estado": "divergente",
+   "similitud": 0.7013,
+   "corpus": "Artículo 76. Obligación de las entidades territoriales. Los municipios o distritos deberán definir las áreas donde es posible la localización y el funcionamiento de estaciones de t",
+   "fuente": "ARTÍCULO 76. OBLIGACIÓN DE LAS ENTIDADES TERRITORIALES. Artículo compilado en el artículo 2.3.2.2.2.7.75 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dis",
+   "diff": {
+    "corpus": "...Artículo 76. Obligación de las entidades territoriales. Los municipios o distritos deberán definir las áreas donde es posible la localización ...",
+    "fuente": "...ARTÍCULO 76. OBLIGACIÓN DE LAS ENTIDADES TERRITORIALES. Artículo compilado en el artículo 2.3.2.2.2.7.75 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 d..."
+   }
+  },
+  {
+   "articulo": "77",
+   "estado": "divergente",
+   "similitud": 0.7793,
+   "corpus": "Artículo 77. Instalación de estaciones de transferencia. Cuando se considere necesario ubicar una estación de transferencia la persona prestadora del servicio deberá realizar los e",
+   "fuente": "ARTÍCULO 77. INSTALACIÓN DE ESTACIONES DE TRANSFERENCIA. Artículo compilado en el artículo 2.3.2.2.2.7.76 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo di",
+   "diff": {
+    "corpus": "...Artículo 77. Instalación de estaciones de transferencia. Cuando se considere necesario ubicar una estación de transferencia la persona prestadora de...",
+    "fuente": "...ARTÍCULO 77. INSTALACIÓN DE ESTACIONES DE TRANSFERENCIA. Artículo compilado en el artículo 2.3.2.2.2.7.76 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del ..."
+   }
+  },
+  {
+   "articulo": "78",
+   "estado": "divergente",
+   "similitud": 0.9247,
+   "corpus": "Artículo 78. Características de los vehículos de transferencia para transporte de residuos sólidos. Los vehículos empleados en la actividad de transporte a granel de los residuos s",
+   "fuente": "ARTÍCULO 78. CARACTERÍSTICAS DE LOS VEHÍCULOS DE TRANSFERENCIA PARA TRANSPORTE DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.7.77 del Decreto Único Reglamentario",
+   "diff": {
+    "corpus": "...culos de transferencia para transporte de residuos sólidos. Los vehículos empleados en la actividad de transporte a gran...",
+    "fuente": "...CULOS DE TRANSFERENCIA PARA TRANSPORTE DE RESIDUOS SÓLIDOS. Artículo compilado en el artículo 2.3.2.2.2.7.77 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los vehículos empleados en la actividad de transporte a gran..."
+   }
+  },
+  {
+   "articulo": "79",
+   "estado": "divergente",
+   "similitud": 0.8743,
+   "corpus": "Artículo 79. Recolección y transporte de residuos para aprovechamiento como actividad complementaria del servicio público de aseo. Son el conjunto de actividades complementarias de",
+   "fuente": "ARTÍCULO 79. RECOLECCIÓN Y TRANSPORTE DE RESIDUOS PARA APROVECHAMIENTO COMO ACTIVIDAD COMPLEMENTARIA DEL SERVICIO PÚBLICO DE ASEO. Artículo compilado en el artículo 2.3.2.2.2.8.78 ",
+   "diff": {
+    "corpus": "...como actividad complementaria del servicio público de aseo. Son el conjunto de actividades complementarias de aseo reali...",
+    "fuente": "...COMO ACTIVIDAD COMPLEMENTARIA DEL SERVICIO PÚBLICO DE ASEO. Artículo compilado en el artículo 2.3.2.2.2.8.78 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Son el conjunto de actividades complementarias de aseo reali..."
+   }
+  },
+  {
+   "articulo": "80",
+   "estado": "divergente",
+   "similitud": 0.0363,
+   "corpus": "Artículo 80. Características de los vehículos de recolección selectiva. Los vehículos empleados en la recolección y transporte de residuos aprovechables deberán tener entre otras, ",
+   "fuente": "ARTÍCULO 80. CARACTERÍSTICAS DE LOS VEHÍCULOS DE RECOLECCIÓN SELECTIVA. Artículo compilado en el artículo 2.3.2.2.2.8.79 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse ",
+   "diff": {
+    "corpus": "... Características de los vehículos de recolección selectiva. Los vehículos empleados en la recolección y transporte de residuos aprovechables deberán tener entre otras, las siguientes características: e DECRETO NÚMERO , . 2981 del Hoja...",
+    "fuente": "... CARACTERÍSTICAS DE LOS VEHÍCULOS DE RECOLECCIÓN SELECTIVA. Artículo compilado en el artículo 2.3.2.2.2.8.79 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuest..."
+   }
+  },
+  {
+   "articulo": "81",
+   "estado": "divergente",
+   "similitud": 0.5142,
+   "corpus": "Artículo 81. Recolección y transporte de residuos sólidos aprovechables. La recolección y transporte de residuos aprovechables deberán tener en cuenta entre otras, las siguientes c",
+   "fuente": "ARTÍCULO 81. RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS APROVECHABLES. Artículo compilado en el artículo 2.3.2.2.2.8.80 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse",
+   "diff": {
+    "corpus": "...Recolección y transporte de residuos sólidos aprovechables. La recolección y transporte de residuos aprovechables deberá...",
+    "fuente": "...RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS APROVECHABLES. Artículo compilado en el artículo 2.3.2.2.2.8.80 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 La recolección y transporte de residuos aprovechables deberá..."
+   }
+  },
+  {
+   "articulo": "82",
+   "estado": "divergente",
+   "similitud": 0.9199,
+   "corpus": "Artículo 82. Propósitos del aprovechamiento. El aprovechamiento de los materiales contenidos en los residuos sólidos, tiene como propósitos fundamentales: 1. Racionalizar el uso y ",
+   "fuente": "ARTÍCULO 82. PROPÓSITOS DEL APROVECHAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.8.81 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por ",
+   "diff": {
+    "corpus": "...Artículo 82. Propósitos del aprovechamiento. El aprovechamiento de los materiales contenidos en los resid...",
+    "fuente": "...ARTÍCULO 82. PROPÓSITOS DEL APROVECHAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.8.81 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 El aprovechamiento de los materiales contenidos en los resid..."
+   }
+  },
+  {
+   "articulo": "83",
+   "estado": "divergente",
+   "similitud": 0.8822,
+   "corpus": "Artículo 83. Características de los residuos sólidos para el aprovechamiento. En las actividades de aprovechamiento, los residuos deben cumplir por lo menos con los siguientes crit",
+   "fuente": "ARTÍCULO 83. CARACTERÍSTICAS DE LOS RESIDUOS SÓLIDOS PARA EL APROVECHAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.8.82 del Decreto Único Reglamentario 1077 de 2015. Debe te",
+   "diff": {
+    "corpus": "...cterísticas de los residuos sólidos para el aprovechamiento. En las actividades de aprovechamiento, los residuos deben c...",
+    "fuente": "...CTERÍSTICAS DE LOS RESIDUOS SÓLIDOS PARA EL APROVECHAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.8.82 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 En las actividades de aprovechamiento, los residuos deben c..."
+   }
+  },
+  {
+   "articulo": "84",
+   "estado": "divergente",
+   "similitud": 0.8907,
+   "corpus": "Artículo 84. Almacenamiento de materiales aprovechables. El almacenamiento de los materiales aprovechables deberá realizarse de tal manera, que no se deteriore su calidad ni se pie",
+   "fuente": "ARTÍCULO 84. ALMACENAMIENTO DE MATERIALES APROVECHABLES. Artículo compilado en el artículo 2.3.2.2.2.8.83 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo di",
+   "diff": {
+    "corpus": "...Artículo 84. Almacenamiento de materiales aprovechables. El almacenamiento de los materiales aprovechables deberá rea...",
+    "fuente": "...ARTÍCULO 84. ALMACENAMIENTO DE MATERIALES APROVECHABLES. Artículo compilado en el artículo 2.3.2.2.2.8.83 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 El almacenamiento de los materiales aprovechables deberá rea..."
+   }
+  },
+  {
+   "articulo": "85",
+   "estado": "divergente",
+   "similitud": 0.6576,
+   "corpus": "Artículo 85. Compactación o densificación de materiales aprovechables. En las instalaciones de almacenamiento se podrá incrementar la densidad de los residuos sólidos, ya sea para ",
+   "fuente": "ARTÍCULO 85. COMPACTACIÓN O DENSIFICACIÓN DE MATERIALES APROVECHABLES. Artículo compilado en el artículo 2.3.2.2.2.8.84 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse e",
+   "diff": {
+    "corpus": ".... Compactación o densificación de materiales aprovechables. En las instalaciones de almacenamiento se podrá incrementar ...",
+    "fuente": ".... COMPACTACIÓN O DENSIFICACIÓN DE MATERIALES APROVECHABLES. Artículo compilado en el artículo 2.3.2.2.2.8.84 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 En las instalaciones de almacenamiento se podrá incrementar ..."
+   }
+  },
+  {
+   "articulo": "86",
+   "estado": "divergente",
+   "similitud": 0.8416,
+   "corpus": "Artículo 86. Sistemas de aprovechamiento y valorización regionales. Los municipios o distritos como responsables de asegurar la prestación del servicio público de aseo, y las perso",
+   "fuente": "ARTÍCULO 86. SISTEMAS DE APROVECHAMIENTO Y VALORIZACIÓN REGIONALES. Artículo compilado en el artículo 2.3.2.2.2.8.85 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en c",
+   "diff": {
+    "corpus": "... 86. Sistemas de aprovechamiento y valorización regionales. Los municipios o distritos como responsables de asegurar la ...",
+    "fuente": "... 86. SISTEMAS DE APROVECHAMIENTO Y VALORIZACIÓN REGIONALES. Artículo compilado en el artículo 2.3.2.2.2.8.85 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los municipios o distritos como responsables de asegurar la ..."
+   }
+  },
+  {
+   "articulo": "87",
+   "estado": "divergente",
+   "similitud": 0.3475,
+   "corpus": "Artículo 87. Requisitos mínimos para las estaciones de clasificación y aprovechamiento. Las estaciones de clasificación y aprovechamiento deberán cumplir como mínimo con los siguie",
+   "fuente": "ARTÍCULO 87. REQUISITOS MÍNIMOS PARA LAS ESTACIONES DE CLASIFICACIÓN Y APROVECHAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.9.86 del Decreto Único Reglamentario 1077 de 201",
+   "diff": {
+    "corpus": "...mos para las estaciones de clasificación y aprovechamiento. Las estaciones de clasificación y aprovechamiento deberán cumplir como mínimo con los siguientes requisitos: 1. Tener en cuenta para su ubicación lo...",
+    "fuente": "...MOS PARA LAS ESTACIONES DE CLASIFICACIÓN Y APROVECHAMIENTO. Artículo compilado en el artículo 2.3.2.2.2.9.86 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuest..."
+   }
+  },
+  {
+   "articulo": "88",
+   "estado": "divergente",
+   "similitud": 0.099,
+   "corpus": "Artículo 88. Plan para la gestión integral de residuos sólidos, PGIRS. Los municipios y distritos, deberán elaborar, implementar y mantener actualizado un A y e",
+   "fuente": "ARTÍCULO 88. PLAN PARA LA GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS, PGIRS. Artículo compilado en el artículo 2.3.2.2.3.87 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en ",
+   "diff": {
+    "corpus": ".... Plan para la gestión integral de residuos sólidos, PGIRS. Los municipios y distritos, deberán elaborar, implementar y ...",
+    "fuente": ".... PLAN PARA LA GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS, PGIRS. Artículo compilado en el artículo 2.3.2.2.3.87 del Decreto Único Reglamentario 1077 de 2015. Debe tenerse en cuenta lo dispuesto por el artículo 3.1.1 del mismo Decreto 1077 de 2015 Los municipios y distritos, deberán elaborar, implementar y ..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "4o.CALIDAD",
+  "75",
+  "89",
+  "90",
+  "91",
+  "92",
+  "93",
+  "94",
+  "95",
+  "96",
+  "97",
+  "98",
+  "99",
+  "100",
+  "101",
+  "102",
+  "103",
+  "104",
+  "105",
+  "106",
+  "107",
+  "108",
+  "109",
+  "110",
+  "111",
+  "112",
+  "113",
+  "114",
+  "115",
+  "116",
+  "117",
+  "118",
+  "119",
+  "120",
+  "121"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 88
+ }
+}

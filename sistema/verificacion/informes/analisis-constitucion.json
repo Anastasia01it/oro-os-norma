@@ -1,0 +1,92 @@
+{
+  "articulos": 381,
+  "resumen": {
+    "exactos": 0,
+    "casi": 14,
+    "divergentes": 367,
+    "divergentes_comparados": 98,
+    "ausente_en_fuente": 269,
+    "recuperados_segmentacion": 269,
+    "ignorar_solo_mayusculas": 0,
+    "pasarian_limpieza_editorial": 234,
+    "transitorios_fuente": 110,
+    "transitorios_corpus": 67,
+    "subtipos_contenido_real": {
+      "temas_editoriales_constitute": 221,
+      "nota_reforma_fuente": 13,
+      "reforma_fuente_nueva": 56,
+      "diferencia_menor": 63,
+      "texto_distinto": 14
+    }
+  },
+  "buckets": {
+    "ordinal_encabezado": 0,
+    "acentos_fuente": 0,
+    "estructura": 0,
+    "contenido_real": 367
+  },
+  "pasarian_normalizado": 0,
+  "contenido_real": [
+    {
+      "articulo": "101",
+      "subtipo": "reforma_fuente_nueva",
+      "diff_corpus": "Artículo 101 Los límites de Colombia son los establecidos en los tratad",
+      "diff_fuente": "ARTICULO 101.Los límites de Colombia son los establecidos en los tratad"
+    },
+    {
+      "articulo": "106",
+      "subtipo": "reforma_fuente_nueva",
+      "diff_corpus": "Artículo 106 Previo el cumplimiento de los requisitos que la ley señale",
+      "diff_fuente": "ARTICULO 106. Artículo corregido según Aclaración publicada en la Gacet"
+    },
+    {
+      "articulo": "116",
+      "subtipo": "reforma_fuente_nueva",
+      "diff_corpus": "Artículo 116 Establecimiento de un consejo judicial, Estructura de los ",
+      "diff_fuente": "ARTICULO 116. Artículo modificado por el artículo 1 del Acto Legislativ"
+    },
+    {
+      "articulo": "112",
+      "subtipo": "texto_distinto",
+      "diff_corpus": "Artículo 112 Los partidos y movimientos políticos con personería jurídi",
+      "diff_fuente": "ARTICULO 112. Artículo modificado por el artículo 5 del Acto Legislativ"
+    },
+    {
+      "articulo": "178-A",
+      "subtipo": "texto_distinto",
+      "diff_corpus": "Artículo 178-A Los Magistrados de la Corte Constitucional, de la Corte",
+      "diff_fuente": "ARTÍCULO 178A. Artículo INEXEQUIBLE CAPITULO 6. DE LOS CONGRESISTAS."
+    },
+    {
+      "articulo": "200",
+      "subtipo": "texto_distinto",
+      "diff_corpus": "Artículo 200 Corresponde al Gobierno, en relación con el Congreso: Conc",
+      "diff_fuente": "ARTICULO 200.Corresponde al Gobierno, en relación con el Congreso: 1. C"
+    },
+    {
+      "articulo": "107",
+      "subtipo": "diferencia_menor",
+      "diff_corpus": "Artículo 107 Derecho a formar partidos políticos Se garantiza a todos l",
+      "diff_fuente": "ARTICULO 107. Artículo modificado por el artículo 1 del Acto Legislativ"
+    },
+    {
+      "articulo": "108",
+      "subtipo": "diferencia_menor",
+      "diff_corpus": "Artículo 108 El Consejo Nacional Electoral reconocerá Personería Jurídi",
+      "diff_fuente": "ARTICULO 108. Artículo modificado por el artículo 2 del Acto Legislativ"
+    },
+    {
+      "articulo": "109",
+      "subtipo": "diferencia_menor",
+      "diff_corpus": "Artículo 109 El Estado concurrirá a la financiación política y electora",
+      "diff_fuente": "ARTICULO 109. Artículo modificado por el artículo 3 del Acto Legislativ"
+    },
+    {
+      "articulo": "111",
+      "subtipo": "nota_reforma_fuente",
+      "diff_corpus": "Artículo 111 Los partidos y movimientos políticos con personería jurídi",
+      "diff_fuente": "ARTICULO 111. Artículo modificado por el artículo 4 del Acto Legislativ"
+    }
+  ],
+  "estructura_detalle": []
+}

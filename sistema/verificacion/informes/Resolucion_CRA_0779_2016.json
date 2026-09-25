@@ -1,45 +1,45 @@
 {
  "corpus": "Resolucion_CRA_0779_2016.md",
- "fuente": "sistema/verificacion/fuentes/Resolucion_CRA_0779_2016.wayback.txt",
+ "fuente": "sistema/verificacion/fuentes/Resolucion_CRA_0779_2016.gestorcra.txt",
  "umbral": 0.98,
  "articulos_corpus": 4,
  "resultados": [
   {
    "articulo": "1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3",
    "estado": "casi",
-   "similitud": 0.9993,
+   "similitud": 0.9943,
    "corpus": "ARTÍCULO 3o. DISTRIBUCIÓN DEL RECAUDO PROVENIENTE DEL INCREMENTO EN EL COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR (CCS A PRESTADORES DE APROVECHAMIENTO). Artículo integrado y unifica",
-   "fuente": "ARTÍCULO 3o. DISTRIBUCIÓN DEL RECAUDO PROVENIENTE DEL INCREMENTO EN EL COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR (CCS A PRESTADORES DE APROVECHAMIENTO). Artículo integrado y unifica",
+   "fuente": "ARTÍCULO 3o. DISTRIBUCIÓN DEL RECAUDO PROVENIENTE DEL INCREMENTO EN EL COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR (CCS A PRESTADORES DE APROVECHAMIENTO). 5.10.1.3 de la Resolución CR",
    "diff": {
-    "corpus": "...s prestadoras de aprovechamiento por suscriptores aforados. Dónde: RAj : Recursos provenientes del recaudo del CCS desti...",
-    "fuente": "...s prestadoras de aprovechamiento por suscriptores aforados. ! Dónde: RAj : Recursos provenientes del recaudo del CCS desti..."
+    "corpus": "...ACIÓN POR SUSCRIPTOR (CCS A PRESTADORES DE APROVECHAMIENTO). Artículo integrado y unificado en el artículo 5.10.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en ...",
+    "fuente": "...ACIÓN POR SUSCRIPTOR (CCS A PRESTADORES DE APROVECHAMIENTO). 5.10.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en ..."
    }
   },
   {
    "articulo": "4",
    "estado": "divergente",
-   "similitud": 0.4381,
+   "similitud": 0.373,
    "corpus": "ARTÍCULO 4o. VIGENCIA. La presente resolución rige a partir de su publicación en el Diario Oficial. Publíquese y cúmplase. Dada en Bogotá, D.C., a 14 de diciembre de 2016. El Presi",
    "fuente": "ARTÍCULO 4o. VIGENCIA. La presente resolución rige a partir de su publicación en el Diario Oficial. Publíquese y cúmplase. Dada en Bogotá, D.C., a 14 de diciembre de 2016. El Presi",
    "diff": {
     "corpus": "... LÓPEZ. El Director Ejecutivo, JULIO CÉSAR AGUILERA WILCHES....",
-    "fuente": "... LÓPEZ. El Director Ejecutivo, JULIO CÉSAR AGUILERA WILCHES. ! ISBN 978-628-95145-0-6 Comisión de Regulación de Agua Potable y Saneamiento Básico CRA - DRA © 2021 - 2022 Comisión de Regulación de Agua Potable y Saneamiento Básico Carrera 12 Nº 97-80, Piso 2, Bogotá D.C., Colombia Código postal: Teléfono desde Colombia (60+1) 487 3820 - (60+1) 489 7640 Teléfono desde el exterior +57(60+1) 487 3820 + 57(60+1) 489 7640 Fax desde Colombia (60+1) 489 7650 Línea nacional gratuita 01 8000 517565 Menú del pie Políticas Mapa del sitio ! !Logo Gov.co × !Contraste Contraste !Reducir Reducir letra !Aumentar Aumentar letra !Restaurar Retornar valores !Ir arriba Ir arriba !Ir abajo Ir abajo !Inicio documento !Fin documento Fin documento..."
+    "fuente": "... LÓPEZ. El Director Ejecutivo, JULIO CÉSAR AGUILERA WILCHES. Saneamiento Básico - CRA ISBN 978-628-95145-2-0 Comisión de Regulación de Agua Potable y Saneamiento Básico CRA - DRA © 2021 - 2025 Comisión de Regulación de Agua Potable y Saneamiento Básico Carrera 12 Nº 97-80, Piso 2, Bogotá D.C., Colombia 4:00 pm. Teléfono desde Colombia (60+1) 487 3820 notificacionesjudiciales@cra.gov.co Menú del pie \" class=\"is-active\" Políticas \" class=\"is-active\" Mapa del sitio MÓDULOS Resolución Única de AAA Resoluciones expedidas por la CRA Circulares CRA Conceptos jurídicos seleccionados Compilación de normativa y jurisprudencia Decreto Único Reglamentario - DUR Contribuciones especiales Resoluciones administrativas de carácter general Proyectos de resolución CRA Actualizaciones mensuales Herramientas de búsqueda Navegación temática Normativa COVID 19 × Contraste Reducir letra Aumentar letra Retornar valores Ir arriba Ir abajo Fin documento..."
    }
   }
  ],
  "sin_contraparte": [],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
-  "exactos": 2,
+  "exactos": 0,
   "casi": 1,
-  "divergentes": 1
+  "divergentes": 3
  }
 }

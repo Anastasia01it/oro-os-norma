@@ -1,167 +1,118 @@
 {
  "corpus": "RESOLUCION-CRA-778-2016.md",
- "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-778-2016.wayback.txt",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-778-2016.gestorcra.txt",
  "umbral": 0.98,
  "articulos_corpus": 15,
  "resultados": [
   {
    "articulo": "1",
-   "estado": "divergente",
-   "similitud": 0.5931,
-   "corpus": "ARTÍCULO 1. Objeto y ámbito de aplicación. La presente resolución tiene por objeto adoptar el modelo de condiciones uniformes del contrato para la prestación del servicio público d",
-   "fuente": "ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. Artículo integrado y unificado en el artículo 5.4.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
-   "diff": {
-    "corpus": "...ARTÍCULO 1. Objeto y ámbito de aplicación. La presente resolución tien...",
-    "fuente": "...ARTÍCULO 1o. OBJETO Y ÁMBITO DE APLICACIÓN. Artículo integrado y unific..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2",
-   "estado": "divergente",
-   "similitud": 0.8626,
-   "corpus": "ARTÍCULO 2. Modelo de Condiciones Uniformes y concepto de legalidad. Adoptase el modelo de condiciones uniformes del contrato de servicios públicos previsto en el Anexo 1 “MODELO D",
-   "fuente": "ARTÍCULO 2o. MODELO DE CONDICIONES UNIFORMES Y CONCEPTO DE LEGALIDAD. Artículo integrado y unificado en el artículo 5.4.2.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta",
-   "diff": {
-    "corpus": "...ARTÍCULO 2. Modelo de Condiciones Uniformes y concepto de legalidad. ...",
-    "fuente": "...ARTÍCULO 2o. MODELO DE CONDICIONES UNIFORMES Y CONCEPTO DE LEGALIDAD. Artículo integrado y unificado en el artículo 5.4.2.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3",
    "estado": "divergente",
-   "similitud": 0.8777,
+   "similitud": 0.9029,
    "corpus": "ARTÍCULO 3. Concepto. El contrato del servicio público de aseo y/o sus actividades complementarias es un contrato uniforme, consensual, en virtud del cual una persona prestadora de",
-   "fuente": "ARTÍCULO 3o. CONCEPTO. Artículo integrado y unificado en el artículo 5.4.2.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del ",
+   "fuente": "ARTÍCULO 3o. CONCEPTO. 5.4.2.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El contrato del servicio ",
    "diff": {
     "corpus": "...ARTÍCULO 3. Concepto. El contrato del servicio público de aseo y/o sus actividade...",
-    "fuente": "...ARTÍCULO 3o. CONCEPTO. Artículo integrado y unificado en el artículo 5.4.2.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El contrato del servicio público de aseo y/o sus actividade..."
+    "fuente": "...ARTÍCULO 3o. CONCEPTO. 5.4.2.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El contrato del servicio público de aseo y/o sus actividade..."
    }
   },
   {
    "articulo": "4",
    "estado": "divergente",
-   "similitud": 0.8377,
+   "similitud": 0.8742,
    "corpus": "ARTÍCULO 4. Celebración del Contrato. Existe contrato desde que la persona prestadora define las condiciones uniformes en las que está dispuesta a prestar el servicio público de as",
-   "fuente": "ARTÍCULO 4o. CELEBRACIÓN DEL CONTRATO. Artículo integrado y unificado en el artículo 5.4.2.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2",
+   "fuente": "ARTÍCULO 4o. CELEBRACIÓN DEL CONTRATO. 5.4.2.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Existe co",
    "diff": {
     "corpus": "...ARTÍCULO 4. Celebración del Contrato. Existe contrato desde que la per...",
-    "fuente": "...ARTÍCULO 4o. CELEBRACIÓN DEL CONTRATO. Artículo integrado y unificado e..."
+    "fuente": "...ARTÍCULO 4o. CELEBRACIÓN DEL CONTRATO. 5.4.2.4 de la Resolución CRA 943..."
    }
   },
   {
    "articulo": "5",
    "estado": "divergente",
-   "similitud": 0.9475,
+   "similitud": 0.9562,
    "corpus": "ARTÍCULO 5. Vigencia del Contrato y permanencia mínima. El contrato de condiciones uniformes, se entiende celebrado por el término señalado en el mismo, si se opta por celebrarlo a",
-   "fuente": "ARTÍCULO 5o. VIGENCIA DEL CONTRATO Y PERMANENCIA MÍNIMA. Artículo integrado y unificado en el artículo 5.4.2.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto",
+   "fuente": "ARTÍCULO 5o. VIGENCIA DEL CONTRATO Y PERMANENCIA MÍNIMA. 5.4.2.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077",
    "diff": {
-    "corpus": "...ARTÍCULO 5. Vigencia del Contrato y permanencia mínima. El c...",
-    "fuente": "...ARTÍCULO 5o. VIGENCIA DEL CONTRATO Y PERMANENCIA MÍNIMA. Artículo integrado y unificado en el artículo 5.4.2.5 de la Resolución CRA 943 de 2021. Debe tene..."
+    "corpus": "...ARTÍCULO 5. Vigencia del Contrato y permanencia mínima. El contrato ...",
+    "fuente": "...ARTÍCULO 5o. VIGENCIA DEL CONTRATO Y PERMANENCIA MÍNIMA. 5.4.2.5 de la Resolución CRA 943 de 2021. Debe tenerse en c..."
    }
   },
   {
    "articulo": "6",
    "estado": "divergente",
-   "similitud": 0.1771,
+   "similitud": 0.1802,
    "corpus": "ARTÍCULO 6. Régimen Legal del Contrato de Servicios Públicos. El contrato del servicio público de aseo y/o sus actividades complementarias se regirá por lo dispuesto en la Ley 142 ",
-   "fuente": "ARTÍCULO 6o. RÉGIMEN LEGAL DEL CONTRATO DE SERVICIOS PÚBLICOS. Artículo integrado y unificado en el artículo 5.4.2.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dis",
+   "fuente": "ARTÍCULO 6o. RÉGIMEN LEGAL DEL CONTRATO DE SERVICIOS PÚBLICOS. 5.4.2.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decret",
    "diff": {
     "corpus": "...ARTÍCULO 6. Régimen Legal del Contrato de Servicios Públicos. El contr...",
-    "fuente": "...ARTÍCULO 6o. RÉGIMEN LEGAL DEL CONTRATO DE SERVICIOS PÚBLICOS. Artículo..."
+    "fuente": "...ARTÍCULO 6o. RÉGIMEN LEGAL DEL CONTRATO DE SERVICIOS PÚBLICOS. 5.4.2.6 ..."
    }
   },
   {
    "articulo": "7",
    "estado": "divergente",
-   "similitud": 0.9,
+   "similitud": 0.9177,
    "corpus": "ARTÍCULO 7. Abuso de Posición Dominante. Se presume que hay abuso de la posición dominante de la persona prestadora del servicio público de aseo y/o actividades complementarias, en",
-   "fuente": "ARTÍCULO 7o. ABUSO DE POSICIÓN DOMINANTE. Artículo integrado y unificado en el artículo 5.4.2.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "fuente": "ARTÍCULO 7o. ABUSO DE POSICIÓN DOMINANTE. 5.4.2.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Se pre",
    "diff": {
     "corpus": "...ARTÍCULO 7. Abuso de Posición Dominante. Se presume que hay abuso de la posición dominante de la per...",
-    "fuente": "...ARTÍCULO 7o. ABUSO DE POSICIÓN DOMINANTE. Artículo integrado y unificado en el artículo 5.4.2.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Se presume que hay abuso de la posición dominante de la per..."
+    "fuente": "...ARTÍCULO 7o. ABUSO DE POSICIÓN DOMINANTE. 5.4.2.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Se presume que hay abuso de la posición dominante de la per..."
    }
   },
   {
    "articulo": "8",
    "estado": "divergente",
-   "similitud": 0.9196,
+   "similitud": 0.8816,
    "corpus": "ARTÍCULO 8. Facturación Conjunta. El servicio público de aseo y/o sus actividades complementarias se podrá facturar de forma conjunta con cualquiera de los servicios públicos a los",
-   "fuente": "ARTÍCULO 8o. FACTURACIÓN CONJUNTA. Artículo integrado y unificado en el artículo 5.4.2.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6",
+   "fuente": "ARTÍCULO 8o. FACTURACIÓN CONJUNTA. 5.4.2.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El servicio p",
    "diff": {
     "corpus": "...ARTÍCULO 8. Facturación Conjunta. El servicio público de aseo y/o sus ...",
-    "fuente": "...ARTÍCULO 8o. FACTURACIÓN CONJUNTA. Artículo integrado y unificado en el..."
+    "fuente": "...ARTÍCULO 8o. FACTURACIÓN CONJUNTA. 5.4.2.8 de la Resolución CRA 943 de ..."
    }
   },
   {
    "articulo": "9",
-   "estado": "divergente",
-   "similitud": 0.7694,
-   "corpus": "ARTÍCULO 9. De los Cobros Inoportunos. Al cabo de cinco (5) meses de haber entregado las facturas, la persona prestadora no podrá cobrar bienes o servicios que no facturó por error",
-   "fuente": "ARTÍCULO 9o. DE LOS COBROS INOPORTUNOS. Artículo integrado y unificado en el artículo 5.4.2.9 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo ",
-   "diff": {
-    "corpus": "...ARTÍCULO 9. De los Cobros Inoportunos. Al cabo de cinco (5) meses de haber entregado las facturas,...",
-    "fuente": "...ARTÍCULO 9o. DE LOS COBROS INOPORTUNOS. Artículo integrado y unificado en el artículo 5.4.2.9 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Al cabo de cinco (5) meses de haber entregado las facturas,..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "10",
-   "estado": "divergente",
-   "similitud": 0.826,
-   "corpus": "ARTÍCULO 10. Cobro de Sumas Adeudadas. Las deudas derivadas del contrato podrán ser cobradas ejecutivamente ante la jurisdicción ordinaria o bien ejerciendo la jurisdicción coactiv",
-   "fuente": "ARTÍCULO 10. COBRO DE SUMAS ADEUDADAS. Artículo integrado y unificado en el artículo 5.4.2.10 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo ",
-   "diff": {
-    "corpus": "...ARTÍCULO 10. Cobro de Sumas Adeudadas. Las deudas derivadas del contrato podrán ser cobradas ejecut...",
-    "fuente": "...ARTÍCULO 10. COBRO DE SUMAS ADEUDADAS. Artículo integrado y unificado en el artículo 5.4.2.10 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las deudas derivadas del contrato podrán ser cobradas ejecut..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "11",
-   "estado": "divergente",
-   "similitud": 0.8633,
-   "corpus": "ARTÍCULO 11. Cláusulas Adicionales Generales. Son aquellas que define la persona prestadora aplicable a todos los suscriptores y/o usuarios de forma uniforme. En este sentido la pe",
-   "fuente": "ARTÍCULO 11. CLÁUSULAS ADICIONALES GENERALES. Artículo integrado y unificado en el artículo 5.4.2.11 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
-   "diff": {
-    "corpus": "...ARTÍCULO 11. Cláusulas Adicionales Generales. Son aquellas que define la persona prestadora aplicable a t...",
-    "fuente": "...ARTÍCULO 11. CLÁUSULAS ADICIONALES GENERALES. Artículo integrado y unificado en el artículo 5.4.2.11 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Son aquellas que define la persona prestadora aplicable a t..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "12",
-   "estado": "divergente",
-   "similitud": 0.7413,
-   "corpus": "ARTÍCULO 12. Cláusulas Adicionales Especiales. Son aquellas que resultan del acuerdo especial entre la Hoja N° 7 de la Resolución 778 de 2016 ”Por la cual se adopta el modelo de co",
-   "fuente": "ARTÍCULO 12. CLÁUSULAS ADICIONALES ESPECIALES. Artículo integrado y unificado en el artículo 5.4.2.12 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
-   "diff": {
-    "corpus": "...ARTÍCULO 12. Cláusulas Adicionales Especiales. Son aquellas que resultan del acuerdo especial entre la Hoja N° 7 de la Resolución 778 de 2016 ”Por la cual se adopta el modelo de condiciones ...",
-    "fuente": "...ARTÍCULO 12. CLÁUSULAS ADICIONALES ESPECIALES. Artículo integrado y unificado en el artículo 5.4.2.12 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Son aquellas que resultan del acuerdo especial en..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "13",
-   "estado": "divergente",
-   "similitud": 0.9436,
-   "corpus": "ARTÍCULO 13. Solución de Controversias. Las diferencias que surjan entre las personas prestadoras del servicio público de aseo y sus actividades complementarias y el suscriptor y/o",
-   "fuente": "ARTÍCULO 13. SOLUCIÓN DE CONTROVERSIAS. Artículo integrado y unificado en el artículo 5.4.2.13 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
-   "diff": {
-    "corpus": "...ARTÍCULO 13. Solución de Controversias. Las diferencias que surjan entre las personas prestadoras d...",
-    "fuente": "...ARTÍCULO 13. SOLUCIÓN DE CONTROVERSIAS. Artículo integrado y unificado en el artículo 5.4.2.13 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las diferencias que surjan entre las personas prestadoras d..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "14",
    "estado": "divergente",
-   "similitud": 0.7733,
+   "similitud": 0.819,
    "corpus": "ARTÍCULO 14. Prueba Pericial. Cuando la Comisión de Regulación de Agua Potable y Saneamiento Básico CRA haya rendido concepto previo sobre un contrato de condiciones uniformes, o s",
-   "fuente": "ARTÍCULO 14. PRUEBA PERICIAL. Artículo integrado y unificado en el artículo 5.4.2.14 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3",
+   "fuente": "ARTÍCULO 14. PRUEBA PERICIAL. 5.4.2.14 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando la Comisió",
    "diff": {
     "corpus": "...ARTÍCULO 14. Prueba Pericial. Cuando la Comisión de Regulación de Agua Potable y Saneamien...",
-    "fuente": "...ARTÍCULO 14. PRUEBA PERICIAL. Artículo integrado y unificado en el artículo 5.4.2.14 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando la Comisión de Regulación de Agua Potable y Saneamien..."
+    "fuente": "...ARTÍCULO 14. PRUEBA PERICIAL. 5.4.2.14 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando la Comisión de Regulación de Agua Potable y Saneamien..."
    }
   },
   {
    "articulo": "15",
    "estado": "divergente",
-   "similitud": 0.4579,
+   "similitud": 0.1119,
    "corpus": "ARTÍCULO 15. Vigencia. La presente resolución rige a partir de su publicación en el Diario Oficial. PUBLÍQUESE Y CÚMPLASE. Dada en Bogotá, D.C., a los catorce (14) días del mes de ",
    "fuente": "ARTÍCULO 15. VIGENCIA. La presente resolución rige a partir de su publicación en el Diario Oficial. Publíquese y cúmplase. Dada en Bogotá, D. C., a 14 de diciembre de 2016. El Pres",
    "diff": null

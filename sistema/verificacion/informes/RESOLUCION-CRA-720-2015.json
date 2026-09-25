@@ -1,856 +1,589 @@
 {
  "corpus": "RESOLUCION-CRA-720-2015.md",
- "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-720-2015.wayback.txt",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-720-2015.gestorcra.txt",
  "umbral": 0.98,
- "articulos_corpus": 78,
+ "articulos_corpus": 77,
  "resultados": [
   {
    "articulo": "1",
    "estado": "divergente",
-   "similitud": 0.8449,
+   "similitud": 0.8556,
    "corpus": "ARTÍCULO 1. Ámbito de Aplicación. La presente resolución establece el régimen tarifario y la metodología tarifaria aplicable a las personas prestadoras del servicio público de aseo",
-   "fuente": "ARTÍCULO 1. ÁMBITO DE APLICACIÓN. Artículo integrado y unificado en el artículo 5.3.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.",
+   "fuente": "ARTÍCULO 1. ÁMBITO DE APLICACIÓN. 5.3.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La presente ",
    "diff": {
     "corpus": "...ARTÍCULO 1. Ámbito de Aplicación. La presente resolución establece el régimen tarifario y la ...",
-    "fuente": "...ARTÍCULO 1. ÁMBITO DE APLICACIÓN. Artículo integrado y unificado en el artículo 5.3.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La presente resolución establece el régimen tarifario y la ..."
+    "fuente": "...ARTÍCULO 1. ÁMBITO DE APLICACIÓN. 5.3.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La presente resolución establece el régimen tarifario y la ..."
    }
   },
   {
    "articulo": "2",
    "estado": "divergente",
-   "similitud": 0.6918,
+   "similitud": 0.7509,
    "corpus": "ARTÍCULO 2. Régimen de regulación tarifaria. El régimen de regulación tarifaria para las personas prestadoras incluidas en el ámbito de aplicación de la presente resolución será el",
-   "fuente": "ARTÍCULO 2. RÉGIMEN DE REGULACIÓN TARIFARIA. Artículo integrado y unificado en el artículo 5.3.2.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
+   "fuente": "ARTÍCULO 2. RÉGIMEN DE REGULACIÓN TARIFARIA. 5.3.2.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 E",
    "diff": {
     "corpus": "...ARTÍCULO 2. Régimen de regulación tarifaria. El régimen de regulación tarifaria para las personas presta...",
-    "fuente": "...ARTÍCULO 2. RÉGIMEN DE REGULACIÓN TARIFARIA. Artículo integrado y unificado en el artículo 5.3.2.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El régimen de regulación tarifaria para las personas presta..."
+    "fuente": "...ARTÍCULO 2. RÉGIMEN DE REGULACIÓN TARIFARIA. 5.3.2.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El régimen de regulación tarifaria para las personas presta..."
    }
   },
   {
    "articulo": "3",
    "estado": "divergente",
-   "similitud": 0.818,
+   "similitud": 0.8814,
    "corpus": "ARTÍCULO 3. Metodología tarifaria. La metodología tarifaria que se adopta mediante la presente resolución es de precio techo, lo cual implica que las personas prestadoras del servi",
-   "fuente": "ARTÍCULO 3. METODOLOGÍA TARIFARIA. Artículo integrado y unificado en el artículo 5.3.2.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3",
+   "fuente": "ARTÍCULO 3. METODOLOGÍA TARIFARIA. 5.3.2.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La metodolo",
    "diff": {
-    "corpus": "...ARTÍCULO 3. Metodología tarifaria. La metodología tarifaria que se adopta mediante la presente resolución ...",
-    "fuente": "...ARTÍCULO 3. METODOLOGÍA TARIFARIA. Artículo integrado y unificado en el artículo 5.3.2.1.3 de la Resolución ..."
+    "corpus": "...ARTÍCULO 3. Metodología tarifaria. La metodología tarifaria que se adopta mediante la presente ...",
+    "fuente": "...ARTÍCULO 3. METODOLOGÍA TARIFARIA. 5.3.2.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La metodología tarifaria que se adopta mediante la presente ..."
    }
   },
   {
    "articulo": "4",
    "estado": "divergente",
-   "similitud": 0.9021,
-   "corpus": "ARTÍCULO 4. Definiciones. Para la aplicación de la presente resolución se tendrán en cuenta las siguientes definiciones, además de las consignadas en la normatividad vigente: Área ",
-   "fuente": "ARTÍCULO 4. DEFINICIONES. Artículo integrado y unificado en el artículo 5.3.2.1.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12",
+   "similitud": 0.1088,
+   "corpus": "ARTÍCULO 4 de la presente resolución.. u: Tipo de suscriptor, u = 1,2,3,....,8, según lo establecido en el ARTICULO 42 de la presente resolución. Parágrafo 1. En caso que la person",
+   "fuente": "ARTÍCULO 4. DEFINICIONES. 5.3.2.1.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para la aplicación d",
    "diff": {
-    "corpus": "...ARTÍCULO 4. Definiciones. Para la aplicación de la presente resolución se tendrán en cuenta las siguientes definiciones, además de las consignadas en la norma...",
-    "fuente": "...ARTÍCULO 4. DEFINICIONES. Artículo integrado y unificado en el artículo 5.3.2.1.4 de la Resolución ..."
+    "corpus": "...ARTÍCULO 4 de la presente resolución.. u: Tipo de suscriptor, u = 1,2,3,....,8, según lo establecido...",
+    "fuente": "...ARTÍCULO 4. DEFINICIONES. 5.3.2.1.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para la aplicación de la presente resolución se tendrán en cuenta las siguientes definiciones, además de las consignadas en la normatividad vigente: Área de Prestación del Servicio – APS: Área geográfica del..."
    }
   },
   {
    "articulo": "5",
    "estado": "divergente",
-   "similitud": 0.8883,
+   "similitud": 0.9144,
    "corpus": "ARTÍCULO 5. Segmentación. Para efectos de la aplicación de lo establecido en la presente resolución, se tendrán en cuenta los siguientes segmentos: Primer segmento: Corresponde a l",
-   "fuente": "ARTÍCULO 5. SEGMENTACIÓN. Artículo integrado y unificado en el artículo 5.3.2.1.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12",
+   "fuente": "ARTÍCULO 5. SEGMENTACIÓN. 5.3.2.1.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efectos de la a",
    "diff": {
     "corpus": "...ARTÍCULO 5. Segmentación. Para efectos de la aplicación de lo establecido en la prese...",
-    "fuente": "...ARTÍCULO 5. SEGMENTACIÓN. Artículo integrado y unificado en el artículo 5.3.2.1.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efectos de la aplicación de lo establecido en la prese..."
+    "fuente": "...ARTÍCULO 5. SEGMENTACIÓN. 5.3.2.1.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efectos de la aplicación de lo establecido en la prese..."
    }
   },
   {
    "articulo": "6",
    "estado": "divergente",
-   "similitud": 0.9032,
+   "similitud": 0.9261,
    "corpus": "ARTÍCULO 6. Área de prestación del servicio - APS. El área de prestación del servicio deberá ser reportada al municipio y/o distrito y consignarse en el contrato de condiciones uni",
-   "fuente": "ARTÍCULO 6. ÁREA DE PRESTACIÓN DEL SERVICIO - APS. Artículo integrado y unificado en el artículo 5.3.2.1.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por",
+   "fuente": "ARTÍCULO 6. ÁREA DE PRESTACIÓN DEL SERVICIO - APS. 5.3.2.1.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de ",
    "diff": {
     "corpus": "...ARTÍCULO 6. Área de prestación del servicio - APS. El área de prestación del servicio deberá ser reportada al ...",
-    "fuente": "...ARTÍCULO 6. ÁREA DE PRESTACIÓN DEL SERVICIO - APS. Artículo integrado y unificado en el artículo 5.3.2.1.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El área de prestación del servicio deberá ser reportada al ..."
+    "fuente": "...ARTÍCULO 6. ÁREA DE PRESTACIÓN DEL SERVICIO - APS. 5.3.2.1.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El área de prestación del servicio deberá ser reportada al ..."
    }
   },
   {
    "articulo": "7",
    "estado": "divergente",
-   "similitud": 0.8089,
+   "similitud": 0.8504,
    "corpus": "ARTÍCULO 7. Gestión del riesgo. Para la prestación del servicio público de aseo se deberán incluir las consideraciones asociadas a la gestión del riesgo. Para lo anterior, las pers",
-   "fuente": "ARTÍCULO 7. GESTIÓN DEL RIESGO. Artículo integrado y unificado en el artículo 5.3.2.1.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.",
+   "fuente": "ARTÍCULO 7. GESTIÓN DEL RIESGO. 5.3.2.1.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para la presta",
    "diff": {
     "corpus": "...ARTÍCULO 7. Gestión del riesgo. Para la prestación del servicio público de aseo se deberán i...",
-    "fuente": "...ARTÍCULO 7. GESTIÓN DEL RIESGO. Artículo integrado y unificado en el artículo 5.3.2.1.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para la prestación del servicio público de aseo se deberán i..."
+    "fuente": "...ARTÍCULO 7. GESTIÓN DEL RIESGO. 5.3.2.1.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para la prestación del servicio público de aseo se deberán i..."
    }
   },
   {
    "articulo": "8",
    "estado": "divergente",
-   "similitud": 0.7791,
+   "similitud": 0.8154,
    "corpus": "ARTÍCULO 8. Estándares del servicio a alcanzar en el período tarifario. Las personas prestadoras deberán cumplir con los estándares de calidad técnica del servicio en su APS desde ",
-   "fuente": "ARTÍCULO 8. ESTÁNDARES DEL SERVICIO A ALCANZAR EN EL PERÍODO TARIFARIO. Artículo integrado y unificado en el artículo 5.3.2.1.8 de la Resolución CRA 943 de 2021. Debe tenerse en cu",
+   "fuente": "ARTÍCULO 8. ESTÁNDARES DEL SERVICIO A ALCANZAR EN EL PERÍODO TARIFARIO. 5.3.2.1.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12",
    "diff": {
     "corpus": "...Estándares del servicio a alcanzar en el período tarifario. Las personas prestadoras deberán cumplir con los estándares de calidad técnica del s...",
-    "fuente": "...ESTÁNDARES DEL SERVICIO A ALCANZAR EN EL PERÍODO TARIFARIO. Artículo integrado y unificado en el artículo 5.3.2.1.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3..."
+    "fuente": "...ESTÁNDARES DEL SERVICIO A ALCANZAR EN EL PERÍODO TARIFARIO. 5.3.2.1.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3..."
    }
   },
   {
    "articulo": "9",
    "estado": "divergente",
-   "similitud": 0.9511,
+   "similitud": 0.9615,
    "corpus": "ARTÍCULO 9. Cálculo del centroide. Para el cálculo del centroide, deberá dividirse el plano del APS que contenga la producción de residuos, en áreas de tamaño homogéneo como máximo",
-   "fuente": "ARTÍCULO 9. CÁLCULO DEL CENTROIDE. Artículo integrado y unificado en el artículo 5.3.2.1.9 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3",
+   "fuente": "ARTÍCULO 9. CÁLCULO DEL CENTROIDE. 5.3.2.1.9 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para el cál",
    "diff": {
     "corpus": "...ARTÍCULO 9. Cálculo del centroide. Para el cálculo del centroide, deberá dividirse el plano de...",
-    "fuente": "...ARTÍCULO 9. CÁLCULO DEL CENTROIDE. Artículo integrado y unificado en el artículo 5.3.2.1.9 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para el cálculo del centroide, deberá dividirse el plano de..."
+    "fuente": "...ARTÍCULO 9. CÁLCULO DEL CENTROIDE. 5.3.2.1.9 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para el cálculo del centroide, deberá dividirse el plano de..."
    }
   },
   {
    "articulo": "10",
    "estado": "divergente",
-   "similitud": 0.3942,
+   "similitud": 0.4079,
    "corpus": "ARTÍCULO 10. Cálculo del precio máximo por APS. Se deberá calcular el precio máximo por APS, el cual está conformado por un costo fijo por suscriptor y un costo variable por tonela",
-   "fuente": "ARTÍCULO 10. CÁLCULO DEL PRECIO MÁXIMO POR APS. Artículo integrado y unificado en el artículo 5.3.2.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por ",
+   "fuente": "ARTÍCULO 10. CÁLCULO DEL PRECIO MÁXIMO POR APS. 5.3.2.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2",
    "diff": {
     "corpus": "...ARTÍCULO 10. Cálculo del precio máximo por APS. Se deberá calcular el precio máximo por APS, el cual está conf...",
-    "fuente": "...ARTÍCULO 10. CÁLCULO DEL PRECIO MÁXIMO POR APS. Artículo integrado y unificado en el artículo 5.3.2.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3..."
+    "fuente": "...ARTÍCULO 10. CÁLCULO DEL PRECIO MÁXIMO POR APS. 5.3.2.2.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3..."
    }
   },
   {
    "articulo": "11",
    "estado": "divergente",
-   "similitud": 0.5586,
+   "similitud": 0.5578,
    "corpus": "ARTÍCULO 11. Costo Fijo Total (CFT). El costo fijo total por suscriptor del APS se define de la siguiente manera: CFT = (CCS + CLUS + CBLS) Donde: CFT: Costo Fijo Total por suscrip",
-   "fuente": "ARTÍCULO 11. COSTO FIJO TOTAL (CFT). Artículo integrado y unificado en el artículo 5.3.2.2.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo",
+   "fuente": "ARTÍCULO 11. COSTO FIJO TOTAL (CFT). 5.3.2.2.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El cost",
    "diff": {
     "corpus": "...ARTÍCULO 11. Costo Fijo Total (CFT). El costo fijo total por suscriptor del APS se define de la s...",
-    "fuente": "...ARTÍCULO 11. COSTO FIJO TOTAL (CFT). Artículo integrado y unificado en el artículo 5.3.2.2.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo fijo total por suscriptor del APS se define de la s..."
+    "fuente": "...ARTÍCULO 11. COSTO FIJO TOTAL (CFT). 5.3.2.2.1.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo fijo total por suscriptor del APS se define de la s..."
    }
   },
   {
    "articulo": "14",
    "estado": "divergente",
-   "similitud": 0.7989,
+   "similitud": 0.812,
    "corpus": "ARTÍCULO 14. Costo de Comercialización por suscriptor del servicio público de aseo (CCS). El Costo de Comercialización por suscriptor del servicio público de aseo, diferenciado cua",
-   "fuente": "ARTÍCULO 14. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.2.2.2.1 de la Resolución CRA 943 de 2021",
+   "fuente": "ARTÍCULO 14. COSTO DE COMERCIALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). 5.3.2.2.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
    "diff": {
     "corpus": "...alización por suscriptor del servicio público de aseo (CCS). El Costo de Comercialización por suscriptor del servicio pú...",
-    "fuente": "...ALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). Artículo integrado y unificado en el artículo 5.3.2.2.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El Costo de Comercialización por suscriptor del servicio pú..."
+    "fuente": "...ALIZACIÓN POR SUSCRIPTOR DEL SERVICIO PÚBLICO DE ASEO (CCS). 5.3.2.2.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El Costo de Comercialización por suscriptor del servicio pú..."
    }
   },
   {
    "articulo": "12",
-   "estado": "divergente",
-   "similitud": 0.887,
-   "corpus": "ARTÍCULO 12. Costo Variable Por Tonelada de Residuos No Aprovechables. El Costo Variable por tonelada de residuos sólidos no aprovechables se define de la siguiente manera: CVNA = ",
-   "fuente": "ARTÍCULO 12. COSTO VARIABLE POR TONELADA DE RESIDUOS NO APROVECHABLES. Artículo integrado y unificado en el artículo 5.3.2.2.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en c",
-   "diff": {
-    "corpus": ".... Costo Variable Por Tonelada de Residuos No Aprovechables. El Costo Variable por tonelada de residuos sólidos no aprove...",
-    "fuente": ".... COSTO VARIABLE POR TONELADA DE RESIDUOS NO APROVECHABLES. Artículo integrado y unificado en el artículo 5.3.2.2.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El Costo Variable por tonelada de residuos sólidos no aprove..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "13",
-   "estado": "divergente",
-   "similitud": 0.8161,
-   "corpus": "ARTÍCULO 13. Inclusión de Incentivos económicos. Los costos generados por los incentivos económicos creados con ocasión de desarrollos normativos del orden nacional, se incluirán c",
-   "fuente": "ARTÍCULO 13. INCLUSIÓN DE INCENTIVOS ECONÓMICOS. Artículo integrado y unificado en el artículo 5.3.2.2.1.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por",
-   "diff": {
-    "corpus": "...ARTÍCULO 13. Inclusión de Incentivos económicos. Los costos generados por los incentivos económicos creados con ocasión ...",
-    "fuente": "...ARTÍCULO 13. INCLUSIÓN DE INCENTIVOS ECONÓMICOS. Artículo integrado y unificado en el artículo 5.3.2.2.1.4 de la Resolució..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "15",
    "estado": "divergente",
-   "similitud": 0.4919,
+   "similitud": 0.3358,
    "corpus": "ARTÍCULO 15. Costo de Limpieza Urbana por suscriptor (CLUS). El Costo de Limpieza Urbana corresponde a la suma del costo mensual de poda de árboles, de corte de césped, de lavado d",
-   "fuente": "ARTÍCULO 15. COSTO DE LIMPIEZA URBANA POR SUSCRIPTOR (CLUS). Artículo integrado y unificado en el artículo 5.3.2.2.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo d",
+   "fuente": "ARTÍCULO 15. COSTO DE LIMPIEZA URBANA POR SUSCRIPTOR (CLUS). 5.3.2.2.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decr",
    "diff": {
     "corpus": "...RTÍCULO 15. Costo de Limpieza Urbana por suscriptor (CLUS). El Costo de Limpieza Urbana corresponde a la suma del costo ...",
-    "fuente": "...RTÍCULO 15. COSTO DE LIMPIEZA URBANA POR SUSCRIPTOR (CLUS). Artículo integrado y unificado en el artículo 5.3.2.2.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Ver modificaciones temporales en Notas de Vigencia Artículo corregido por el artículo 1 de la Resolución 807 de 2017. El nuevo texto es el siguiente: El Costo de Limpieza Urbana corresponde a la suma del costo ..."
-   }
-  },
-  {
-   "articulo": "20,",
-   "estado": "ausente_en_fuente"
-  },
-  {
-   "articulo": "16",
-   "estado": "divergente",
-   "similitud": 0.3424,
-   "corpus": "ARTÍCULO 16. Costo de Poda de Árboles (CP). El Costo máximo de Poda de Árboles se determinará de acuerdo con la siguiente ecuación y será al precio techo de cada prestador en su AP",
-   "fuente": "ARTÍCULO 16. COSTO DE PODA DE ÁRBOLES (CP). Artículo integrado y unificado en el artículo 5.3.2.2.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
-   "diff": {
-    "corpus": "...ARTÍCULO 16. Costo de Poda de Árboles (CP). El Costo máximo de Poda de Árboles se determinará de acuerdo con la siguiente ecuación y ...",
-    "fuente": "...ARTÍCULO 16. COSTO DE PODA DE ÁRBOLES (CP). Artículo integrado y unificado en el artículo 5.3.2.2.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3...."
-   }
-  },
-  {
-   "articulo": "17",
-   "estado": "divergente",
-   "similitud": 0.7347,
-   "corpus": "ARTÍCULO 17. Costo de Corte de Césped (CCC). El Costo de Corte de Césped de zonas verdes pertenecientes a áreas públicas será, como máximo el valor que se establece en la siguiente",
-   "fuente": "ARTÍCULO 17. COSTO DE CORTE DE CÉSPED (CCC). Artículo integrado y unificado en el artículo 5.3.2.2.3.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ",
-   "diff": {
-    "corpus": "...ARTÍCULO 17. Costo de Corte de Césped (CCC). El Costo de Corte de Césped de zonas verdes pertenecientes ...",
-    "fuente": "...ARTÍCULO 17. COSTO DE CORTE DE CÉSPED (CCC). Artículo integrado y unificado en el artículo 5.3.2.2.3.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El Costo de Corte de Césped de zonas verdes pertenecientes ..."
-   }
-  },
-  {
-   "articulo": "18",
-   "estado": "divergente",
-   "similitud": 0.667,
-   "corpus": "ARTÍCULO 18. Costo de Lavado de Áreas Públicas (CLAV). El Costo máximo de Lavado de Áreas Públicas será determinado por la siguiente ecuación: CLAV = $166 + 5,56 Donde: CLAV: $ mlg",
-   "fuente": "ARTÍCULO 18. COSTO DE LAVADO DE ÁREAS PÚBLICAS (CLAV). Artículo integrado y unificado en el artículo 5.3.2.2.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispues",
-   "diff": {
-    "corpus": "...ARTÍCULO 18. Costo de Lavado de Áreas Públicas (CLAV). El Costo máximo de Lavado de Áreas Públicas será determinado...",
-    "fuente": "...ARTÍCULO 18. COSTO DE LAVADO DE ÁREAS PÚBLICAS (CLAV). Artículo integrado y unificado en el artículo 5.3.2.2.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Ver modificaciones temporales en Notas de Vigencia El Costo máximo de Lavado de Áreas Públicas será determinado..."
-   }
-  },
-  {
-   "articulo": "19",
-   "estado": "divergente",
-   "similitud": 0.8255,
-   "corpus": "ARTÍCULO 19. Costo de Limpieza de Playas Costeras o Ribereñas (CLP). El Costo de Limpieza de Playas costeras o ribereñas en áreas urbanas será, como máximo, de $10.789 (pesos de di",
-   "fuente": "ARTÍCULO 19. COSTO DE LIMPIEZA DE PLAYAS COSTERAS O RIBEREÑAS (CLP). Artículo integrado y unificado en el artículo 5.3.2.2.3.5 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
-   "diff": {
-    "corpus": "... 19. Costo de Limpieza de Playas Costeras o Ribereñas (CLP). El Costo de Limpieza de Playas costeras o ribereñas en área...",
-    "fuente": "... 19. COSTO DE LIMPIEZA DE PLAYAS COSTERAS O RIBEREÑAS (CLP). Artículo integrado y unificado en el artículo 5.3.2.2.3.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El Costo de Limpieza de Playas costeras o ribereñas en área..."
+    "fuente": "...RTÍCULO 15. COSTO DE LIMPIEZA URBANA POR SUSCRIPTOR (CLUS). 5.3.2.2.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 1 de la Resolución 807 de 2017. El nuevo texto es el siguiente: El Costo de Limpieza Urbana corresponde a la suma del costo ..."
    }
   },
   {
    "articulo": "20",
-   "estado": "divergente",
-   "similitud": 0.902,
-   "corpus": "ARTÍCULO 20. Suministro, instalación y mantenimiento de cestas en vías y áreas públicas (CCEI y CCEM). El costo máximo a reconocer por cada cesta instalada (CCEI) será de $6.276 (p",
-   "fuente": "ARTÍCULO 20. SUMINISTRO, INSTALACIÓN Y MANTENIMIENTO DE CESTAS EN VÍAS Y ÁREAS PÚBLICAS (CCEI Y CCEM). Artículo integrado y unificado en el artículo 5.3.2.2.3.6 de la Resolución CR",
-   "diff": {
-    "corpus": "...tenimiento de cestas en vías y áreas públicas (CCEI y CCEM). El costo máximo a reconocer por cada cesta instalada (CCEI)...",
-    "fuente": "...TENIMIENTO DE CESTAS EN VÍAS Y ÁREAS PÚBLICAS (CCEI Y CCEM). Artículo integrado y unificado en el artículo 5.3.2.2.3.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El costo máximo a reconocer por cada cesta instalada (CCEI)..."
-   }
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "16",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "17",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "18",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "19",
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "21",
    "estado": "divergente",
-   "similitud": 0.864,
+   "similitud": 0.808,
    "corpus": "ARTÍCULO 21. Costo de Barrido y Limpieza de Vías y Áreas Públicas por suscriptor (CBLS). El Costo de Barrido y Limpieza de Vías y Áreas Públicas mensual dentro del perímetro urbano",
-   "fuente": "ARTÍCULO 21. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS POR SUSCRIPTOR (CBLS). Artículo integrado y unificado en el artículo 5.3.2.2.4.1 de la Resolución CRA 943 de 2021.",
+   "fuente": "ARTÍCULO 21. COSTO DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS POR SUSCRIPTOR (CBLS). 5.3.2.2.4.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ar",
    "diff": {
-    "corpus": "... y Limpieza de Vías y Áreas Públicas por suscriptor (CBLS). El Costo de Barrido y Limpieza de Vías y Áreas Públicas mensual dentro del pe...",
-    "fuente": "... Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS POR SUSCRIPTOR (CBLS). Artículo integrado y unificado en el artículo 5.3.2.2.4.1 de la Resolución C..."
+    "corpus": "... y Limpieza de Vías y Áreas Públicas por suscriptor (CBLS). El Costo de Barrido y Limpieza de Vías y Áreas Públicas mens...",
+    "fuente": "... Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS POR SUSCRIPTOR (CBLS). 5.3.2.2.4.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El Costo de Barrido y Limpieza de Vías y Áreas Públicas mens..."
    }
   },
   {
    "articulo": "22",
-   "estado": "divergente",
-   "similitud": 0.4068,
-   "corpus": "ARTÍCULO 22. Frecuencias de barrido y limpieza de vías y áreas públicas. Las frecuencias de barrido serán como mínimo las que establece el artículo 2.3.2.2.2.4.53 del Decreto 1077 ",
-   "fuente": "ARTÍCULO 22. FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.2.2.4.2 de la Resolución CRA 943 de 2021. Debe tenerse en",
-   "diff": {
-    "corpus": "...Frecuencias de barrido y limpieza de vías y áreas públicas. Las frecuencias de barrido serán como mínimo las que establece e...",
-    "fuente": "...FRECUENCIAS DE BARRIDO Y LIMPIEZA DE VÍAS Y ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.2.2.4.2 de la Resolución CRA 943 d..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "23",
-   "estado": "divergente",
-   "similitud": 0.4216,
-   "corpus": "ARTÍCULO 23. Responsabilidad de la prestación del barrido y limpieza de áreas públicas. Las labores de barrido y limpieza de vías y áreas públicas son responsabilidad de la persona",
-   "fuente": "ARTÍCULO 23. RESPONSABILIDAD DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.2.2.4.3 de la Resolución CRA 943 de 2021. ",
-   "diff": {
-    "corpus": "... de la prestación del barrido y limpieza de áreas públicas. Las labores de barrido y limpieza de vías y áreas públicas son responsabilidad d...",
-    "fuente": "... DE LA PRESTACIÓN DEL BARRIDO Y LIMPIEZA DE ÁREAS PÚBLICAS. Artículo integrado y unificado en el artículo 5.3.2.2.4.3 de la Resolución C..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "24",
    "estado": "divergente",
-   "similitud": 0.7434,
+   "similitud": 0.7374,
    "corpus": "ARTÍCULO 24. Costo de Recolección y Transporte de Residuos Sólidos (CRT). El Costo de Recolección y Transporte de residuos sólidos no aprovechables en el APS será calculado de acue",
-   "fuente": "ARTÍCULO 24. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.2.2.5.1 de la Resolución CRA 943 de 2021. Debe tenerse e",
+   "fuente": "ARTÍCULO 24. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). 5.3.2.2.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.",
    "diff": {
-    "corpus": "...osto de Recolección y Transporte de Residuos Sólidos (CRT). El Costo de Recolección y Transporte de residuos sólidos no aprovechables en el APS...",
-    "fuente": "...OSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). Artículo integrado y unificado en el artículo 5.3.2.2.5.1 de la Resolución CRA..."
+    "corpus": "...osto de Recolección y Transporte de Residuos Sólidos (CRT). El Costo de Recolección y Transporte de residuos sólidos no ...",
+    "fuente": "...OSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS (CRT). 5.3.2.2.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El Costo de Recolección y Transporte de residuos sólidos no ..."
    }
   },
   {
    "articulo": "25",
-   "estado": "divergente",
-   "similitud": 0.6167,
-   "corpus": "ARTÍCULO 25. Valor de los peajes para la actividad de recolección y transporte (PRTz). El valor de los peajes (PRTz), que deberá ser sumado al costo de recolección y transporte, co",
-   "fuente": "ARTÍCULO 25. VALOR DE LOS PEAJES PARA LA ACTIVIDAD DE RECOLECCIÓN Y TRANSPORTE (PRTZ). Artículo integrado y unificado en el artículo 5.3.2.2.5.2 de la Resolución CRA 943 de 2021. D",
-   "diff": {
-    "corpus": "...eajes para la actividad de recolección y transporte (PRTz). El valor de los peajes (PRTz), que deberá ser sumado al costo de recolección y transporte, corresponde a la relación de los peajes y de ...",
-    "fuente": "...EAJES PARA LA ACTIVIDAD DE RECOLECCIÓN Y TRANSPORTE (PRTZ). Artículo integrado y unificado en el artículo 5.3.2.2.5.2 de la Resolución CRA..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "26",
-   "estado": "divergente",
-   "similitud": 0.9254,
-   "corpus": "ARTÍCULO 26. Costo de Recolección y Transporte de residuos sólidos con Aporte Bajo Condición (CRTABc). Cuando el valor total de los vehículos y/o activos asociados a esta actividad",
-   "fuente": "ARTÍCULO 26. COSTO DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS CON APORTE BAJO CONDICIÓN (CRTABC). Artículo integrado y unificado en el artículo 5.3.2.2.5.3 de la Resolución CR",
-   "diff": {
-    "corpus": "...orte de residuos sólidos con Aporte Bajo Condición (CRTABc). Cuando el valor total de los vehículos y/o activos asociado...",
-    "fuente": "...ORTE DE RESIDUOS SÓLIDOS CON APORTE BAJO CONDICIÓN (CRTABC). Artículo integrado y unificado en el artículo 5.3.2.2.5.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando el valor total de los vehículos y/o activos asociado..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "27",
-   "estado": "divergente",
-   "similitud": 0.5568,
-   "corpus": "ARTÍCULO 27. Descuento al CRT por antigüedad de los vehículos. Para las personas prestadoras que operen un (1) turno diario de recolección y su flota de vehículos compactadores ten",
-   "fuente": "ARTÍCULO 27. DESCUENTO AL CRT POR ANTIGüEDAD DE LOS VEHÍCULOS. Artículo integrado y unificado en el artículo 5.3.2.2.5.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo",
-   "diff": {
-    "corpus": "...TÍCULO 27. Descuento al CRT por antigüedad de los vehículos. Para las personas prestadoras que operen un (1) turno diari...",
-    "fuente": "...TÍCULO 27. DESCUENTO AL CRT POR ANTIGüEDAD DE LOS VEHÍCULOS. Artículo integrado y unificado en el artículo 5.3.2.2.5.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo corregido por el artículo 3 de la Resolución 751 de 2016. El nuevo texto es el siguiente: Para las personas prestadoras que operen un (1) turno diari..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "28",
    "estado": "divergente",
-   "similitud": 0.8688,
+   "similitud": 0.7674,
    "corpus": "ARTÍCULO 28. Costo de Disposición Final (CDF). El costo máximo a reconocer por la actividad de disposición final, está dado por: CDF = CDF VU + CDF PC CDF VU = min R18,722 + CDF PC",
-   "fuente": "ARTÍCULO 28. COSTO DE DISPOSICIÓN FINAL (CDF). Artículo integrado y unificado en el artículo 5.3.2.2.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por e",
+   "fuente": "ARTÍCULO 28. COSTO DE DISPOSICIÓN FINAL (CDF). 5.3.2.2.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 20",
    "diff": {
     "corpus": "...ARTÍCULO 28. Costo de Disposición Final (CDF). El costo máximo a reconocer por la actividad de disposición final, está dado por: CDF = CDF VU + CDF PC CDF VU = min R18,722 + CDF PC = min 132.924379 . ), 139.896j QRS 1(, , 242...",
-    "fuente": "...ARTÍCULO 28. COSTO DE DISPOSICIÓN FINAL (CDF). Artículo integrado y unificado en el artículo 5.3.2.2.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l..."
+    "fuente": "...ARTÍCULO 28. COSTO DE DISPOSICIÓN FINAL (CDF). 5.3.2.2.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l..."
    }
   },
   {
    "articulo": "29",
-   "estado": "divergente",
-   "similitud": 0.7906,
-   "corpus": "ARTÍCULO 29. Costo de Disposición Final con Aporte Bajo Condición (CDFABc). Cuando el valor total de los activos señalados en el artículo anterior es aportado por una entidad públi",
-   "fuente": "ARTÍCULO 29. COSTO DE DISPOSICIÓN FINAL CON APORTE BAJO CONDICIÓN (CDFABC). Artículo integrado y unificado en el artículo 5.3.2.2.6.2 de la Resolución CRA 943 de 2021. Debe tenerse",
-   "diff": {
-    "corpus": "...to de Disposición Final con Aporte Bajo Condición (CDFABc). Cuando el valor total de los activos señalados en el artícul...",
-    "fuente": "...TO DE DISPOSICIÓN FINAL CON APORTE BAJO CONDICIÓN (CDFABC). Artículo integrado y unificado en el artículo 5.3.2.2.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando el valor total de los activos señalados en el artícul..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "30",
-   "estado": "divergente",
-   "similitud": 0.2861,
-   "corpus": "ARTÍCULO 30. Provisión de recursos para las etapas de clausura y posclausura. La persona prestadora de la actividad de disposición final deberá constituir un encargo fiduciario, qu",
-   "fuente": "ARTÍCULO 30. PROVISIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.2.2.6.3 de la Resolución CRA 943 de 2021. Debe tener",
-   "diff": {
-    "corpus": "...sión de recursos para las etapas de clausura y posclausura. La persona prestadora de la actividad de disposición final deberá constituir un encargo fiduciario, que permita g...",
-    "fuente": "...SIÓN DE RECURSOS PARA LAS ETAPAS DE CLAUSURA Y POSCLAUSURA. Artículo integrado y unificado en el artículo 5.3.2.2.6.3 de la Resolución CRA 943 d..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "31",
-   "estado": "divergente",
-   "similitud": 0.8757,
-   "corpus": "ARTÍCULO 31. Costo de alternativas a la disposición final. Podrán emplearse alternativas a la disposición final en relleno sanitario siempre y cuando éstas cuenten con los permisos",
-   "fuente": "ARTÍCULO 31. COSTO DE ALTERNATIVAS A LA DISPOSICIÓN FINAL. Artículo integrado y unificado en el artículo 5.3.2.2.6.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dis",
-   "diff": {
-    "corpus": "...ARTÍCULO 31. Costo de alternativas a la disposición final. Podrán emplearse alternativas a la disposición final en rel...",
-    "fuente": "...ARTÍCULO 31. COSTO DE ALTERNATIVAS A LA DISPOSICIÓN FINAL. Artículo integrado y unificado en el artículo 5.3.2.2.6.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Podrán emplearse alternativas a la disposición final en rel..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "32",
-   "estado": "divergente",
-   "similitud": 0.6016,
-   "corpus": "ARTÍCULO 32. Costo de Tratamiento de Lixiviados (CTL). El costo máximo de tratamiento de lixiviados por metro cúbico (CTLM) se calculará con las funciones a continuación y los esce",
-   "fuente": "ARTÍCULO 32. COSTO DE TRATAMIENTO DE LIXIVIADOS (CTL). Artículo integrado y unificado en el artículo 5.3.2.2.6.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispues",
-   "diff": {
-    "corpus": "...ARTÍCULO 32. Costo de Tratamiento de Lixiviados (CTL). El costo máximo de tratamiento de lixiviados por metro cúbico (CTLM) se calculará con las funciones a continuación y los escenarios por objetivo de ca...",
-    "fuente": "...ARTÍCULO 32. COSTO DE TRATAMIENTO DE LIXIVIADOS (CTL). Artículo integrado y unificado en el artículo 5.3.2.2.6.5 de la Resolución CRA 943 d..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "33",
-   "estado": "divergente",
-   "similitud": 0.9309,
-   "corpus": "ARTÍCULO 33. Costo de Tratamiento de Lixiviados con Aporte Bajo Condición (CDFABc). Cuando el valor total de los activos señalados en el ARTICULO 32 es aportado por una entidad púb",
-   "fuente": "ARTÍCULO 33. COSTO DE TRATAMIENTO DE LIXIVIADOS CON APORTE BAJO CONDICIÓN (CDFABC). Artículo integrado y unificado en el artículo 5.3.2.2.6.6 de la Resolución CRA 943 de 2021. Debe",
-   "diff": {
-    "corpus": "...ratamiento de Lixiviados con Aporte Bajo Condición (CDFABc). Cuando el valor total de los activos señalados en el ARTICU...",
-    "fuente": "...RATAMIENTO DE LIXIVIADOS CON APORTE BAJO CONDICIÓN (CDFABC). Artículo integrado y unificado en el artículo 5.3.2.2.6.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando el valor total de los activos señalados en el artícu..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "34",
    "estado": "divergente",
-   "similitud": 0.8743,
+   "similitud": 0.8742,
    "corpus": "ARTÍCULO 34. Valor base de remuneración del aprovechamiento (VBA). La remuneración del aprovechamiento, se calculará de la siguiente forma: VBA = (CRTp + CD1p)(1— DINC) CRT = CDF =",
-   "fuente": "ARTÍCULO 34. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). Artículo integrado y unificado en el artículo 5.3.2.2.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuent",
+   "fuente": "ARTÍCULO 34. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). 5.3.2.2.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 de",
    "diff": {
-    "corpus": "...O 34. Valor base de remuneración del aprovechamiento (VBA). La remuneración del aprovechamiento, se calculará de la siguiente forma: VBA = (CRTp + CD1p)(1— DINC) CRT = CDF = E(CR...",
-    "fuente": "...O 34. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). Artículo integrado y unificado en el artículo 5.3.2.2.7.1 de la Resolució..."
+    "corpus": "...O 34. Valor base de remuneración del aprovechamiento (VBA). La remuneración del aprovechamiento, se calculará de la siguiente forma: VBA = (CRTp + CD1p)(1— DINC) CRT = CDF = E(CRTi QRT)) EQRTi (CD Fi Q R Si ) ...",
+    "fuente": "...O 34. VALOR BASE DE REMUNERACIÓN DEL APROVECHAMIENTO (VBA). 5.3.2.2.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l..."
    }
   },
   {
    "articulo": "35",
-   "estado": "divergente",
-   "similitud": 0.8639,
-   "corpus": "ARTÍCULO 35. Liquidación del VBA y Facturación del Aprovechamiento. Para dar aplicación a lo establecido en la presente Resolución, los procesos de liquidación, facturación y recau",
-   "fuente": "ARTÍCULO 35. LIQUIDACIÓN DEL VBA Y FACTURACIÓN DEL APROVECHAMIENTO. Artículo integrado y unificado en el artículo 5.3.2.2.7.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuen",
-   "diff": {
-    "corpus": "...O 35. Liquidación del VBA y Facturación del Aprovechamiento. Para dar aplicación a lo establecido en la presente Resoluc...",
-    "fuente": "...O 35. LIQUIDACIÓN DEL VBA Y FACTURACIÓN DEL APROVECHAMIENTO. Artículo integrado y unificado en el artículo 5.3.2.2.7.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para dar aplicación a lo establecido en la presente Resoluc..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "36",
    "estado": "divergente",
-   "similitud": 0.6162,
+   "similitud": 0.6218,
    "corpus": "ARTÍCULO 36. Actualización de costos. A partir de la entrada en vigencia la fórmula tarifaria, los cargos que componen el precio máximo, se actualizarán de la siguiente manera: = C",
-   "fuente": "ARTÍCULO 36. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.2.2.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "fuente": "ARTÍCULO 36. ACTUALIZACIÓN DE COSTOS. 5.3.2.2.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 A part",
    "diff": {
-    "corpus": "...ARTÍCULO 36. Actualización de costos. A partir de la entrada en vigencia la fórmula tarifaria, los cargos que componen el prec...",
-    "fuente": "...ARTÍCULO 36. ACTUALIZACIÓN DE COSTOS. Artículo integrado y unificado en el artículo 5.3.2.2.8.1 de la Resolució..."
+    "corpus": "...ARTÍCULO 36. Actualización de costos. A partir de la entrada en vigencia la fórmula tarifaria, los cargos que componen el precio máximo, se actualizarán de la siguiente manera: = CM 0 (1 + FA,) 01- Hoja N° 25 de la Resolución CRA 720 de 2015 \"Po...",
+    "fuente": "...ARTÍCULO 36. ACTUALIZACIÓN DE COSTOS. 5.3.2.2.8.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l..."
    }
   },
   {
    "articulo": "37",
    "estado": "divergente",
-   "similitud": 0.461,
+   "similitud": 0.4643,
    "corpus": "ARTÍCULO 37. Factor de Actualización de Costos por Actividad (FAc). Para ajustar los costos de las actividades resultantes de lo establecido en la presente resolución, se utilizará",
-   "fuente": "ARTÍCULO 37. FACTOR DE ACTUALIZACIÓN DE COSTOS POR ACTIVIDAD (FAC). Artículo integrado y unificado en el artículo 5.3.2.2.8.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuen",
+   "fuente": "ARTÍCULO 37. FACTOR DE ACTUALIZACIÓN DE COSTOS POR ACTIVIDAD (FAC). 5.3.2.2.8.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 d",
    "diff": {
-    "corpus": "... 37. Factor de Actualización de Costos por Actividad (FAc). Para ajustar los costos de las actividades resultantes de lo establecido en la presente resolución, se utilizarán las siguientes ecuaciones: a) Factor de actualización del Costo de...",
-    "fuente": "... 37. FACTOR DE ACTUALIZACIÓN DE COSTOS POR ACTIVIDAD (FAC). Artículo integrado y unificado en el artículo 5.3.2.2.8.2 de la Resolució..."
+    "corpus": "... 37. Factor de Actualización de Costos por Actividad (FAc). Para ajustar los costos de las actividades resultantes de lo establecido en la presente resolución, se utilizarán las siguientes ecuaciones: a) Factor de actualización del Costo de Barrido y Limpieza de Vías y Áreas Públicas por suscriptor (CBLS) y del Costo de Limpieza Urbana por suscriptor (CLUS), se actualizarán de acuerdo con el incremento del Salario Mínimo Mensual Legal Vigente adoptado por el Gobierno Nacional, así: BYLt Y PCLUS = (SMMLVt - SMMLVt i) P SMMLVt i Donde: SMMLlic: Salario Mínimo Mensual Legal Vigente adoptado por el Gobierno Nacional en el año t. b) Factor de Actualización del Costo de comercialización y...",
+    "fuente": "... 37. FACTOR DE ACTUALIZACIÓN DE COSTOS POR ACTIVIDAD (FAC). 5.3.2.2.8.2 de la Resolución CRA 943 de 2021. Debe tenerse en..."
    }
   },
   {
    "articulo": "38",
    "estado": "divergente",
-   "similitud": 0.0364,
+   "similitud": 0.0368,
    "corpus": "ARTÍCULO 38. Factor de Productividad. A partir del tercer año de entrada en vigencia de la presente Resolución, la CRA establecerá anualmente el factor de productividad con el cual",
-   "fuente": "ARTÍCULO 38. FACTOR DE PRODUCTIVIDAD. Artículo integrado y unificado en el artículo 5.3.2.2.8.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícul",
+   "fuente": "ARTÍCULO 38. FACTOR DE PRODUCTIVIDAD. 5.3.2.2.8.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 1 de l",
    "diff": {
-    "corpus": "...ARTÍCULO 38. Factor de Productividad. A partir del tercer año de entrada en vigencia de la presente Resolución, la CRA establecerá anualme...",
-    "fuente": "...ARTÍCULO 38. FACTOR DE PRODUCTIVIDAD. Artículo integrado y unificado en el artículo 5.3.2.2.8.4 de la Resolució..."
+    "corpus": "...ARTÍCULO 38. Factor de Productividad. A partir del tercer año de entrada en vigencia de la presente Resolución, la CRA establecerá anualmente el factor de productividad con el cual se...",
+    "fuente": "...ARTÍCULO 38. FACTOR DE PRODUCTIVIDAD. 5.3.2.2.8.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3...."
    }
   },
   {
    "articulo": "39",
    "estado": "divergente",
-   "similitud": 0.1752,
+   "similitud": 0.168,
    "corpus": "ARTÍCULO 39. Tarifa Final por suscriptor. Para efecto de calcular la tarifa mensual final al suscriptor, los prestadores de recolección y transporte de residuos no aprovechables ap",
-   "fuente": "ARTÍCULO 39. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.2.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
+   "fuente": "ARTÍCULO 39. TARIFA FINAL POR SUSCRIPTOR. en el artículo 5.3.2.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 10",
    "diff": {
     "corpus": "...ARTÍCULO 39. Tarifa Final por suscriptor. Para efecto de calcular la tarifa mensual final al suscripto...",
-    "fuente": "...ARTÍCULO 39. TARIFA FINAL POR SUSCRIPTOR. Artículo integrado y unificado en el artículo 5.3.2.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efecto de calcular la tarifa mensual final al suscripto..."
+    "fuente": "...ARTÍCULO 39. TARIFA FINAL POR SUSCRIPTOR. en el artículo 5.3.2.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para efecto de calcular la tarifa mensual final al suscripto..."
    }
   },
   {
    "articulo": "40",
-   "estado": "divergente",
-   "similitud": 0.2781,
-   "corpus": "ARTÍCULO 40. Cálculo de toneladas por suscriptor definidas en conjunto por prestadores para facturación. Los prestadores que se encuentran en áreas urbanas de un mismo municipio y/",
-   "fuente": "ARTÍCULO 40. CÁLCULO DE TONELADAS POR SUSCRIPTOR DEFINIDAS EN CONJUNTO POR PRESTADORES PARA FACTURACIÓN. Artículo integrado y unificado en el artículo 5.3.2.3.2 de la Resolución CR",
-   "diff": {
-    "corpus": "...tor definidas en conjunto por prestadores para facturación. Los prestadores que se encuentran en áreas urbanas de un mismo municipio y/o distrito deberán mensualmente calcular los valores de ...",
-    "fuente": "...TOR DEFINIDAS EN CONJUNTO POR PRESTADORES PARA FACTURACIÓN. Artículo integrado y unificado en el artículo 5.3.2.3.2 de la Resolución CRA ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "41",
    "estado": "divergente",
-   "similitud": 0.1441,
+   "similitud": 0.1447,
    "corpus": "ARTÍCULO 41. Toneladas de Residuos No Aprovechables por Tipo de suscriptor (TRNAu,z). Las Toneladas de Residuos no Aprovechables por tipo de suscriptor en el APS de servicio z, se ",
-   "fuente": "ARTÍCULO 41. TONELADAS DE RESIDUOS NO APROVECHABLES POR TIPO DE SUSCRIPTOR (TRNAU,Z). Artículo integrado y unificado en el artículo 5.3.2.3.3 de la Resolución CRA 943 de 2021. Debe",
+   "fuente": "ARTÍCULO 41. TONELADAS DE RESIDUOS NO APROVECHABLES POR TIPO DE SUSCRIPTOR (TRNAU,Z). 5.3.2.3.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícul",
    "diff": {
-    "corpus": "...Residuos No Aprovechables por Tipo de suscriptor (TRNAu,z). Las Toneladas de Residuos no Aprovechables por tipo de suscriptor en el APS de servicio z, se calcularán de acuerdo con la siguiente fórmula: Si el suscriptor cuenta con aforo ordinario...",
-    "fuente": "...RESIDUOS NO APROVECHABLES POR TIPO DE SUSCRIPTOR (TRNAU,Z). Artículo integrado y unificado en el artículo 5.3.2.3.3 de la Resolución ..."
+    "corpus": "...Residuos No Aprovechables por Tipo de suscriptor (TRNAu,z). Las Toneladas de Residuos no Aprovechables por tipo de suscriptor en el APS de servicio z, se calcularán de acuerdo con la siguiente fórmula: Si el suscriptor cuenta con aforo ordinario, extraordinario o permanente de los residuos, las toneladas de residuos no aprovechables por suscriptor será el resultado del aforo TAFNAi. Si no tiene aforo individual de los residuos: TRNAu = Donde: (QNAz — QRz — Ei TAFNAi,z ) Fu =i ((n — nam — n Du,) Fu ) TRNAu ,z : Toneladas de Residuos No Aprovechables por tipo de suscriptor u por APS z, de la persona prestadora (toneladas/suscriptor-mes). QNAz : Toneladas promedio de residuos No Aprovechables por APS z, de la persona prestadora (toneladas/mes), de acuerdo con lo definido en el ARTICULO 4. QRz: Toneladas promedio de residuos de Rechazo del Aprove...",
+    "fuente": "...RESIDUOS NO APROVECHABLES POR TIPO DE SUSCRIPTOR (TRNAU,Z). 5.3.2.3.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc..."
    }
   },
   {
    "articulo": "42",
    "estado": "divergente",
-   "similitud": 0.9524,
+   "similitud": 0.0708,
    "corpus": "ARTÍCULO 42. Factores de Producción (Fu). Los factores de producción Fu para cada tipo de suscriptor son: Tipo de suscriptor FI F2 F3 F4 F5 F6 F7 F8 Fu 0,79 0,86 0,90 1,00 1,22 1,5",
-   "fuente": "ARTÍCULO 42. FACTORES DE PRODUCCIÓN (FU). Artículo integrado y unificado en el artículo 5.3.2.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
+   "fuente": "ARTÍCULO 42. FACTORES DE PRODUCCIÓN (FU). unificado en el artículo 5.3.2.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del ",
    "diff": {
-    "corpus": "...ARTÍCULO 42. Factores de Producción (Fu). Los factores de producción Fu para cada tipo de suscriptor s...",
-    "fuente": "...ARTÍCULO 42. FACTORES DE PRODUCCIÓN (FU). Artículo integrado y unificado en el artículo 5.3.2.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los factores de producción Fu para cada tipo de suscriptor s..."
+    "corpus": "...ARTÍCULO 42. Factores de Producción (Fu). Los factores de producción Fu para cada tipo de suscriptor son: Tipo de suscriptor FI F2 F3 F4 F5 F6 F7 F8 Fu 0,79 0,86 0,90 1,00 1,22 1,50 2,44 0,...",
+    "fuente": "...ARTÍCULO 42. FACTORES DE PRODUCCIÓN (FU). unificado en el artículo 5.3.2.3.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuen..."
    }
   },
   {
    "articulo": "43",
-   "estado": "divergente",
-   "similitud": 0.8495,
-   "corpus": "ARTÍCULO 43. Contenido de la Factura. En concordancia con lo establecido en los artículos 147 y 148 de la Ley 142 de 1994, la factura del servicio público de aseo deberá contener i",
-   "fuente": "ARTÍCULO 43. CONTENIDO DE LA FACTURA. Artículo integrado y unificado en el artículo 5.3.2.3.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo ",
-   "diff": {
-    "corpus": "...ARTÍCULO 43. Contenido de la Factura. En concordancia con lo establecido en los artículos 147 y 1...",
-    "fuente": "...ARTÍCULO 43. CONTENIDO DE LA FACTURA. Artículo integrado y unificado en el artículo 5.3.2.3.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 En concordancia con lo establecido en los artículos 147 y 1..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "44",
    "estado": "divergente",
-   "similitud": 0.894,
+   "similitud": 0.4277,
    "corpus": "ARTÍCULO 44. Descuentos por recolección efectuada sin servicio puerta a puerta. Cuando por imposibilidad operativa de la entrada de vehículos o de los operarios del servicio, la re",
-   "fuente": "ARTÍCULO 44. DESCUENTOS POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. Artículo integrado y unificado en el artículo 5.3.2.3.6 de la Resolución CRA 943 de 2021. Debe tener",
+   "fuente": "ARTÍCULO 44. DESCUENTOS POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. 5.3.2.3.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.",
    "diff": {
     "corpus": "...ntos por recolección efectuada sin servicio puerta a puerta. Cuando por imposibilidad operativa de la entrada de vehícul...",
-    "fuente": "...NTOS POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. Artículo integrado y unificado en el artículo 5.3.2.3.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando por imposibilidad operativa de la entrada de vehícul..."
+    "fuente": "...NTOS POR RECOLECCIÓN EFECTUADA SIN SERVICIO PUERTA A PUERTA. 5.3.2.3.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Cuando por imposibilidad operativa de la entrada de vehícul..."
    }
   },
   {
    "articulo": "45",
-   "estado": "divergente",
-   "similitud": 0.868,
-   "corpus": "ARTÍCULO 45. Inmuebles desocupados. A los inmuebles que acrediten estar desocupados se les aplicará la tarifa final por suscriptor establecida en el ARTÍCULO 39 de la presente reso",
-   "fuente": "ARTÍCULO 45. INMUEBLES DESOCUPADOS. Artículo integrado y unificado en el artículo 5.3.2.3.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.",
-   "diff": {
-    "corpus": "...ARTÍCULO 45. Inmuebles desocupados. A los inmuebles que acrediten estar desocupados se les aplica...",
-    "fuente": "...ARTÍCULO 45. INMUEBLES DESOCUPADOS. Artículo integrado y unificado en el artículo 5.3.2.3.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 A los inmuebles que acrediten estar desocupados se les aplica..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "46",
-   "estado": "divergente",
-   "similitud": 0.9339,
-   "corpus": "ARTÍCULO 46. Grandes productores. Los grandes productores a los que se refiere el numeral 21 del artículo 2.3.2.1.1 del Decreto 1077 de 2015, o el que lo modifique, sustituya, adic",
-   "fuente": "ARTÍCULO 46. GRANDES PRODUCTORES. Artículo integrado y unificado en el artículo 5.3.2.3.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.",
-   "diff": {
-    "corpus": "...ARTÍCULO 46. Grandes productores. Los grandes productores a los que se refiere el numeral 21 ...",
-    "fuente": "...ARTÍCULO 46. GRANDES PRODUCTORES. Artículo integrado y unificado en el artículo 5.3.2.3.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los grandes productores a los que se refiere el numeral 21 ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "47",
    "estado": "divergente",
-   "similitud": 0.0457,
+   "similitud": 0.046,
    "corpus": "ARTÍCULO 47. Balance de Producción de residuos del Área de Prestación del Servicio facturados (Q z ). La producción total de residuos sólidos provenientes del APS facturados por la",
-   "fuente": "ARTÍCULO 47. BALANCE DE PRODUCCIÓN DE RESIDUOS DEL ÁREA DE PRESTACIÓN DEL SERVICIO FACTURADOS (QZ). Artículo integrado y unificado en el artículo 5.3.2.3.9 de la Resolución CRA 943",
+   "fuente": "ARTÍCULO 47. BALANCE DE PRODUCCIÓN DE RESIDUOS DEL ÁREA DE PRESTACIÓN DEL SERVICIO FACTURADOS (QZ). unificado en el artículo 5.3.2.3.9 de la Resolución CRA 943 de 2021. Debe teners",
    "diff": {
     "corpus": "...e residuos del Área de Prestación del Servicio facturados (Q z ). La producción total de residuos sólidos provenientes del ...",
-    "fuente": "...E RESIDUOS DEL ÁREA DE PRESTACIÓN DEL SERVICIO FACTURADOS (QZ). Artículo integrado y unificado en el artículo 5.3.2.3.9 d..."
+    "fuente": "...E RESIDUOS DEL ÁREA DE PRESTACIÓN DEL SERVICIO FACTURADOS (QZ). unificado en el artículo 5.3.2.3.9 de la Resolución CRA 9..."
    }
   },
   {
    "articulo": "48",
    "estado": "divergente",
-   "similitud": 0.3531,
+   "similitud": 0.3538,
    "corpus": "ARTÍCULO 48. Reporte en línea del pesaje de residuos. Los prestadores de recolección y transporte y aquellos que presten la actividad de disposición final deberán contar con sistem",
-   "fuente": "ARTÍCULO 48. REPORTE EN LÍNEA DEL PESAJE DE RESIDUOS. Artículo integrado y unificado en el artículo 5.3.2.3.10 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto",
+   "fuente": "ARTÍCULO 48. REPORTE EN LÍNEA DEL PESAJE DE RESIDUOS. integrado y unificado en el artículo 5.3.2.3.10 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
    "diff": {
     "corpus": "...ARTÍCULO 48. Reporte en línea del pesaje de residuos. Los prestadores de recolección y transporte y aquellos que presten la actividad de disposi...",
-    "fuente": "...ARTÍCULO 48. REPORTE EN LÍNEA DEL PESAJE DE RESIDUOS. Artículo integrado y unificado en el artículo 5.3.2.3.10 de la Resolución CRA ..."
+    "fuente": "...ARTÍCULO 48. REPORTE EN LÍNEA DEL PESAJE DE RESIDUOS. integrado y unificado en el artículo 5.3.2.3.10 de la Resolución CRA ..."
    }
   },
   {
    "articulo": "49",
    "estado": "divergente",
-   "similitud": 0.8652,
+   "similitud": 0.8641,
    "corpus": "ARTÍCULO 49. Objeto de los descuentos asociados a la calidad del servicio. El objeto del presente título es determinar los descuentos asociados al nivel de cumplimiento de las meta",
-   "fuente": "ARTÍCULO 49. OBJETO DE LOS DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO. Artículo integrado y unificado en el artículo 5.3.2.4.1.1 de la Resolución CRA 943 de 2021. Debe tenerse ",
+   "fuente": "ARTÍCULO 49. OBJETO DE LOS DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO. 5.3.2.4.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3",
    "diff": {
     "corpus": "...jeto de los descuentos asociados a la calidad del servicio. El objeto del presente título es determinar los descuentos a...",
-    "fuente": "...JETO DE LOS DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO. Artículo integrado y unificado en el artículo 5.3.2.4.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El objeto del presente título es determinar los descuentos a..."
+    "fuente": "...JETO DE LOS DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO. 5.3.2.4.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 El objeto del presente título es determinar los descuentos a..."
    }
   },
   {
    "articulo": "50",
    "estado": "divergente",
-   "similitud": 0.845,
+   "similitud": 0.8515,
    "corpus": "ARTÍCULO 50. Periodicidad en el cálculo de los indicadores. Los indicadores que se definen en el presente título, deberán ser calculados mensualmente por cada persona prestadora de",
-   "fuente": "ARTÍCULO 50. PERIODICIDAD EN EL CÁLCULO DE LOS INDICADORES. Artículo integrado y unificado en el artículo 5.3.2.4.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo di",
+   "fuente": "ARTÍCULO 50. PERIODICIDAD EN EL CÁLCULO DE LOS INDICADORES. integrado y unificado en el artículo 5.3.2.4.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto p",
    "diff": {
     "corpus": "...ARTÍCULO 50. Periodicidad en el cálculo de los indicadores. Los indicadores que se definen en el presente título, deberá...",
-    "fuente": "...ARTÍCULO 50. PERIODICIDAD EN EL CÁLCULO DE LOS INDICADORES. Artículo integrado y unificado en el artículo 5.3.2.4.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los indicadores que se definen en el presente título, deberá..."
+    "fuente": "...ARTÍCULO 50. PERIODICIDAD EN EL CÁLCULO DE LOS INDICADORES. integrado y unificado en el artículo 5.3.2.4.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los indicadores que se definen en el presente título, deberá..."
    }
   },
   {
    "articulo": "51",
    "estado": "divergente",
-   "similitud": 0.5843,
+   "similitud": 0.5877,
    "corpus": "ARTÍCULO 51. Periodicidad en el cálculo y aplicación de los descuentos. Los descuentos que se definen en el presente título, deberán ser calculados y aplicados semestralmente por c",
-   "fuente": "ARTÍCULO 51. PERIODICIDAD EN EL CÁLCULO Y APLICACIÓN DE LOS DESCUENTOS. Artículo integrado y unificado en el artículo 5.3.2.4.2.2 de la Resolución CRA 943 de 2021. Debe tenerse en ",
+   "fuente": "ARTÍCULO 51. PERIODICIDAD EN EL CÁLCULO Y APLICACIÓN DE LOS DESCUENTOS. 5.3.2.4.2.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.",
    "diff": {
     "corpus": "... Periodicidad en el cálculo y aplicación de los descuentos. Los descuentos que se definen en el presente título, deberán...",
-    "fuente": "... PERIODICIDAD EN EL CÁLCULO Y APLICACIÓN DE LOS DESCUENTOS. Artículo integrado y unificado en el artículo 5.3.2.4.2.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los descuentos que se definen en el presente título, deberán..."
+    "fuente": "... PERIODICIDAD EN EL CÁLCULO Y APLICACIÓN DE LOS DESCUENTOS. 5.3.2.4.2.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los descuentos que se definen en el presente título, deberán..."
    }
   },
   {
    "articulo": "52",
-   "estado": "divergente",
-   "similitud": 0.0693,
-   "corpus": "ARTÍCULO 52. Verificación de los indicadores y certificación de la aplicación de los descuentos correspondientes. Toda la información que la persona prestadora reporte en el SUI re",
-   "fuente": "ARTÍCULO 52. VERIFICACIÓN DE LOS INDICADORES Y APLICACIÓN DE LOS DESCUENTOS CORRESPONDIENTES. Artículo integrado y unificado en el artículo 5.3.2.4.2.3 de la Resolución CRA 943 de ",
-   "diff": {
-    "corpus": "...ARTÍCULO 52. Verificación de los indicadores y certificación de la aplicación de los descuentos correspondiente...",
-    "fuente": "...ARTÍCULO 52. VERIFICACIÓN DE LOS INDICADORES Y APLICACIÓN DE LOS DESCUENTOS CORRESPONDIENTES. Artículo integrado y unificado en el artículo 5.3.2.4.2.3 de la Resolución CRA 943 ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "53",
-   "estado": "divergente",
-   "similitud": 0.0721,
-   "corpus": "ARTÍCULO 53. Reporte de la información de verificación. Todos los prestadores deberán reportar mensualmente ante la Superintendencia de Servicios Públicos Domiciliarios (SSPD) en l",
-   "fuente": "ARTÍCULO 53. REPORTE DE LA INFORMACIÓN DE LOS INDICADORES. Artículo integrado y unificado en el artículo 5.3.2.4.2.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dis",
-   "diff": {
-    "corpus": "...ARTÍCULO 53. Reporte de la información de verificación. Todos los prestadores deberán reportar mensualmen...",
-    "fuente": "...ARTÍCULO 53. REPORTE DE LA INFORMACIÓN DE LOS INDICADORES. Artículo integrado y unificado en el artículo 5.3.2.4.2.4 de la Resolución CRA 943 ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "54",
    "estado": "divergente",
-   "similitud": 0.9305,
+   "similitud": 0.958,
    "corpus": "ARTÍCULO 54. Medición de la frecuencia y horarios de recolección de residuos sólidos no aprovechables. Para la medición de la frecuencia y horarios de recolección de residuos sólid",
-   "fuente": "ARTÍCULO 54. MEDICIÓN DE LA FRECUENCIA Y HORARIOS DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES. Artículo integrado y unificado en el artículo 5.3.2.4.3.1 de la Resolución CR",
+   "fuente": "ARTÍCULO 54. MEDICIÓN DE LA FRECUENCIA Y HORARIOS DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES. 5.3.2.4.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispu",
    "diff": {
-    "corpus": "...rarios de recolección de residuos sólidos no aprovechables. Para la medición de la frecuencia y horarios de recolección de residuos sólidos no ...",
-    "fuente": "...RARIOS DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES. Artículo integrado y unificado en el artículo 5.3.2.4.3.1 de la Resolución CRA 943 d..."
+    "corpus": "...rarios de recolección de residuos sólidos no aprovechables. Para la medición de la frecuencia y horarios de recolección ...",
+    "fuente": "...RARIOS DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES. 5.3.2.4.3.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para la medición de la frecuencia y horarios de recolección ..."
    }
   },
   {
    "articulo": "55",
    "estado": "divergente",
-   "similitud": 0.0893,
+   "similitud": 0.0899,
    "corpus": "ARTÍCULO 55. Indicador de calidad de la frecuencia de recolección de residuos sólidos no aprovechables (IFR NA1 ). Cada persona prestadora deberá contabilizar por semana y APS, cuá",
-   "fuente": "ARTÍCULO 55. INDICADOR DE CALIDAD DE LA FRECUENCIA DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES (IFR NAL). Artículo integrado y unificado en el artículo 5.3.2.4.3.2 de la Re",
+   "fuente": "ARTÍCULO 55. INDICADOR DE CALIDAD DE LA FRECUENCIA DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES (IFR NAL). unificado en el artículo 5.3.2.4.3.2 de la Resolución CRA 943 de 2",
    "diff": {
     "corpus": "... de recolección de residuos sólidos no aprovechables (IFR NA1 ). Cada persona prestadora deberá contabilizar por semana ...",
-    "fuente": "... DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES (IFR NAL). Artículo integrado y unificado en el artículo 5.3.2.4.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6..."
+    "fuente": "... DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES (IFR NAL). unificado en el artículo 5.3.2.4.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6..."
    }
   },
   {
    "articulo": "56",
    "estado": "divergente",
-   "similitud": 0.539,
+   "similitud": 0.3909,
    "corpus": "ARTÍCULO 56. Indicador de calidad del horario de recolección de residuos sólidos no aprovechables (IHR NAL ). Cada persona prestadora deberá contabilizar a nivel semanal y por APS,",
-   "fuente": "ARTÍCULO 56. INDICADOR DE CALIDAD DEL HORARIO DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES (IHR NAL). Artículo integrado y unificado en el artículo 5.3.2.4.3.3 de la Resoluc",
+   "fuente": "ARTÍCULO 56. INDICADOR DE CALIDAD DEL HORARIO DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES (IHR NAL). unificado en el artículo 5.3.2.4.3.3 de la Resolución CRA 943 de 2021. ",
    "diff": {
     "corpus": "...de recolección de residuos sólidos no aprovechables (IHR NAL ). Cada persona prestadora deberá contabilizar a nivel seman...",
-    "fuente": "...DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES (IHR NAL). Artículo integrado y unificado en el artículo 5.3.2.4.3.3..."
+    "fuente": "...DE RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES (IHR NAL). unificado en el artículo 5.3.2.4.3.3 de la Resolución CRA..."
    }
   },
   {
    "articulo": "57",
-   "estado": "divergente",
-   "similitud": 0.1129,
-   "corpus": "ARTÍCULO 57. Indicador de calidad técnica en la recolección de residuos sólidos no aprovechables (ICTR NA). Indicador que mide la calidad global del servicio de recolección de resi",
-   "fuente": "ARTÍCULO 57. INDICADOR DE CALIDAD TÉCNICA EN LA RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES (ICTR NAl). Artículo integrado y unificado en el artículo 5.3.2.4.3.4 de la Resoluc",
-   "diff": {
-    "corpus": "...la recolección de residuos sólidos no aprovechables (ICTR NA). Indicador que mide la calidad global del servicio de reco...",
-    "fuente": "...LA RECOLECCIÓN DE RESIDUOS SÓLIDOS NO APROVECHABLES (ICTR NAl). Artículo integrado y unificado en el artículo 5.3.2.4.3.4..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "58",
-   "estado": "divergente",
-   "similitud": 0.3852,
-   "corpus": "ARTÍCULO 58. Indicador de incumplimiento de reclamos comerciales por facturación (IC IRCF). El indicador de incumplimiento de las metas de reclamos comerciales por facturación se d",
-   "fuente": "ARTÍCULO 58. INDICADOR DE INCUMPLIMIENTO DE RECLAMOS COMERCIALES POR FACTURACIÓN (IC IRCF). Artículo integrado y unificado en el artículo 5.3.2.4.3.5 de la Resolución CRA 943 de 20",
-   "diff": {
-    "corpus": "...limiento de reclamos comerciales por facturación (IC IRCF). El indicador de incumplimiento de las metas de reclamos comerciales por facturación se define como: IC IRCF = 1 M IRCF IRCFm Si IRCF...",
-    "fuente": "...LIMIENTO DE RECLAMOS COMERCIALES POR FACTURACIÓN (IC IRCF). Artículo integrado y unificado en el artículo 5.3.2.4.3.5 de la Resolución CRA 943 d..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "59",
-   "estado": "divergente",
-   "similitud": 0.2262,
-   "corpus": "ARTÍCULO 59. Indicador de incumplimiento en la compactación del relleno sanitario (IC CRS). Indicador que permite medir el incumplimiento en la compactación del relleno sanitario, ",
-   "fuente": "ARTÍCULO 59. INDICADOR DE INCUMPLIMIENTO EN LA COMPACTACIÓN DEL RELLENO SANITARIO (IC CRS). Artículo integrado y unificado en el artículo 5.3.2.4.3.6 de la Resolución CRA 943 de 20",
-   "diff": {
-    "corpus": "...limiento en la compactación del relleno sanitario (IC CRS). Indicador que permite medir el incumplimiento en la compactación del relleno sanitario, el cual se calcula mediante la siguiente expresión: IC CRS = 1 ICRSm MCRS Si IC CRS O entonce...",
-    "fuente": "...LIMIENTO EN LA COMPACTACIÓN DEL RELLENO SANITARIO (IC CRS). Artículo integrado y unificado en el artículo 5.3.2.4.3.6 de la Resolució..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "60",
    "estado": "divergente",
-   "similitud": 0.0852,
+   "similitud": 0.0854,
    "corpus": "ARTÍCULO 60. Valor de descuento por suscriptor afectado. El valor de descuento por suscriptor afectado se determina con base en los indicadores de calidad contemplados para la form",
-   "fuente": "ARTÍCULO 60. VALOR DE DESCUENTO POR SUSCRIPTOR AFECTADO. Artículo integrado y unificado en el artículo 5.3.2.4.4.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispu",
+   "fuente": "ARTÍCULO 60. VALOR DE DESCUENTO POR SUSCRIPTOR AFECTADO. 5.3.2.4.4.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto ",
    "diff": {
     "corpus": "...ARTÍCULO 60. Valor de descuento por suscriptor afectado. El valor de descuento por suscriptor afectado se determina con ...",
-    "fuente": "...ARTÍCULO 60. VALOR DE DESCUENTO POR SUSCRIPTOR AFECTADO. Artículo integrado y unificado en el artículo 5.3.2.4.4.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 8 de la Resolución 858 de 2018. El nuevo texto es el siguiente: El valor de descuento por suscript..."
+    "fuente": "...ARTÍCULO 60. VALOR DE DESCUENTO POR SUSCRIPTOR AFECTADO. 5.3.2.4.4.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 8 de la Resolución 858 de 2018. El nuevo texto es el siguiente: El valor de descuento por suscript..."
    }
   },
   {
    "articulo": "61",
-   "estado": "divergente",
-   "similitud": 0.078,
-   "corpus": "ARTÍCULO 61. Identificación de los suscriptores afectados para el reconocimiento de los descuentos correspondientes. En el caso de los descuentos asociados al 1CTR Nitli, los suscr",
-   "fuente": "ARTÍCULO 61. IDENTIFICACIÓN DE LOS SUSCRIPTORES AFECTADOS PARA EL RECONOCIMIENTO DE LOS DESCUENTOS CORRESPONDIENTES. Artículo integrado y unificado en el artículo 5.3.2.4.4.2 de la",
-   "diff": {
-    "corpus": "... para el reconocimiento de los descuentos correspondientes. En el caso de los descuentos asociados al 1CTR Nitli, los suscriptores afectados a los que se les debe reconocer los descuentos corr...",
-    "fuente": "... PARA EL RECONOCIMIENTO DE LOS DESCUENTOS CORRESPONDIENTES. Artículo integrado y unificado en el artículo 5.3.2.4.4.2 de la Resolución CRA 943 d..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "62",
    "estado": "divergente",
-   "similitud": 0.0518,
+   "similitud": 0.0519,
    "corpus": "ARTÍCULO 62. Descuento total aplicable al suscriptor afectado del servicio (D TOTAL1). El descuento total aplicable al suscriptor del servicio público de aseo afectado se calculará",
-   "fuente": "ARTÍCULO 62. DESCUENTO TOTAL APLICABLE AL SUSCRIPTOR AFECTADO DEL SERVICIO (D TOTALI). Artículo integrado y unificado en el artículo 5.3.2.4.5.1 de la Resolución CRA 943 de 2021. D",
+   "fuente": "ARTÍCULO 62. DESCUENTO TOTAL APLICABLE AL SUSCRIPTOR AFECTADO DEL SERVICIO (D TOTALI). 5.3.2.4.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artí",
    "diff": {
     "corpus": "...total aplicable al suscriptor afectado del servicio (D TOTAL1). El descuento total aplicable al suscriptor del servicio p...",
-    "fuente": "...TOTAL APLICABLE AL SUSCRIPTOR AFECTADO DEL SERVICIO (D TOTALI). Artículo integrado y unificado en el artículo 5.3.2.4.5.1..."
+    "fuente": "...TOTAL APLICABLE AL SUSCRIPTOR AFECTADO DEL SERVICIO (D TOTALI). 5.3.2.4.5.1 de la Resolución CRA 943 de 2021. Debe teners..."
    }
   },
   {
    "articulo": "63",
    "estado": "divergente",
-   "similitud": 0.1827,
+   "similitud": 0.1852,
    "corpus": "ARTÍCULO 63. Plazo para hacer efectivos los descuentos. La persona prestadora cuenta con un plazo máximo de seis (6) meses para hacer efectivo el descuento total en la factura de l",
-   "fuente": "ARTÍCULO 63. PLAZO PARA HACER EFECTIVOS LOS DESCUENTOS. Artículo integrado y unificado en el artículo 5.3.2.4.5.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispue",
+   "fuente": "ARTÍCULO 63. PLAZO PARA HACER EFECTIVOS LOS DESCUENTOS. integrado y unificado en el artículo 5.3.2.4.5.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por e",
    "diff": {
     "corpus": "...ARTÍCULO 63. Plazo para hacer efectivos los descuentos. La persona prestadora cuenta con un plazo máximo de seis (6...",
-    "fuente": "...ARTÍCULO 63. PLAZO PARA HACER EFECTIVOS LOS DESCUENTOS. Artículo integrado y unificado en el artículo 5.3.2.4.5.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 10 de la Resolución 858 de 2018. El nuevo texto es el siguiente: La persona prestadora cuenta con un plazo máximo de seis (6..."
+    "fuente": "...ARTÍCULO 63. PLAZO PARA HACER EFECTIVOS LOS DESCUENTOS. integrado y unificado en el artículo 5.3.2.4.5.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 10 de la Resolución 858 de 2018. El nuevo texto es el siguiente: La persona prestadora cuenta con un plazo máximo de seis (6..."
    }
   },
   {
    "articulo": "64",
    "estado": "divergente",
-   "similitud": 0.1138,
+   "similitud": 0.0743,
    "corpus": "ARTÍCULO 64. Valor de los indicadores por no reporte de información. Los indicadores que no puedan ser calculados por falta de reporte de información por parte de la persona presta",
-   "fuente": "ARTÍCULO 64. VALOR DE LOS INDICADORES POR NO REPORTE DE INFORMACIÓN. Artículo integrado y unificado en el artículo 5.3.2.4.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
+   "fuente": "ARTÍCULO 64. VALOR DE LOS INDICADORES POR NO REPORTE DE INFORMACIÓN. 5.3.2.4.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 ",
    "diff": {
     "corpus": "...64. Valor de los indicadores por no reporte de información. Los indicadores que no puedan ser calculados por falta de reporte de info...",
-    "fuente": "...64. VALOR DE LOS INDICADORES POR NO REPORTE DE INFORMACIÓN. Artículo integrado y unificado en el artículo 5.3.2.4.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 11 de la Resolución 858 de 2018. El nuevo texto es el siguiente: Cuando la persona prestadora no reporte los indicadores y descuentos asociados en el Sistema Único de Información (SUI), en las condiciones que establezca la Superintendencia de Servicios Públicos ..."
+    "fuente": "...64. VALOR DE LOS INDICADORES POR NO REPORTE DE INFORMACIÓN. 5.3.2.4.6.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 11 de la Resolución 858 de 2018. El nuevo texto es el siguiente: Cuando la persona prestadora no reporte los indicadores y descuentos asociados en el Sistema Único de Información (SUI), en las condiciones que establezca la Superintendencia de Servicios Públicos ..."
    }
   },
   {
    "articulo": "65",
-   "estado": "divergente",
-   "similitud": 0.5879,
-   "corpus": "ARTÍCULO 65. Costos de referencia para el cálculo de los descuentos. Para efectos del cálculo de los descuentos de que trata el presente Título, los costos de referencia serán las ",
-   "fuente": "ARTÍCULO 65. COSTOS DE REFERENCIA PARA EL CÁLCULO DE LOS DESCUENTOS. Artículo integrado y unificado en el artículo 5.3.2.4.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cue",
-   "diff": {
-    "corpus": "...65. Costos de referencia para el cálculo de los descuentos. Para efectos del cálculo de los descuentos de que trata el p...",
-    "fuente": "...65. COSTOS DE REFERENCIA PARA EL CÁLCULO DE LOS DESCUENTOS. Artículo integrado y unificado en el artículo 5.3.2.4.6.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 12 de la Resolución 858 de 2018. El nuevo texto es el siguiente: Para efectos del cálculo de los descuentos de que trata el p..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "66",
-   "estado": "divergente",
-   "similitud": 0.9171,
-   "corpus": "ARTÍCULO 66. Aplicación de los descuentos asociados a la calidad del servicio. Los descuentos asociados a la calidad del servicio entrarán en vigencia una vez haya transcurrido el ",
-   "fuente": "ARTÍCULO 66. APLICACIÓN DE LOS DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO. Artículo integrado y unificado en el artículo 5.3.2.4.6.3 de la Resolución CRA 943 de 2021. Debe tene",
-   "diff": {
-    "corpus": "...ción de los descuentos asociados a la calidad del servicio. Los descuentos asociados a la calidad del servicio entrarán ...",
-    "fuente": "...CIÓN DE LOS DESCUENTOS ASOCIADOS A LA CALIDAD DEL SERVICIO. Artículo integrado y unificado en el artículo 5.3.2.4.6.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Los descuentos asociados a la calidad del servicio entrarán ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "67",
    "estado": "divergente",
-   "similitud": 0.7436,
+   "similitud": 0.785,
    "corpus": "ARTÍCULO 67. Rutas de recolección. La recolección de residuos aprovechables y no aprovechables debe realizarse, según lo establecido en el PGIRS y en el Programa de Prestación del ",
-   "fuente": "ARTÍCULO 67. RUTAS DE RECOLECCIÓN. Artículo integrado y unificado en el artículo 5.3.2.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3",
+   "fuente": "ARTÍCULO 67. RUTAS DE RECOLECCIÓN. artículo 5.3.2.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La",
    "diff": {
     "corpus": "...ARTÍCULO 67. Rutas de recolección. La recolección de residuos aprovechables y no aprovechables ...",
-    "fuente": "...ARTÍCULO 67. RUTAS DE RECOLECCIÓN. Artículo integrado y unificado en el artículo 5.3.2.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La recolección de residuos aprovechables y no aprovechables ..."
+    "fuente": "...ARTÍCULO 67. RUTAS DE RECOLECCIÓN. artículo 5.3.2.7.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La recolección de residuos aprovechables y no aprovechables ..."
    }
   },
   {
    "articulo": "68",
    "estado": "divergente",
-   "similitud": 0.8745,
+   "similitud": 0.8957,
    "corpus": "ARTÍCULO 68. Reporte de información. Las personas prestadoras deberán reportar la información requerida en la oportunidad y calidad establecidas en la presente resolución y en el e",
-   "fuente": "ARTÍCULO 68. REPORTE DE INFORMACIÓN. Artículo integrado y unificado en el artículo 5.3.2.7.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2",
+   "fuente": "ARTÍCULO 68. REPORTE DE INFORMACIÓN. el artículo 5.3.2.7.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 20",
    "diff": {
     "corpus": "...ARTÍCULO 68. Reporte de información. Las personas prestadoras deberán reportar la información req...",
-    "fuente": "...ARTÍCULO 68. REPORTE DE INFORMACIÓN. Artículo integrado y unificado en el artículo 5.3.2.7.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las personas prestadoras deberán reportar la información req..."
+    "fuente": "...ARTÍCULO 68. REPORTE DE INFORMACIÓN. el artículo 5.3.2.7.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Las personas prestadoras deberán reportar la información req..."
    }
   },
   {
    "articulo": "69",
    "estado": "divergente",
-   "similitud": 0.0584,
+   "similitud": 0.037,
    "corpus": "ARTÍCULO 69. Seguimiento de las metas para los indicadores. El seguimiento al cumplimiento de las metas propuestas para cada uno de los indicadores de servicio y de calidad relacio",
-   "fuente": "ARTÍCULO 69. SEGUIMIENTO DE LAS METAS PARA LOS INDICADORES. Artículo integrado y unificado en el artículo 5.3.2.7.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo disp",
+   "fuente": "ARTÍCULO 69. SEGUIMIENTO DE LAS METAS PARA LOS INDICADORES. 5.3.2.7.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto",
    "diff": {
-    "corpus": "...ARTÍCULO 69. Seguimiento de las metas para los indicadores. El seguimiento al cumplimiento de las metas propuestas para cada...",
-    "fuente": "...ARTÍCULO 69. SEGUIMIENTO DE LAS METAS PARA LOS INDICADORES. Artículo integrado y unificado en el artículo 5.3.2.7.3 de la Resolución..."
+    "corpus": "...ARTÍCULO 69. Seguimiento de las metas para los indicadores. El seguimiento al cumplimiento de las metas propuestas para cada uno de los indicadores de servicio y de calidad relacionados en el ANEXO III que hace parte integral de la presente resolución, se hará de acuerdo con la periodicidad que se establezca en el Hoja N° 43 de la Resolución CRA 720 de 2015 \"Por la cual se establec...",
+    "fuente": "...ARTÍCULO 69. SEGUIMIENTO DE LAS METAS PARA LOS INDICADORES. 5.3.2.7.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc..."
    }
   },
   {
    "articulo": "70",
-   "estado": "divergente",
-   "similitud": 0.1605,
-   "corpus": "ARTÍCULO 70. Verificación de cumplimiento de los indicadores. La verificación del cumplimiento se ejercerá sobre los indicadores del servicio en cabeza de la auditorías externas de",
-   "fuente": "ARTÍCULO 70. VERIFICACIÓN DE CUMPLIMIENTO DE LOS INDICADORES. Artículo integrado y unificado en el artículo 5.3.2.7.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo di",
-   "diff": {
-    "corpus": "...TÍCULO 70. Verificación de cumplimiento de los indicadores. La verificación del cumplimiento se ejercerá sobre los indicado...",
-    "fuente": "...TÍCULO 70. VERIFICACIÓN DE CUMPLIMIENTO DE LOS INDICADORES. Artículo integrado y unificado en el artículo 5.3.2.7.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 14 de la Resolución 858 de 2018. El nuevo texto es el siguiente: De conformidad con lo establecido ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "71",
-   "estado": "divergente",
-   "similitud": 0.3524,
-   "corpus": "ARTÍCULO 71. Progresividad en la aplicación de las tarifas. En el evento en el cual las personas prestadoras pertenecientes al segundo segmento apliquen las tarifas resultantes de ",
-   "fuente": "ARTÍCULO 71. PROGRESIVIDAD EN LA APLICACIÓN DE LAS TARIFAS. Artículo integrado y unificado en el artículo 5.3.2.7.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo disp",
-   "diff": {
-    "corpus": "...ARTÍCULO 71. Progresividad en la aplicación de las tarifas. En el evento en el cual las personas prestadoras pertenecien...",
-    "fuente": "...ARTÍCULO 71. PROGRESIVIDAD EN LA APLICACIÓN DE LAS TARIFAS. Artículo integrado y unificado en el artículo 5.3.2.7.5 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 En el evento en el cual las personas prestadoras pertenecien..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "72",
-   "estado": "divergente",
-   "similitud": 0.7857,
-   "corpus": "ARTÍCULO 72. Regulación de la competencia. La Comisión elaborará en un plazo de máximo de un (1) año a partir de la entrada en vigencia de la presente resolución, los proyectos que",
-   "fuente": "ARTÍCULO 72. REGULACIÓN DE LA COMPETENCIA. Artículo integrado y unificado en el artículo 5.3.2.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artí",
-   "diff": {
-    "corpus": "...ARTÍCULO 72. Regulación de la competencia. La Comisión elaborará en un plazo de máximo de un (1) año a...",
-    "fuente": "...ARTÍCULO 72. REGULACIÓN DE LA COMPETENCIA. Artículo integrado y unificado en el artículo 5.3.2.5.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 La Comisión elaborará en un plazo de máximo de un (1) año a..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "73",
-   "estado": "divergente",
-   "similitud": 0.8977,
-   "corpus": "ARTÍCULO 73. Modificación del artículo 1 de la Resolución CRA 351 de 2005. El artículo 1 de la Resolución CRA 351 de 2005 quedará así: \"Artículo 1°. Ámbito de aplicación. La presen",
-   "fuente": "ARTÍCULO 73. MODIFICACIÓN DEL ARTÍCULO 1 DE LA RESOLUCIÓN CRA 351 DE 2005. Consultar vigencia de este artículo directamente en el artículo que modifica El artículo 1 de la Resoluci",
-   "diff": {
-    "corpus": "...dificación del artículo 1 de la Resolución CRA 351 de 2005. El artículo 1 de la Resolución CRA 351 de 2005 quedará así: ...",
-    "fuente": "...DIFICACIÓN DEL ARTÍCULO 1 DE LA RESOLUCIÓN CRA 351 DE 2005. Consultar vigencia de este artículo directamente en el artículo que modifica El artículo 1 de la Resolución CRA 351 de 2005 quedará así: ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "74",
-   "estado": "divergente",
-   "similitud": 0.6551,
-   "corpus": "ARTÍCULO 74. Modificación del artículo 1 de la Resolución CRA 352 de 2005. El artículo 1 de la Resolución CRA 352 de 2005 quedará así: \"Artículo 1°. Ámbito de aplicación. La presen",
-   "fuente": "ARTÍCULO 74. MODIFICACIÓN DEL ARTÍCULO 1 DE LA RESOLUCIÓN CRA 352 DE 2005. Consultar vigencia de este artículo directamente en el artículo que modifica El artículo 1 de la Resoluci",
-   "diff": {
-    "corpus": "...dificación del artículo 1 de la Resolución CRA 352 de 2005. El artículo 1 de la Resolución CRA 352 de 2005 quedará así: ...",
-    "fuente": "...DIFICACIÓN DEL ARTÍCULO 1 DE LA RESOLUCIÓN CRA 352 DE 2005. Consultar vigencia de este artículo directamente en el artículo que modifica El artículo 1 de la Resolución CRA 352 de 2005 quedará así: ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "75",
-   "estado": "divergente",
-   "similitud": 0.9247,
-   "corpus": "ARTÍCULO 75. Modificación del artículo 1 de la Resolución CRA 482 de 2009. El artículo 1 de la Resolución CRA 482 de 2009 quedará así: \"Artículo 1°. Objeto. Establecer la metodolog",
-   "fuente": "ARTÍCULO 75. MODIFICACIÓN DEL ARTÍCULO 1 DE LA RESOLUCIÓN CRA 482 DE 2009. Consultar vigencia de este artículo directamente en el artículo que modifica El artículo 1 de la Resoluci",
-   "diff": {
-    "corpus": "...dificación del artículo 1 de la Resolución CRA 482 de 2009. El artículo 1 de la Resolución CRA 482 de 2009 quedará así: ...",
-    "fuente": "...DIFICACIÓN DEL ARTÍCULO 1 DE LA RESOLUCIÓN CRA 482 DE 2009. Consultar vigencia de este artículo directamente en el artículo que modifica El artículo 1 de la Resolución CRA 482 de 2009 quedará así: ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "76",
-   "estado": "divergente",
-   "similitud": 0.6932,
-   "corpus": "ARTÍCULO 76. Vigencia de la Fórmula Tarifaria. La fórmula tarifaria tendrá una vigencia de cinco (5) años contados a partir del 1° de enero de 2016, fecha a partir de la cual comen",
-   "fuente": "ARTÍCULO 76. VIGENCIA DE LA FÓRMULA TARIFARIA. Artículo integrado y unificado en el artículo 5.3.2.7.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el ",
-   "diff": {
-    "corpus": "...ARTÍCULO 76. Vigencia de la Fórmula Tarifaria. La fórmula tarifaria tendrá una vigencia de cinco (5) años ...",
-    "fuente": "...ARTÍCULO 76. VIGENCIA DE LA FÓRMULA TARIFARIA. Artículo integrado y unificado en el artículo 5.3.2.7.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Artículo modificado por el artículo 1 de la Resolución 751 de 2016. El nuevo texto es el siguiente: La fórmula tarifaria tendrá una vigencia de cinco (5) años ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "77",
-   "estado": "divergente",
-   "similitud": 0.1397,
-   "corpus": "ARTÍCULO 77. Vigencia y derogatorias. La presente Resolución rige a partir de la fecha de su publicación en el Diario Oficial. Parágrafo. Las disposiciones contenidas en la Resoluc",
-   "fuente": "ARTÍCULO 77. VIGENCIA Y DEROGATORIAS. La presente Resolución rige a partir de la fecha de su publicación en el Diario Oficial. PARÁGRAFO. Las disposiciones contenidas en la Resoluc",
-   "diff": null
+   "estado": "ausente_en_fuente"
   }
  ],
  "sin_contraparte": [],
@@ -858,6 +591,6 @@
  "resumen": {
   "exactos": 0,
   "casi": 0,
-  "divergentes": 78
+  "divergentes": 77
  }
 }

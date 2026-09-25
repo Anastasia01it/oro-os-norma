@@ -1,6 +1,6 @@
 {
  "corpus": "RESOLUCION-CRA-151-2001.md",
- "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-151-2001.wayback.txt",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-CRA-151-2001.gestorcra.txt",
  "umbral": 0.98,
  "articulos_corpus": 414,
  "resultados": [
@@ -37,53 +37,46 @@
   },
   {
    "articulo": "1.3.1.3",
-   "estado": "exacto"
+   "estado": "divergente",
+   "similitud": 0.9709,
+   "corpus": "ARTÍCULO 1.3.1.3 PARTICIPACIÓN DE LAS ENTIDADES ESTATALES EN LAS PERSONAS PRESTADORAS DE SERVICIOS PÚBLICOS. Artículo integrado y unificado en el artículo 1.3.3 de la Resolución CR",
+   "fuente": "ARTÍCULO 1.3.1.3 PARTICIPACIÓN DE LAS ENTIDADES ESTATALES EN LAS PERSONAS PRESTADORAS DE SERVICIOS PÚBLICOS. Artículo integrado y unificado en el artículo 1.3.3 de la Resolución CR",
+   "diff": {
+    "corpus": "... y a las causales de la restitución de los bienes aportados....",
+    "fuente": "... y a las causales de la restitución de los bienes aportados. (Content truncated. Fetch a more specific URL or section for the full text.)..."
+   }
   },
   {
    "articulo": "1.3.1.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.1.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.1.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.1.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.1.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.2.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.2.2",
-   "estado": "divergente",
-   "similitud": 0.9773,
-   "corpus": "ARTÍCULO 1.3.2.2 CONTRATOS QUE DEBEN CELEBRARSE POR MEDIO DE LICITACIÓN PÚBLICA. Artículo integrado y unificado en el artículo 1.4.1.2 de la Resolución CRA 943 de 2021. Debe teners",
-   "fuente": "ARTÍCULO 1.3.2.2 CONTRATOS QUE DEBEN CELEBRARSE POR MEDIO DE LICITACIÓN PÚBLICA. Artículo integrado y unificado en el artículo 1.4.1.2 de la Resolución CRA 943 de 2021. Debe teners",
-   "diff": {
-    "corpus": "...ción a otra que entre en causal de disolución o liquidación....",
-    "fuente": "...ción a otra que entre en causal de disolución o liquidación. SECCIÓN 1.3.3. CLÁUSULAS EXORBITANTES O EXCEPCIONALES..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.3.1",
-   "estado": "divergente",
-   "similitud": 0.9632,
-   "corpus": "ARTÍCULO 1.3.3.1 CONTRATOS EN LOS CUALES DEBEN PACTARSE CLÁUSULAS EXCEPCIONALES. Artículo integrado y unificado en el artículo 1.4.3.1 de la Resolución CRA 943 de 2021. Debe teners",
-   "fuente": "ARTÍCULO 1.3.3.1 CONTRATOS EN LOS CUALES DEBEN PACTARSE CLÁUSULAS EXCEPCIONALES. Artículo integrado y unificado en el artículo 1.4.3.1 de la Resolución CRA 943 de 2021. Debe teners",
-   "diff": {
-    "corpus": "...istro y compraventa los que tipifica el Código de Comercio; Jurisprudencia Concordante Consejo de Estado, Sección Tercera, Expediente No. 68001-23-31-000-2005-00914-02(64471) de 19 de junio de 2020, C.P. Dra. Marta Nubia Velásquez Rico. c) En los contratos en los que se entregue total o parcialme...",
-    "fuente": "...istro y compraventa los que tipifica el Código de Comercio; c) En los contratos en los que se entregue total o parcialme..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.3.2",
@@ -91,284 +84,207 @@
   },
   {
    "articulo": "1.3.3.3",
-   "estado": "casi",
-   "similitud": 0.9814,
-   "corpus": "ARTÍCULO 1.3.3.3 AUTORIZACIÓN PARA INCLUIR CLÁUSULAS EXORBITANTES. Artículo integrado y unificado en el artículo 1.4.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo",
-   "fuente": "ARTÍCULO 1.3.3.3 AUTORIZACIÓN PARA INCLUIR CLÁUSULAS EXORBITANTES. Artículo integrado y unificado en el artículo 1.4.3.2 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo",
-   "diff": {
-    "corpus": "...o y/o aseo, en los niveles de calidad y continuidad debidos....",
-    "fuente": "...o y/o aseo, en los niveles de calidad y continuidad debidos. SECCIÓN 1.3.4. PROMOCIÓN DE LA COMPETENCIA..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.10",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.11",
-   "estado": "divergente",
-   "similitud": 0.306,
-   "corpus": "ARTÍCULO 1.3.4.11 ESTABILIDAD REGULATORIA. Artículo integrado y unificado en el artículo 1.12.11 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
-   "fuente": "ARTÍCULO 1.3.4.11 ESTABILIDAD REGULATORIA. Artículo integrado y unificado en el artículo 1.12.11 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
-   "diff": {
-    "corpus": "... normas regulatorias vigentes al momento de su celebración. artículo 3 de la Resolución 789 de 2017, 'or la cual se señalan los estándares de servic...",
-    "fuente": "... normas regulatorias vigentes al momento de su celebración. Por lo anterior, las tarifas y las fórmulas tarifarias sólo podrán ser modificadas cuando se encuentren abusos de posición dominante, violación al principio de la neutralidad o abusos con los usuarios del sistema, también podrá intervenir la Comisión de Regulación de Agua Potable y Saneamiento Básico cuando las personas prestadoras incurran en prácticas restrictivas de la competencia. De conformidad con lo establecido en el parágrafo 1 del Artículo 87 de la Ley 142, las tarifas y las fórmulas tarifarias podrá..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.4.12",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.5.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.5.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.5.3",
-   "estado": "divergente",
-   "similitud": 0.2571,
-   "corpus": "ARTÍCULO 1.3.5.3 CONTRATOS QUE DEBEN CELEBRARSE POR MEDIO DE PROCEDIMIENTOS REGULADOS QUE ESTIMULAN CONCURRENCIA DE OFERENTES. Artículo integrado y unificado en el artículo 1.4.2.2",
-   "fuente": "ARTÍCULO 1.3.5.3 CONTRATOS QUE DEBEN CELEBRARSE POR MEDIO DE PROCEDIMIENTOS REGULADOS QUE ESTIMULAN CONCURRENCIA DE OFERENTES. Artículo integrado y unificado en el artículo 1.4.2.2",
-   "diff": {
-    "corpus": "...sta resolución, para estimular la concurrencia de oferentes:...",
-    "fuente": "...sta resolución, para estimular la concurrencia de oferentes: a. Los contratos de los prestadores de servicios públicos domiciliarios de acueducto, alcantarillado y aseo para la administración profesional de acciones, a los que se refiere el numeral 39.2 del Artículo 39 de la Ley 142 de 1994. b. Los que celebren las personas prestadoras de servicios públicos domiciliarios de acueducto, alcantarillado y aseo con quienes sean sus competidoras. c. Los que celebre una persona prestadora de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo que tiene posición dominante en un mercado, y cuya principal actividad consiste en distribuir bienes provistos por terceros, con un tercero en cuyo capital tenga una participación superior al veinticinco por ciento (25%). d. Todos los que celebren los prestadores de servicios públicos domiciliarios de acueducto, alcantarillado y aseo para plazos superiores a cinco años. e. Literal modificado por el artículo 2 de la Resolución 242 de 2003. El nuevo texto es el siguiente: Los que celebren las entidades territoriales y/o las empresas prestadoras de servicios públicos de acueducto, alcantarillado y/o aseo, con el objeto de asociarse con otras personas para la creación o transformación de personas prestadoras de servicios públicos domiciliarios de acueducto, alcantarillado y/o aseo, con el fin de que la empresa constituida o transformada asuma total o parcialmente la prestación del servicio respectivo y/o administre los bienes destinados de forma directa y exclusiva a la prestación del mismo y/o los ingresos recaudados vía tarifas; y/o los que celebren las empresas prestadoras de servicios públicos de acueducto, alcantarillado y/o aseo con el objeto de transferir la propiedad o el uso y goce de los bienes destinados de forma directa y exclusiva a prestar los servicios públicos, concesiones o similares y puedan cobrar tarifas a los usuarios finales, así como los que tengan por objeto transferir, a cualquier título, la administración de los bienes destinados a la prestación del servicio y/o de los ingresos recaudados vía tarifas. PARÁGRAFO. La emisión de acciones por parte de los prestadores de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo y su suscripción, se regirá por las normas que regulan la oferta pública de valores, cuando se requiera inscripción en el Registro Nacional de Valores. Cuando no se requiera de tal registro, la emisión y suscripción de acciones se regirá por las normas de derecho privado y por las disposiciones especiales contenidas en la Ley 142 de 1994. PARÁGRAFO 2o. Parágrafo NULO..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.5.4",
-   "estado": "divergente",
-   "similitud": 0.5509,
-   "corpus": "ARTÍCULO 1.3.5.4 EXCEPCIONES AL DEBER DE USAR LICITACIÓN PÚBLICA O PROCEDIMIENTOS REGULADOS QUE ESTIMULEN LA CONCURRENCIA DE OFERENTES. Artículo integrado y unificado en el artícul",
-   "fuente": "ARTÍCULO 1.3.5.4 EXCEPCIONES AL DEBER DE USAR LICITACIÓN PÚBLICA O PROCEDIMIENTOS REGULADOS QUE ESTIMULEN LA CONCURRENCIA DE OFERENTES. Artículo integrado y unificado en el artícul",
-   "diff": {
-    "corpus": "...ecnológicas, y arrendamiento o adquisición de inmuebles. c. Aparte tachado NULO Por razón de las circunstancias en las que ha de c...",
-    "fuente": "...ecnológicas, y arrendamiento o adquisición de inmuebles. c. Por razón de las circunstancias en las que ha de celebrarse el contrato. Si hay urgencia manifiesta; pe..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.5.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.5.6",
-   "estado": "divergente",
-   "similitud": 0.8733,
-   "corpus": "ARTÍCULO 1.3.5.6 PROCEDIMIENTOS PARA OTROS CONTRATOS. Artículo integrado y unificado en el artículo 1.4.2.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto po",
-   "fuente": "ARTÍCULO 1.3.5.6 PROCEDIMIENTOS PARA OTROS CONTRATOS. Artículo integrado y unificado en el artículo 1.4.2.4 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto po",
-   "diff": {
-    "corpus": "...encia de eventuales contratistas en igualdad de condiciones. Jurisprudencia Concordante Consejo de Estado, Sección Tercera, Expediente No. 76001-23-33-000-2012-00667-01(52894) de 10 de septiembre de 2021, C.P. Dr. José Roberto Sáchica Méndez....",
-    "fuente": "...encia de eventuales contratistas en igualdad de condiciones...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.5.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.5.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.6.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.6.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.6.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.6.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.6.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.7.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.7.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.7.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.7.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.7.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.7.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.7.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.7.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.7.9",
-   "estado": "divergente",
-   "similitud": 0.8485,
-   "corpus": "ARTÍCULO 1.3.7.9 PRINCIPIOS DE INTERPRETACIÓN. Artículo derogado por el artículo 12 de la Resolución 824 de 2017",
-   "fuente": "ARTÍCULO 1.3.7.9 PRINCIPIOS DE INTERPRETACIÓN. Artículo derogado por el artículo 12 de la Resolución 824 de 2017 SECCIÓN 1.3.8. RÉGIMEN DE INTERCONEXIÓN",
-   "diff": {
-    "corpus": "...ulo derogado por el artículo 12 de la Resolución 824 de 2017...",
-    "fuente": "...ulo derogado por el artículo 12 de la Resolución 824 de 2017 SECCIÓN 1.3.8. RÉGIMEN DE INTERCONEXIÓN..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.8.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.9.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.10.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.10.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.11.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.11.2",
-   "estado": "divergente",
-   "similitud": 0.5234,
-   "corpus": "ARTÍCULO 1.3.11.2 DESTINACIÓN DE LOS RENDIMIENTOS DE LOS APORTES ESTATALES. Artículo derogado por el artículo 2 de la Resolución 943 de 2021",
-   "fuente": "ARTÍCULO 1.3.11.2 DESTINACIÓN DE LOS RENDIMIENTOS DE LOS APORTES ESTATALES. Artículo derogado por el artículo 2 de la Resolución 943 de 2021 SECCIÓN 1.3.12. METODOLOGÍA DE CÁLCULO ",
-   "diff": {
-    "corpus": "...culo derogado por el artículo 2 de la Resolución 943 de 2021...",
-    "fuente": "...culo derogado por el artículo 2 de la Resolución 943 de 2021 SECCIÓN 1.3.12. METODOLOGÍA DE CÁLCULO DE LOS DESCUENTOS EN LAS TARIFAS DE LOS USUARIOS DE ESTRATOS SUBSIDIABLES POR APORTES DE LAS ENTIDADES ESTATALES A LAS PERSONAS PRESTADORAS DE LOS SERVICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO, ALCANTARILLADO Y ASEO..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.12.1",
-   "estado": "casi",
-   "similitud": 0.9841,
-   "corpus": "ARTÍCULO 1.3.12.1 DESTINO DE LOS RENDIMIENTOS DE LOS BIENES ESTATALES APORTADOS BAJO CONDICIÓN. Artículo derogado por el artículo 2 de la Resolución 943 de",
-   "fuente": "ARTÍCULO 1.3.12.1 DESTINO DE LOS RENDIMIENTOS DE LOS BIENES ESTATALES APORTADOS BAJO CONDICIÓN. Artículo derogado por el artículo 2 de la Resolución 943 de 2021",
-   "diff": {
-    "corpus": "... Artículo derogado por el artículo 2 de la Resolución 943 de...",
-    "fuente": "... Artículo derogado por el artículo 2 de la Resolución 943 de 2021..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.12.2",
-   "estado": "divergente",
-   "similitud": 0.2963,
-   "corpus": "ARTÍCULO 1.3.12.2 CÁLCULO DE LOS RENDIMIENTOS NETOS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Dec",
-   "fuente": "ARTÍCULO 1.3.12.2 CÁLCULO DE LOS RENDIMIENTOS NETOS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Dec",
-   "diff": {
-    "corpus": "...etos correspondientes a la entidad estatal se realiza como: Donde: RNEt: r: VRA: VPI: INT: Rendimientos netos esperados ...",
-    "fuente": "...etos correspondientes a la entidad estatal se realiza como: ! Donde: RNEt: Rendimientos netos esperados en el año t de los..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.12.3",
-   "estado": "casi",
-   "similitud": 0.9966,
-   "corpus": "ARTÍCULO 1.3.12.3 CÁLCULO DE LOS RENDIMIENTOS EN LA TARIFA DEL CONSUMO BÁSICO DE LOS ESTRATOS SUBSIDIABLES. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en c",
-   "fuente": "ARTÍCULO 1.3.12.3 CÁLCULO DE LOS RENDIMIENTOS EN LA TARIFA DEL CONSUMO BÁSICO DE LOS ESTRATOS SUBSIDIABLES. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en c",
-   "diff": {
-    "corpus": "...nsumo básico de los estratos subsidiables, se realiza como: Donde: SIi : Subsidio por aportes de Inversión Social para e...",
-    "fuente": "...nsumo básico de los estratos subsidiables, se realiza como: ! Donde: SIi : Subsidio por aportes de Inversión Social para e..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.12.4",
-   "estado": "casi",
-   "similitud": 0.9977,
-   "corpus": "ARTÍCULO 1.3.12.4 DETERMINACIÓN DE LA PARTICIPACIÓN DE CADA GRUPO DE LOS RENDIMIENTOS DE LOS BIENES APORTADOS BAJO CONDICIÓN. Artículo no integrado a la Resolución CRA 943 de 2021.",
-   "fuente": "ARTÍCULO 1.3.12.4 DETERMINACIÓN DE LA PARTICIPACIÓN DE CADA GRUPO DE LOS RENDIMIENTOS DE LOS BIENES APORTADOS BAJO CONDICIÓN. Artículo no integrado a la Resolución CRA 943 de 2021.",
-   "diff": {
-    "corpus": "...os, los valores de los ai se determinarán de forma tal que: Donde: CBp : Total de consumos básicos de los usuarios de es...",
-    "fuente": "...os, los valores de los ai se determinarán de forma tal que: ! Donde: CBp: Total de consumos básicos de los usuarios de est..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.12.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.13.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.13.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.13.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.13.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.13.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "66",
@@ -376,55 +292,27 @@
   },
   {
    "articulo": "1.3.13.6",
-   "estado": "divergente",
-   "similitud": 0.8108,
-   "corpus": "ARTÍCULO 1.3.13.6 BENEFICIARIOS DE LA DEVOLUCIÓN. Sección 1.3.13 derogada por el artículo 5 de la Resolución 294 de 2004",
-   "fuente": "ARTÍCULO 1.3.13.6 BENEFICIARIOS DE LA DEVOLUCIÓN. Sección 1.3.13 derogada por el artículo 5 de la Resolución 294 de 2004 SECCIÓN 1.3.14. COBRO A UNIDADES INMOBILIARIAS CERRADAS",
-   "diff": {
-    "corpus": "...3.13 derogada por el artículo 5 de la Resolución 294 de 2004...",
-    "fuente": "...3.13 derogada por el artículo 5 de la Resolución 294 de 2004 SECCIÓN 1.3.14. COBRO A UNIDADES INMOBILIARIAS CERRADAS..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.14.1",
-   "estado": "divergente",
-   "similitud": 0.5192,
-   "corpus": "ARTÍCULO 1.3.14.1 COBRO A UNIDADES INMOBILIARIAS CERRADAS. Artículo integrado y unificado en el artículo 1.8.4.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispues",
-   "fuente": "ARTÍCULO 1.3.14.1 COBRO A UNIDADES INMOBILIARIAS CERRADAS. Artículo integrado y unificado en el artículo 1.8.4.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispues",
-   "diff": {
-    "corpus": "...de los servicios públicos domiciliarios para cada inmueble. Notas del Editor Debe tenerse en cuenta que la Ley 428 de 1998 fue derogada por la Ley 675 de 2001,...",
-    "fuente": "...de los servicios públicos domiciliarios para cada inmueble. Las personas prestadoras de los servicios públicos domiciliarios elaborarán las facturas para cada inmueble en forma individual. PARÁGRAFO. Las Unidades Inmobiliarias Cerradas que a la fecha de entrada en vigencia de la Ley 428 de 1998..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.14.2",
-   "estado": "divergente",
-   "similitud": 0.6599,
-   "corpus": "ARTÍCULO 1.3.14.2 COBRO DE SERVICIOS PÚBLICOS DOMICILIARIOS DE ZONAS COMUNES DE LAS UNIDADES INMOBILIARIAS CERRADAS. Artículo integrado y unificado en el artículo 1.8.4.2 de la Res",
-   "fuente": "ARTÍCULO 1.3.14.2 COBRO DE SERVICIOS PÚBLICOS DOMICILIARIOS DE ZONAS COMUNES DE LAS UNIDADES INMOBILIARIAS CERRADAS. Artículo integrado y unificado en el artículo 1.8.4.2 de la Res",
-   "diff": {
-    "corpus": "...con lo establecido en el Artículo 38 de la Ley 428 de 1998. Notas del Editor Debe tenerse en cuenta que la Ley 428 de 1998 fue derogada por la Ley 675 de 2001, 'por medio de la cual s...",
-    "fuente": "...con lo establecido en el Artículo 38 de la Ley 428 de 1998. SECCIÓN 1.3.15. APLICACIÓN DE UN MISMO PLAN DE AJUSTE TARIFARIO..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.15.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.16.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.16.2",
-   "estado": "divergente",
-   "similitud": 0.6052,
-   "corpus": "ARTÍCULO 1.3.16.2 CONDICIONES Y OPORTUNIDAD QUE DEBEN CUMPLIR LAS PERSONAS PRESTADORAS. Artículo integrado y unificado en el artículo 1.18.2 de la Resolución CRA 943 de 2021. Debe ",
-   "fuente": "ARTÍCULO 1.3.16.2 CONDICIONES Y OPORTUNIDAD QUE DEBEN CUMPLIR LAS PERSONAS PRESTADORAS. Artículo integrado y unificado en el artículo 1.18.2 de la Resolución CRA 943 de 2021. Debe ",
-   "diff": {
-    "corpus": "...r la provisión financiera prevista por el inciso segundo del...",
-    "fuente": "...r la provisión financiera prevista por el inciso segundo del Artículo 43 de la Ley 142 de 1994. b. Presentación contable de la provisión financiera.- Anualmente cada persona prestadora debe incluir y discriminar en sus estados financieros, debidamente auditados, el valor de las provisiones financieras que realice para atender el pago de las obligaciones pensionales a su cargo y a favor de los mencionados trabajadores. PARÁGRAFO 1. Lo anterior se entiende sin perjuicio de la obligación que, en virtud del ordenamiento jurídico vigente, tiene cada persona prestadora de la realización del cálculo actuarial por concepto de obligaciones pensionales a favor de personas ya pensionadas, de personas retiradas del servicio para la fecha de entrada en vigencia de la Ley 142 de 1994, y de aquellas vinculadas con posterioridad a dicha fecha. PARÁGRAFO 2. Las provisiones que contemple cada persona prestadora deben estar incluidas en las proyecciones financieras que hagan parte de su Plan de Gestión y Resultados, y de su evaluación de viabilidad empresarial...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "43",
@@ -432,262 +320,171 @@
   },
   {
    "articulo": "1.3.16.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.16.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.17.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.17.2",
-   "estado": "divergente",
-   "similitud": 0.8033,
-   "corpus": "ARTÍCULO 1.3.17.2 RECLASIFICACIÓN EN ESTRATOS INFERIORES. Cumplimiento del objeto para el cual fue expedido Para los usuarios de las personas prestadoras de los servicios de Acuedu",
-   "fuente": "ARTÍCULO 1.3.17.2 RECLASIFICACIÓN EN ESTRATOS INFERIORES. Cumplimiento del objeto para el cual fue expedido Para los usuarios de las personas prestadoras de los servicios de Acuedu",
-   "diff": {
-    "corpus": "...estrato, no estarán obligadas a aplicar lo establecido en el...",
-    "fuente": "...estrato, no estarán obligadas a aplicar lo establecido en el Artículo 1.3.17.1 y en el inciso anterior en relación con tales usuarios. El programa de ajuste debió ser comunicado a la Superintendencia de Servicios Públicos Domiciliarios y a la Comisión de Regulación de Agua Potable, antes del 21 de marzo de 1997. SECCIÓN 1.3.18. ESTUDIOS DE FACTIBILIDAD DE PROYECTOS..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.18.1",
-   "estado": "divergente",
-   "similitud": 0.8221,
-   "corpus": "ARTÍCULO 1.3.18.1 NIVEL DE LOS ESTUDIOS DE FACTIBILIDAD DE PROYECTOS. Artículo derogado por el artículo 2 de la Resolución 943 de 2021",
-   "fuente": "ARTÍCULO 1.3.18.1 NIVEL DE LOS ESTUDIOS DE FACTIBILIDAD DE PROYECTOS. Artículo derogado por el artículo 2 de la Resolución 943 de 2021 SECCIÓN 1.3.19. CONTRIBUCIONES DE SOLIDARIDAD",
-   "diff": {
-    "corpus": "...culo derogado por el artículo 2 de la Resolución 943 de 2021...",
-    "fuente": "...culo derogado por el artículo 2 de la Resolución 943 de 2021 SECCIÓN 1.3.19. CONTRIBUCIONES DE SOLIDARIDAD Y SUBSIDIOS..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.19.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.19.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.19.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.19.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.19.5",
-   "estado": "casi",
-   "similitud": 0.9984,
-   "corpus": "ARTÍCULO 1.3.19.5 AJUSTE EN LOS CARGOS FIJOS DE TODOS LOS ESTRATOS Y SECTORES, EN EL CONSUMO BÁSICO DEL SECTOR RESIDENCIAL Y EN SUBSIDIOS. Cumplimiento del objeto para el cual fue ",
-   "fuente": "ARTÍCULO 1.3.19.5 AJUSTE EN LOS CARGOS FIJOS DE TODOS LOS ESTRATOS Y SECTORES, EN EL CONSUMO BÁSICO DEL SECTOR RESIDENCIAL Y EN SUBSIDIOS. Cumplimiento del objeto para el cual fue ",
-   "diff": {
-    "corpus": "... calculado para cada estrato mediante la siguiente fórmula: Donde: i = estratos 1, 2 ó 3 La tarifa mínima a alcanzar a 3...",
-    "fuente": "... calculado para cada estrato mediante la siguiente fórmula: ! Donde: i = estratos 1, 2 ó 3 La tarifa mínima a alcanzar a 3..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.19.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.19.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.19.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.19.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.19.10",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.20.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.20.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.20.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.20.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.20.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.20.6",
-   "estado": "divergente",
-   "similitud": 0.6193,
-   "corpus": "ARTÍCULO 1.3.20.6 DESVIACIONES SIGNIFICATIVAS. Artículo integrado y unificado en el artículo 1.13.1.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
-   "fuente": "ARTÍCULO 1.3.20.6 DESVIACIONES SIGNIFICATIVAS. Artículo integrado y unificado en el artículo 1.13.1.6 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el a",
-   "diff": {
-    "corpus": "...ean mayores a los porcentajes que se señalan a continuación:...",
-    "fuente": "...ean mayores a los porcentajes que se señalan a continuación: a. Treinta y cinco por ciento (35%) para usuarios con un promedio de consumo mayor o igual a cuarenta metros cúbicos (40m3). b. Sesenta y cinco por ciento (65%) para usuarios con un promedio de consumo menor a cuarenta metros cúbicos (40m3). c. Para las instalaciones nuevas y las antiguas sin consumos históricos válidos, el límite superior será 1.65 veces el consumo promedio para el estrato o categoría de consumo y el límite inferior será 0.35 multiplicado por dicho consumo promedio. Si el consumo llegara a encontrarse por fuera de estos límites, se entenderá que existe una desviación significativa. PARÁGRAFO. En zonas donde exista estacionalidad en el consumo, la comparación del consumo a la que se refiere este artículo, podrá realizarse con el mismo mes del año inmediatamente anterior...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.20.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.20.8",
-   "estado": "divergente",
-   "similitud": 0.6849,
-   "corpus": "ARTÍCULO 1.3.20.8 RECONEXIÓN O REINSTALACIÓN DEL SERVICIO. Artículo integrado y unificado en el artículo 1.13.1.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispue",
-   "fuente": "ARTÍCULO 1.3.20.8 RECONEXIÓN O REINSTALACIÓN DEL SERVICIO. Artículo integrado y unificado en el artículo 1.13.1.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispue",
-   "diff": {
-    "corpus": "...zo las demás sanciones impuestas por la persona prestadora. Notas del Editor En criterio del editor para la interpretación de este artículo debe tenerse en cuenta lo dispuesto por el artículo 42 del Decreto 19 de 2012, 'por el cual se dictan normas para...",
-    "fuente": "...zo las demás sanciones impuestas por la persona prestadora. SECCIÓN 1.3.21. ENTREGA DE FACTURAS DE ACUEDUCTO Y ALCANTARILLADO..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.21.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.21.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.21.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.21.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.21.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.22.1",
-   "estado": "divergente",
-   "similitud": 0.092,
-   "corpus": "ARTÍCULO 1.3.22.1 CONDICIONES DEL CONVENIO DE FACTURACIÓN CONJUNTA. Artículo integrado y unificado en el artículo 1.11.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta ",
-   "fuente": "ARTÍCULO 1.3.22.1 CONDICIONES DEL CONVENIO DE FACTURACIÓN CONJUNTA. Artículo integrado y unificado en el artículo 1.11.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta ",
-   "diff": {
-    "corpus": "...nta deben contener, como mínimo, las siguientes condiciones:...",
-    "fuente": "...nta deben contener, como mínimo, las siguientes condiciones: a. Determinación del ámbito de prestación del servicio de facturación conjunta: En el convenio debe quedar claramente estipulado el alcance de la obligación de facturación conjunta, en los términos de las secciones 1.3.22 y 1.3.23 de esta resolución. b. Catastro de usuarios: Es la relación de los usuarios, con sus datos identificadores para los efectos de la facturación. c. Usuarios Especiales: Son los que estén dentro del catastro de usuarios del solicitante, pero no se encuentren dentro del catastro de usuarios del concedente. d. Delimitación del objeto del convenio: En el convenio debe quedar claramente especificado su objeto exclusivo referido a las actividades de vinculación, facturación conjunta, recuperación de cartera y modificación por novedades. e. Información de la persona prestadora solicitante: El convenio incluirá un cronograma de entregas de la información para la facturación de la persona prestadora solicitante a la persona prestadora concedente. Cuando la empresa concedente no reciba oportunamente la información en los medios y fechas convenidas, ella estará facultada para elaborar la facturación con base en los registros del periodo de facturación inmediatamente anterior. f. Características de la factura: El convenio debe ceñirse, en cuanto a los requisitos de la factura, a lo dispuesto en los Artículos 147 y 148 de la Ley 142 de 1994 y el Artículo 11 del Decreto 1842 de 1991 y normas concordantes. g. Recaudos: En el convenio deberá quedar claramente estipulado el mecanismo de recaudo. El recaudo podrá hacerse por medio de una entidad financiera, de tal forma que se efectúe en cuentas separadas o, en su defecto, en las cajas de la persona prestadora concedente. En todo caso, la persona prestadora solicitante debe someterse a los convenios suscritos entre la persona prestadora concedente y las entidades financieras. h. Recuperación de cartera: Los montos de los recaudos parciales o totales por concepto de la gestión de recuperación de cartera morosa, se distribuirán proporcionalmente para cada servicio de acuerdo con su participación en el valor total de la factura recaudada. i. Costos de recuperación de cartera: En el convenio se establecerá claramente la distribución de los costos de los programas de recuperación de cartera de los que directamente se beneficie la persona prestadora solicitante y que, preferentemente, se estimarán a prorrata de los montos recuperados de la cartera morosa. j. Pago independiente: En el convenio quedará estipulado el mecanismo por el cual el usuario pueda realizar el pago en forma independiente, cuando se suscite petición, queja o recurso debidamente interpuesto ante alguna de las personas prestadoras que lo suscriben. k. Giros: Cuando el recaudo de la facturación se efectúe en las cajas de la persona prestadora concedente, en el convenio debe establecerse con precisión las fechas de los cortes de cuentas en las que se determinen las sumas efectivamente recaudadas que por concepto de recaudo girará la persona prestadora concedente a la solicitante de acuerdo al recaudo efectivamente realizado. La persona prestadora concedente dispondrá de un plazo máximo de veinte (20) días calendario para realizar el giro a la cuenta de la persona prestadora solicitante. l. Mora en el giro: Pasado el término del numeral anterior, la persona prestadora concedente reconocerá intereses de mora sobre las sumas efectivamente recaudadas y pendientes de giro a la persona prestadora solicitante que en cualquier caso, no serán inferiores al interés corriente, certificado por la Superintendencia Bancaria, vigente al momento del vencimiento del plazo para el giro. m. Ciclos de facturación: En el convenio se estipularán los ciclos de facturación de la persona prestadora concedente a los cuales se sujetará la persona prestadora solicitante. n. Pago por el servicio de facturación conjunta: En el convenio se estipularán las condiciones de pago por parte de la persona prestadora solicitante, así como las sanciones en caso de mora. ñ. Garantías y legalización: Los costos de legalización del convenio de facturación conjunta, así como el costo de las garantías a que haya lugar, serán sufragados en su totalidad por la persona prestadora solicitante. o. Duración: En el convenio de facturación conjunta se fijará la duración, la cual será de tres (3) años, salvo que las partes acuerden un plazo diferente. p. Acuerdos de pago: Cuando como consecuencia de la mora en el pago por parte del usuario de los servicios sea necesario establecer acuerdos de pago, prevalecerán las condiciones que otorgue la persona prestadora concedente del convenio de facturación conjunta al usuario moroso. Las condiciones que otorgue la persona prestadora solicitante al usuario moroso, serán por lo menos iguales en plazo y forma de pago a las que otorgue la persona prestadora concedente, salvo expresa renuncia del usuario. Cada persona prestadora definirá en su acuerdo de pago las garantías que según la ley considere pertinentes para asegurar el recaudo de la cartera morosa. q. Literal adicionado por el artículo 1 de la Resolución 422 de 2007. El nuevo texto es el siguiente: Obligaciones adicionales: la persona prestadora solicitante que tenga intención de suscribir convenio de facturación conjunta, deberá presentar, ante la potencial persona prestadora concedente, lo siguiente: 1. Una descripción de los componentes integrantes del servicio y de sus actividades complementarias, que solicita sean objeto de la facturación conjunta. 2. En los términos del literal b), del presente artículo, debe presentarse el catastro actualizado de usuarios, indicando los principales elementos que lo estructuran, permitiendo identificar individualmente la base de datos de sus usuarios, estrato socioeconómico, clase de uso del servicio y área de prestación en la cual se presta el respectivo servicio. En caso de no contarse con la información anterior, la persona prestadora solicitante pedirá a la persona prestadora concedente la misma, asumiendo los costos que se puedan generar. 3. Una descripción de los registros de impresión requeridos para la adecuada facturación del servicio de saneamiento cuya facturación conjunta se solicita, entendidos estos, como los espacios dentro de la factura que se requieren para tal efecto, especificando cuáles son los registros mínimos y los adicionales que el solicitante requiera, siempre y cuando sean inherentes a la prestación del servicio. 4. Una descripción de los reportes que requerirá de la potencial persona prestadora concedente, indicando las necesidades de contenido y periodicidad, así como las actividades de procesamiento y distribución, requeridas para el servicio objeto de facturación conjunta...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.22.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.22.3",
-   "estado": "divergente",
-   "similitud": 0.9362,
-   "corpus": "ARTÍCULO 1.3.22.3. SOLICITUD DEL SERVICIO DE FACTURACIÓN CONJUNTA. Artículo integrado y unificado en el artículo 1.11.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
-   "fuente": "ARTÍCULO 1.3.22.3. SOLICITUD DEL SERVICIO DE FACTURACIÓN CONJUNTA. Artículo integrado y unificado en el artículo 1.11.1.3 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
-   "diff": {
-    "corpus": "...dimiento Administrativo y de lo Contencioso Administrativo. Jurisprudencia Concordante Consejo de Estado, Sección Primera, Expediente No. 11001-03-24-000-2014-00201-00 de 18 de septiembre de 2025, C.P. Dr. Germán Eduardo Osorio Cifuentes. PARÁGRAFO. Reporte de Información. En ningún caso, la suscri...",
-    "fuente": "...dimiento Administrativo y de lo Contencioso Administrativo. PARÁGRAFO. Reporte de Información. En ningún caso, la suscri..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.23.1",
-   "estado": "divergente",
-   "similitud": 0.9031,
-   "corpus": "ARTÍCULO 1.3.23.1 CÁLCULO DE COSTOS. Artículo integrado y unificado en el artículo 1.11.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.",
-   "fuente": "ARTÍCULO 1.3.23.1 CÁLCULO DE COSTOS. Artículo integrado y unificado en el artículo 1.11.2.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.",
-   "diff": {
-    "corpus": "...miento de sus funciones de inspección, vigilancia y control. Jurisprudencia Concordante Consejo de Estado, Sección Primera, Expediente No. 11001-03-24-000-2016-00526-00 de 2 de mayo de 2025, C.P. Dr. Oswaldo Giraldo López....",
-    "fuente": "...miento de sus funciones de inspección, vigilancia y control...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.23.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.23.3",
-   "estado": "casi",
-   "similitud": 0.9808,
-   "corpus": "ARTÍCULO 1.3.23.3 CÁLCULO DE COSTOS CORRESPONDIENTES A CADA CICLO DE FACTURACIÓN CONJUNTA. Artículo integrado y unificado en el artículo 1.11.2.3 de la Resolución CRA 943 de 2021. ",
-   "fuente": "ARTÍCULO 1.3.23.3 CÁLCULO DE COSTOS CORRESPONDIENTES A CADA CICLO DE FACTURACIÓN CONJUNTA. Artículo integrado y unificado en el artículo 1.11.2.3 de la Resolución CRA 943 de 2021. ",
-   "diff": {
-    "corpus": "...or ciento(0%) Mayor o igual al cincuenta por ciento (50%) y Uno por ciento (1%) menor del cincuenta y cinco por ciento (55%) Mayor o igual a...",
-    "fuente": "...or ciento(0%) Mayor o igual al cincuenta por ciento (50%) y menor del cincuenta y cinco por ciento (55%) Uno por ciento ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.23.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.23.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.23.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.23.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.23.8",
-   "estado": "divergente",
-   "similitud": 0.6396,
-   "corpus": "ARTÍCULO 1.3.23.8 MODELO DE CÁLCULO. Artículo integrado y unificado en el artículo 1.11.2.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.",
-   "fuente": "ARTÍCULO 1.3.23.8 MODELO DE CÁLCULO. Artículo integrado y unificado en el artículo 1.11.2.8 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.",
-   "diff": {
-    "corpus": "...tos en el Convenio (Anexo 1). SECCIÓN 1.3.24. ENTE REGULADOR Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...tos en el Convenio (Anexo 1). SECCIÓN 1.3.24. ENTE REGULADOR..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.24.1",
-   "estado": "divergente",
-   "similitud": 0.639,
-   "corpus": "ARTÍCULO 1.3.24.1 DELEGACIÓN DE FUNCIONES. Ver Notas del Editor De conformidad con el Decreto 1524 de 1994 las funciones del Presidente de la República, a las que se refieren el Ar",
-   "fuente": "ARTÍCULO 1.3.24.1 DELEGACIÓN DE FUNCIONES. Ver Notas del Editor De conformidad con el Decreto 1524 de 1994 las funciones del Presidente de la República, a las que se refieren el Ar",
-   "diff": {
-    "corpus": "...ación de Agua Potable y Saneamiento Básico que crea esa Ley. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...ación de Agua Potable y Saneamiento Básico que crea esa Ley...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.24.2",
-   "estado": "divergente",
-   "similitud": 0.6417,
-   "corpus": "ARTÍCULO 1.3.24.2 RESPONSABILIDAD Y ALCANCE DE LA DELEGACIÓN. Ver Notas del Editor La delegación de funciones a que se refiere el Decreto 1524 de 1994 exime de responsabilidad al P",
-   "fuente": "ARTÍCULO 1.3.24.2 RESPONSABILIDAD Y ALCANCE DE LA DELEGACIÓN. Ver Notas del Editor La delegación de funciones a que se refiere el Decreto 1524 de 1994 exime de responsabilidad al P",
-   "diff": {
-    "corpus": "... el Presidente, reasumiendo la responsabilidad consiguiente. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "... el Presidente, reasumiendo la responsabilidad consiguiente...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.24.3",
-   "estado": "divergente",
-   "similitud": 0.6029,
-   "corpus": "ARTÍCULO 1.3.24.3 RECURSOS. Ver Notas del Editor De acuerdo con lo dispuesto en el",
-   "fuente": "ARTÍCULO 1.3.24.3 RECURSOS. Ver Notas del Editor De acuerdo con lo dispuesto en el Artículo 113 de la Ley 142 de 1994, contra los actos de las Comisiones sólo cabrá el recurso de r",
-   "diff": {
-    "corpus": "...RSOS. Ver Notas del Editor De acuerdo con lo dispuesto en el...",
-    "fuente": "...RSOS. Ver Notas del Editor De acuerdo con lo dispuesto en el Artículo 113 de la Ley 142 de 1994, contra los actos de las Comisiones sólo cabrá el recurso de reposición...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "113",
@@ -695,234 +492,87 @@
   },
   {
    "articulo": "1.3.24.4",
-   "estado": "divergente",
-   "similitud": 0.6243,
-   "corpus": "ARTÍCULO 1.3.24.4 REGLAMENTO INTERNO. Ver Notas del Editor De conformidad con el Artículo 5 del Decreto 2474 de 1999 corresponde a la Comisión de Regulación de Agua Potable y Sanea",
-   "fuente": "ARTÍCULO 1.3.24.4 REGLAMENTO INTERNO. Ver Notas del Editor De conformidad con el Artículo 5 del Decreto 2474 de 1999 corresponde a la Comisión de Regulación de Agua Potable y Sanea",
-   "diff": {
-    "corpus": "...tor Ejecutivo de entre los expertos de dedicación exclusiva. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...tor Ejecutivo de entre los expertos de dedicación exclusiva...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.24.5",
-   "estado": "divergente",
-   "similitud": 0.5234,
-   "corpus": "ARTÍCULO 1.3.24.5 APLICACIÓN DE PERIODOS. Ver Notas del Editor De conformidad con el Artículo 7 del Decreto 2474 de 1999, los períodos contemplados en el mencionado Decreto rigen p",
-   "fuente": "ARTÍCULO 1.3.24.5 APLICACIÓN DE PERIODOS. Ver Notas del Editor De conformidad con el Artículo 7 del Decreto 2474 de 1999, los períodos contemplados en el mencionado Decreto rigen p",
-   "diff": {
-    "corpus": "...an nombrados a partir de la fecha de su entrada en vigencia. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...an nombrados a partir de la fecha de su entrada en vigencia...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.24.6",
-   "estado": "divergente",
-   "similitud": 0.712,
-   "corpus": "ARTÍCULO 1.3.24.6 FUNCIONES DE LA COMISIÓN DE REGULACIÓN DE AGUA POTABLE Y SANEAMIENTO BÁSICO. Ver Notas del Editor La Comisión tiene atribuidas las funciones y facultades establec",
-   "fuente": "ARTÍCULO 1.3.24.6 FUNCIONES DE LA COMISIÓN DE REGULACIÓN DE AGUA POTABLE Y SANEAMIENTO BÁSICO. Ver Notas del Editor La Comisión tiene atribuidas las funciones y facultades establec",
-   "diff": {
-    "corpus": "...s directrices y criterios para la elaboración de los mismos. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...s directrices y criterios para la elaboración de los mismos...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.24.7",
-   "estado": "divergente",
-   "similitud": 0.9054,
-   "corpus": "ARTÍCULO 1.3.24.7 INDEPENDENCIA ADMINISTRATIVA, TÉCNICA Y PATRIMONIAL. Ver Notas del Editor De conformidad con la Ley y dentro del ámbito de las delegaciones que a ella haga el Pre",
-   "fuente": "ARTÍCULO 1.3.24.7 INDEPENDENCIA ADMINISTRATIVA, TÉCNICA Y PATRIMONIAL. Ver Notas del Editor De conformidad con la Ley y dentro del ámbito de las delegaciones que a ella haga el Pre",
-   "diff": {
-    "corpus": "...e bienes se podrá realizar a través del contrato de fiducia. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...e bienes se podrá realizar a través del contrato de fiducia...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.24.8",
-   "estado": "divergente",
-   "similitud": 0.5626,
-   "corpus": "ARTÍCULO 1.3.24.8 ESTRUCTURA ORGÁNICA. Ver Notas del Editor Para el cumplimiento de las funciones asignadas, la Comisión tendrá la estructura orgánica establecida en el Artículo 70",
-   "fuente": "ARTÍCULO 1.3.24.8 ESTRUCTURA ORGÁNICA. Ver Notas del Editor Para el cumplimiento de las funciones asignadas, la Comisión tendrá la estructura orgánica establecida en el Artículo 70",
-   "diff": {
-    "corpus": "...sonal, según reglamentación que expida el Gobierno Nacional. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...sonal, según reglamentación que expida el Gobierno Nacional...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.24.9",
-   "estado": "divergente",
-   "similitud": 0.7978,
-   "corpus": "ARTÍCULO 1.3.24.9 COMPOSICIÓN. Ver Notas del Editor La Comisión estará integrada en la forma prevista en el Artículo 1 del Decreto 2474 de 1999, así: a. El Ministro de Desarrollo E",
-   "fuente": "ARTÍCULO 1.3.24.9 COMPOSICIÓN. Ver Notas del Editor La Comisión estará integrada en la forma prevista en el Artículo 1 del Decreto 2474 de 1999, así: a. El Ministro de Desarrollo E",
-   "diff": {
-    "corpus": "...Planeación podrá delegar su participación en el Subdirector. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...Planeación podrá delegar su participación en el Subdirector...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.24.10",
-   "estado": "divergente",
-   "similitud": 0.6357,
-   "corpus": "ARTÍCULO 1.3.24.10 FUNCIONES DEL PRESIDENTE DE LA COMISIÓN. Ver Notas del Editor El Presidente de la Comisión ejercerá las siguientes funciones: a. Suscribir las resoluciones y act",
-   "fuente": "ARTÍCULO 1.3.24.10 FUNCIONES DEL PRESIDENTE DE LA COMISIÓN. Ver Notas del Editor El Presidente de la Comisión ejercerá las siguientes funciones: a. Suscribir las resoluciones y act",
-   "diff": {
-    "corpus": "...iones de servicio al exterior de los Expertos Comisionados. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución. SECCIÓN 1.3.25. SESIONES, ACTOS, RECURSOS Y PROCEDIMIENTOS...",
-    "fuente": "...iones de servicio al exterior de los Expertos Comisionados. SECCIÓN 1.3.25. SESIONES, ACTOS, RECURSOS Y PROCEDIMIENTOS..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.1",
-   "estado": "divergente",
-   "similitud": 0.4563,
-   "corpus": "ARTÍCULO 1.3.25.1 SESIONES. Ver Notas del Editor La Comisión sesionará en forma ordinaria por lo menos una vez al mes. También podrá sesionar en forma extraordinaria a solicitud de",
-   "fuente": "ARTÍCULO 1.3.25.1 SESIONES. Ver Notas del Editor La Comisión sesionará en forma ordinaria por lo menos una vez al mes. También podrá sesionar en forma extraordinaria a solicitud de",
-   "diff": {
-    "corpus": "... en forma extraordinaria a solicitud de uno de sus miembros. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "... en forma extraordinaria a solicitud de uno de sus miembros...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.2",
-   "estado": "divergente",
-   "similitud": 0.5846,
-   "corpus": "ARTÍCULO 1.3.25.2 CITACIONES A COMISIÓN. Ver Notas del Editor El Director Ejecutivo realizara la citación para cada sesión de la Comisión. La citación para las sesiones ordinarias ",
-   "fuente": "ARTÍCULO 1.3.25.2 CITACIONES A COMISIÓN. Ver Notas del Editor El Director Ejecutivo realizara la citación para cada sesión de la Comisión. La citación para las sesiones ordinarias ",
-   "diff": {
-    "corpus": "...unicación escrita, en la cual se informará el orden del día. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...unicación escrita, en la cual se informará el orden del día...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.3",
-   "estado": "divergente",
-   "similitud": 0.7868,
-   "corpus": "ARTÍCULO 1.3.25.3 QUÓRUM DELIBERATORIO Y DECISORIO. Ver Notas del Editor La Comisión podrá deliberar y decidir validamente con la presencia como mínimo de cinco (5) de sus miembros",
-   "fuente": "ARTÍCULO 1.3.25.3 QUÓRUM DELIBERATORIO Y DECISORIO. Ver Notas del Editor La Comisión podrá deliberar y decidir validamente con la presencia como mínimo de cinco (5) de sus miembros",
-   "diff": {
-    "corpus": "... caso en el cual el texto se incluirá en el acta respectiva. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "... caso en el cual el texto se incluirá en el acta respectiva...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.4",
-   "estado": "divergente",
-   "similitud": 0.5824,
-   "corpus": "ARTÍCULO 1.3.25.4 ASISTENCIA DE INVITADOS. Ver Notas del Editor Tanto el Presidente de la Comisión como el Director Ejecutivo, por iniciativa propia o a solicitud de algún otro mie",
-   "fuente": "ARTÍCULO 1.3.25.4 ASISTENCIA DE INVITADOS. Ver Notas del Editor Tanto el Presidente de la Comisión como el Director Ejecutivo, por iniciativa propia o a solicitud de algún otro mie",
-   "diff": {
-    "corpus": "...n voz pero sin voto, para la discusión de temas específicos. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...n voz pero sin voto, para la discusión de temas específicos...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.5",
-   "estado": "divergente",
-   "similitud": 0.6591,
-   "corpus": "ARTÍCULO 1.3.25.5 DOCUMENTOS PARA LA COMISIÓN. Ver Notas del Editor Las deliberaciones de la Comisión se realizarán con base en documentos presentados por los Expertos, que contend",
-   "fuente": "ARTÍCULO 1.3.25.5 DOCUMENTOS PARA LA COMISIÓN. Ver Notas del Editor Las deliberaciones de la Comisión se realizarán con base en documentos presentados por los Expertos, que contend",
-   "diff": {
-    "corpus": "...dentro del orden del día a solicitud de uno de sus miembros. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...dentro del orden del día a solicitud de uno de sus miembros...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.6",
-   "estado": "divergente",
-   "similitud": 0.7255,
-   "corpus": "ARTÍCULO 1.3.25.6 ACTAS. Ver Notas del Editor De cada sesión de la Comisión se levantará un acta que será suscrita por el Presidente y por el Director Ejecutivo. Las actas tendrán ",
-   "fuente": "ARTÍCULO 1.3.25.6 ACTAS. Ver Notas del Editor De cada sesión de la Comisión se levantará un acta que será suscrita por el Presidente y por el Director Ejecutivo. Las actas tendrán ",
-   "diff": {
-    "corpus": "...ado de la elaboración y trámite de las actas de la Comisión. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...ado de la elaboración y trámite de las actas de la Comisión...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.7",
-   "estado": "divergente",
-   "similitud": 0.5299,
-   "corpus": "ARTÍCULO 1.3.25.7 VOCERÍA DE LA COMISIÓN. Ver Notas del Editor La Vocería de las decisiones de la Comisión estará en cabeza del Presidente de la Comisión y del Director Ejecutivo. ",
-   "fuente": "ARTÍCULO 1.3.25.7 VOCERÍA DE LA COMISIÓN. Ver Notas del Editor La Vocería de las decisiones de la Comisión estará en cabeza del Presidente de la Comisión y del Director Ejecutivo. ",
-   "diff": {
-    "corpus": "...es esta función podrá encomendarse a alguno de sus miembros. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...es esta función podrá encomendarse a alguno de sus miembros...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.8",
-   "estado": "divergente",
-   "similitud": 0.7034,
-   "corpus": "ARTÍCULO 1.3.25.8 DECISIONES. Ver Notas del Editor Las decisiones de la Comisión se comunicarán por medio de resoluciones y oficios que tendrán numeración consecutiva. Las resoluci",
-   "fuente": "ARTÍCULO 1.3.25.8 DECISIONES. Ver Notas del Editor Las decisiones de la Comisión se comunicarán por medio de resoluciones y oficios que tendrán numeración consecutiva. Las resoluci",
-   "diff": {
-    "corpus": "...á en cada caso la forma que debe adoptar la decisión tomada. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...á en cada caso la forma que debe adoptar la decisión tomada...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.9",
-   "estado": "divergente",
-   "similitud": 0.5234,
-   "corpus": "ARTÍCULO 1.3.25.9 PROCEDIMIENTOS ADMINISTRATIVOS. Ver Notas del Editor En aquellos casos en que corresponda a la Comisión expedir actos administrativos, la Comisión se sujetará al ",
-   "fuente": "ARTÍCULO 1.3.25.9 PROCEDIMIENTOS ADMINISTRATIVOS. Ver Notas del Editor En aquellos casos en que corresponda a la Comisión expedir actos administrativos, la Comisión se sujetará al ",
-   "diff": {
-    "corpus": "...do en el Capitulo II, del Titulo VII, de la Ley 142 de 1994. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...do en el Capitulo II, del Titulo VII, de la Ley 142 de 1994...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.10",
-   "estado": "divergente",
-   "similitud": 0.5569,
-   "corpus": "ARTÍCULO 1.3.25.10 RECURSOS CONTRA LOS ACTOS DE LA COMISIÓN. Ver Notas del Editor Contra los actos de la Comisión de carácter particular, sólo procede el Recurso de Reposición que ",
-   "fuente": "ARTÍCULO 1.3.25.10 RECURSOS CONTRA LOS ACTOS DE LA COMISIÓN. Ver Notas del Editor Contra los actos de la Comisión de carácter particular, sólo procede el Recurso de Reposición que ",
-   "diff": {
-    "corpus": "...igo Contencioso Administrativo y en las normas concordantes. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...igo Contencioso Administrativo y en las normas concordantes...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.11",
-   "estado": "divergente",
-   "similitud": 0.5363,
-   "corpus": "ARTÍCULO 1.3.25.11 PROCEDIMIENTO PARA LA DESIGNACIÓN DE PERITOS. Ver Notas del Editor En los eventos determinados por la Ley 142 de 1994, cuando la Comisión deba nombrar peritos, s",
-   "fuente": "ARTÍCULO 1.3.25.11 PROCEDIMIENTO PARA LA DESIGNACIÓN DE PERITOS. Ver Notas del Editor En los eventos determinados por la Ley 142 de 1994, cuando la Comisión deba nombrar peritos, s",
-   "diff": {
-    "corpus": "...ítulo V, del Titulo XIII, del Código de Procedimiento Civil. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "...ítulo V, del Titulo XIII, del Código de Procedimiento Civil...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.25.12",
-   "estado": "divergente",
-   "similitud": 0.6427,
-   "corpus": "ARTÍCULO 1.3.25.12 PROCEDIMIENTO PARA EL TRÁMITE DE PETICIONES Y SOLICITUDES. Ver Notas del Editor El trámite de las peticiones y solicitudes formuladas a la Comisión será el estab",
-   "fuente": "ARTÍCULO 1.3.25.12 PROCEDIMIENTO PARA EL TRÁMITE DE PETICIONES Y SOLICITUDES. Ver Notas del Editor El trámite de las peticiones y solicitudes formuladas a la Comisión será el estab",
-   "diff": {
-    "corpus": "... a la Coordinación Ejecutiva para que proceda a su trámite. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos ...",
-    "fuente": "... a la Coordinación Ejecutiva para que proceda a su trámite. SECCIÓN 1.3.26. PRESUPUESTO..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.26.1",
-   "estado": "divergente",
-   "similitud": 0.6808,
-   "corpus": "ARTÍCULO 1.3.26.1 El manejo de los recursos presupuestales de la Comisión se sujetará a lo establecido en las Normas Orgánicas del Presupuesto General de la Nación.",
-   "fuente": "ARTÍCULO 1.3.26.1 RÉGIMEN PRESUPUESTAL. Ver Notas del Editor Artículo aclarado por el artículo 2 de la Resolución CRA 162 de 2001. El nuevo texto es el siguiente: El manejo de los ",
-   "diff": {
-    "corpus": "...ARTÍCULO 1.3.26.1 El manejo de los recursos presupuestales de la Comisión se suje...",
-    "fuente": "...ARTÍCULO 1.3.26.1 RÉGIMEN PRESUPUESTAL. Ver Notas del Editor Artículo aclarado por..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.26.2",
-   "estado": "divergente",
-   "similitud": 0.754,
-   "corpus": "ARTÍCULO 1.3.26.2 INGRESOS. Ver Notas del Editor Artículo aclarado por el artículo 2 de la Resolución CRA 162 de 2001. El nuevo texto es el siguiente: Los ingresos de la Comisión e",
-   "fuente": "ARTÍCULO 1.3.26.2 INGRESOS. Ver Notas del Editor Artículo aclarado por el artículo 2 de la Resolución CRA 162 de 2001. El nuevo texto es el siguiente: Los ingresos de la Comisión e",
-   "diff": {
-    "corpus": "... primeros años, dentro del Presupuesto General de la Nación. Notas del Editor En criterio del Editor, para la interpretación de esta Sección, debe tenerse en cuenta el Decreto 2882 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'por el cual se aprueban los estatutos y el Reglamento de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. El artículo 39 de la Resolución 414 de 2006 que aprueba, deroga la Resolución 126 de 2006, resolución que habia sido incorporada en la presente resolución....",
-    "fuente": "... primeros años, dentro del Presupuesto General de la Nación...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "85",
@@ -930,259 +580,147 @@
   },
   {
    "articulo": "1.3.26.3",
-   "estado": "divergente",
-   "similitud": 0.7024,
-   "corpus": "ARTÍCULO 1.3.26.3 El ordenador del gasto y del pago de la Comisión será el Director Ejecutivo, quien podrá realizar los actos y contratos necesarios para el adecuado funcionamiento",
-   "fuente": "ARTÍCULO 1.3.26.3 ORDENADOR DEL GASTO Y DEL PAGO. Ver Notas del Editor Artículo aclarado por el artículo 2 de la Resolución CRA 162 de 2001. El nuevo texto es el siguiente: El orde",
-   "diff": {
-    "corpus": "...ARTÍCULO 1.3.26.3 El ordenador del gasto y del pago de la Comisión será el Direct...",
-    "fuente": "...ARTÍCULO 1.3.26.3 ORDENADOR DEL GASTO Y DEL PAGO. Ver Notas del Editor Artícul..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.26.4",
-   "estado": "divergente",
-   "similitud": 0.8478,
-   "corpus": "ARTÍCULO 1.3.26.4 Conforme a la autorización contenida en el Artículo 72 de la Ley 142 de 1994, la Comisión podrá manejar sus recursos, si lo considera conveniente, a través de con",
-   "fuente": "ARTÍCULO 1.3.26.4 CONTRATO DE FIDUCIA. Ver Notas del Editor Artículo aclarado por el artículo 2 de la Resolución CRA 162 de 2001. El nuevo texto es el siguiente: Conforme a la auto",
-   "diff": {
-    "corpus": "...ARTÍCULO 1.3.26.4 Conforme a la autorización contenida en el Artículo 72 de la Le...",
-    "fuente": "...ARTÍCULO 1.3.26.4 CONTRATO DE FIDUCIA. Ver Notas del Editor Artículo aclarado por el artículo 2 de la Resolución CRA 162 de 2001. El nuevo texto es el siguiente: Conforme a la autorización contenida en el artículo 72 de la Le..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.26.5",
-   "estado": "divergente",
-   "similitud": 0.8727,
-   "corpus": "ARTÍCULO 1.3.26.5 La Comisión realizará publicaciones periódicas relacionadas con los asuntos de su competencia. La dirección y coordinación de las publicaciones estará a cargo del",
-   "fuente": "ARTÍCULO 1.3.26.5 PUBLICACIONES. Ver Notas del Editor Artículo aclarado por el artículo 2 de la Resolución CRA 162 de 2001. El nuevo texto es el siguiente: La Comisión realizará pu",
-   "diff": {
-    "corpus": "...ARTÍCULO 1.3.26.5 La Comisión realizará publicaciones periódicas relacionadas ...",
-    "fuente": "...ARTÍCULO 1.3.26.5 PUBLICACIONES. Ver Notas del Editor Artículo aclarado por el artículo 2 de la Resolución CRA 162 de 2001. El nuevo texto es el siguiente: La Comisión realizará publicaciones periódicas relacionadas ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.27.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.27.2",
-   "estado": "divergente",
-   "similitud": 0.9118,
-   "corpus": "ARTÍCULO 1.3.27.2 COMITÉ DE EXPERTOS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 20",
-   "fuente": "ARTÍCULO 1.3.27.2 COMITÉ DE EXPERTOS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 20",
-   "diff": {
-    "corpus": "...omisión. l. Las demás que le sean asignadas por la Comisión. Notas del Editor En criterio del Editor, para la interpretación de esta artículo, debe tenerse en cuenta el Decreto 2883 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'Por el cual se modifica la estructura de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. Ver artículo 2....",
-    "fuente": "...omisión. l. Las demás que le sean asignadas por la Comisión...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.27.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.27.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.27.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.28.1",
-   "estado": "divergente",
-   "similitud": 0.7607,
-   "corpus": "ARTÍCULO 1.3.28.1 DIRECCIÓN EJECUTIVA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto",
-   "fuente": "ARTÍCULO 1.3.28.1 DIRECCIÓN EJECUTIVA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto",
-   "diff": {
-    "corpus": "...a Comisión, por el término que dure la ausencia del titular. Notas del Editor En criterio del Editor, para la interpretación de este artículo, debe tenerse en cuenta el Decreto 2883 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'Por el cual se modifica la estructura de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. Ver artículo 1....",
-    "fuente": "...a Comisión, por el término que dure la ausencia del titular...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.28.2",
-   "estado": "divergente",
-   "similitud": 0.9346,
-   "corpus": "ARTÍCULO 1.3.28.2 FUNCIONES DEL DIRECTOR EJECUTIVO DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
-   "fuente": "ARTÍCULO 1.3.28.2 FUNCIONES DEL DIRECTOR EJECUTIVO DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
-   "diff": {
-    "corpus": "...studio de distribución de las contribuciones especiales por k. Elaborar el plan anual de caja y los acuerdos de gastos y...",
-    "fuente": "...studio de distribución de las contribuciones especiales por concepto de regulación. k. Elaborar el plan anual de caja y los acuerdos de gastos y..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.29.1",
-   "estado": "divergente",
-   "similitud": 0.8546,
-   "corpus": "ARTÍCULO 1.3.29.1 COORDINACIÓN EJECUTIVA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decr",
-   "fuente": "ARTÍCULO 1.3.29.1 COORDINACIÓN EJECUTIVA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decr",
-   "diff": {
-    "corpus": ".... Las demás que le sean asignadas por el Director Ejecutivo. Notas del Editor En criterio del Editor, para la interpretación de este artículo, debe tenerse en cuenta el Decreto 2883 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'Por el cual se modifica la estructura de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. Ver artículo 1....",
-    "fuente": ".... Las demás que le sean asignadas por el Director Ejecutivo...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.29.2",
-   "estado": "divergente",
-   "similitud": 0.9094,
-   "corpus": "ARTÍCULO 1.3.29.2 COORDINACIÓN ADMINISTRATIVA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del",
-   "fuente": "ARTÍCULO 1.3.29.2 COORDINACIÓN ADMINISTRATIVA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del",
-   "diff": {
-    "corpus": "... Las demás que le sean asignadas por el Director Ejecutivo. Notas del Editor En criterio del Editor, para la interpretación de este artículo, debe tenerse en cuenta el Decreto 2883 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'Por el cual se modifica la estructura de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. Ver artículo 1. SECCIÓN 1.3.30. OFICINAS...",
-    "fuente": "... Las demás que le sean asignadas por el Director Ejecutivo. SECCIÓN 1.3.30. OFICINAS..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.30.1",
-   "estado": "divergente",
-   "similitud": 0.8325,
-   "corpus": "ARTÍCULO 1.3.30.1 OFICINA DE REGULACIÓN Y POLÍTICAS DE COMPETENCIA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artí",
-   "fuente": "ARTÍCULO 1.3.30.1 OFICINA DE REGULACIÓN Y POLÍTICAS DE COMPETENCIA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artí",
-   "diff": {
-    "corpus": ".... Las demás que le sean asignadas por el Director Ejecutivo. Notas del Editor En criterio del Editor, para la interpretación de este artículo, debe tenerse en cuenta el Decreto 2883 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'Por el cual se modifica la estructura de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. Ver artículo 1....",
-    "fuente": ".... Las demás que le sean asignadas por el Director Ejecutivo...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.30.2",
-   "estado": "divergente",
-   "similitud": 0.8172,
-   "corpus": "ARTÍCULO 1.3.30.2 OFICINA TÉCNICA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 107",
-   "fuente": "ARTÍCULO 1.3.30.2 OFICINA TÉCNICA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 107",
-   "diff": {
-    "corpus": ".... Las demás que le sean asignadas por el Director Ejecutivo. Notas del Editor En criterio del Editor, para la interpretación de este artículo, debe tenerse en cuenta el Decreto 2883 de 2007, publicado en el Diario Oficial No. 46.706 de 31 de julio de 2007, 'Por el cual se modifica la estructura de la Comisión de Regulación de Agua Potable y Saneamiento Básico, CRA'. Ver artículo 1....",
-    "fuente": ".... Las demás que le sean asignadas por el Director Ejecutivo...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.30.3",
-   "estado": "divergente",
-   "similitud": 0.4192,
-   "corpus": "ARTÍCULO 1.3.30.3 OFICINA JURÍDICA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 10",
-   "fuente": "ARTÍCULO 1.3.30.3 OFICINA JURÍDICA DE LA CRA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 10",
-   "diff": {
-    "corpus": "... Las demás que le sean asignadas por el Director Ejecutivo. Notas del Editor En criterio del Editor, para la interpretación de este artículo, debe tenerse en cuenta el Decreto 2883 de 2007, publicado en el Diario Oficial No. 46.706 de 31 d...",
-    "fuente": "... Las demás que le sean asignadas por el Director Ejecutivo. SECCIÓN 1.3.31. CONFLICTO DE INTERESES, INHABILIDADES E INCOMPATIBILID..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.32.1",
-   "estado": "divergente",
-   "similitud": 0.1552,
-   "corpus": "ARTÍCULO 1.3.32.1 CONTRIBUCIONES ESPECIALES. Artículo integrado y unificado en el artículo 1.10.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
-   "fuente": "ARTÍCULO 1.3.32.1 CONTRIBUCIONES ESPECIALES. Artículo integrado y unificado en el artículo 1.10.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artíc",
-   "diff": {
-    "corpus": "... 2.3.6.3.3.12 del Decreto 1077 de 2015 De conformidad con el...",
-    "fuente": "... 2.3.6.3.3.12 del Decreto 1077 de 2015 De conformidad con el Artículo 85 de la Ley 142 de 1994, y con el propósito de recuperar los costos del servicio de regulación, las entidades reguladas del sector que comprende las personas públicas y privadas prestadoras de los servicios públicos domiciliarios de acueducto, alcantarillado y aseo, están sujetas al pago de la contribución fijada por la Ley 142 de 1994, la cual se liquidará y recaudará conforme a las siguientes reglas: a. Para definir los costos de los servicios que presta la Comisión, se tendrán en cuenta todos los gastos de funcionamiento, además de la depreciación, amortización u obsolescencia de sus activos, en el período anual respectivo. b. La Comisión presupuestará sus gastos cada año y cobrará dentro de los límites que a continuación se señalan, solamente la tarifa que arroje el valor necesario para cubrir su presupuesto anual. En todo caso la tarifa máxima de cada contribución no podrá ser superior al uno por ciento (1%) del valor de los gastos de funcionamiento de la entidad contribuyente, asociados a los servicios regulados por esta Comisión, en el año anterior a aquel en que se haga el cobro, de acuerdo con los estados financieros puestos a disposición de la Comisión, quién fijará de forma independiente y autónoma la tarifa correspondiente, de acuerdo con el estudio que realice. c. En el evento en que la Comisión tuviese excedentes provenientes del pago de las contribuciones, deberá reembolsarlos a los contribuyentes, o abonarlos a las contribuciones del siguiente período, o transferirlos a la Nación si las otras medidas no fueran posibles. d. El cálculo de la suma a cargo de cada uno de los contribuyentes regulados, se realizará teniendo en cuenta los costos de la Comisión. e. La liquidación y el recaudo de las contribuciones correspondientes al servicio de regulación, se efectuará por parte de la Comisión. f. Una vez en firme las liquidaciones deberán ser canceladas dentro del mes siguiente. Se aplicará el mismo régimen de sanción por mora aplicable al impuesto sobre la renta y complementarios, sin perjuicio de las demás sanciones de que trata la Ley 142 de 1.994. PARAGRAFO 1. Para los efectos del presente artículo, se aplicará la definición de gastos de funcionamiento contenida en las Normas Orgánicas del Presupuesto General de la Nación, eliminando los gastos operativos. La Comisión mediante resolución discriminará los diferentes rubros que comprenden este concepto. PARAGRAFO 2. El pago efectivo de las contribuciones especiales por parte de las entidades sometidas a regulación, se realizará con base en la reglamentación que se expida para este efecto. SECCIÓN 1.3.33. JURISDICCIÓN COACTIVA..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1.3.33.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.1",
-   "estado": "divergente",
-   "similitud": 0.9378,
-   "corpus": "ARTÍCULO 2.1.1.1 ELABORACIÓN DEL PROGRAMA DE MICROMEDICIÓN. Artículo integrado y unificado en el artículo 2.5.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispue",
-   "fuente": "ARTÍCULO 2.1.1.1 ELABORACIÓN DEL PROGRAMA DE MICROMEDICIÓN. Artículo integrado y unificado en el artículo 2.5.1.1 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispue",
-   "diff": {
-    "corpus": "...ión de los Planes de Gestión y Resultados, a partir de 1998. Jurisprudencia Concordante Consejo de Estado Acción Popular, Expediente No. 2103 de 26 de octubre de 2006, C.P. Dr. Camilo Arciniegas Andrade...",
-    "fuente": "...ión de los Planes de Gestión y Resultados, a partir de 1998...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.7",
-   "estado": "divergente",
-   "similitud": 0.8929,
-   "corpus": "ARTÍCULO 2.1.1.7 ALTERNATIVAS A LA MICROMEDICIÓN. Artículo integrado y unificado en el artículo 2.5.1.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el",
-   "fuente": "ARTÍCULO 2.1.1.7 ALTERNATIVAS A LA MICROMEDICIÓN. Artículo integrado y unificado en el artículo 2.5.1.7 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el",
-   "diff": {
-    "corpus": "...iamiento definida en el Artículo 2.1.1.3 de esta resolución. Jurisprudencia Concordante Consejo de Estado Acción Popular, Expediente No. 2098 de 27 de abril de 2006, C.P. Dr. Rafael E. Ostau de Lafont Pianeta...",
-    "fuente": "...iamiento definida en el Artículo 2.1.1.3 de esta resolución...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.10",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.11",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.12",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.13",
-   "estado": "divergente",
-   "similitud": 0.7126,
-   "corpus": "ARTÍCULO 2.1.1.13 EXCEPCIÓN PARA LA INSTALACIÓN DE MICROMEDIDORES. Artículo integrado y unificado en el artículo 2.5.1.13 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
-   "fuente": "ARTÍCULO 2.1.1.13 EXCEPCIÓN PARA LA INSTALACIÓN DE MICROMEDIDORES. Artículo integrado y unificado en el artículo 2.5.1.13 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta l",
-   "diff": {
-    "corpus": "...a de micromedición, será establecido de la siguiente forma: Donde, Volj = j= Volmac = Volmic = i= Volumen de agua a fact...",
-    "fuente": "...a de micromedición, será establecido de la siguiente forma: ! Donde, Volj = Volumen de agua a facturar, en el período de f..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.1.1.14",
-   "estado": "divergente",
-   "similitud": 0.8288,
-   "corpus": "ARTÍCULO 2.1.1.14 CONDICIONES ECONÓMICAS PARA LA MICROMEDICIÓN. Artículo integrado y unificado en el artículo 2.5.1.14 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo d",
-   "fuente": "ARTÍCULO 2.1.1.14 CONDICIONES ECONÓMICAS PARA LA MICROMEDICIÓN. Artículo integrado y unificado en el artículo 2.5.1.14 de la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo d",
-   "diff": {
-    "corpus": "...ores; ni el derecho de la persona prestadora a instalarlos. Sección Primera Consejo de Estado Acción Popular, Expediente No. 2101 de 2 de agosto de 2007, C.P. Dr. Camilo Arciniegas Andrad...",
-    "fuente": "...ores; ni el derecho de la persona prestadora a instalarlos. CAPÍTULO 2. NIVEL DE CONSUMO PARA GRANDES CONSUMIDORES VINCULADOS AL SERVICIO PÚBLICO DOMICILIARIO DE ACUEDUCTO O DE ALCANTARILLADO PARA LOS EFECTOS DEL DECRETO 302 DE 2000 SECCIÓN 2.2.1...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.2.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.2.1.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.2.1.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.2.1.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.3.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "139",
@@ -1190,370 +728,223 @@
   },
   {
    "articulo": "2.3.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.3.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.3.1.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.3.1.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.3.1.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.3.1.7",
-   "estado": "casi",
-   "similitud": 0.9836,
-   "corpus": "ARTÍCULO 2.3.1.7 CRITERIO PARA ESTABLECER LA TARIFA DE PEAJE POR TRANSPORTE (CONDUCCIÓN). Artículo derogado por el artículo 17 de la Resolución 608 de",
-   "fuente": "ARTÍCULO 2.3.1.7 CRITERIO PARA ESTABLECER LA TARIFA DE PEAJE POR TRANSPORTE (CONDUCCIÓN). Artículo derogado por el artículo 17 de la Resolución 608 de 2012",
-   "diff": {
-    "corpus": "...Artículo derogado por el artículo 17 de la Resolución 608 de...",
-    "fuente": "...Artículo derogado por el artículo 17 de la Resolución 608 de 2012..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.3.1.8",
-   "estado": "divergente",
-   "similitud": 0.858,
-   "corpus": "ARTÍCULO 2.3.1.8 TÉRMINO PARA DECIDIR SOBRE LAS CONDICIONES DE ACCESO. Artículo derogado por el artículo 17 de la Resolución 608 de 2012",
-   "fuente": "ARTÍCULO 2.3.1.8 TÉRMINO PARA DECIDIR SOBRE LAS CONDICIONES DE ACCESO. Artículo derogado por el artículo 17 de la Resolución 608 de 2012 CAPÍTULO 4. RÉGIMEN TARIFARIO SECCIÓN 2.4.1",
-   "diff": {
-    "corpus": "...ulo derogado por el artículo 17 de la Resolución 608 de 2012...",
-    "fuente": "...ulo derogado por el artículo 17 de la Resolución 608 de 2012 CAPÍTULO 4. RÉGIMEN TARIFARIO SECCIÓN 2.4.1...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.1.1",
-   "estado": "divergente",
-   "similitud": 0.9018,
-   "corpus": "ARTÍCULO 2.4.1.1 VINCULACIÓN AL RÉGIMEN DE LIBERTAD REGULADA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
-   "fuente": "ARTÍCULO 2.4.1.1 VINCULACIÓN AL RÉGIMEN DE LIBERTAD REGULADA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
-   "diff": {
-    "corpus": "...sean prestados directamente por la administración municipal. SECCIÓN 2.4.2. CRITERIOS Y METODOLOGÍA DE COSTOS Y TARIFAS PARA PERSONAS PRESTADORAS DEL SERVICIO PÚBLICO DOMICILIARIO DE ACUEDUCTO METODOLOGÍA DE CÁLCULO DE COSTOS...",
-    "fuente": "...sean prestados directamente por la administración municipal...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.3",
-   "estado": "divergente",
-   "similitud": 0.8674,
-   "corpus": "ARTÍCULO 2.4.2.3 CÁLCULO DEL COSTO MEDIO DE INVERSIÓN DE LARGO PLAZO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3",
-   "fuente": "ARTÍCULO 2.4.2.3 CÁLCULO DEL COSTO MEDIO DE INVERSIÓN DE LARGO PLAZO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3",
-   "diff": {
-    "corpus": "... calculará el costo medio de inversión de largo plazo como: Donde: VRA: VPI: VPD: Estimación del valor a nuevo del siste...",
-    "fuente": "... calculará el costo medio de inversión de largo plazo como: ! Donde: VRA: Estimación del valor a nuevo del sistema actual ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.4",
-   "estado": "casi",
-   "similitud": 0.9975,
-   "corpus": "ARTÍCULO 2.4.2.4 CÁLCULO DE LOS COSTOS DE INVERSIÓN PARA LAS PERSONAS PRESTADORAS CON MENOS DE OCHO MIL USUARIOS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe teners",
-   "fuente": "ARTÍCULO 2.4.2.4 CÁLCULO DE LOS COSTOS DE INVERSIÓN PARA LAS PERSONAS PRESTADORAS CON MENOS DE OCHO MIL USUARIOS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe teners",
-   "diff": {
-    "corpus": "...usuario/ mes Tasa de crecimiento 15 – 19 20 – 24 25 – 29 30 – 40 -... 0% - 1% 420.12 315.09 252.07 210.06 180.05 157.55 ...",
-    "fuente": "...usuario/ mes Tasa de crecimiento 15 – 19 20 – 24 25 – 29 30 - 34 35 – 39 40 -... 0% - 1% 420.12 315.09 252.07 210.06 180.05 157...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.5",
-   "estado": "divergente",
-   "similitud": 0.8446,
-   "corpus": "ARTÍCULO 2.4.2.5 DESCUENTO POR APORTES DE TERCEROS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decr",
-   "fuente": "ARTÍCULO 2.4.2.5 DESCUENTO POR APORTES DE TERCEROS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decr",
-   "diff": {
-    "corpus": "...de dicho costo. El costo se calcula de la siguiente manera: Donde: DAT= VA= TD= D= valor del descuento por aportes de te...",
-    "fuente": "...de dicho costo. El costo se calcula de la siguiente manera: ! Donde: DAT= valor del descuento por aportes de terceros (pes..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.6",
-   "estado": "casi",
-   "similitud": 0.9936,
-   "corpus": "ARTÍCULO 2.4.2.6 DESCUENTOS A REALIZAR EN LAS TARIFAS DE LOS USUARIOS DE ESTRATOS SUBSIDIABLES POR BIENES APORTADOS BAJO CONDICIÓN A LAS PERSONAS PRESTADORAS DEL SERVICIO PÚBLICO D",
-   "fuente": "ARTÍCULO 2.4.2.6 DESCUENTOS A REALIZAR EN LAS TARIFAS DE LOS USUARIOS DE ESTRATOS SUBSIDIABLES POR BIENES APORTADOS BAJO CONDICIÓN A LAS PERSONAS PRESTADORAS DEL SERVICIO PÚBLICO D",
-   "diff": {
-    "corpus": "...tados bajo condición, de la siguiente manera: Estrato I: Sl1 = RN PRND a1 Estrato 2: Sl2 =RN PRND a2 Estrato 3: Sl3 = RN ...",
-    "fuente": "...tados bajo condición, de la siguiente manera: Estrato I: Sl1= RN PRND a1 Estrato 2: Sl2=RN PRND a2 Estrato 3: Sl3= RN PR..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.8",
-   "estado": "casi",
-   "similitud": 0.9992,
-   "corpus": "ARTÍCULO 2.4.2.8 CÁLCULO DEL COSTO MEDIO OPERACIONAL. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del De",
-   "fuente": "ARTÍCULO 2.4.2.8 CÁLCULO DEL COSTO MEDIO OPERACIONAL. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del De",
-   "diff": {
-    "corpus": "... Costo Medio Operacional se utilizará la siguiente fórmula: Donde: å: Gastos de Operación. Se incluyen todos los gastos ...",
-    "fuente": "... Costo Medio Operacional se utilizará la siguiente fórmula: ! Donde: å: Gastos de Operación. Se incluyen todos los gastos ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.10",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.2.11",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.2",
-   "estado": "divergente",
-   "similitud": 0.7809,
-   "corpus": "ARTÍCULO 2.4.3.2 CARGO FIJO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para e",
-   "fuente": "ARTÍCULO 2.4.3.2 CARGO FIJO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para e",
-   "diff": {
-    "corpus": "...e aplicar la siguiente fórmula: CFi = CMA x Fi donde: CFi: CMA = Fi: Cargo fijo del estrato/sector i Costo Medio de Admi...",
-    "fuente": "...e aplicar la siguiente fórmula: CFi = CMA x Fi donde: CFi: Cargo fijo del estrato/sector i CMA = Costo Medio de Administración Fi: Factor de subsidio o ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.4",
-   "estado": "divergente",
-   "similitud": 0.4893,
-   "corpus": "ARTÍCULO 2.4.3.4 CARGO POR UNIDAD DE CONSUMO COMPLEMENTARIO Y SUNTUARIO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo ",
-   "fuente": "ARTÍCULO 2.4.3.4 CARGO POR UNIDAD DE CONSUMO COMPLEMENTARIO Y SUNTUARIO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo ",
-   "diff": {
-    "corpus": "...ciales serán las siguientes: CCij = CMLP x Fij donde: CCij: Fij: Tarifa por consumo j del estrato i Factor de contribuci...",
-    "fuente": "...ciales serán las siguientes: CCij = CMLP x Fij donde: CCij: Tarifa por consumo j del estrato i Fij: Factor de contribución aplicado al estrato i en el rang..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.6",
-   "estado": "divergente",
-   "similitud": 0.9063,
-   "corpus": "ARTÍCULO 2.4.3.6 VALOR DE LA FACTURA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 20",
-   "fuente": "ARTÍCULO 2.4.3.6 VALOR DE LA FACTURA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 20",
-   "diff": {
-    "corpus": "... utilizará la siguiente fórmula: VFi = CFi + VCi donde: VFi CFi VCi Valor de la factura del usuario del estrato i / sector i Car...",
-    "fuente": "... utilizará la siguiente fórmula: VFi = CFi + VCi donde: VFi Valor de la factura del usuario del estrato i / sector i CFi..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.10",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.11",
-   "estado": "casi",
-   "similitud": 0.9957,
-   "corpus": "ARTÍCULO 2.4.3.11 COSTO DE REPOSICIÓN DE REDES LOCALES APORTADAS POR TERCEROS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el art",
-   "fuente": "ARTÍCULO 2.4.3.11 COSTO DE REPOSICIÓN DE REDES LOCALES APORTADAS POR TERCEROS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el art",
-   "diff": {
-    "corpus": "...te concepto estaría dado por la siguiente fórmula: CMIR($/m3 ) = VRRL VPD donde: VRRL VPD Estimación del valor a nuevo de...",
-    "fuente": "...te concepto estaría dado por la siguiente fórmula: CMIR($/m3) = VRRL VPD donde: VRRL Estimación del valor a nuevo de las..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.12",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.13",
-   "estado": "casi",
-   "similitud": 0.9961,
-   "corpus": "ARTÍCULO 2.4.3.13 VALOR DE LOS TERRENOS REQUERIDOS PARA LA PRESTACIÓN DE LOS SERVICIOS DE ACUEDUCTO Y ALCANTARILLADO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe te",
-   "fuente": "ARTÍCULO 2.4.3.13 VALOR DE LOS TERRENOS REQUERIDOS PARA LA PRESTACIÓN DE LOS SERVICIOS DE ACUEDUCTO Y ALCANTARILLADO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe te",
-   "diff": {
-    "corpus": "...ón por este concepto estaría dado por la siguiente fórmula: donde: r T VPD Tasa de descuento o tasa de remuneración que ...",
-    "fuente": "...ón por este concepto estaría dado por la siguiente fórmula: ! donde: r Tasa de descuento o tasa de remuneración que determ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.14",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.3.15",
-   "estado": "divergente",
-   "similitud": 0.79,
-   "corpus": "ARTÍCULO 2.4.3.15 TARIFA DEL CONSUMO BÁSICO PARA ESTRATOS SUBSIDIABLES. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2",
-   "fuente": "ARTÍCULO 2.4.3.15 TARIFA DEL CONSUMO BÁSICO PARA ESTRATOS SUBSIDIABLES. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2",
-   "diff": {
-    "corpus": "...nsumo básico de los estratos subsidiables se calculará así: Donde: CBi: CMLP: Fij: SIi: Tarifa para consumo básico del e...",
-    "fuente": "...nsumo básico de los estratos subsidiables se calculará así: ! Donde: CBi: Tarifa para consumo básico del estrato i. CMLP: ..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.4",
-   "estado": "divergente",
-   "similitud": 0.9763,
-   "corpus": "ARTÍCULO 2.4.4.4 DETERMINACIÓN DE LA SITUACIÓN DE SUFICIENCIA FINANCIERA REQUERIDA (SSFR). Artículo integrado y unificado en el artículo 2.2.4 de la Resolución CRA 943 de 2021. Deb",
-   "fuente": "ARTÍCULO 2.4.4.4 DETERMINACIÓN DE LA SITUACIÓN DE SUFICIENCIA FINANCIERA REQUERIDA (SSFR). Artículo integrado y unificado en el artículo 2.2.4 de la Resolución CRA 943 de 2021. Deb",
-   "diff": {
-    "corpus": "...lujo de caja se realizará en pesos constantes del año cero. Donde: SSFR: t: h: r: FCNGt: Situación de Suficiencia Financ...",
-    "fuente": "...lujo de caja se realizará en pesos constantes del año cero. ! Donde: SSFR: Situación de Suficiencia Financiera Requerida t..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.6",
-   "estado": "divergente",
-   "similitud": 0.9338,
-   "corpus": "ARTÍCULO 2.4.4.6 ESTABLECIMIENTO DEL CARGO POR EXPANSIÓN DEL SISTEMA (CES). Artículo integrado y unificado en el artículo 2.2.6 de la Resolución CRA 943 de 2021. Debe tenerse en cu",
-   "fuente": "ARTÍCULO 2.4.4.6 ESTABLECIMIENTO DEL CARGO POR EXPANSIÓN DEL SISTEMA (CES). Artículo integrado y unificado en el artículo 2.2.6 de la Resolución CRA 943 de 2021. Debe tenerse en cu",
-   "diff": {
-    "corpus": "...o, será el valor absoluto resultante del siguiente cálculo: Donde: SSFR: Es la Situación de Suficiencia Financiera Reque...",
-    "fuente": "...o, será el valor absoluto resultante del siguiente cálculo: ! Donde: SSFR: Es la Situación de Suficiencia Financiera Reque..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.10",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.11",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.4.4.12",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.5.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.5.1.2",
-   "estado": "casi",
-   "similitud": 0.9994,
-   "corpus": "ARTÍCULO 2.5.1.2 FACTORES MÁXIMOS DE CONTRIBUCIÓN DE SOLIDARIDAD. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3",
-   "fuente": "ARTÍCULO 2.5.1.2 FACTORES MÁXIMOS DE CONTRIBUCIÓN DE SOLIDARIDAD. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3",
-   "diff": {
-    "corpus": "...n la siguiente tabla: FACTORES DE CONTRIBUCIÓN A APLICAR (fi j) Porcentajes ESTRATO C. FIJO C. BASICO C. COMPLEMENTARIO C...",
-    "fuente": "...n la siguiente tabla: FACTORES DE CONTRIBUCIÓN A APLICAR (fij) Porcentajes ESTRATO C. FIJO C. BASICO C. COMPLEMENTARIO C..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.5.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.5.2.1",
-   "estado": "divergente",
-   "similitud": 0.8383,
-   "corpus": "ARTÍCULO 2.5.2.1 CÁLCULO DE LOS FONDOS POR APORTES SOLIDARIOS. El Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3",
-   "fuente": "ARTÍCULO 2.5.2.1 CÁLCULO DE LOS FONDOS POR APORTES SOLIDARIOS. El Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3",
-   "diff": {
-    "corpus": "...iferentes tipos de usuarios según el rango de consumo, así: Donde: FSS: Ff: Fc: Fondo por aportes solidarios Fondos reca...",
-    "fuente": "...iferentes tipos de usuarios según el rango de consumo, así: ! Donde: FSS: Fondo por aportes solidarios Ff: Fondos recaudad..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.5.2.2",
-   "estado": "divergente",
-   "similitud": 0.8631,
-   "corpus": "ARTÍCULO 2.5.2.2 CÁLCULO DEL GASTO TOTAL EN SUBSIDIOS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del D",
-   "fuente": "ARTÍCULO 2.5.2.2 CÁLCULO DEL GASTO TOTAL EN SUBSIDIOS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del D",
-   "diff": {
-    "corpus": "...ásico de los estratos subsidiables, de la siguiente manera: Donde: GSS: GSf = GSc = Gasto total por subsidios solidarios...",
-    "fuente": "...ásico de los estratos subsidiables, de la siguiente manera: ! Donde: GSS: Gasto total por subsidios solidarios GSf = gasto..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.5.2.3",
-   "estado": "casi",
-   "similitud": 0.997,
-   "corpus": "ARTÍCULO 2.5.2.3 DETERMINACIÓN DE LOS FACTORES DE SUBSIDIO POR APORTES SOLIDARIOS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el",
-   "fuente": "ARTÍCULO 2.5.2.3 DETERMINACIÓN DE LOS FACTORES DE SUBSIDIO POR APORTES SOLIDARIOS. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el",
-   "diff": {
-    "corpus": "...orgados sea menor o igual a los fondos recaudados, es decir: PARÁGRAFO. Los factores de subsidio para cada estrato no pu...",
-    "fuente": "...orgados sea menor o igual a los fondos recaudados, es decir: ! PARÁGRAFO. Los factores de subsidio para cada estrato no pu..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.5.2.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.5.2.5",
-   "estado": "casi",
-   "similitud": 0.9985,
-   "corpus": "ARTÍCULO 2.5.2.5 CONDICIONES PARA OTORGAR SUBSIDIOS AL ESTRATO 3. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3",
-   "fuente": "ARTÍCULO 2.5.2.5 CONDICIONES PARA OTORGAR SUBSIDIOS AL ESTRATO 3. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3",
-   "diff": {
-    "corpus": "... los fij se determinen cumpliendo la siguiente restricción: Donde: CBp: Total de consumos básicos de los usuarios de est...",
-    "fuente": "... los fij se determinen cumpliendo la siguiente restricción: ! Donde: CBp: Total de consumos básicos de los usuarios de est..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "2.6.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "1",
@@ -1561,50 +952,43 @@
   },
   {
    "articulo": "2.6.1.2",
-   "estado": "divergente",
-   "similitud": 0.8313,
-   "corpus": "ARTÍCULO 2.6.1.2 CONCEPTO DE LEGALIDAD. Resolución 375 de 2006 que modificó el presente artículo, derogado para personas prestadoras que cuenten con más de 5.000 suscriptores y/o u",
-   "fuente": "ARTÍCULO 2.6.1.2 CONCEPTO DE LEGALIDAD. Resolución 375 de 2006 que modificó el presente artículo, derogado para personas prestadoras que cuenten con más de 5.000 suscriptores y/o u",
-   "diff": {
-    "corpus": "...Y en lo demás por el artículo 3 de la Resolución 873 de 2019...",
-    "fuente": "...Y en lo demás por el artículo 3 de la Resolución 873 de 2019 TÍTULO III. NORMAS ESPECIALES PARA ALCANTARILLADO CAPÍTULO 1. ACCESO Y USO COMPARTIDO DE LAS REDES EXISTENTES. SECCIÓN 3.1.1..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.1.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.1.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.1.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.1.1.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.1.1.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.1.1.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.1.1.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.1.1.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.1.1.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.1.1.11",
@@ -1612,246 +996,155 @@
   },
   {
    "articulo": "3.1.1.10",
-   "estado": "divergente",
-   "similitud": 0.8069,
-   "corpus": "ARTÍCULO 3.1.1.10 SANCIONES. Artículo derogado por el artículo 17 de la Resolución 608 de 2012",
-   "fuente": "ARTÍCULO 3.1.1.10 SANCIONES. Artículo derogado por el artículo 17 de la Resolución 608 de 2012 CAPÍTULO 2. RÉGIMEN TARIFARIO. SECCIÓN 3.2.1",
-   "diff": {
-    "corpus": "...ulo derogado por el artículo 17 de la Resolución 608 de 2012...",
-    "fuente": "...ulo derogado por el artículo 17 de la Resolución 608 de 2012 CAPÍTULO 2. RÉGIMEN TARIFARIO. SECCIÓN 3.2.1..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.1.1",
-   "estado": "divergente",
-   "similitud": 0.7943,
-   "corpus": "ARTÍCULO 3.2.1.1 VINCULACIÓN AL RÉGIMEN DE LIBERTAD REGULADA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
-   "fuente": "ARTÍCULO 3.2.1.1 VINCULACIÓN AL RÉGIMEN DE LIBERTAD REGULADA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.1",
-   "diff": {
-    "corpus": "...están sometidas al Régimen de Libertad Regulada de Tarifas. SECCIÓN 3.2.2. CRITERIOS Y METODOLOGÍA DE COSTOS Y TARIFAS P...",
-    "fuente": "...están sometidas al Régimen de Libertad Regulada de Tarifas. PARÁGRAFO. Dentro de régimen de libertad regulada, las tarifas de los servicios serán fijadas autónomamente por las Juntas Directivas de las personas que presten los servicios o por quien haga sus veces, o por el alcalde del municipio cuando los servicios sean prestados directamente por la administración municipal. SECCIÓN 3.2.2. CRITERIOS Y METODOLOGÍA DE COSTOS Y TARIFAS P..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.2.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.2.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.2.3",
-   "estado": "casi",
-   "similitud": 0.999,
-   "corpus": "ARTÍCULO 3.2.2.3 CÁLCULO DEL COSTO MEDIO DE INVERSIÓN DE LARGO PLAZO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3",
-   "fuente": "ARTÍCULO 3.2.2.3 CÁLCULO DEL COSTO MEDIO DE INVERSIÓN DE LARGO PLAZO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3",
-   "diff": {
-    "corpus": "... calculará el costo medio de inversión de largo plazo como: donde: VRA Estimación del valor a nuevo del sistema actual d...",
-    "fuente": "... calculará el costo medio de inversión de largo plazo como: ! donde: VRA Estimación del valor a nuevo del sistema actual d..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.2.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.2.5",
-   "estado": "casi",
-   "similitud": 0.9992,
-   "corpus": "ARTÍCULO 3.2.2.5 CÁLCULO DEL COSTO MEDIO OPERACIONAL. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del De",
-   "fuente": "ARTÍCULO 3.2.2.5 CÁLCULO DEL COSTO MEDIO OPERACIONAL. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del De",
-   "diff": {
-    "corpus": "...edio Operacional se utilizará la siguiente fórmula: CMO ($/m 3 ) = S Gastos de Operación m3 vertidos Donde: S Gastos de O...",
-    "fuente": "...edio Operacional se utilizará la siguiente fórmula: CMO ($/m3) = S Gastos de Operación m3 vertidos Donde: S Gastos de Op..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.2.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.2.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.2.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.3.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.3.2",
-   "estado": "divergente",
-   "similitud": 0.7903,
-   "corpus": "ARTÍCULO 3.2.3.2 CARGO FIJO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para e",
-   "fuente": "ARTÍCULO 3.2.3.2 CARGO FIJO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 2015 Para e",
-   "diff": {
-    "corpus": "...de aplicar la siguiente fórmula: CFi = CMA x Fi donde: CFi: CMA = Fi: Tarifa para el cargo fijo del estrato/sector i Cos...",
-    "fuente": "...de aplicar la siguiente fórmula: CFi = CMA x Fi donde: CFi: Tarifa para el cargo fijo del estrato/sector i CMA = Costo Medio de Administración Fi: Factor de subsidio o..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.3.3",
-   "estado": "divergente",
-   "similitud": 0.6656,
-   "corpus": "ARTÍCULO 3.2.3.3 CARGO POR UNIDAD DE VERTIMIENTO BÁSICO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del",
-   "fuente": "ARTÍCULO 3.2.3.3 CARGO POR UNIDAD DE VERTIMIENTO BÁSICO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del",
-   "diff": {
-    "corpus": "...nentes de inversión así: CBi = CMLP x Fij - SIi donde: CBi: Fij: SIi: Tarifa para el cargo básico del estrato i. Factor ...",
-    "fuente": "...nentes de inversión así: CBi = CMLP x Fij - SIi donde: CBi: Tarifa para el cargo básico del estrato i. Fij: Factor de subsidio o contribución aplicado al estrato i..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.3.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.3.5",
-   "estado": "divergente",
-   "similitud": 0.919,
-   "corpus": "ARTÍCULO 3.2.3.5 CARGO POR UNIDAD DE VERTIMIENTO DE LOS USUARIOS NO RESIDENCIALES. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el",
-   "fuente": "ARTÍCULO 3.2.3.5 CARGO POR UNIDAD DE VERTIMIENTO DE LOS USUARIOS NO RESIDENCIALES. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el",
-   "diff": {
-    "corpus": "...e aplicar la siguiente fórmula: CCi = CMLP x Fi donde: CCi: Fi: Tarifa para el cargo por vertimiento del sector i Factor...",
-    "fuente": "...e aplicar la siguiente fórmula: CCi = CMLP x Fi donde: CCi: Tarifa para el cargo por vertimiento del sector i Fi: Factor de contribución aplicado al sector i...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.3.6",
-   "estado": "divergente",
-   "similitud": 0.9302,
-   "corpus": "ARTÍCULO 3.2.3.6 VALOR DE LA FACTURA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 20",
-   "fuente": "ARTÍCULO 3.2.3.6 VALOR DE LA FACTURA. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artículo 2.3.6.3.3.12 del Decreto 1077 de 20",
-   "diff": {
-    "corpus": "... utilizará la siguiente fórmula: VFi = CFi + VCi donde: VFi CFi VCi Valor de la factura del usuario del estrato i / sector i Car...",
-    "fuente": "... utilizará la siguiente fórmula: VFi = CFi + VCi donde: VFi Valor de la factura del usuario del estrato i / sector i CFi..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.3.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.3.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.3.9",
-   "estado": "divergente",
-   "similitud": 0.8747,
-   "corpus": "ARTÍCULO 3.2.3.9 APORTES DE TERCEROS EN REDES LOCALES Y OTROS, INVERSIONES EN TERRENOS REQUERIDOS EN LA OPERACIÓN Y NIVEL MÁXIMO ACEPTABLE DE AGUA NO CONTABILIZADA. Artículo no int",
-   "fuente": "ARTÍCULO 3.2.3.9 APORTES DE TERCEROS EN REDES LOCALES Y OTROS, INVERSIONES EN TERRENOS REQUERIDOS EN LA OPERACIÓN Y NIVEL MÁXIMO ACEPTABLE DE AGUA NO CONTABILIZADA. Artículo no int",
-   "diff": {
-    "corpus": "...ILLADO QUE PRESTEN EL SERVICIO A MENOS DE OCHO MIL USUARIOS. SECCIÓN 3.2.4 CRITERIOS Y METODOLOGÍA DE COSTOS Y TARIFAS PARA PERSONAS PRESTADORAS DEL SERVICIO PÚBLICO DOMICILIARIO DE ALCANTARILLADO EN CAPITALES DE DEPARTAMENTO O QUE PRESTEN EL SERVICIO A MENOS DE 8.000 USUARIOS....",
-    "fuente": "...ILLADO QUE PRESTEN EL SERVICIO A MENOS DE OCHO MIL USUARIOS...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.4.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.4.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.2.4.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.3.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.3.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.4.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "3.4.1.2",
-   "estado": "divergente",
-   "similitud": 0.8358,
-   "corpus": "ARTÍCULO 3.4.1.2 CONCEPTO DE LEGALIDAD. Resolución 375 de 2006 que modificó el presente artículo, derogado para personas prestadoras que cuenten con más de 5.000 suscriptores y/o u",
-   "fuente": "ARTÍCULO 3.4.1.2 CONCEPTO DE LEGALIDAD. Resolución 375 de 2006 que modificó el presente artículo, derogado para personas prestadoras que cuenten con más de 5.000 suscriptores y/o u",
-   "diff": {
-    "corpus": "...Y en lo demás por el artículo 3 de la Resolución 873 de 2019...",
-    "fuente": "...Y en lo demás por el artículo 3 de la Resolución 873 de 2019 TÍTULO IV. NORMAS ESPECIALES PARA ASEO. CAPÍTULO 1. PRESTACIÓN DEL SERVICIO PÚBLICO DOMICILIARIO DE ASEO.. SECCIÓN 4.1.1..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.1.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.1.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.1.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.1.1",
-   "estado": "divergente",
-   "similitud": 0.491,
-   "corpus": "ARTÍCULO 4.2.1.1 LIBERTAD REGULADA DE TARIFAS. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior pa",
-   "fuente": "ARTÍCULO 4.2.1.1 LIBERTAD REGULADA DE TARIFAS. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior pa",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.2.2. METODOLOGÍA DE CÁLCULO DE LAS TARIFAS MÁXIMAS CON ARREGLO A LAS CUALES LAS ENTIDADES TARIFARIAS LOCALES DEBEN DETERMINAR LAS TARIFAS DE PRESTACIÓN DEL SERVICIO ORDINARIO DE ASEO EN CAPITALES DE DEPARTAMENTO Y EN MUNICIPIOS CON MÁS DE 8.000 USUARIOS Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha SERVICIO ESTÁNDAR..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.2.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.2.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.2.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.2.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.2.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.2.6",
-   "estado": "divergente",
-   "similitud": 0.6203,
-   "corpus": "ARTÍCULO 4.2.2.6 COSTO MEDIO DEL SERVICIO INTEGRAL DE ASEO. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislació",
-   "fuente": "ARTÍCULO 4.2.2.6 COSTO MEDIO DEL SERVICIO INTEGRAL DE ASEO. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislació",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.2.3 TARIFAS MÁXIMAS PARA EL SERVICIO ESTÁNDAR PARA PERSONAS PRESTADORAS CON MÁS DE OCHO MIL USUARIOS. Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.3.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.3.2",
-   "estado": "divergente",
-   "similitud": 0.6091,
-   "corpus": "ARTÍCULO 4.2.3.2 FACTORES DE CONTRIBUCIÓN. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para e",
-   "fuente": "ARTÍCULO 4.2.3.2 FACTORES DE CONTRIBUCIÓN. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para e",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.2.4. AJUSTES POR SERVICIO NO ESTÁNDAR PARA PERSONAS PRESTADORAS CON MÁS DE OCHO MIL USUARIOS. Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.3",
@@ -1859,84 +1152,63 @@
   },
   {
    "articulo": "4.2.4.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.4.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.4.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.4.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.4.5",
-   "estado": "divergente",
-   "similitud": 0.6586,
-   "corpus": "ARTÍCULO 4.2.4.5 DESCUENTO POR NO BARRIDO FRENTE AL DOMICILIO O PREDIO. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ve",
-   "fuente": "ARTÍCULO 4.2.4.5 DESCUENTO POR NO BARRIDO FRENTE AL DOMICILIO O PREDIO. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ve",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.2.5 PARÁMETROS PARA PERSONAS PRESTADORAS CON MÁS DE OCHO MIL USUARIOS. Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.5.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.5.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.5.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.5.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.5.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.5.6",
-   "estado": "divergente",
-   "similitud": 0.6339,
-   "corpus": "ARTÍCULO 4.2.5.6 REVISIÓN EN LAS FÓRMULAS TARIFARIAS. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación ante",
-   "fuente": "ARTÍCULO 4.2.5.6 REVISIÓN EN LAS FÓRMULAS TARIFARIAS. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación ante",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.2.6 PLAN DE TRANSICIÓN PARA PERSONAS PRESTADORAS CON MÁS DE OCHO MIL USUARIOS. Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.6.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.6.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.6.3",
-   "estado": "divergente",
-   "similitud": 0.4851,
-   "corpus": "ARTÍCULO 4.2.6.3 ACTUALIZACIÓN. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vig",
-   "fuente": "ARTÍCULO 4.2.6.3 ACTUALIZACIÓN. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vig",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.2.7. CRITERIOS Y METODOLOGÍA DE COSTOS Y TARIFAS CON ARREGLO A LAS CUALES LAS PERSONAS PRESTADORAS DEL SERVICIO DE ASEO CON MENOS DE OCHO MIL USUARIOS DEBEN DETERMINAR LAS TARIFAS DE PRESTACIÓN DEL SERVICIO ORDINARIO. Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha METODOLOGÍA DE CÁLCULO DE COSTOS..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.7.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.7",
@@ -1944,549 +1216,451 @@
   },
   {
    "articulo": "4.2.7.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.7.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.7.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.7.5",
-   "estado": "divergente",
-   "similitud": 0.5888,
-   "corpus": "ARTÍCULO 4.2.7.5 AÑO BASE. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente ",
-   "fuente": "ARTÍCULO 4.2.7.5 AÑO BASE. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente ",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.2.8 METODOLOGÍA Y FÓRMULAS TARIFARIAS PARA PERSONAS PRESTADORAS CON MENOS DE OCHO MIL USUARIOS. Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.10",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.11",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.12",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.13",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.14",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.8.15",
-   "estado": "divergente",
-   "similitud": 0.5012,
-   "corpus": "ARTÍCULO 4.2.8.15 PLAN DE AJUSTE. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto v",
-   "fuente": "ARTÍCULO 4.2.8.15 PLAN DE AJUSTE. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto v",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.2.9. METODOLOGÍA QUE DEBEN APLICAR LAS ENTIDADES TARIFARIAS LOCALES Y PERSONAS PRESTADORAS DE SERVICIOS PÚBLICOS PARA DETERMINAR EL COSTO DEL COMPONENTE Y EL SERVICIO DE TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS (CDT) Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.9.1",
-   "estado": "divergente",
-   "similitud": 0.7495,
-   "corpus": "ARTÍCULO 4.2.9.1 METODOLOGÍA QUE DEBEN APLICAR LAS ENTIDADES TARIFARIAS LOCALES Y PERSONAS PRESTADORAS DE SERVICIOS PÚBLICOS PARA DETERMINAR EL COSTO DEL COMPONENTE Y EL SERVICIO D",
-   "fuente": "ARTÍCULO 4.2.9.1 METODOLOGÍA QUE DEBEN APLICAR LAS ENTIDADES TARIFARIAS LOCALES Y PERSONAS PRESTADORAS DE SERVICIOS PÚBLICOS PARA DETERMINAR EL COSTO DEL COMPONENTE Y EL SERVICIO D",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.2.10. CÁLCULO DEL COSTO DEL COMPONENTE Y EL SERVICIO DE TRATAMIENTO Y DISPOSICIÓN FINAL (CDT) Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.10",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.11",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.12",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.13",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.14",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.15",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.16",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.10.17",
-   "estado": "divergente",
-   "similitud": 0.8543,
-   "corpus": "ARTÍCULO 4.2.10.17 TECNOLOGÍAS DIFERENTES PARA LA PRESTACIÓN DEL SERVICIO DE TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS. Artículo derogado por el artículo 42 de la Resoluc",
-   "fuente": "ARTÍCULO 4.2.10.17 TECNOLOGÍAS DIFERENTES PARA LA PRESTACIÓN DEL SERVICIO DE TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS. Artículo derogado por el artículo 42 de la Resoluc",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.2.11. COBRO DEL SERVICIO ORDINARIO DE ASEO PARA LOCALES DESOCUPADOS Y VIVIENDAS DESHABITADAS..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.11.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.11.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.11.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.11.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.2.11.5",
-   "estado": "divergente",
-   "similitud": 0.5374,
-   "corpus": "ARTÍCULO 4.2.11.5 COBRO DE LA TARIFA TOTAL DEL SERVICIO DE ASEO PRESTADO. Artículo derogado por el artículo 23 de la Resolución 233 de 2002.",
-   "fuente": "ARTÍCULO 4.2.11.5 COBRO DE LA TARIFA TOTAL DEL SERVICIO DE ASEO PRESTADO. Artículo derogado por el artículo 23 de la Resolución 233 de 2002. CAPÍTULO 3. CONTRIBUCIONES DE SOLIDARID",
-   "diff": {
-    "corpus": "...lo derogado por el artículo 23 de la Resolución 233 de 2002....",
-    "fuente": "...lo derogado por el artículo 23 de la Resolución 233 de 2002. CAPÍTULO 3. CONTRIBUCIONES DE SOLIDARIDAD Y SUBSIDIOS. SECCIÓN 4.3.1 Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.3.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.3.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.3.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.3.1.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.3.1.5",
-   "estado": "divergente",
-   "similitud": 0.7373,
-   "corpus": "ARTÍCULO 4.3.1.5 CÁLCULO DEL FACTOR DE SUBSIDIO APLICABLE A LA TARIFA DE LOS ESTRATOS SUBSIDIABLES PARA PERSONAS PRESTADORAS DEL SERVICIO PÚBLICO DOMICILIARIO DE ASEO CON MÁS DE OC",
-   "fuente": "ARTÍCULO 4.3.1.5 CÁLCULO DEL FACTOR DE SUBSIDIO APLICABLE A LA TARIFA DE LOS ESTRATOS SUBSIDIABLES PARA PERSONAS PRESTADORAS DEL SERVICIO PÚBLICO DOMICILIARIO DE ASEO CON MÁS DE OC",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha SECCIÓN 4.3.2. FÓRMULAS PARA EL CÁLCULO DE LOS APORTES SOLIDARIOS PARA EL SERVICIO DE ASEO Sección derogada por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación anterior para el texto vigente antes de esta fecha..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.3.2.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.3.2.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.3.2.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.3.2.4",
-   "estado": "divergente",
-   "similitud": 0.8129,
-   "corpus": "ARTÍCULO 4.3.2.4 TRANSFERENCIA DE APORTES SOLIDARIOS. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación ante",
-   "fuente": "ARTÍCULO 4.3.2.4 TRANSFERENCIA DE APORTES SOLIDARIOS. Artículo derogado por el artículo 42 de la Resolución 351 de 2005. Rige a partir del 16 de abril de 2006. Ver legislación ante",
-   "diff": {
-    "corpus": "...gislación anterior para el texto vigente antes de esta fecha...",
-    "fuente": "...gislación anterior para el texto vigente antes de esta fecha CAPÍTULO 4. REALIZACIÓN DE AFOROS DE RESIDUOS SÓLIDOS A LOS USUARIOS GRANDES PRODUCTORES. SECCIÓN 4.4.1..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.10",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.11",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.12",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.13",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.14",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.4.1.15",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.5.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4.5.1.2",
-   "estado": "divergente",
-   "similitud": 0.6782,
-   "corpus": "ARTÍCULO 4.5.1.2 CONCEPTO DE LEGALIDAD. Resolución 376 de 2006 derogada por el artículo 3 de la Resolución 894 de 2019",
-   "fuente": "ARTÍCULO 4.5.1.2 CONCEPTO DE LEGALIDAD. Resolución 376 de 2006 derogada por el artículo 3 de la Resolución 894 de 2019 TÍTULO V. OTRAS DISPOSICIONES CAPÍTULO 1. APLICACIÓN E INFORM",
-   "diff": {
-    "corpus": "...2006 derogada por el artículo 3 de la Resolución 894 de 2019...",
-    "fuente": "...2006 derogada por el artículo 3 de la Resolución 894 de 2019 TÍTULO V. OTRAS DISPOSICIONES CAPÍTULO 1. APLICACIÓN E INFORMACIÓN DE LAS VARIACIONES TARIFARIAS. SECCIÓN 5.1.1..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.1.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.1.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.1.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.2.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.2.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.2.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.2.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.2.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.1.2.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.6",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.7",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.8",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.9",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.10",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.11",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.12",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.13",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.1.14",
-   "estado": "divergente",
-   "similitud": 0.9082,
-   "corpus": "ARTÍCULO 5.2.1.14 - TRANSITORIO - RÉGIMEN APLICABLE A SOLICITUDES EN CURSO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
-   "fuente": "ARTÍCULO 5.2.1.14 - TRANSITORIO - RÉGIMEN APLICABLE A SOLICITUDES EN CURSO. Artículo no integrado a la Resolución CRA 943 de 2021. Debe tenerse en cuenta lo dispuesto por el artícu",
-   "diff": {
-    "corpus": "...Para su trámite se aplicará lo dispuesto en esta resolución....",
-    "fuente": "...Para su trámite se aplicará lo dispuesto en esta resolución. SECCIÓN 5.2.2. MODIFICACIÓN DE LA FÓRMULA TARIFARIA PARA LOS SERVICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO Y ALCANTARILLADO...."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.2.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.3.1",
-   "estado": "casi",
-   "similitud": 0.9994,
-   "corpus": "ARTÍCULO 5.2.3.1. CONTENIDO DE LA SOLICITUD PARA LA MODIFICACIÓN DE LA FÓRMULA TARIFARIA DEL SERVICIO PÚBLICO DE ASEO. Artículo integrado y unificado en el artículo 1.8.7.2.3.1 de ",
-   "fuente": "ARTÍCULO 5.2.3.1. CONTENIDO DE LA SOLICITUD PARA LA MODIFICACIÓN DE LA FÓRMULA TARIFARIA DEL SERVICIO PÚBLICO DE ASEO. Artículo integrado y unificado en el artículo 1.8.7.2.3.1 de ",
-   "diff": {
-    "corpus": "...a correspondiente y de conformidad con el siguiente formato Para el efecto, se deberán tener en cuenta los siguientes cr...",
-    "fuente": "...a correspondiente y de conformidad con el siguiente formato ! ! Para el efecto, se deberán tener en cuenta los siguientes cr..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.4.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.4.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.4.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.2.4.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.3.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.3.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.3.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.4.1.1",
-   "estado": "divergente",
-   "similitud": 0.1792,
-   "corpus": "ARTÍCULO 5.4.1.1 PROCEDIMIENTO PARA HACER EFECTIVO EL TRATAMIENTO TARIFARIO DEFINIDO EN EL ARTÍCULO 4.2.11.1 Entiéndase derogado por el artículo 23 de la Resolución 233 de 2002.",
-   "fuente": "ARTÍCULO 5.4.1.1 PROCEDIMIENTO PARA HACER EFECTIVO EL TRATAMIENTO TARIFARIO DEFINIDO EN EL ARTÍCULO 4.2.11.1 Entiéndase derogado por el artículo 23 de la Resolución 233 de 2002. La",
-   "diff": {
-    "corpus": "...se derogado por el artículo 23 de la Resolución 233 de 2002....",
-    "fuente": "...se derogado por el artículo 23 de la Resolución 233 de 2002. La persona prestadora del servicio de aseo realiza la facturación normal al usuario, es decir sin considerar el estado de desocupación o deshabitación del inmueble en cuestión. El usuario, o quien éste designe sin necesidad de formalidades para el efecto, presentará ante la persona prestadora del servicio de aseo la factura del servicio de energía o el certificado de la inspección ocular. La persona prestadora del servicio de aseo, una vez verificado el requisito de que trata el Artículo 4.2.11.1 de la presente resolución, deberá tomar en forma inmediata las medidas que permitan al usuario pagar sólo el valor que le corresponde o que se le realicen los reembolsos por los pagos efectuados en exceso. PARÁGRAFO 1. La persona prestadora del servicio de aseo podrá aplicar de oficio la tarifa establecida en el Artículo 4.2.11.1 de la presente resolución. PARÁGRAFO 2. Cuando los períodos facturados por el servicio de energía no correspondan con los del servicio de aseo, se tomará como referencia la factura de energía que cubra el mayor número de días del mes para el cual se solicita la aplicación de la tarifa establecida en el Artículo 4.2.11.1 de esta resolución. PARÁGRAFO 3. No se aplicarán descuentos sobre facturas con más de cinco (5) meses de expedidas. CAPÍTULO 5. PROCEDIMIENTO PARA ATENDER LAS SOLICITUDES DE INFORMACIÓN EFECTUADAS POR LA COMISIÓN DE REGULACIÓN DE AGUA POTABLE Y SANEAMIENTO BÁSICO A LOS PRESTADORES DE LOS SERVICIOS PÚBLICOS DOMICILIARIOS DE ACUEDUCTO, ALCANTARILLADO Y ASEO, DE CONFORMIDAD CON LO ESTABLECIDO EN EL INCISO FINAL DEL ARTÍCULO 73 DE LA LEY 142 DE 1994. SECCIÓN 5.5.1..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.5.1.1",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.5.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.5.1.3",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.5.1.4",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.5.1.5",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.5.1.6",
-   "estado": "divergente",
-   "similitud": 0.9711,
-   "corpus": "ARTÍCULO 5.5.1.6 MULTAS. Artículo derogado por el artículo 5 de la Resolución 820 de",
-   "fuente": "ARTÍCULO 5.5.1.6 MULTAS. Artículo derogado por el artículo 5 de la Resolución 820 de 2017",
-   "diff": {
-    "corpus": "... Artículo derogado por el artículo 5 de la Resolución 820 de...",
-    "fuente": "... Artículo derogado por el artículo 5 de la Resolución 820 de 2017..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "5.5.1.7",
-   "estado": "divergente",
-   "similitud": 0.6807,
-   "corpus": "ARTÍCULO 5.5.1.7 Artículo derogado por el artículo 5 de la Resolución 820 de 2017",
-   "fuente": "ARTÍCULO 5.5.1.7 Artículo derogado por el artículo 5 de la Resolución 820 de 2017 TÍTULO VI. DEROGATORIAS Y VIGENCIA CAPÍTULO 1. CAPÍTULO ÚNICO SECCIÓN 6.1.1",
-   "diff": {
-    "corpus": "...culo derogado por el artículo 5 de la Resolución 820 de 2017...",
-    "fuente": "...culo derogado por el artículo 5 de la Resolución 820 de 2017 TÍTULO VI. DEROGATORIAS Y VIGENCIA CAPÍTULO 1. CAPÍTULO ÚNICO SECCIÓN 6.1.1..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "6.1.1.1",
-   "estado": "divergente",
-   "similitud": 0.9351,
-   "corpus": "ARTÍCULO 6.1.1.1 La presente resolución deroga todas las resoluciones de la CRA, de carácter general expedidas con anterioridad a la misma, salvo las siguientes disposiciones: Artí",
-   "fuente": "ARTÍCULO 6.1.1.1 DEROGATORIAS. Artículo modificado por el artículo 14 de la Resolución CRA 162 de 2001. El nuevo texto es el siguiente: La presente resolución deroga todas las reso",
-   "diff": {
-    "corpus": "...ARTÍCULO 6.1.1.1 La presente resolución deroga todas las resoluciones de la C...",
-    "fuente": "...ARTÍCULO 6.1.1.1 DEROGATORIAS. Artículo modificado por el artículo 14 de la Resolución CRA 162 de 2001. El nuevo texto es el siguiente: La presente resolución deroga todas las resoluciones de la C..."
-   }
+   "estado": "ausente_en_fuente"
   },
   {
    "articulo": "4",
@@ -2494,23 +1668,18 @@
   },
   {
    "articulo": "6.1.1.2",
-   "estado": "exacto"
+   "estado": "ausente_en_fuente"
   },
   {
-   "articulo": "12,",
+   "articulo": "12",
    "estado": "ausente_en_fuente"
   }
  ],
- "sin_contraparte": [
-  "1.3.31.1",
-  "2.2.1.1",
-  "2.2.1.2",
-  "2.4.1.2"
- ],
+ "sin_contraparte": [],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
-  "exactos": 281,
-  "casi": 18,
-  "divergentes": 115
+  "exactos": 4,
+  "casi": 0,
+  "divergentes": 410
  }
 }

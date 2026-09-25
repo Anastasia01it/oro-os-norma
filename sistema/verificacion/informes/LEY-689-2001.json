@@ -2,118 +2,8 @@
  "corpus": "LEY-689-2001.md",
  "fuente": "sistema/verificacion/fuentes/LEY-689-2001.gestorcra.txt",
  "umbral": 0.98,
- "articulos_corpus": 26,
+ "articulos_corpus": 16,
  "resultados": [
-  {
-   "articulo": "1",
-   "estado": "casi",
-   "similitud": 0.9986,
-   "corpus": "ARTÍCULO 1°. Modifícanse los numerales 15 y 24 del artículo 14 de la Ley 142 de 1994, el cual quedará así: \"Artículo 14. Deﬁniciones. 14.15 Productor marginal independiente o para ",
-   "fuente": "ARTÍCULO 1o. Modifícanse los numerales 15 y 24 del artículo 14 de la Ley 142 de 1994, el cual quedará así: \" Artículo 14. Definiciones. 14.15 Productor marginal independiente o par",
-   "diff": {
-    "corpus": "...ARTÍCULO 1°. Modifícanse los numerales 15 y 24 del artículo 14 de la Le...",
-    "fuente": "...ARTÍCULO 1o. Modifícanse los numerales 15 y 24 del artículo 14 de la Le..."
-   }
-  },
-  {
-   "articulo": "2",
-   "estado": "divergente",
-   "similitud": 0.8545,
-   "corpus": "ARTÍCULO 2°. Modifícase el numeral 20 del artículo 14 de la Ley 142 de 1994 el cual quedará así: \"14.20 Servicios Públicos. Son todos los servicios y actividades complementarias a ",
-   "fuente": "ARTÍCULO 2o. Modifícase el numeral 20 del artículo 14 de la Ley 142 de 1994 el cual quedará así: \" 14.20 Servicios Públicos. Son todos los servicios y actividades complementarias a",
-   "diff": {
-    "corpus": "...ARTÍCULO 2°. Modifícase el numeral 20 del artículo 14 de la Ley 142 de ...",
-    "fuente": "...ARTÍCULO 2o. Modifícase el numeral 20 del artículo 14 de la Ley 142 de ..."
-   }
-  },
-  {
-   "articulo": "3",
-   "estado": "casi",
-   "similitud": 0.9987,
-   "corpus": "ARTÍCULO 3°. Modifícase el artículo 31 de la Ley 142 de 1994 el cual quedará así: \"Artículo 31. Régimen de la contratación. Los contratos que celebren las entidades estatales que p",
-   "fuente": "ARTÍCULO 3o. Modifícase el artículo 31 de la Ley 142 de 1994 el cual quedará así: \" Artículo 31. Régimen de la contratación. Los contratos que celebren las entidades estatales que ",
-   "diff": {
-    "corpus": "...ARTÍCULO 3°. Modifícase el artículo 31 de la Ley 142 de 1994 el cual qu...",
-    "fuente": "...ARTÍCULO 3o. Modifícase el artículo 31 de la Ley 142 de 1994 el cual qu..."
-   }
-  },
-  {
-   "articulo": "4",
-   "estado": "divergente",
-   "similitud": 0.9548,
-   "corpus": "ARTÍCULO 4°. El parágrafo del artículo 39 de la Ley 142 de 1994, quedará así: \"Parágrafo. Salvo los contratos de que tratan el parágrafo del artículo 39 y el numeral 39.1 de la pre",
-   "fuente": "ARTÍCULO 4o. El parágrafo del artículo 39 de la Ley 142 de 1994, quedará así: \"Parágrafo. Salvo los contratos de que tratan el parágrafo del artículo 39 sic y el numeral 39.1 de la",
-   "diff": {
-    "corpus": "...ARTÍCULO 4°. El parágrafo del artículo 39 de la Ley 142 de 1994, quedar...",
-    "fuente": "...ARTÍCULO 4o. El parágrafo del artículo 39 de la Ley 142 de 1994, quedar..."
-   }
-  },
-  {
-   "articulo": "5",
-   "estado": "divergente",
-   "similitud": 0.3433,
-   "corpus": "ARTÍCULO 5°. Modifícase el artículo 50 de la Ley 142 de 1994 el cual quedará así: \"Artículo 50. Control ﬁscal en las empresas de servicios públicos domiciliarios con participación ",
-   "fuente": "ARTÍCULO 5o. Modifícase el artículo 50 de la Ley 142 de 1994 el cual quedará así: \"Artículo 50. Control fiscal en las empresas de servicios públicos domiciliarios con participación",
-   "diff": {
-    "corpus": "...ARTÍCULO 5°. Modifícase el artículo 50 de la Ley 142 de 1994 el cual qu...",
-    "fuente": "...ARTÍCULO 5o. Modifícase el artículo 50 de la Ley 142 de 1994 el cual qu..."
-   }
-  },
-  {
-   "articulo": "6",
-   "estado": "divergente",
-   "similitud": 0.9469,
-   "corpus": "ARTÍCULO 6°. Modifícase el artículo 51 de la Ley 142 de 1994, el cual quedará así: \"Artículo 51. Auditoría externa. Independientemente del control interno, todas las Empresas de Se",
-   "fuente": "ARTÍCULO 6o. Modifícase el artículo 51 de la Ley 142 de 1994, el cual quedará así: \" Artículo 51. Auditoría externa. Aparte subrayado CONDICIONALMENTE EXEQUIBLE Independientemente ",
-   "diff": {
-    "corpus": "...ARTÍCULO 6°. Modifícase el artículo 51 de la Ley 142 de 1994, el cual q...",
-    "fuente": "...ARTÍCULO 6o. Modifícase el artículo 51 de la Ley 142 de 1994, el cual q..."
-   }
-  },
-  {
-   "articulo": "7",
-   "estado": "casi",
-   "similitud": 0.9913,
-   "corpus": "ARTÍCULO 7°. Modifícase el artículo 52 de la Ley 142 de 1994, el cual quedará así: \"Artículo 52. Concepto de control de gestión y resultados. El control de gestión y resultados es ",
-   "fuente": "ARTÍCULO 7o. Modifícase el artículo 52 de la Ley 142 de 1994, el cual quedará así: \"Artículo 52. Concepto de control de gestión y resultados. El control de gestión y resultados es ",
-   "diff": {
-    "corpus": "...ARTÍCULO 7°. Modifícase el artículo 52 de la Ley 142 de 1994, el cual q...",
-    "fuente": "...ARTÍCULO 7o. Modifícase el artículo 52 de la Ley 142 de 1994, el cual q..."
-   }
-  },
-  {
-   "articulo": "8",
-   "estado": "divergente",
-   "similitud": 0.973,
-   "corpus": "ARTÍCULO 8°. Modifícase el artículo 60 de la Ley 142 de 1994, el cual quedará así: \"Artículo 60. Efectos de la toma de posesión. Como consecuencia de la toma de posesión se produci",
-   "fuente": "ARTÍCULO 8o. Modifícase el artículo 60 de la Ley 142 de 1994, el cual quedará así: \"Artículo 60. Efectos de la toma de posesión. Como consecuencia de la toma de posesión se produci",
-   "diff": {
-    "corpus": "...ARTÍCULO 8°. Modifícase el artículo 60 de la Ley 142 de 1994, el cual q...",
-    "fuente": "...ARTÍCULO 8o. Modifícase el artículo 60 de la Ley 142 de 1994, el cual q..."
-   }
-  },
-  {
-   "articulo": "9",
-   "estado": "divergente",
-   "similitud": 0.9545,
-   "corpus": "ARTÍCULO 9°. Adiciónase el siguiente parágrafo al artículo 61 de la Ley 142 de 1994: Parágrafo. Al ordenar la liquidación de una empresa de servicios públicos del orden municipal q",
-   "fuente": "ARTÍCULO 9o. Adiciónase el siguiente parágrafo al artículo 61 de la Ley 142 de 1994: PARÁGRAFO. Al ordenar la liquidación de una empresa de servicios públicos del orden municipal q",
-   "diff": {
-    "corpus": "...ARTÍCULO 9°. Adiciónase el siguiente parágrafo al artículo 61 de la Ley...",
-    "fuente": "...ARTÍCULO 9o. Adiciónase el siguiente parágrafo al artículo 61 de la Ley..."
-   }
-  },
-  {
-   "articulo": "10",
-   "estado": "casi",
-   "similitud": 0.9926,
-   "corpus": "ARTÍCULO 10°. Modifícase el artículo 62 de la Ley 142 de 1994 el cual quedará así: \"Artículo 62. Organización. En desarrollo del artículo 369 de la Constitución Política de Colombi",
-   "fuente": "ARTÍCULO 10. Modifícase el artículo 62 de la Ley 142 de 1994 el cual quedará así: \"Artículo 62. Organización. En desarrollo del artículo 369 de la Constitución Política de Colombia",
-   "diff": {
-    "corpus": "...ARTÍCULO 10°. Modifícase el artículo 62 de la Ley 142 de 1994 el cual qu...",
-    "fuente": "...ARTÍCULO 10. Modifícase el artículo 62 de la Ley 142 de 1994 el cual qu..."
-   }
-  },
   {
    "articulo": "11",
    "estado": "divergente",
@@ -256,11 +146,22 @@
    }
   }
  ],
- "sin_contraparte": [],
+ "sin_contraparte": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10"
+ ],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
   "exactos": 5,
-  "casi": 7,
-  "divergentes": 14
+  "casi": 3,
+  "divergentes": 8
  }
 }

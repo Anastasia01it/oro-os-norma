@@ -1,0 +1,97 @@
+{
+ "corpus": "DECRETO-670-2025.md",
+ "fuente": "sistema/verificacion/fuentes/DECRETO-670-2025.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 10,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9855,
+   "corpus": "ARTÍCULO 1. Adiciónese el Capítulo 8 al Título 2 de la Parte 3 del Libro 2 del Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio, Decreto 1077 del 26 de mayo de ",
+   "fuente": "ARTÍCULO 1o. Adiciónese el Capítulo 8 al Título 2 de la Parte 3 del Libro 2 del Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio, Decreto número 1077 del 26 de ",
+   "diff": {
+    "corpus": "...ARTÍCULO 1. Adiciónese el Capítulo 8 al Título 2 de la Parte 3 del Lib...",
+    "fuente": "...ARTÍCULO 1o. Adiciónese el Capítulo 8 al Título 2 de la Parte 3 del Lib..."
+   }
+  },
+  {
+   "articulo": "2.3.2.8.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.2.8.2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.2.8.3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.2.8.4",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2",
+   "estado": "casi",
+   "similitud": 0.9945,
+   "corpus": "ARTÍCULO 2. Modifíquese el numeral 88 del artículo 2.3.2.1.1. del Capítulo 1, del Título 2, de la Parte 3, del Libro 2, del Decreto Único Reglamentario del Sector Vivienda, Ciudad ",
+   "fuente": "ARTÍCULO 2o. Modifíquese el numeral 88 del artículo 2.3.2.1.1. del Capítulo 1, del Título 2, de la Parte 3, del Libro 2, del Decreto Único Reglamentario del Sector Vivienda, Ciudad",
+   "diff": {
+    "corpus": "...ARTÍCULO 2. Modifíquese el numeral 88 del artículo 2.3.2.1.1. del Capí...",
+    "fuente": "...ARTÍCULO 2o. Modifíquese el numeral 88 del artículo 2.3.2.1.1. del Capí..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "casi",
+   "similitud": 0.997,
+   "corpus": "ARTÍCULO 3. Modifíquese el artículo 2.3.2.7.15. del Capítulo 7, del Título 2, de la Parte 3, del Libro 2, del Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio, ",
+   "fuente": "ARTÍCULO 3o. Modifíquese el artículo 2.3.2.7.15. del Capítulo 7, del Título 2, de la Parte 3, del Libro 2, del Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio,",
+   "diff": {
+    "corpus": "...ARTÍCULO 3. Modifíquese el artículo 2.3.2.7.15. del Capítulo 7, del Tí...",
+    "fuente": "...ARTÍCULO 3o. Modifíquese el artículo 2.3.2.7.15. del Capítulo 7, del Tí..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "casi",
+   "similitud": 0.9889,
+   "corpus": "ARTÍCULO 4. Adiciónese el numeral 23 y el parágrafo 6 al artículo 2.2.2.3.2.3 del Capítulo 3, Título 2, Parte 2, Libro 2 del Decreto Único Reglamentario del Sector Ambiente y Desar",
+   "fuente": "ARTÍCULO 4o. Adiciónese el numeral 23 sic y el parágrafo 6 al artículo 2.2.2.3.2.3 del Capítulo 3, Título 2, Parte 2, Libro 2 del Decreto Único Reglamentario del Sector Ambiente y ",
+   "diff": {
+    "corpus": "...ARTÍCULO 4. Adiciónese el numeral 23 y el parágrafo 6 al artículo 2.2....",
+    "fuente": "...ARTÍCULO 4o. Adiciónese el numeral 23 sic y el parágrafo 6 al artículo ..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.9038,
+   "corpus": "ARTÍCULO 5. Adiciónese el numeral 10 del artículo 2.2.2.3.7.1. del Capítulo 3, Título 2, Parte 2, Libro 2 del Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenibl",
+   "fuente": "ARTÍCULO 5o. Adiciónese el numeral 10 del artículo 2.2.2.3.7.1. del Capítulo 3, Título 2, Parte 2, Libro 2 del Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenib",
+   "diff": {
+    "corpus": "...ARTÍCULO 5. Adiciónese el numeral 10 del artículo 2.2.2.3.7.1. del Cap...",
+    "fuente": "...ARTÍCULO 5o. Adiciónese el numeral 10 del artículo 2.2.2.3.7.1. del Cap..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "divergente",
+   "similitud": 0.3953,
+   "corpus": "ARTÍCULO 6. Vigencia. El presente Decreto surtirá efectos a partir de su publicación en el Diario Oﬁcial, modiﬁca en los siguientes aspectos el Decreto 1077 de 2015: numeral 88 del",
+   "fuente": "ARTÍCULO 6o. VIGENCIA. El presente decreto surtirá efectos a partir de su publicación en el Diario Oficial , modifica en los siguientes aspectos el Decreto número 1077 de 2015: num",
+   "diff": {
+    "corpus": "...ARTÍCULO 6. Vigencia. El presente Decreto surtirá efectos a partir de ...",
+    "fuente": "...ARTÍCULO 6o. VIGENCIA. El presente decreto surtirá efectos a partir de ..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 4,
+  "casi": 4,
+  "divergentes": 2
+ }
+}

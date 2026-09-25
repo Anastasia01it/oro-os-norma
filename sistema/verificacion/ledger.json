@@ -50,9 +50,15 @@
    "nota": "la propia fuente oficial muestra una corrupcion de texto en considerandos ('Decreto 1381 de 20e incorporan'): reportar al emisor, no heredar"
   },
   "LEY-142-1994.md": {
-   "estado": "PENDIENTE",
-   "fuente_identificada": "https://normas.cra.gov.co/gestor/docs/ley_0142_1994.htm",
-   "bloqueo": "pagina > 5 MB en una sola captura; requiere secciones o PDF"
+   "estado": "NO_VERIFICADA",
+   "clase": null,
+   "articulos": 189,
+   "exactos": 37,
+   "casi": 33,
+   "divergentes": 119,
+   "nota": "captura 360KB >300KB: no pegar en contexto",
+   "fuente": "https://normas.cra.gov.co/gestor/docs/ley_0142_1994.htm",
+   "informe": "sistema/verificacion/informes/normas_procesar/LEY-142-1994.json"
   },
   "RESOLUCION-CRA-1011-2025.md": {
    "estado": "NO_VERIFICADA",
@@ -80,9 +86,9 @@
    "estado": "NO_VERIFICADA",
    "clase": "verificacion_mayormente_ok_con_anotaciones",
    "articulos": 414,
-   "exactos": 281,
-   "casi": 18,
-   "divergentes": 115,
+   "exactos": 4,
+   "casi": 0,
+   "divergentes": 410,
    "snapshot_wayback": "20231210145031",
    "nota": "",
    "informe": "sistema/verificacion/informes/RESOLUCION-CRA-151-2001.json"
@@ -102,9 +108,9 @@
    "estado": "NO_VERIFICADA",
    "clase": "fuente_archivada_wayback",
    "articulos": 22,
-   "exactos": 7,
-   "casi": 8,
-   "divergentes": 7,
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 22,
    "snapshot_wayback": "20231210140546",
    "nota": "",
    "informe": "sistema/verificacion/informes/RESOLUCION-CRA-351-2005.json"
@@ -134,10 +140,10 @@
   "RESOLUCION-CRA-720-2015.md": {
    "estado": "NO_VERIFICADA",
    "clase": "corpus_depurado_vs_fuente_anotada",
-   "articulos": 78,
+   "articulos": 77,
    "exactos": 0,
    "casi": 0,
-   "divergentes": 78,
+   "divergentes": 77,
    "snapshot_wayback": "20230923115847",
    "nota": "",
    "informe": "sistema/verificacion/informes/RESOLUCION-CRA-720-2015.json"
@@ -154,12 +160,12 @@
    "informe": "sistema/verificacion/informes/RESOLUCION-CRA-778-2016.json"
   },
   "Resolucion_CRA_0779_2016.md": {
-   "estado": "NO_VERIFICADA",
+   "estado": "VERIFICADA_CON_EXCEPCIONES",
    "clase": "fuente_archivada_wayback",
    "articulos": 4,
-   "exactos": 2,
+   "exactos": 0,
    "casi": 1,
-   "divergentes": 1,
+   "divergentes": 3,
    "snapshot_wayback": "20240614094825",
    "nota": "",
    "informe": "sistema/verificacion/informes/Resolucion_CRA_0779_2016.json"
@@ -189,10 +195,10 @@
   "RESOLUCION-CRA-943-2021.md": {
    "estado": "NO_VERIFICADA",
    "clase": "estructura_compilada_y_ratio_muestreado",
-   "articulos": 591,
+   "articulos": 902,
    "exactos": 4,
    "casi": 1,
-   "divergentes": 586,
+   "divergentes": 897,
    "nota": "resolucion-compilacion (591 arts. con decimales profundos); ratio por muestreo subestima; requiere metodo dedicado",
    "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
    "informe": "sistema/verificacion/informes/RESOLUCION-CRA-943-2021.json"
@@ -201,8 +207,8 @@
    "estado": "VERIFICADA_CON_EXCEPCIONES",
    "clase": null,
    "articulos": 16,
-   "exactos": 13,
-   "casi": 1,
+   "exactos": 14,
+   "casi": 0,
    "divergentes": 2,
    "nota": "14/16 verificados (13 exactos+1 casi); 2 divergentes documentados en informe",
    "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
@@ -212,8 +218,8 @@
    "estado": "NO_VERIFICADA",
    "clase": "palabras_pegadas_por_conversion",
    "articulos": 128,
-   "exactos": 0,
-   "casi": 106,
+   "exactos": 26,
+   "casi": 80,
    "divergentes": 22,
    "nota": "106 casi + 22 divergentes TODOS por palabras pegadas en juntas de anotacion ('2015Establecer'); contenido presente; errata mecanica pendiente de aprobacion humana",
    "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura en sistema/verificacion/fuentes/)",
@@ -307,7 +313,7 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ (captura: sistema/verificacion/fuentes/)",
    "informe": "sistema/verificacion/informes/Decreto_1784_2017.json"
   },
-  "normas_procesar/Ley_0100_1993.md": {
+  "Ley_0100_1993.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
    "articulos": 50,
@@ -318,7 +324,7 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_0100_1993.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/Ley_0100_1993.json"
   },
-  "normas_procesar/Ley_0388_1997.md": {
+  "Ley_0388_1997.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
    "articulos": 18,
@@ -329,7 +335,7 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_0388_1997.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/Ley_0388_1997.json"
   },
-  "normas_procesar/Ley_1328_2009.md": {
+  "Ley_1328_2009.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
    "articulos": 54,
@@ -340,7 +346,7 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_1328_2009.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/Ley_1328_2009.json"
   },
-  "normas_procesar/Ley_1450_2011.md": {
+  "Ley_1450_2011.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
    "articulos": 13,
@@ -351,7 +357,7 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_1450_2011.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/Ley_1450_2011.json"
   },
-  "normas_procesar/Ley_1753_2015.md": {
+  "Ley_1753_2015.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
    "articulos": 32,
@@ -362,18 +368,18 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_1753_2015.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/Ley_1753_2015.json"
   },
-  "normas_procesar/Ley_1955_2019.md": {
+  "Ley_1955_2019.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
-   "articulos": 84,
-   "exactos": 34,
+   "articulos": 83,
+   "exactos": 33,
    "casi": 3,
    "divergentes": 47,
    "nota": "captura 625KB >300KB: no pegar en contexto",
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_1955_2019.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/Ley_1955_2019.json"
   },
-  "normas_procesar/Ley_2294_2023.md": {
+  "Ley_2294_2023.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
    "articulos": 176,
@@ -384,7 +390,7 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_2294_2023.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/Ley_2294_2023.json"
   },
-  "normas_procesar/Ley_2466_2025.md": {
+  "Ley_2466_2025.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
    "articulos": 70,
@@ -395,7 +401,7 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_2466_2025.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/Ley_2466_2025.json"
   },
-  "normas_procesar/LEY-253-1996.md": {
+  "LEY-253-1996.md": {
    "estado": "VERIFICADA",
    "clase": null,
    "articulos": 0,
@@ -406,7 +412,7 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_0253_1996.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/LEY-253-1996.json"
   },
-  "normas_procesar/LEY-632-2000.md": {
+  "LEY-632-2000.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
    "articulos": 2,
@@ -417,18 +423,18 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_0632_2000.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/LEY-632-2000.json"
   },
-  "normas_procesar/LEY-689-2001.md": {
+  "LEY-689-2001.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
-   "articulos": 26,
+   "articulos": 16,
    "exactos": 5,
-   "casi": 7,
-   "divergentes": 14,
+   "casi": 3,
+   "divergentes": 8,
    "nota": "",
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_0689_2001.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/LEY-689-2001.json"
   },
-  "normas_procesar/LEY-1196-2008.md": {
+  "LEY-1196-2008.md": {
    "estado": "VERIFICADA",
    "clase": null,
    "articulos": 0,
@@ -439,18 +445,7 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_1196_2008.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/LEY-1196-2008.json"
   },
-  "normas_procesar/LEY-142-1994.md": {
-   "estado": "NO_VERIFICADA",
-   "clase": null,
-   "articulos": 189,
-   "exactos": 37,
-   "casi": 33,
-   "divergentes": 119,
-   "nota": "captura 360KB >300KB: no pegar en contexto",
-   "fuente": "https://normas.cra.gov.co/gestor/docs/ley_0142_1994.htm",
-   "informe": "sistema/verificacion/informes/normas_procesar/LEY-142-1994.json"
-  },
-  "normas_procesar/LEY-2232-2022.md": {
+  "LEY-2232-2022.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
    "articulos": 29,
@@ -461,14 +456,14 @@
    "fuente": "https://normas.cra.gov.co/gestor/docs/ley_2232_2022.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/LEY-2232-2022.json"
   },
-  "normas_procesar/CONSTITUCION-POLITICA-CP-1991.md": {
+  "CONSTITUCION-POLITICA-CP-1991.md": {
    "estado": "NO_VERIFICADA",
    "clase": null,
-   "articulos": 381,
+   "articulos": 380,
    "exactos": 0,
-   "casi": 14,
-   "divergentes": 367,
-   "nota": "captura 587KB >300KB: no pegar en contexto",
+   "casi": 130,
+   "divergentes": 250,
+   "nota": "Analisis dedicado: 0 ausentes tras fix segmentador ('5o.El'). 130 casi = ruido editorial Constitute (221 arts. con etiquetas de temas intercaladas) + menores; 250 divergentes incluyen 56 reformas reales post-2015 (AL 1/2023, 1/2025) que el corpus 2015 no recoge. PROPUESTA D9: re-procesar corpus desde fuente CRA.",
    "fuente": "https://normas.cra.gov.co/gestor/docs/constitucion_politica_1991.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/CONSTITUCION-POLITICA-CP-1991.json"
   }

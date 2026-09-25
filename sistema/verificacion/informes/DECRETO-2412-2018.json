@@ -1,0 +1,142 @@
+{
+ "corpus": "DECRETO-2412-2018.md",
+ "fuente": "sistema/verificacion/fuentes/DECRETO-2412-2018.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 12,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "casi",
+   "similitud": 0.9931,
+   "corpus": "ARTÍCULO 1. Adiciónese el capítulo 7, al título 2, de la parte 3, del libro 2, del Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio, Decreto 1077 del 26 de mayo",
+   "fuente": "ARTÍCULO 1o. Adiciónese el capítulo 7, al título 2, de la parte 3, del libro 2, del Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio, Decreto 1077 del 26 de may",
+   "diff": {
+    "corpus": "...ARTÍCULO 1. Adiciónese el capítulo 7, al título 2, de la parte 3, del ...",
+    "fuente": "...ARTÍCULO 1o. Adiciónese el capítulo 7, al título 2, de la parte 3, del ..."
+   }
+  },
+  {
+   "articulo": "2.3.2.7.1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2.3.2.7.2",
+   "estado": "divergente",
+   "similitud": 0.4935,
+   "corpus": "ARTÍCULO 2.3.2.7.2. Ámbito de Aplicación. El presente capítulo aplica a las personas prestadoras de las actividades principales y complementarias del servicio público de aseo y a l",
+   "fuente": "Artículo 2.3.2.7.2. Ámbito de Aplicación. El presente capítulo aplica a las personas prestadoras de las actividades principales y complementarias del servicio público de aseo y a l",
+   "diff": {
+    "corpus": "...lico de aseo en libre competencia como en áreas de servicio Decreto 2412 de 2018 Departamento Administrativo de la Función Pública exclusivo. PARÁGRAFO. El cobro del Incentivo...",
+    "fuente": "...lico de aseo en libre competencia como en áreas de servicio exclusivo. PARÁGRAFO. El cobro del Incentivo al Aprovechamiento y Tratamiento ..."
+   }
+  },
+  {
+   "articulo": "2.3.2.7.3",
+   "estado": "casi",
+   "similitud": 0.9984,
+   "corpus": "ARTÍCULO 2.3.2.7.3. Valor del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (VIAT). El valor del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (VI",
+   "fuente": "Artículo 2.3.2.7.3. Valor del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (VIAT). El valor del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (VI",
+   "diff": {
+    "corpus": "...) = Costo de disposición ﬁnal incorporando el incentivo. COF= Costo de disposición ﬁnal VIAT ($/Ton) = SMMLV 0,80% SMMLV=...",
+    "fuente": "...T) = Costo de disposición final incorporando el incentivo. CDF= Costo de disposición final VIAT ($/Ton) = SMMLV 0,80% SMM..."
+   }
+  },
+  {
+   "articulo": "2.3.2.7.4",
+   "estado": "casi",
+   "similitud": 0.9966,
+   "corpus": "ARTÍCULO 2.3.2.7.4. Facturación del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (lA T). La facturación del Incentivo al Aprovechamiento y Tratamiento de Residuos",
+   "fuente": "Artículo 2.3.2.7.4. Facturación del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT). La facturación del Incentivo al Aprovechamiento y Tratamiento de Residuos ",
+   "diff": {
+    "corpus": "...ntivo al Aprovechamiento y Tratamiento de Residuos Sólidos (lA T). La facturación del Incentivo al Aprovechamiento y Tratam...",
+    "fuente": "...ntivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT). La facturación del Incentivo al Aprovechamiento y Tratam..."
+   }
+  },
+  {
+   "articulo": "2.3.2.7.5",
+   "estado": "divergente",
+   "similitud": 0.9513,
+   "corpus": "ARTÍCULO 2.3.2.7.5. Cuenta del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (lA T). Para efectos de garantizar la destinación especíﬁca de los recursos provenient",
+   "fuente": "Artículo 2.3.2.7.5. Cuenta del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT). Para efectos de garantizar la destinación específica de los recursos provenient",
+   "diff": {
+    "corpus": "...ntivo al Aprovechamiento y Tratamiento de Residuos Sólidos (lA T). Para efectos de garantizar la destinación especíﬁca de l...",
+    "fuente": "...ntivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT). Para efectos de garantizar la destinación específica de ..."
+   }
+  },
+  {
+   "articulo": "2.3.2.7.6",
+   "estado": "divergente",
+   "similitud": 0.9766,
+   "corpus": "ARTÍCULO 2.3.2.7.6. Recaudo de los recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (lA T). Las personas prestadoras de la actividad de recolección y tra",
+   "fuente": "Artículo 2.3.2.7.6. Recaudo de los recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT). Las personas prestadoras de la actividad de recolección y tran",
+   "diff": {
+    "corpus": "...ntivo al Aprovechamiento y Tratamiento de Residuos Sólidos (lA T). Las personas prestadoras de la actividad de recolección ...",
+    "fuente": "...ntivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT). Las personas prestadoras de la actividad de recolección ..."
+   }
+  },
+  {
+   "articulo": "2.3.2.7.7",
+   "estado": "casi",
+   "similitud": 0.9994,
+   "corpus": "ARTÍCULO 2.3.2.7.7. Administración del Comité del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT). La administración del Incentivo al Aprovechamiento y Tratami",
+   "fuente": "Artículo 2.3.2.7.7. Administración del Comité del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT). La administración del Incentivo al Aprovechamiento y Tratami",
+   "diff": {
+    "corpus": "...ento a la ejecución de los recursos asignados. PARÁGRAFO 1. La Secretaría Técnica del Comité del Incentivo al Aprovecham...",
+    "fuente": "...miento a la ejecución de los recursos asignados. PARÁGRAFO 1o. La Secretaría Técnica del Comité del Incentivo al Aprovech..."
+   }
+  },
+  {
+   "articulo": "2.3.2.7.8",
+   "estado": "divergente",
+   "similitud": 0.9653,
+   "corpus": "ARTÍCULO 2.3.2.7.8. Presentación de proyectos. Las personas prestadoras de las actividades principales y complementarias del servicio público de aseo, que estén interesadas en acce",
+   "fuente": "Artículo 2.3.2.7.8. Presentación de proyectos. Las personas prestadoras de las actividades principales y complementarias del servicio público de aseo, que estén interesadas en acce",
+   "diff": {
+    "corpus": "... componentes de la prestación del servicio público de aseo. Decreto 2412 de 2018 Departamento Administrativo de la Función Pública...",
+    "fuente": "...s componentes de la prestación del servicio público de aseo...."
+   }
+  },
+  {
+   "articulo": "2.3.2.7.9",
+   "estado": "divergente",
+   "similitud": 0.3672,
+   "corpus": "ARTÍCULO 2.3.2.7.9. Asignación de recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (lA T). La asignación de recursos para ﬁnanciar proyectos de aprovecha",
+   "fuente": "Artículo 2.3.2.7.9. Asignación de recursos del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT). La asignación de recursos para financiar proyectos de aprovecha",
+   "diff": {
+    "corpus": "...ntivo al Aprovechamiento y Tratamiento de Residuos Sólidos (lA T). La asignación de recursos para ﬁnanciar proyectos de apr...",
+    "fuente": "...ntivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT). La asignación de recursos para financiar proyectos de ap..."
+   }
+  },
+  {
+   "articulo": "2.3.2.7.10",
+   "estado": "divergente",
+   "similitud": 0.8516,
+   "corpus": "ARTÍCULO 2.3.2.7.10. Traslado de recursos asignados. Una vez el Comité del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT) deﬁna los proyectos a ﬁnanciar a tra",
+   "fuente": "Artículo 2.3.2.7.10. Traslado de recursos asignados. Una vez el Comité del Incentivo al Aprovechamiento y Tratamiento de Residuos Sólidos (IAT) defina los proyectos a financiar a t",
+   "diff": {
+    "corpus": "...inisterio de Vivienda, Ciudad y Territorio. PARÁGRAFO 1. La garantía de la que trata el presente artículo debe ser exped...",
+    "fuente": "... el Ministerio de Vivienda, Ciudad y Territorio. PARÁGRAFO 1o. La garantía de la que trata el presente artículo debe ser ..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.3017,
+   "corpus": "ARTÍCULO 2. Vigencia. El presente decreto adiciona el capítulo 7. al título 2, de la parte 3. del libro 2, del Decreto Único Reglamentario del Sector Vivienda. Ciudad y Territorio.",
+   "fuente": "ARTÍCULO 2o. VIGENCIA. El presente decreto adiciona el capítulo 7, al título 2, de la parte 3, del libro 2, del Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio",
+   "diff": {
+    "corpus": "...ARTÍCULO 2. Vigencia. El presente decreto adiciona el capítulo 7. al t...",
+    "fuente": "...ARTÍCULO 2o. VIGENCIA. El presente decreto adiciona el capítulo 7, al t..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "2.3.2.7.11"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 1,
+  "casi": 4,
+  "divergentes": 7
+ }
+}

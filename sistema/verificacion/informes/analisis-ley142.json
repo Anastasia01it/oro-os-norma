@@ -1,0 +1,130 @@
+{
+ "articulos": 189,
+ "exactos": 37,
+ "casi": 33,
+ "divergentes": 119,
+ "buckets": {
+  "capitalizacion_rotulos": [],
+  "notas_vigencia_en_corpus": [
+   "2",
+   "7",
+   "12",
+   "20",
+   "23",
+   "29.-",
+   "30",
+   "34",
+   "35",
+   "36",
+   "37",
+   "45",
+   "58",
+   "59",
+   "65",
+   "75",
+   "84",
+   "86",
+   "88",
+   "93",
+   "103",
+   "105",
+   "110",
+   "118",
+   "123",
+   "127",
+   "128",
+   "134",
+   "137",
+   "150",
+   "154",
+   "160",
+   "163",
+   "171",
+   "173",
+   "177",
+   "182",
+   "189"
+  ],
+  "ordinal_formato": [
+   "143"
+  ],
+  "contenido_real": [
+   {
+    "articulo": "1",
+    "diff_corpus": "culo 1. ambito de aplicacion de la ley. esta ley se aplica a los servicios publicos dom",
+    "diff_fuente": "culo 1. ambito de aplicacion de la ley. ver notas de vigencia, en relacion con los textos subrayados"
+   },
+   {
+    "articulo": "3",
+    "diff_corpus": "ios a las personas de menores ingresos. ley 142 de 1994 departamento administrativo de la fu",
+    "diff_fuente": "ios a las personas de menores ingresos. 3.8. estimulo a la inversion de los particulares en los serv"
+   },
+   {
+    "articulo": "5",
+    "diff_corpus": "la prestacion de los servicios publicos. es competencia de los municipios en rela",
+    "diff_fuente": "la prestacion de los servicios publicos.es competencia de los municipios en rela"
+   },
+   {
+    "articulo": "6",
+    "diff_corpus": "dera que ocurre en los siguientes casos: ley 142 de 1994 departamento administrativo de la funcion p",
+    "diff_fuente": "dera que ocurre en los siguientes casos: 6.1. cuando, habiendo hecho los municip"
+   },
+   {
+    "articulo": "9",
+    "diff_corpus": "articulo 9. derecho de los usuarios. los usuarios de los servicios publicos t",
+    "diff_fuente": "articulo 9. derecho de los usuarios. aparte entre parentesis cuadrados [...] adicionado mediante fe "
+   },
+   {
+    "articulo": "11",
+    "diff_corpus": "dades prestadoras de servicios publicos. reglamentado por el decreto nacional 2668 de 1999, reglamen",
+    "diff_fuente": "dades prestadoras de servicios publicos.para cumplir con la funcion social de la"
+   },
+   {
+    "articulo": "14",
+    "diff_corpus": " servicio publico. son las actividades a las que tambien se aplica esta ley, segun l",
+    "diff_fuente": " servicio publico. son las actividades a que tambien se aplica esta ley, segun l"
+   },
+   {
+    "articulo": "15",
+    "diff_corpus": "personas que prestan servicios publicos. pueden prestar los servicios publicos: 1",
+    "diff_fuente": "personas que prestan servicios publicos.pueden prestar los servicios publicos: 1"
+   },
+   {
+    "articulo": "16",
+    "diff_corpus": "os productores de servicios marginales, independiente o para uso particular. los productores ",
+    "diff_fuente": "os productores de servicios marginales, [independiente] o para uso particular. aparte entre par"
+   },
+   {
+    "articulo": "18",
+    "diff_corpus": "articulo 18. objeto. modificado parcialmente por el articulo 28 del decreto 1165 de 1999. la empresa",
+    "diff_fuente": "articulo 18. objeto. la empresa de servicios publicos tiene c"
+   },
+   {
+    "articulo": "19",
+    "diff_corpus": "o de las empresas de servicios publicos. las empresas de servicios publicos se so",
+    "diff_fuente": "o de las empresas de servicios publicos.las empresas de servicios publicos se so"
+   },
+   {
+    "articulo": "24",
+    "diff_corpus": "servaran estas reglas especiales: 24.1. los departamentos y los municipios no po",
+    "diff_fuente": "servaran estas reglas especiales: 24.1. ver notas del editor aparte entre parentesis cuadrados [...]"
+   },
+   {
+    "articulo": "25",
+    "diff_corpus": " recuperacion del bien publico explotado, a traves de contratos de concesion. si",
+    "diff_fuente": " recuperacion del bien publico explotado a traves de contratos de concesion. aparte entre parentesis"
+   },
+   {
+    "articulo": "27",
+    "diff_corpus": "ar ni recibir de las empresas privilegios subsidio distinto de los que en esta le",
+    "diff_fuente": "ar ni recibir de las empresas privilegio o subsidio distinto de los que en esta le"
+   },
+   {
+    "articulo": "28",
+    "diff_corpus": "articulo 28. redes. todas las empresas tienen el derecho a c",
+    "diff_fuente": "articulo 28. redes. ver notas de vigencia todas las empresas tienen el derecho a c"
+   }
+  ]
+ },
+ "pasarian_si_minusculas": 37
+}

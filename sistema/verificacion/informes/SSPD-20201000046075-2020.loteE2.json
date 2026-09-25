@@ -1,0 +1,50 @@
+{
+ "corpus": "SSPD-20201000046075-2020.md",
+ "fuente": "/tmp/e2/capturas/SSPD-20201000046075-2020.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 7,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4",
+   "estado": "casi",
+   "similitud": 0.9969,
+   "corpus": "ARTÍCULO 4. REGLAS PARA EL APLAZAMIENTO. El aplazamiento de la publicación de la información certificada en el SUI como toneladas efectivamente aprovechadas se realizará atendiendo",
+   "fuente": "ARTÍCULO 4. REGLAS PARA EL APLAZAMIENTO. El aplazamiento de la publicación de la información certificada en el SUI como toneladas efectivamente aprovechadas se realizará atendiendo",
+   "diff": {
+    "corpus": "...rios www.superservicios.gov.co - sspd@superservicios.gov.co Página 8 de 8 5. Si el prestador objeta este nuevo requerimi...",
+    "fuente": "...rios www.superservicios.gov.co - sspd@superservicios.gov.co 20201000046075 Página 8 de 8 5. Si el prestador objeta este nuevo requerimi..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "6",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "7",
+   "estado": "exacto"
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "VERIFICADA",
+ "resumen": {
+  "exactos": 6,
+  "casi": 1,
+  "divergentes": 0
+ }
+}

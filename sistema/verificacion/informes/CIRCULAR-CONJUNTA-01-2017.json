@@ -1,0 +1,23 @@
+{
+ "corpus": "CIRCULAR-CONJUNTA-01-2017.md",
+ "fuente": "sistema/verificacion/fuentes/CIRCULAR-CONJUNTA-01-2017.gestorcra.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 2,
+ "resultados": [
+  {
+   "articulo": "2.3.2.5.2.2.1",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "12",
+   "estado": "ausente_en_fuente"
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 2
+ }
+}

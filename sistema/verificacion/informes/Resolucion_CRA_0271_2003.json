@@ -6,14 +6,7 @@
  "resultados": [
   {
    "articulo": "1",
-   "estado": "casi",
-   "similitud": 0.9975,
-   "corpus": "ARTÍCULO 1o. Ver vigencia de este artículo directamente en la Resolución CRA 151 de 2001Modificar el artículo 1.2.1.1 del Título 1 del Capítulo 1 de la Resolución CRA 151 de 2001, ",
-   "fuente": "ARTÍCULO 1o. Ver vigencia de este artículo directamente en la Resolución CRA 151 de 2001 Modificar el artículo 1.2.1.1 del Título 1 del Capítulo 1 de la Resolución CRA 151 de 2001,",
-   "diff": {
-    "corpus": "... este artículo directamente en la Resolución CRA 151 de 2001Modificar el artículo 1.2.1.1 del Título 1 del Capítulo 1 de...",
-    "fuente": "... este artículo directamente en la Resolución CRA 151 de 2001 Modificar el artículo 1.2.1.1 del Título 1 del Capítulo 1 de..."
-   }
+   "estado": "exacto"
   },
   {
    "articulo": "1.2.1.1",
@@ -92,8 +85,8 @@
  ],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
-  "exactos": 13,
-  "casi": 1,
+  "exactos": 14,
+  "casi": 0,
   "divergentes": 2
  }
 }

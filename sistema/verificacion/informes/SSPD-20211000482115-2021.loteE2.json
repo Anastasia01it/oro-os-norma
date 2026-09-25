@@ -1,0 +1,51 @@
+{
+ "corpus": "SSPD-20211000482115-2021.md",
+ "fuente": "/tmp/e2/capturas/SSPD-20211000482115-2021.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 9,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "2",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "3",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "4",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "5",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "6",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "7",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "8",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "9",
+   "estado": "ausente_en_fuente"
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 9
+ }
+}
