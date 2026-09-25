@@ -1,0 +1,92 @@
+{
+ "corpus": "SSPD-20211000650805-2021.corpus.norm.md",
+ "fuente": "sistema/verificacion/fuentes/SSPD-20211000650805-2021.fuente.norm.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 7,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.9778,
+   "corpus": "ARTÍCULO 1o. OBJETO. La presente Resolución tiene por objeto modificar y adicionar variables de reportes de información establecidos en las Resoluciones SSPD Nos. 20184300130165 de",
+   "fuente": "ARTÍCULO 1. – OBJETO: La presente Resolución tiene por objeto modificar y adicio- nar variables de reportes de información establecidos en las Resoluciones SSPD Nos. 20184300130165",
+   "diff": {
+    "corpus": "...ARTÍCULO 1o. OBJETO. La presente Resolución tiene por objeto modificar ...",
+    "fuente": "...ARTÍCULO 1. – OBJETO: La presente Resolución tiene por objeto modifica..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "casi",
+   "similitud": 0.9874,
+   "corpus": "ARTÍCULO 2o. RÉGIMEN APLICABLE. La presente resolución le es aplicable a todos los prestadores de la actividad de aprovechamiento del servicio público de aseo.",
+   "fuente": "ARTÍCULO 2.- RÉGIMEN APLICABLE: La presente resolución le es aplicable a todos los prestadores de la actividad de aprovechamiento del servicio público de aseo.",
+   "diff": {
+    "corpus": "...ARTÍCULO 2o. RÉGIMEN APLICABLE. La presente resolución le es aplicable ...",
+    "fuente": "...ARTÍCULO 2.- RÉGIMEN APLICABLE: La presente resolución le es aplicable..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.9338,
+   "corpus": "ARTÍCULO 3o. REPORTES ADICIONALES DE INFORMACIÓN EN EL SISTEMA ÚNICO DE INFORMACIÓN (SUI). Créense cuatro cargues adicionales a los establecidos en el artículo primero de la Resolu",
+   "fuente": "ARTÍCULO 3.- REPORTES ADICIONALES DE INFORMACIÓN EN EL SISTEMA ÚNICO DE INFORMACIÓN - SUI: Créense cuatro cargues adicionales a los establecidos en el artículo primero de la Resolu",
+   "diff": {
+    "corpus": "...ARTÍCULO 3o. REPORTES ADICIONALES DE INFORMACIÓN EN EL SISTEMA ÚNICO DE...",
+    "fuente": "...ARTÍCULO 3.- REPORTES ADICIONALES DE INFORMACIÓN EN EL SISTEMA ÚNICO D..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.9728,
+   "corpus": "ARTÍCULO 4o. VARIABLES PARA CARGUES DE INFORMACIÓN EN EL SISTEMA ÚNICO DE INFORMACIÓN (SUI). Modifíquense y adiciónense algunas variables establecidas en el Anexo 1 del artículo pr",
+   "fuente": "ARTÍCULO 4.- VARIABLES PARA CARGUES DE INFORMACIÓN EN EL SISTEMA ÚNICO DE INFORMACIÓN - SUI: Modifíquense y adiciónense algunas variables establecidas en el Anexo 1 del artículo pr",
+   "diff": {
+    "corpus": "...ARTÍCULO 4o. VARIABLES PARA CARGUES DE INFORMACIÓN EN EL SISTEMA ÚNICO ...",
+    "fuente": "...ARTÍCULO 4.- VARIABLES PARA CARGUES DE INFORMACIÓN EN EL SISTEMA ÚNICO..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.8509,
+   "corpus": "ARTÍCULO 5o. HABILITACIÓN DE LOS REPORTES CORRESPONDIENTES A LA FASE DOS DE PROGRESIVIDAD. La Superintendencia de Servicios Públicos Domiciliarios únicamente habilitará los cargues",
+   "fuente": "ARTÍCULO 5.- HABILITACIÓN DE LOS REPORTES CORRESPONDIENTES A LA FASE DOS (2) DE PROGRESIVIDAD. La Superintendencia de Servicios Públicos Domiciliarios únicamente habilitará los car",
+   "diff": {
+    "corpus": "...ARTÍCULO 5o. HABILITACIÓN DE LOS REPORTES CORRESPONDIENTES A LA FASE DO...",
+    "fuente": "...ARTÍCULO 5.- HABILITACIÓN DE LOS REPORTES CORRESPONDIENTES A LA FASE D..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "divergente",
+   "similitud": 0.6762,
+   "corpus": "ARTÍCULO 6o. HABILITACIÓN DEL REPORTE DE REGISTRO Y ACTUALIZACIÓN DE ESTACIONES DE CLASIFICACIÓN Y APROVECHAMIENTO. Para habilitar el reporte de información del formulario de regis",
+   "fuente": "ARTÍCULO 6. – HABILITACIÓN DEL REPORTE DE REGISTRO Y ACTUALIZACIÓN DE ESTACIONES DE CLASIFICACIÓN Y APROVECHAMIENTO: Para habilitar el reporte de información del formulario de regi",
+   "diff": {
+    "corpus": "...ARTÍCULO 6o. HABILITACIÓN DEL REPORTE DE REGISTRO Y ACTUALIZACIÓN DE ES...",
+    "fuente": "...ARTÍCULO 6. – HABILITACIÓN DEL REPORTE DE REGISTRO Y ACTUALIZACIÓN DE ..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "divergente",
+   "similitud": 0.0736,
+   "corpus": "ARTÍCULO 7o. VIGENCIA. La presente resolución entrará en vigencia a partir de su publicación en el Diario Oficial . Publíquese y cúmplase. Dada en Bogotá, D. C., a 3 de noviembre d",
+   "fuente": "ARTÍCULO 7. – VIGENCIA: La presente resolución entrará en vigencia a partir de su publicación en el Diario Oficial. PUBLÍQUESE Y CÚMPLASE Dada en Bogotá, D. C. NATASHA AVENDAÑO GAR",
+   "diff": {
+    "corpus": "...ARTÍCULO 7o. VIGENCIA. La presente resolución entrará en vigencia a par...",
+    "fuente": "...ARTÍCULO 7. – VIGENCIA: La presente resolución entrará en vigencia a p..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 1,
+  "divergentes": 6
+ }
+}

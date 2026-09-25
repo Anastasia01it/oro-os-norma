@@ -1,8 +1,8 @@
 {
- "corpus": "SSPD-20211000650805-2021.md",
- "fuente": "/tmp/e2/capturas/SSPD-20211000650805-2021.txt",
+ "corpus": "Resolucion_0276_2016.md",
+ "fuente": "sistema/verificacion/fuentes/Resolucion_0276_2016.oficial.txt",
  "umbral": 0.98,
- "articulos_corpus": 7,
+ "articulos_corpus": 8,
  "resultados": [
   {
    "articulo": "1",
@@ -10,10 +10,6 @@
   },
   {
    "articulo": "2",
-   "estado": "ausente_en_fuente"
-  },
-  {
-   "articulo": "3",
    "estado": "ausente_en_fuente"
   },
   {
@@ -31,6 +27,14 @@
   {
    "articulo": "7",
    "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "8",
+   "estado": "ausente_en_fuente"
+  },
+  {
+   "articulo": "14",
+   "estado": "ausente_en_fuente"
   }
  ],
  "sin_contraparte": [],
@@ -38,6 +42,6 @@
  "resumen": {
   "exactos": 0,
   "casi": 0,
-  "divergentes": 7
+  "divergentes": 8
  }
 }

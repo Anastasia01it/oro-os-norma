@@ -1,0 +1,373 @@
+
+
+                            “Por la cual se modifican y adicionan algunos de los cargues para el reporte de
+                          información al Sistema Único de Información - SUI relacionados con la actividad de
+                            aprovechamiento por parte de los prestadores de servicio público de aseo de la
+                          Resolución SSPD No. 20184300130165 del 02 de noviembre de 2018 y se dictan otras
+                                                             disposiciones”
+
+
+
+                                   LA SUPERINTENDENTE DE SERVICIOS PÚBLICOS DOMICILIARIOS
+
+                       En ejercicio de sus facultades constitucionales, legales y reglamentarias, y en especial las
+                     conferidas por los artículos 53, nuevo, y 79 numerales 1, 4, 8, 22, 36 de la Ley 142 de 1994, en
+                                        concordancia con el artículo 6 del Decreto 1369 de 2020 y,
+
+                                                                          CONSIDERANDO:
+
+                     Que de conformidad con lo establecido en el artículo 53 y en el numeral 4 del artículo 79, de la
+                     Ley 142 de 1994, modificados por los artículos 13 y 14 de la Ley 689 de 2001 y el artículo 6 del
+                     Decreto 1369 de 2020, corresponde a la Superintendencia de Servicios Públicos Domiciliarios
+                     (en adelante, “Superservicios”) establecer, administrar, mantener y operar un sistema de
+                     información que se proveerá de la información proveniente de los prestadores de servicios
+                     públicos sujetos a su control, inspección y vigilancia, denominado en la ley Sistema Único de
+                     Información (“SUI”).
+
+                     Que uno de los principales propósitos del SUI es servir de base a la Superservicios, para el
+                     cumplimiento de sus funciones de control, inspección y vigilancia, y a su vez como fuente de
+                     información para las demás entidades que tengan competencia en el sector de los servicios
+                     públicos de que trata la Ley 142 de 1994.
+
+                     Que, conforme con lo previsto en la Resolución número SSPD 321 de 2003 1, la información
+                     reportada al SUI por parte de la persona prestadora del servicio se considera oficial para todos
+                     los fines previstos en la ley.
+
+
+
+                     1
+                         "Por la cual se regulan algunos aspectos del Sistema Único de Información (SUI)".
+
+
+                           Este documento está suscrito con firma mecánica autorizada mediante Resolución N° 20201000057965 del 14 de diciembre de 2020
+                           “Por la cual se modifica parcialmente la Resolución 20201000057315 del 09 de diciembre de 2020”
+                           Sede principal. Carrera 18 nro. 84-35, Bogotá D.C. Código postal: 110221
+                           PBX 60 (1) 691 3005. Fax 60 (1) 691 3059 - sspd@superservicios.gov.co
+                           Línea de atención 60 (1) 691 3006 Bogotá. Línea gratuita nacional 01 8000 91 03 05
+                           NIT: 800.250.984.6
+
+
+
+
+Digitally signed by SUPERINTENDENCIA DE SERVICIOS PUBLICOS DOMICILIARIOS
+Date: 2021.11.03 16:39:18 COT
+20211000650805                                                                                                          Página 2 de 7
+
+
+
+
+Que, a través de la Resolución número CRA 351 de 20052, se estableció el régimen tarifario del
+servicio público de aseo, cuyas disposiciones se encuentran vigentes para los prestadores que
+atiendan en municipios de hasta 5.000 suscriptores en las áreas urbanas de los distritos y/o
+municipios, exceptuando la regulación del cobro vía tarifa de la actividad de aprovechamiento.
+
+Que la Resolución número CRA 720 de 20153, estableció el régimen de regulación tarifaria al
+que deben someterse los prestadores del servicio público de aseo que atiendan en municipios
+de más de 5.000 suscriptores en áreas urbanas y de expansión urbana, y todas las personas
+prestadoras de las actividades de disposición final, transferencia y aprovechamiento que se
+encuentren en el área rural, salvo las excepciones contenidas en la ley, especialmente las
+señaladas en el parágrafo 1 del artículo 87 de la Ley 142 de 1994. Así mismo modificó el
+artículo 1 de la Resolución número CRA 351 de 2005, “Ámbito de aplicación”, señalando que el
+régimen tarifario aplicable de esta última corresponde a las personas prestadoras del servicio
+público de aseo que atiendan en municipios de hasta 5.000 suscriptores en las áreas urbanas
+de los distritos y/o municipios, salvo las excepciones señaladas en el parágrafo 1 del
+artículo 87 de la Ley 142 de 1994.
+
+Que en la Parte 3, Título 2 del Decreto Único Reglamentario 1077 de 20154, se reguló lo relativo
+al servicio público de aseo.
+
+Que el Decreto MVCT 596 de 20165 modificó y adicionó el Decreto Único Reglamentario 1077
+de 2015, en lo relativo al esquema de la actividad de aprovechamiento del servicio público de
+aseo y al régimen transitorio para la formalización de los recicladores de oficio y se dictaron
+otras disposiciones.
+
+Que el citado decreto, para efectos de la prestación y remuneración vía tarifa, estableció que la
+actividad de aprovechamiento incluye de forma integral: i) la recolección de residuos
+aprovechables, ii) el transporte selectivo hasta la estación de clasificación y aprovechamiento
+(ECA) y iii) la clasificación y pesaje de los residuos en la estación de clasificación y
+aprovechamiento (ECA). Adicionalmente, estableció que para la consulta y cálculo de la remu-
+neración vía tarifa de la actividad de aprovechamiento de acuerdo con lo definido en el artículo
+2.3.2.5.2.2.6 del Decreto Único Reglamentario 1077 de 2015, la Superservicios a través del Sis-
+tema Único de Información- SUI- deberá publicar la información dispuesta en el artículo 10 de la
+Resolución MVCT 0276 de 2016 en la página web de la entidad, dentro de los dos (2) días si-
+guientes al reporte de la información suministrada por los prestadores en cumplimiento del ar-
+tículo 2.3.2.5.2.2.2. de la misma norma.
+
+Que, conforme con lo dispuesto en los artículos 2.3.2.5.2.2.1 y 2.3.2.5.2.3.4. del Decreto Único
+Reglamentario 1077 de 2015, los prestadores de la actividad de recolección y transporte de re-
+siduos no aprovechables deberán facturar de forma integral el servicio público de aseo, inclu-
+yendo la actividad de aprovechamiento; y estarán obligados a efectuar el traslado de los recur-
+
+2
+  "Por la cual se establecen los regímenes de regulación tarifaria a los que deben someterse las personas prestadoras del servicio
+público de aseo y la metodología que deben utilizar para el cálculo de las tarifas del servicio de aseo de residuos ordinarios y se
+dictan otras disposiciones".
+3
+  "Por la cual se establecen los regímenes de regulación tarifaria a los que deben someterse las personas prestadoras del servicio
+público de aseo y la metodología que deben utilizar para el cálculo de las tarifas del servicio de aseo de residuos ordinarios y se
+dictan otras disposiciones".
+4
+  “Decreto Único Reglamentario Sector Vivienda, Ciudad y Territorio”
+5
+  “Por el cual se modifica y adiciona el Decreto 1077 de 2015 en lo relativo con el esquema de la actividad de aprovechamiento del
+servicio público de aseo y el régimen transitorio para la formalización de los recicladores de oficio, y se dictan otras disposiciones.”
+
+                                   Superintendencia de Servicios Públicos Domiciliarios
+20211000650805                                                                                                  Página 3 de 7
+
+
+
+
+sos de la facturación a la persona prestadora de la actividad de aprovechamiento, para lo cual
+deben reportar la información pertinente al SUI de la Superservicios.
+
+Que el artículo 2.3.2.5.2.1.7 del Decreto Único Reglamentario 1077 de 2015, adicionado por el
+artículo 1 del Decreto MVCT 596 de 2016, estableció que las personas prestadoras de la activi-
+dad de aprovechamiento deben realizar el reporte de la información técnica, administrativa, co-
+mercial operativa y financiera al SUI de la Superservicios, en los términos y condiciones que
+para el efecto establezca dicha entidad.
+
+Que, mediante Resolución SSPD No. 20161300037055 de 2016 se solicitó el reporte al SUI, de
+la información relacionada con el cálculo para la remuneración vía tarifa de la actividad de apro-
+vechamiento por parte de los prestadores del servicio público de aseo que apliquen la metodo-
+logía tarifaria contenida en la Resolución CRA 720 de 2015, a partir de la cual se establecieron
+los campos de información que, en consideración al esquema de prestación de la actividad de
+aprovechamiento, se deberían reportar al SUI.
+
+Que mediante la Resolución SSPD No. 20174000237705 del 5 de diciembre de 2017 se solicitó
+el reporte de información al SUI por parte de los prestadores del servicio público de aseo, que
+desarrollan actividades que hagan parte de la cadena de prestación del servicio público de
+aseo, o actividades complementarias al mismo, de conformidad con los reportes de información,
+variables, periodicidad y fechas de cargue; los cuales se definieron en su anexo 1.
+
+Que por medio de la Resolución CRA 832 de 2018 6 se modificó y adicionó parcialmente la Re-
+solución CRA 351 de 2005 y se modificaron parcialmente las Resoluciones CRA 352 de 2005 y
+CRA 482 de 2009, buscando, entre otros aspectos, que las Resoluciones CRA 351 y 352 de
+2005 fueran armonizadas con la definición de las cantidades de residuos a remunerar por con-
+cepto de la actividad de aprovechamiento, contenida en el numeral 87 del artículo 2.3.2.1.1. del
+Decreto Único Reglamentario 1077 de 2015, adicionado por el artículo 3 del Decreto MVCT 596
+de 2016.
+
+Que, para la aplicación de la metodología tarifaria contenida en la Resolución CRA 832 de
+2018, resulta necesario incluir los cargues que deben realizar los prestadores de la actividad
+complementaria de aprovechamiento, para el cálculo de la remuneración vía tarifa de esta acti-
+vidad por parte de los prestadores del servicio público de aseo que apliquen la metodología tari-
+faria contenida en la Resolución CRA 351 de 2005.
+
+Que, mediante la Resolución SSPD 20184300130165 del 2018, se determinaron los cargues
+para el reporte de información al Sistema Único de Información - SUI relacionados con la activi-
+dad de aprovechamiento por parte de los prestadores del servicio público de aseo y se derogó
+la Resolución SSPD 20161300037055 del 31 de agosto de 2016, con el fin de unificar la infor-
+mación solicitada a los prestadores de servicio público de aseo que realizan la actividad com-
+plementaria de aprovechamiento.
+
+Que, mediante la Resolución SSPD - 20201000046075 del 19/10/2020, la Superintendencia de
+Servicios Públicos Domiciliarios reglamentó los aspectos para aplazar la publicación en el SUI
+de las toneladas efectivamente aprovechadas cuando se presenten inconsistencias en la cali-
+dad de la información reportada por los prestadores de la actividad de aprovechamiento.
+
+6
+ “Por la cual se modifica y adiciona parcialmente la Resolución CRA 351 de 2005 y se modifican parcialmente las Resoluciones
+CRA 352 de 2005 y CRA 482 de 2009.”
+
+                                 Superintendencia de Servicios Públicos Domiciliarios
+20211000650805                                                                                                  Página 4 de 7
+
+
+
+
+Que por medio de la Resolución SSPD-20211000482115 del 13 de septiembre de 2021, la Su-
+perintendencia de Servicios Públicos Domiciliarios adicionó formatos de información al Capítulo
+1 del Título 1 del Anexo de la Resolución SSPD No. 20151300054195 de 2015.
+
+Que se hace necesario modificar algunas de las variables establecidas en el anexo 1 de la Re-
+solución SSPD No. 20184300130165 del 2018, así como adicionar variables relacionadas con
+la actividad complementaria de aprovechamiento y el régimen transitorio de formalización de los
+recicladores de oficio del servicio público de aseo, para que la Superservicios pueda ejercer sus
+funciones de inspección, vigilancia y control, y así dar cumplimiento al Decreto MVCT 596 de
+2016 y la Resolución MVCT 0276 de 2016.
+
+Que en atención con lo establecido en el artículo 8 de la Ley 1437 de 2011 7, se publicó el pre-
+sente proyecto de resolución en la página web de la entidad, con el objeto de recibir opiniones,
+sugerencias o propuestas alternativas al contenido de la misma, otorgándose un término de
+quince (15) días calendario para ello.
+
+Que las respuestas a los comentarios y observaciones fueron comunicadas a través de la
+matriz publicada en la página web de esta Superintendencia el día 21 de octubre de 2021.
+
+Que, en mérito de lo expuesto,
+
+                                                           RESUELVE:
+
+ARTÍCULO 1. – OBJETO: La presente Resolución tiene por objeto modificar y adicio-
+nar variables de reportes de información establecidos en las Resoluciones SSPD Nos.
+20184300130165 de 2018 y 20174000237705 de 2017, así como crear reportes de información
+adicionales relacionados con la actividad de aprovechamiento del servicio público de aseo en el
+Sistema Único de Información – SUI.
+
+ARTÍCULO 2.- RÉGIMEN APLICABLE: La presente resolución le es aplicable a todos
+los prestadores de la actividad de aprovechamiento del servicio público de aseo.
+
+ARTÍCULO 3.- REPORTES ADICIONALES DE INFORMACIÓN EN EL SISTEMA
+ÚNICO DE INFORMACIÓN - SUI: Créense cuatro cargues adicionales a los establecidos en el
+artículo primero de la Resolución SSPD No. 20184300130165 de 2018, los cuales se estable-
+cen a continuación y deben reportarse de conformidad con las variables, periodicidad y fechas
+de cargue que se definen en el Anexo A que hace parte integral de esta resolución:
+
+           Base de datos de usuarios
+           Registro de macrorrutas
+           Actualización de macrorrutas
+           Balance de masas
+
+Parágrafo 1. Con el fin de compilar los reportes de información que deben certificar los presta-
+dores de la actividad de aprovechamiento en sus distintos periodos, se reemplaza el Anexo 1
+establecido en la Resolución SSPD No. 20184300130165 de 2018 por el Anexo A de la presen-
+te resolución, la cual determinará las variables temporales y las condiciones de los reportes es-
+peciales de la actividad de aprovechamiento.
+
+7
+    “Por el cual se estableció el Código de Procedimiento Administrativo y de lo Contencioso Administrativo”.
+
+                                     Superintendencia de Servicios Públicos Domiciliarios
+20211000650805                                                                        Página 5 de 7
+
+
+
+
+Parágrafo 2. Los reportes de información mencionados en el presente artículo aplican a todos
+los prestadores de la actividad de aprovechamiento.
+
+Para el caso de los prestadores que no se hayan acogido al esquema de formalización progresi-
+va establecido en el Decreto MVCT 596 de 2016, deberán reportar la información de acuerdo
+con el cronograma establecido en el Anexo A de la presente resolución. Para el caso de los
+prestadores que se hayan acogido al esquema de formalización progresiva, deberán reportar
+estos cargues de información de acuerdo con las fases de progresividad establecidas en el De-
+creto MVCT 596 de 2016.
+
+Parágrafo 3. Los prestadores de la actividad de aprovechamiento acogidos al régimen transito-
+rio para la formalización, que ya surtieron la fase de progresividad cuatro (4) en los términos de
+la normatividad relacionada, deberán reportar la base de datos de usuarios y los reportes aso-
+ciados a las macrorrutas antes del 30 de noviembre de 2021, con el fin certificar los reportes
+adicionales creados en el artículo tercero de la presente resolución.
+
+Parágrafo 4. El nuevo reporte de información denominado “Balance de Masas” reemplaza el re-
+porte de Estaciones de Clasificación y Aprovechamiento – ECA, contenido en la Resolución
+SSPD No. 20184300130165 del 2018. Los periodos de cargue para cada uno de los reportes
+mencionados deberán hacerse en los periodos señalados en sus Anexos respectivos, y siguien-
+do las reglas de certificación establecidas en el artículo cuarto del presente acto administrativo.
+
+ARTÍCULO 4.- VARIABLES PARA CARGUES DE INFORMACIÓN EN EL SISTEMA
+ÚNICO DE INFORMACIÓN - SUI: Modifíquense y adiciónense algunas variables establecidas
+en el Anexo 1 del artículo primero de la Resolución SSPD No. 20184300130165 de 2018 y en la
+Resolución SSPD No. 20174000237705 de 2017, para los cargues de información que se des-
+criben a continuación, los cuales harán parte integral del nuevo Anexo A:
+
+      Aplicativo Toneladas Aprovechadas
+      Recepción de recursos de aprovechamiento
+      Suscriptores aforados - Aprovechamiento
+      Suscriptores beneficiarios del incentivo a la separación en la fuente (DINC)
+      Registro de Estaciones de Clasificación y Aprovechamiento
+      Actualización de Estaciones de Clasificación y Aprovechamiento
+      Básculas de la actividad de aprovechamiento
+
+La información, periodicidad, anexos y fechas de cargue para los reportes de la información re-
+lacionada en el presente acto administrativo, deberá efectuarse conforme lo defina el Anexo A
+de la presente resolución.
+
+Parágrafo 1. La información que ya haya sido certificada por los prestadores de la actividad de
+aprovechamiento en los reportes de información relacionados en el presente artículo y dispues-
+tos en el Anexo 1 de la Resolución SSPD No. 20184300130165 del 2018 y en la Resolución
+SSPD No. 20174000237705 de 2017, respectivamente, no deben ser certificados nuevamente,
+a menos que el prestador lo requiera para actualizar la información. En este caso, deberá car-
+garse la información conforme con lo establecido en el presente acto administrativo.
+
+Parágrafo 2. Los reportes de información contenidos en la Resolución SSPD No.
+20184300130165 del 2018 y en la Resolución SSPD No. 20174000237705 de 2017 que no ha-
+
+                          Superintendencia de Servicios Públicos Domiciliarios
+20211000650805                                                                        Página 6 de 7
+
+
+
+
+yan sido modificados por la presente resolución deberán reportarse por los prestadores de la
+actividad de aprovechamiento en los mismos términos y condiciones que se establecen en las
+normas citadas, que en todo caso quedarán compilados en el Anexo A de la presente resolu-
+ción.
+
+Parágrafo 3. Los cargues de información de periodos anteriores a la entrada en vigencia de
+esta resolución, deberán certificarse únicamente respecto de los reportes establecidos y regula-
+dos en la Resolución SSPD No. 20184300130165 del 2018 y su anexo 1 y en la Resolución
+SSPD 20174000237705 de 2017, respectivamente.
+
+ARTÍCULO 5.- HABILITACIÓN DE LOS REPORTES CORRESPONDIENTES A LA
+FASE DOS (2) DE PROGRESIVIDAD. La Superintendencia de Servicios Públicos Domiciliarios
+únicamente habilitará los cargues correspondientes a la Fase dos (2) de progresividad a las
+personas prestadoras que se acojan al régimen transitorio de formalización, una vez el
+municipio o distrito haya acreditado la certificación que trata el Formato siete (7) establecido en
+el anexo de la Resolución SSPD No. 20151300054195 de 2015, modificada y adicionada por la
+Resolución SSPD-20211000482115 del 13 de septiembre de 2021.
+
+Parágrafo 1: Los prestadores de la actividad de aprovechamiento acogidos al régimen transito-
+rio de formalización, y que a la fecha de expedición del presente acto administrativo estén ins-
+critos en el Registro Único de Prestadores de Servicios Públicos - RUPS, deberán estar inclui-
+dos por los municipios o distritos en el Formato siete (7)que trata el anexo de la Resolución
+SSPD 20151300054195 del 15 de diciembre de 2015, modificada y adicionada por la Resolu-
+ción SSPD-20211000482115 del 13 de septiembre de 2021-a más tardar el 30 de noviembre de
+2021. De lo contrario, la Superintendencia podrá implementar las medidas establecidas en la
+con lo anterior.
+
+Parágrafo 2. En caso de que el prestador no se encuentre dentro de la lista contenida en el
+Formato siete (7), el prestador podrá ser registrado como prestador de la actividad de
+aprovechamiento sin ser beneficiario del régimen de progresividad dispuesto en la Sección 3,
+Capítulo 5, Título 2, de la Parte 3 del Decreto Único Reglamentario 1077 de 2015, adicionado
+por el Decreto MVCT 596 de 2016, lo cual habilitará todos los formatos y formularios exigidos
+para la actividad de aprovechamiento.
+
+ARTÍCULO 6. – HABILITACIÓN DEL REPORTE DE REGISTRO Y ACTUALIZACIÓN
+DE ESTACIONES DE CLASIFICACIÓN Y APROVECHAMIENTO: Para habilitar el reporte de
+información del formulario de registro de Estaciones de Clasificación y Aprovechamiento – ECA
+a los prestadores de la actividad de aprovechamiento, independientemente de si están acogidos
+o no al régimen de progresividad, la Superintendencia de Servicios Públicos Domiciliarios verifi-
+cará que se haya acreditado por la entidad territorial el Formato ocho (8) contenido en la
+Resolución SSPD No. 20151300054195 del 15 de diciembre de 2015, modificada y adicionada
+por la Resolución SSPD-20211000482115 del 13 de septiembre de 2021.
+
+Parágrafo 1: Los prestadores de la actividad de aprovechamiento que a la fecha de expedición
+del presente acto administrativo estén inscritos en el Registro Único de Prestadores de Servi-
+cios Públicos – RUP´s y hayan certificado el registro de Estaciones de Clasificación y Aprove-
+chamiento – ECA, deberán estar incluidos por los municipios o distritos en el Formato ocho (8)
+que trata el anexo de la Resolución SSPD No. 20151300054195 del 15 de diciembre de 2015,
+modificada y adicionada por la Resolución SSPD-20211000482115 del 13 de septiembre de
+
+                          Superintendencia de Servicios Públicos Domiciliarios
+20211000650805                                                                    Página 7 de 7
+
+
+
+
+2021 a más tardar el 30 de noviembre de 2021. De lo contrario, la Superintendencia podrá im-
+plementar las medidas establecidas en la Resolución No. SSPD - 20201000046075 del
+19/10/2020 sobre los prestadores que no cumplan con lo anterior.
+
+ARTÍCULO 7. – VIGENCIA: La presente resolución entrará en vigencia a partir de su
+publicación en el Diario Oficial.
+
+                                    PUBLÍQUESE Y CÚMPLASE
+                                      Dada en Bogotá, D. C.
+
+
+
+
+                                NATASHA AVENDAÑO GARCÍA
+                         Superintendente de Servicios Públicos Domiciliarios
+
+Proyectó: María Paula González - Contratista
+          Leidy Milena Ávila - Contratista
+Revisó: William García Machado – Asesor Superintendencia Delegada AAA
+
+
+
+
+                           Superintendencia de Servicios Públicos Domiciliarios
+

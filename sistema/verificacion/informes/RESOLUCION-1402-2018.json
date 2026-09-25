@@ -1,8 +1,8 @@
 {
- "corpus": "SSPD-20211000482115-2021.md",
- "fuente": "/tmp/e2/capturas/SSPD-20211000482115-2021.txt",
+ "corpus": "RESOLUCION-1402-2018.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-1402-2018.oficial.txt",
  "umbral": 0.98,
- "articulos_corpus": 9,
+ "articulos_corpus": 6,
  "resultados": [
   {
    "articulo": "1",
@@ -27,18 +27,6 @@
   {
    "articulo": "6",
    "estado": "ausente_en_fuente"
-  },
-  {
-   "articulo": "7",
-   "estado": "ausente_en_fuente"
-  },
-  {
-   "articulo": "8",
-   "estado": "ausente_en_fuente"
-  },
-  {
-   "articulo": "9",
-   "estado": "ausente_en_fuente"
   }
  ],
  "sin_contraparte": [],
@@ -46,6 +34,6 @@
  "resumen": {
   "exactos": 0,
   "casi": 0,
-  "divergentes": 9
+  "divergentes": 6
  }
 }

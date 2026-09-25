@@ -1,0 +1,52 @@
+{
+ "corpus": "SSPD-20211000214135-2022.corpus.norm.md",
+ "fuente": "sistema/verificacion/fuentes/SSPD-20211000214135-2022.fuente.norm.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 4,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.8312,
+   "corpus": "ARTÍCULO 1.: Modifíquese el artículo sexto de la Resolución SSPD 20211000482115, el cual quedará así: “ARTÍCULO 6. - ESTRUCTURA TÉCNICA: Con el fin de cumplir con la información so",
+   "fuente": "ARTÍCULO 1.: Modifíquese el artículo sexto de la Resolución SSPD 20211000482115, el cual quedará así: “ARTÍCULO 6. - ESTRUCTURA TÉCNICA: Con el fin de cumplir con la información so",
+   "diff": {
+    "corpus": "...istema Único de Información - SUI la siguiente información: Superintendencia de Servicios Públicos Domiciliarios ID Cuenta con sistema de prevención de incendios Cuenta con uso del suelo compatible con la actividad Tipo de uso del suelo de la ECA Información complementaria al predio Cuadrante Número Letra Número Cuadrante Bis Letra Número Tipo de vía Código DANE del municipio FORMATO LISTADO DE ESTACIONES DE CLASIFICACIÓN Y APROVECHAMIENTO EN EL MUNICIPIO QUE CUENTAN CON (I) USO COMPATIBLE CON LA ACTIVIDAD, Y (II) SISTEMA DE CONTROL DE INCENDIOS: Por medio de este formulario se conoce a las Estaciones de Clasificación y Aprovechamiento con uso de suelo compatible con la actividad y un sistema de control de incendios del municipio/ Distrito. Se deberá cargar el formato de acuerdo con la siguiente tabla: Código DANE del departamento 8. Donde: 1. Código del Departamento: Corresponde al código ...",
+    "fuente": "...istema Único de Información - SUI la siguiente información: 8. FORMATO LISTADO DE ESTACIONES DE CLASIFICACIÓN Y APROVECH..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.8942,
+   "corpus": "ARTÍCULO 2.: Modifíquese 20211000482115, el cual quedará así: el artículo séptimo de la Resolución SSPD “ARTÍCULO 7. – PLAZOS DE CARGUE: Los formatos deberán ser reportados por las",
+   "fuente": "ARTÍCULO 2.: Modifíquese el artículo séptimo de la Resolución SSPD 20211000482115, el cual quedará así: “ARTÍCULO 7. – PLAZOS DE CARGUE: Los formatos deberán ser reportados por las",
+   "diff": {
+    "corpus": "...ARTÍCULO 2.: Modifíquese 20211000482115, el cual quedará así: el artículo séptimo de ...",
+    "fuente": "...ARTÍCULO 2.: Modifíquese el artículo séptimo de la Resolución SSPD 20211000482115, el cual quedará así: “ARTÍCULO 7. – PLAZOS D..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.959,
+   "corpus": "ARTÍCULO 3.: Modifíquese 20211000482115, el cual quedará así: el artículo octavo de la Resolución SSPD “ARTÍCULO 8. – INSPECCIÓN Y VIGILANCIA DE LA INFORMACIÓN CERTIFICADA EN EL SI",
+   "fuente": "ARTÍCULO 3.: Modifíquese el artículo octavo de la Resolución SSPD 20211000482115, el cual quedará así: “ARTÍCULO 8. – INSPECCIÓN Y VIGILANCIA DE LA INFORMACIÓN CERTIFICADA EN EL SI",
+   "diff": {
+    "corpus": "...ARTÍCULO 3.: Modifíquese 20211000482115, el cual quedará así: el artículo octavo de ...",
+    "fuente": "...ARTÍCULO 3.: Modifíquese el artículo octavo de la Resolución SSPD 20211000482115, el cual quedará así: “ARTÍCULO 8. – INSPECC..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "exacto"
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 1,
+  "casi": 0,
+  "divergentes": 3
+ }
+}

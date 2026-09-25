@@ -6,25 +6,30 @@
  "buckets": {
   "capitalizacion_rotulos": [],
   "notas_vigencia_en_corpus": [
+   "1",
    "2",
    "7",
    "12",
    "20",
    "23",
-   "29.-",
+   "28",
+   "29",
    "30",
    "34",
    "35",
    "36",
-   "37",
+   "38",
    "45",
+   "57",
    "58",
    "59",
    "65",
    "75",
+   "80",
    "84",
    "86",
    "88",
+   "90",
    "93",
    "103",
    "105",
@@ -32,28 +37,22 @@
    "118",
    "123",
    "127",
-   "128",
-   "134",
+   "129",
    "137",
    "150",
    "154",
+   "155",
    "160",
    "163",
    "171",
    "173",
    "177",
-   "182",
-   "189"
+   "182"
   ],
   "ordinal_formato": [
    "143"
   ],
   "contenido_real": [
-   {
-    "articulo": "1",
-    "diff_corpus": "culo 1. ambito de aplicacion de la ley. esta ley se aplica a los servicios publicos dom",
-    "diff_fuente": "culo 1. ambito de aplicacion de la ley. ver notas de vigencia, en relacion con los textos subrayados"
-   },
    {
     "articulo": "3",
     "diff_corpus": "ios a las personas de menores ingresos. ley 142 de 1994 departamento administrativo de la fu",
@@ -120,9 +119,14 @@
     "diff_fuente": "ar ni recibir de las empresas privilegio o subsidio distinto de los que en esta le"
    },
    {
-    "articulo": "28",
-    "diff_corpus": "articulo 28. redes. todas las empresas tienen el derecho a c",
-    "diff_fuente": "articulo 28. redes. ver notas de vigencia todas las empresas tienen el derecho a c"
+    "articulo": "31",
+    "diff_corpus": "articulo 31. concordancia con el estatuto general de la contratacion publica. modi",
+    "diff_fuente": "articulo 31. regimen de la contratacion. articulo modif"
+   },
+   {
+    "articulo": "32",
+    "diff_corpus": "nte por las reglas del derecho privado. nota: inciso declarado exequible por la cort",
+    "diff_fuente": "nte por las reglas del derecho privado. la regla precedente se aplicara, inclusive, a las sociedades"
    }
   ]
  },

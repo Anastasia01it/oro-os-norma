@@ -1,0 +1,800 @@
+
+   “Por la cual se modifica el anexo 1 de la Resolución SSPD 20174000237705 del 5 de
+diciembre de 2017 modificada y adicionada por las Resoluciones SSPD 20184000018825,
+20184000056215 y 20201000014555, del 27 de febrero y 10 de mayo de 2018, y 19 de mayo
+                de 2020, respectivamente y se dictan otras disposiciones”
+
+
+             LA SUPERINTENDENTE DE SERVICIOS PÚBLICOS DOMICILIARIOS
+
+      En ejercicio de sus facultades constitucionales y legales, en especial las conferidas en el
+                  artículo 79 de la Ley 142 de 1994 y 7° del Decreto 990 de 2002, y
+
+                                                    CONSIDERANDO
+
+Que de conformidad con lo dispuesto en los artículos 53 y 79, numeral 4 de la Ley 142 de 1994, y 13
+y 14 de la Ley 689 de 2001, corresponde a la Superintendencia de Servicios Públicos Domiciliarios (la
+Superintendencia), establecer, administrar, mantener y operar un Sistema Único de Información (SUI)
+que se surtirá de la información proveniente de los prestadores de servicios públicos domiciliarios
+sujetos a su inspección, vigilancia y control.
+
+Que con fundamento en las facultades otorgadas, la Superintendencia expidió la Resolución SSPD
+000321 de 20031 y determinó que la información reportada al SUI por parte de los prestadores de
+servicios públicos domiciliarios se considera oficial para todos los fines previstos en la ley.
+
+Que a través de la Resolución SSPD 201013000487652 de 2010, se requiere a los prestadores de los
+servicios públicos de acueducto, alcantarillado y aseo, el reporte al SUI de la información comercial,
+técnica, administrativa y financiera entre otras disposiciones.
+
+Que mediante la Resolución CRA 720 de 2015 3, se estableció el régimen de regulación tarifaria al que
+deben someterse las personas prestadoras del servicio público de aseo que atiendan en municipios
+de más de 5.000 suscriptores en áreas urbanas y de expansión urbana, y todas las prestadoras de
+las actividades de disposición final, transferencia y aprovechamiento que se encuentren en el área
+rural, salvo las excepciones contenidas en la ley, especialmente las señaladas en el parágrafo 1 del
+artículo 87 de la Ley 142 de 1994, e igualmente se determinó la metodología que deben utilizar tales
+prestadores, para el cálculo de las tarifas del servicio público de aseo.
+
+Que el artículo primero de la Resolución SSPD 20174000237705 del 5 de diciembre de 2017,
+establece la información que deben reportar al SUI, las personas que desarrollan actividades propias
+de la prestación del servicio público domiciliario de aseo, o actividades complementarias al mismo, de
+conformidad con las variables, periodicidad y fechas de cargue definidas en su Anexo 1.
+
+
+
+  1
+      “Por la cual se regulan algunos aspectos del Sistema Único de Información – SUI.”
+  2
+    “Por la cual se expide la Resolución Compilatoria respecto de las solicitudes de información al Sistema Único de Información –
+  SUI, de los servicios públicos de Acueducto, Alcantarillado y Aseo y se derogan las Resoluciones 20094000015085,
+  20104000001535, 20104000006345, y 20104010018035”.
+  3
+    ”Por la cual se establece el régimen de regulación tarifaria al que deben someterse las personas prestadoras del servicio público
+  de aseo que atiendan, en municipio de más de 5.000 suscriptores en áreas urbanas, la metodología que deben utilizar para el
+  cálculo de las tarifas del servicio público de aseo y se dictan otras disposiciones”.
+
+
+
+
+ Sede principal. Carrera 18 nro. 84-35, Bogotá D.C. Código postal: 110221
+ PBX (1) 691 3005. Fax (1) 691 3059 - sspd@superservicios.gov.co
+ Línea de atención (1) 691 3006 Bogotá. Línea gratuita nacional 01 8000 91 03 05
+ NIT: 800.250.984.6
+20201000034455                                                                                 Página 2 de 11
+
+Que a través de las Resoluciones SSPD 20184000018825 y 20184000056215 de 2018 y
+20201000014555 de 2020, del 27 de febrero y 10 de mayo de 2018, y 19 de mayo de 2020,
+respectivamente, se modificó, aclaró y adicionó la Resolución SSPD 20174000237705 de 2017.
+
+Que de acuerdo con las solicitudes de los prestadores del servicio público de aseo remitidas a la SSPD,
+así como las mesas de ayuda registradas para el cargue de la información a través del Sistema Único
+de Información - SUI, es necesario: i) aclarar la responsabilidad de reporte de información a través de
+los formatos y formularios vigentes de la Resolución SSPD 20101300048765 de 2010; ii) aclarar los
+numerales “20. Traslado de recursos de aprovechamiento”, “22. Suscriptores y tarifa aplicada”, “31.
+Registro de sitios de disposición final”, “36. Costo de tratamiento de lixiviados – operador sitio de
+disposición final”, “42. Facturación operadores de sitios de disposición final y estaciones transferencia”
+y “55. Personal por categoría de empleo” del anexo 1 de la Resolución SSPD 20174000237705 del 5
+de diciembre de 2017; iii) retirar el numeral “27. Tarifas parágrafo 1 del artículo 87 de la Ley 142 de 1994”
+del anexo mencionado; y iv) ajustar los numerales “19. Variables para el cálculo de la tarifa de
+aprovechamiento y toneladas conjuntas - prestadores de recolección y transporte de residuos no
+aprovechables”, “20. Traslado de recursos de aprovechamiento”, “23. Costo de limpieza urbana y Costo
+de barrido y limpieza de vías y áreas públicas”, “24. Costo de recolección y transporte”, y “37. Provisión
+cierre, clausura y post-clausura – Operador sitio de disposición final”; del mismo anexo.
+
+Que la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA) expidió la Resolución
+CRA 853 de 2018, “Por la cual se establece el régimen tarifario y metodología tarifaria aplicable a las
+personas prestadoras del servicio público de aseo que atiendan en municipios de hasta 5.000
+suscriptores y se dictan otras disposiciones”.
+
+Que la CRA expidió la Resolución CRA 883 de 2018, “Por la cual se modifica la vigencia del régimen
+tarifario y de las metodologías tarifarias, el régimen de transición y derogatorias de la Resolución CRA
+853 de 2018” y la Resolución CRA 901 de 2019, “Por la cual se adicionan unos artículos a la
+Resolución CRA 853 de 2018”.
+
+Que la CRA expidió la Resolución CRA 919 de 2020, “Por la cual se adoptan medidas regulatorias
+para los servicios públicos de acueducto, alcantarillado y aseo con ocasión de la Emergencia
+Económica, Social y Ecológica declarada por el Gobierno nacional a causa del COVID-19”, mediante
+la cual se establece como fecha máxima de aplicación de la Resolución CRA 853 de 2018 el 1° de
+julio de 2021.
+
+Que la CRA expidió la Resolución CRA 912 de 2020, “Por la cual se modifica el artículo 38 de la
+Resolución CRA 720 de 2015”, que modificó el anexo V de la Resolución CRA 720 de 2015. Por lo
+anterior, es necesario retirar los numerales “26. Variables factor de productividad recolección y
+transporte, barrido y limpieza, CLUS y comercialización” y “39. Variables factor de productividad
+disposición final y tratamiento de lixiviados” del anexo 1 de la Resolución SSPD 20174000237705 de
+2017, y adicionar el numeral “59. Variables para el cálculo del factor de productividad Resolución CRA
+912 de 2020” al anexo mencionado.
+
+Que de conformidad con lo anterior, es necesario modificar, aclarar y adicionar la Resolución SSPD
+20174000237705 del 5 de diciembre de 2017.
+
+Que, en mérito de lo expuesto,
+
+                                               RESUELVE:
+
+Artículo 1.- Modificar el artículo segundo de la Resolución SSPD 20174000237705 de 2017, el cual
+quedará así:
+
+      “Artículo segundo.- Aquellas personas prestadoras del servicio público de aseo que se
+      encuentren dentro del ámbito de aplicación del artículo 1 de la Resolución CRA 720 de 2015 y
+      del artículo 1 de la Resolución CRA 853 de 2018, así como aquellas que determinan las tarifas
+      de acuerdo con lo previsto en el parágrafo 1 del artículo 87 de la Ley 142 de 1994, deben
+      continuar reportando la información requerida en los Títulos 4, 8 y 12 de la Resolución SSPD
+      20101300048765 del 14 de diciembre de 2010, específicamente aquella información
+      relacionada en los siguientes artículos:
+
+      1.         Artículos 4.3.7.1, 8.3.7.1 y 12.3.3.1 “Formulario. Concurso Económico 1”
+      2.         Artículos 4.3.7.2, 8.3.7.2 y 12.3.3.2 “Formulario. Concurso Económico 2”
+      3.         Artículos 4.4.1.8 y 8.4.1.8 “Formulario. Continuidad en Recolección del Servicio de
+      Aseo”
+      4.         Artículos 4.4.1.12 y 8.4.1.12 “Formulario. Continuidad en Barrido y Limpieza”
+      5.         Artículos 4.2.3.1, 8.2.3.1 y 12.2.2.2. “Formato. Formulación de proyectos”
+
+
+
+                             Superintendencia de Servicios Públicos Domiciliarios
+20201000034455                                                                             Página 3 de 11
+
+      6.       Artículos 4.2.3.2, 8.2.3.2 y 12.2.3.3 “Formulario. Cancelación de proyecto de inversión
+      formulado”
+      7.       Artículos 4.2.3.3, 8.2.3.3 y 12.2.3.4 “Formato. Ejecución de proyectos”
+      8.       Artículos 4.2.4.3, 8.2.4.3 y 12.2.2.3 “Formato. Sistema de costos y gastos por
+      actividades”
+      9.       Artículos 4.3.4.1 y 8.3.4.1 “Formulario. Fondo de solidaridad y redistribución de
+      ingresos”
+     10. Artículos 4.3.4.3 y 8.3.4.3 “Formulario. Subsidios solicitados por estrato al ente territorial”
+     11. Artículos 4.4.1.23 y 4.4.1.23 “Formato. Reglamento operativo”
+     12. Artículos 4.4.1.27 y 8.4.1.27 “Formulario. Rellenos sanitarios”
+     13. Artículos 4.5.2.1 y 8.5.2.1 “Formulario. Convenciones colectivas”
+     14. Artículos 4.5.2.2 y 8.5.2.2 “Formato. Información convenciones colectivas”
+     15. Artículos 4.5.2.3 y 8.5.2.3 “Formulario. Actualización de información convenciones
+         colectivas”
+     16. Artículos 4.5.4.1 y 8.5.4.1 “Formulario. Indicadores cuantitativos de gestión”
+     17. Artículos 4.5.5.1 y 8.5.5.1 “Formato. Publicación indicadores para control social a las
+         personas prestadoras de servicios públicos”
+     18. Artículos 4.3.3.1 y 8.3.31 “Formulario. Multiusuarios del servicio de aseo”
+     19. Artículos 4.3.4.4, 8.3.4.4 y 12.3.1.5 “Formato. Acto de aprobación factores de subsidios y
+         contribuciones”
+
+      Parágrafo Primero: Las personas prestadoras del servicio público de aseo deberán reportar la
+      información requerida en el anexo 1 de la presente resolución, de acuerdo con las actividades
+      complementarias que desarrollen y la metodología tarifaria aplicada, siguiendo las indicaciones
+      del anexo mencionado. De no especificarse la metodología tarifaria, los prestadores deberán
+      reportar la información requerida de acuerdo con las actividades complementarias que
+      desarrollen.
+
+      Parágrafo Segundo: El campo “NUAP” de los Formularios “Continuidad en Recolección del
+      Servicio de Aseo” (artículos 4.4.1.8 y 8.4.1.8 de la Resolución SSPD 20101300048765 de 2010)
+      y “Continuidad en Barrido y Limpieza” (artículos 4.4.1.12 y 8.4.1.12 de la Resolución SSPD
+      20101300048765 de 2010), se refiere al número único de identificación del área de prestación
+      del servicio. El área de prestación del servicio corresponde a la zona geográfica debidamente
+      delimitada donde la persona prestadora ofrece y presta el servicio de aseo.”
+
+Artículo 2.- Modificar el Parágrafo del artículo séptimo de la Resolución SSPD 20174000237705 de
+2017, el cual quedará así:
+
+      “Parágrafo: la vigencia y periodicidad del cargue de la información requerida se define en el
+      cronograma de cargue contenido en la presente Resolución y aquellas que la modifiquen,
+      complementen, o sustituyan.”
+
+Artículo 3.- Adicionar los campos “QNAz” y “QAj” en el reporte de información requerida del numeral
+“19. Variables para el cálculo de la tarifa de aprovechamiento y toneladas conjuntas - prestadores de
+recolección y transporte de residuos no aprovechables”, del anexo 1, de la Resolución SSPD
+20174000237705 de 2017, los cuales quedarán así:
+
+      “Toneladas mensuales de residuos no aprovechables del área de prestación-QNAz.
+      Promedio del semestre anterior de las toneladas mensuales de residuos no aprovechables en
+      el área de prestación del servicio objeto de reporte de la persona prestadora j (toneladas/mes).
+      El valor a reportar corresponde al promedio del semestre anterior de la variable QNAz señalada
+      en el artículo 41 de la Resolución CRA 720 de 2015, para el área de prestación objeto de reporte.
+
+      Toneladas mensuales efectivamente aprovechadas no aforadas de la persona prestadora
+      j de RTA, reportadas por las ECA-QAj. Promedio del semestre anterior de las toneladas
+      mensuales de residuos efectivamente aprovechadas no aforadas reportadas por la ECA, con
+      las cuales la persona prestadora j estimó la tarifa final cobrada al suscriptor (toneladas/mes). El
+      valor a reportar corresponde al promedio del semestre anterior de la variable QAj señalada en
+      el artículo 40 de la Resolución CRA 720 de 2015.”
+
+Artículo 4.- Modificar los campos 5 y 6 del numeral “20. Traslado de recursos de aprovechamiento”
+del anexo 1, de la Resolución SSPD 20174000237705 de 2017, los cuales quedarán así:
+
+      “5. Valor trasladado por concepto de incremento del CCS ($ corrientes). Valor (en pesos
+      corrientes) que fue trasladado al prestador de aprovechamiento señalado en el campo anterior,
+      por concepto de recaudo del incremento del costo de comercialización por suscriptor.
+
+
+
+
+                           Superintendencia de Servicios Públicos Domiciliarios
+20201000034455                                                                                Página 4 de 11
+
+      6. Valor trasladado por concepto de TA ($ corrientes). Valor (en pesos corrientes) que fue
+      trasladado al prestador de aprovechamiento señalado en el campo anterior, por concepto de
+      recaudo de la tarifa para la actividad de aprovechamiento.”
+
+Artículo 5.- Adicionar la ‘nota 1’ en el campo 9 del numeral “22. Suscriptores y tarifa aplicada”, del
+anexo 1, de la Resolución SSPD 20174000237705 de 2017, las cuales quedarán así:
+
+      “Nota 1: La suma de los suscriptores ingresados en este campo para este cargue de
+      información, debe coincidir con el total de suscriptores atendidos para el período de reporte en
+      el APS que corresponda.”
+
+Artículo 6.- Adicionar el campo “Aporte Bajo Condición”, en el reporte de información requerida del
+numeral “23. Costo de limpieza urbana y costo de barrido y limpieza de vías y áreas públicas”, del
+anexo 1, de la Resolución SSPD 20174000237705 de 2017, el cual quedará así:
+
+       “Aporte Bajo Condición. Debe indicar “Si” o “No” el valor total de los equipos y/o activos
+      asociados a la actividad de barrido y limpieza de vías y áreas públicas es aportado por una
+      entidad pública, de conformidad con lo establecido en el Parágrafo 4 del artículo 21 de la
+      Resolución CRA 720 de 2015.”
+
+Artículo 7.- Adicionar el campo 23 en el reporte de información requerida del numeral “24. Costo de
+recolección y transporte”, del anexo 1, de la Resolución SSPD 20174000237705 de 2017, y modificar
+el cronograma de cargue correspondiente, el cual quedará así:
+
+      “23. Factor de actualización del CCS acumulado desde diciembre de 2014
+      FAc_acumulado. Factor de actualización del costo de comercialización (CCS) acumulado
+      desde diciembre de 2014. El valor a reportar es el factor FAc acumulado utilizado por el
+      prestador para convertir los costos que arroja la metodología en pesos de diciembre 2014 a
+      pesos corrientes (sin tener en cuenta el ajuste por productividad), y considerando lo dispuesto
+      en el artículo 125 de la Ley 142 de 1994, de acuerdo con la siguiente fórmula:
+      CCSt = CCSdic2014 x (1 + FAc_acumulado).”
+
+Artículo 8.- Retirar el numeral “27. Tarifas parágrafo 1 del artículo 87 de la Ley 142 de 1994”, del
+anexo 1 de la Resolución SSPD 20174000237705 de 2017, debido a que en el marco de lo establecido
+en la Resolución CRA 151 de 2001 y el Decreto 891 de 2002, la SSPD requerirá la información de
+tarifas aplicadas, según la metodología tarifaria vigente definida por la CRA, al momento de la firma
+del contrato que determine las tarifas a aplicar de acuerdo con lo establecido en el parágrafo 1 del
+artículo 87 de la Ley 142 de 1994. Adicionalmente, se retira del cronograma de cargue
+correspondiente.
+
+Artículo 9.- Ajustar el campo “Tipo de disposición final”, del numeral “31. Registro de sitios de disposición
+final”, del anexo 1, de la Resolución SSPD 20174000237705 de 2017, el cual quedará así:
+
+   “Tipo de disposición final. Seleccione el tipo de disposición final correspondiente al sitio que está
+   registrando, de conformidad con las siguientes opciones habilitadas: Relleno sanitario, Celda de
+   contingencia, Botadero a cielo abierto, Quema, Cuerpo de agua.”
+
+Artículo 10.- Ajustar el nombre de los tres últimos campos del numeral “36. Costo de tratamiento de
+lixiviados – operador sitio de disposición final”, del anexo 1, de la Resolución SSPD 20174000237705 de
+2017, los cuales quedarán así:
+
+      “Promedio mensual de residuos sólidos que se reciben en el sitio de disposición final
+      (Ton) – QRS.“
+
+      “Costo de tratamiento de Lixiviados por tonelada ($ corrientes / T) – CTL.”
+
+      “Factor de actualización del costo de tratamiento de lixiviados acumulado desde
+      diciembre de 2014 - FAc_acumulado.”
+
+Artículo 11.- Modificar el reporte de información requerido del numeral “37. Provisión cierre, clausura
+y post-clausura – operador sitio de disposición final”, del anexo 1, de la Resolución SSPD
+20174000237705 de 2017, el cual quedará así:
+
+      “37. PROVISIÓN CIERRE, CLAUSURA Y POST-CLAUSURA – OPERADOR SITIO DE
+      DISPOSICIÓN FINAL
+
+
+
+
+                             Superintendencia de Servicios Públicos Domiciliarios
+20201000034455                                                                                                                                                                                                                                                                                                          Página 5 de 11
+
+       El prestador de la actividad de disposición final debe reportar el valor acumulado de la
+       provisión para garantizar el adecuado desarrollo de las actividades de cierre, clausura y
+       post-clausura. El valor reportado debe coincidir con la información de soporte (extracto)
+       del encargo fiduciario.
+
+       La información se debe reportar como se indica a continuación:
+
+
+
+
+                                         Cálculo de la provisión mensual para las actividades de cierre, clausura y post clausura
+
+
+
+
+                                                                                                                                                                             Incrementos o deducciones bancarias generados en el mes
+                                                                                                                                        Fecha de transferencia de recursos
+
+
+
+
+                                                                                                                                                                                                                                                        Fecha de retiro de recursos
+
+                                                                                                                                                                                                                                                                                      Saldo acumulado
+
+                                                                                                                                                                                                                                                                                                        Observaciones
+                                                                                                                                                                                                                                       Monto retirado
+                               Periodo
+                        NUSD
+
+
+
+
+                        1      2                                                                                                    3                     4                                                                5                  6            7                           8                 9
+
+     Donde:
+
+     1. NUSD. Número único de identificación del sitio de disposición final, asignado por el SUI a
+     través del reporte de información “Registro de sitios de disposición final”.
+
+     2. Periodo. Corresponde al mes en el cual se efectuó el ingreso o retiro de los recursos del
+     encargo fiduciario. Por tratarse de un cargue de información semestral debe indicar el número
+     del mes que le corresponda al semestre, por ejemplo “1” para enero, “10” para octubre.
+
+     3. Cálculo de la provisión mensual para las actividades de cierre, clausura y post
+     clausura. Monto girado al encargo fiduciario en el mes reportado en el campo “Periodo” del
+     presente cargue de información, el cual fue estimado por parte del prestador para la provisión
+     de recursos en las etapas de clausura y post-clausura del sitio de disposición final, según lo
+     definido en el artículo 19 del Decreto 838 de 2005, el artículo 2.3.2.3.5.18 del Decreto 1077 de
+     2015, y las Resoluciones CRA 720 de 2015 y 853 de 2018, o los que los modifiquen, adicionen
+     o sustituyan.
+
+     4. Fecha de transferencia de recursos. Corresponde a la fecha en formato dd-mm-aaaa, en
+     la cual se efectuó la consignación o transferencia de recursos al encargo fiduciario para las
+     actividades de cierre, clausura y post-clausura, la cual debe pertenecer al mes reportado en el
+     campo “Periodo” del presente cargue de información.
+
+     5. Incrementos o deducciones bancarias generados en el mes. Corresponde a la suma de
+     valores adicionales como intereses, incrementos, rendimientos, etc., generados por el encargo
+     fiduciario, caso en el cual se debe reportar su valor con signo positivo; o a la suma de
+
+
+
+                          Superintendencia de Servicios Públicos Domiciliarios
+20201000034455                                                                               Página 6 de 11
+
+      deducciones bancarias como gravamen a los movimientos financieros, disminuciones,
+      retefuente, etc., cuyo resultado se debe reportar con signo negativo.
+
+      6. Monto retirado. Corresponde al monto de retiro de los recursos destinado para las
+      actividades de cierre, clausura y post-clausura en el mes reportado en el campo “Período” del
+      presente cargue de información. Este valor se debe reportar con signo negativo.
+
+      7. Fecha de retiro de recursos. Corresponde a la fecha en formato dd-mm-aaaa, en la cual se
+      efectuó el retiro de recursos del encargo fiduciario para las actividades de cierre, clausura y
+      post-clausura, la cual debe pertenecer al mes reportado en el campo “Período” del presente
+      cargue de información.
+
+      8. Saldo acumulado. Corresponde al saldo acumulado (pesos corrientes) del encargo fiduciario
+      para el mes reportado en el campo “Período” del presente cargue de información. Debe coincidir
+      con el saldo del extracto que expida la entidad financiera.
+
+      9. Observaciones. En este campo debe indicar detalladamente los motivos por los cuales se
+      efectuó el retiro de los recursos u otras aclaraciones que el prestador considere pertinentes
+      (máximo 600 caracteres).
+
+      Nota 1: El prestador debe reportar como Anexo un (1) archivo en formato pdf o tif que contenga
+      la copia mensual del extracto del encargo fiduciario y los soportes (contratos, recibos, facturas,
+      etc.) de las inversiones efectuadas con los montos ingresados en el campo 6 del presente
+      cargue de información.
+
+      Nota 2: Aunque este es un cargue de información con periodicidad semestral, debe reportar los
+      movimientos bancarios efectuados en cada mes, de acuerdo con la información reportada en el
+      campo “Periodo” del presente cargue de información.
+
+      Nota 3: se mantiene la periodicidad y plazos de cargue al SUI conforme a lo establecido en los
+      cronogramas de la Resolución SSPD 20174000237705 de 2017. La versión modificada, deberá
+      reportarse para el primer semestre de 2020 en adelante.”
+
+Artículo 12.- Modificar los campos 17, 18 y 23 del numeral “42. Facturación operadores de sitios de
+disposición final y estaciones transferencia”, del anexo 1, de la Resolución SSPD 20174000237705 de
+2017, los cuales quedarán así:
+
+      “17. Valor en mora ($ corrientes). Corresponde al valor pendiente de pago por parte del usuario
+      del sitio de disposición final o estación de transferencia y sobre el cual se liquidaron los intereses
+      de mora, a pesos corrientes del periodo de reporte. En los casos en que el operador de la
+      actividad de recolección y transporte sea el mismo que opera el sitio de disposición final o
+      estación de transferencia, en éste campo deberá reportar ‘0000’.”
+
+      “18. Intereses de mora ($ corrientes). Corresponde al valor de los intereses de mora cobrados
+      en la factura, a pesos corrientes del período de reporte. En los casos en que el operador de la
+      actividad de recolección y transporte sea el mismo que opera el sitio de disposición final o
+      estación de transferencia, en éste campo deberá reportar ‘0000’.”
+
+      “23. Valor total a pagar ($ corrientes). Corresponde al valor total a pagar por el usuario del
+      sitio de disposición final (incluye el valor facturado a reportar en el periodo de reporte, valor en
+      mora, intereses de mora, descuentos y devoluciones efectuadas), a pesos corrientes del período
+      de reporte. En los casos en que el operador de la actividad de recolección y transporte sea el
+      mismo que opera el sitio de disposición final o estación de transferencia, en éste campo deberá
+      reportar el producto de los campos 10 y 14.”
+
+Artículo 13.- Modificar los campos 2, 5, 7, 9, 11 y 12 del cargue de información requerido en el numeral
+“55. Personal por categoría de empleo”, del anexo 1, de la Resolución SSPD 20174000237705 de
+2017, así como el cronograma de cargue correspondiente, los cuales quedarán así:
+
+      “2. Número único de identificación. En concordancia con lo señalado en el campo 1,
+      corresponde al ID asignado al prestador al realizar su inscripción en el Registro Único de
+      Prestadores de Servicios Públicos –RUPS- (sólo debe reportarse en la primera fila del cargue
+      masivo); o al Número Único de identificación del Área de Prestación del servicio (NUAP)
+      asignado por el SUI a través del reporte de información “1. Registro de áreas de prestación del
+      servicio municipios mayores a 5.000 suscriptores’’; o al Número Único de identificación del Sitio
+      de Disposición Final (NUSD) asignado por el SUI a través del reporte de información “31.
+      Registro de sitios de disposición final”; o al Número Único de Identificación de la Estación de
+
+
+
+                            Superintendencia de Servicios Públicos Domiciliarios
+20201000034455                                                                             Página 7 de 11
+
+      Transferencia (NUET) asignado por el SUI a través del reporte de información “44. Registro de
+      estaciones de transferencia” de la presente Resolución; o al Número Único de Identificación de
+      la Estación de Clasificación y Aprovechamiento (NUECA) asignado por el SUI a través del
+      reporte de información “4. Registro de estaciones de clasificación y aprovechamiento” del Anexo
+      1 de la Resolución SSPD 20184300130165 de 2018.”
+
+      “5. Número total de empleados - Directivo. Total de empleados en la categoría “Directivo” que
+      atendían el tipo de infraestructura definida en el campo 1 y dirigían la actividad registrada en el
+      campo 3 del presente reporte de información, a 31 de diciembre del último año.
+
+      Si el campo 1 se diligencia con la opción 9 "ID", deberá diligenciar el total de empleados del
+      prestador en la categoría “Directivo” que componían la planta de personal a 31 de diciembre del
+      último año.”
+
+      “7. Número total de empleados - Personal Administrativo. Total de empleados en la
+      categoría “Personal Administrativo” que atendían el tipo de infraestructura definida en el campo
+      1 y realizaban labores administrativas relativas a la actividad registrada en el campo 3 del
+      presente reporte de información, a 31 de diciembre del último año.
+
+      Si el campo 1 se diligencia con la opción 9 "ID", deberá diligenciar el total de empleados del
+      prestador en la categoría “Personal Administrativo” que componían la planta de personal a 31
+      de diciembre del último año.”
+
+      “9. Competencias laborales - Personal Administrativo. Número de empleados en la
+      categoría “Personal Administrativo” que atendían el tipo de infraestructura definida en el campo
+      1 y realizaban labores administrativas relativas a la actividad registrada en el campo 3 del
+      presente reporte de información, a 31 de diciembre del último año que contaban con certificación
+      en competencias laborales.
+
+      Si el campo 1 se diligencia con la opción 9 "ID", deberá diligenciar el total de empleados de la
+      empresa en la categoría “Personal Administrativo” que contaban con certificación en
+      competencias laborales.”
+
+      “11. Factor prestacional - Personal Técnico Operativo. Promedio del factor prestacional
+      aplicado mensualmente a los empleados en la categoría “Personal Técnico Operativo” que
+      componían su planta de personal en el último año, referente al tipo de infraestructura definida
+      en el campo 1 y a la actividad registrada en el campo 3 del presente reporte de información.
+
+      Si el campo 1 se diligencia con la opción 9 "ID", deberá diligenciar el promedio del factor
+      prestacional aplicado mensualmente a todos los empleados en la categoría “Personal Técnico
+      Operativo”.
+
+      “12. Competencias laborales - Personal Técnico Operativo. Número de empleados en la
+      categoría “Personal Técnico Operativo” que atendían el tipo de infraestructura definida en el
+      campo 1 y realizaban labores relativas a la actividad registrada en el campo 3 del presente
+      reporte de información, que a 31 de diciembre del último año contaban con certificación en
+      competencias laborales.
+
+      Si el campo 1 se diligencia con la opción 9 "ID", deberá diligenciar el total de empleados del
+      prestador en la categoría “Personal Técnico Operativo” que contaban con certificación en
+      competencias laborales.”
+
+Artículo 14.- Adicionar el numeral “59. Variables para el cálculo del factor de productividad Resolución
+CRA 912 de 2020” y su respectivo cronograma de cargue, al anexo 1 de la Resolución SSPD
+20174000237705 de 2017, el cual requiere la siguiente información:
+
+      “59. VARIABLES PARA EL CÁLCULO DEL FACTOR DE PRODUCTIVIDAD RESOLUCIÓN
+      CRA 912 DE 2020
+
+      En el presente reporte de información se deben diligenciar las variables que permitan determinar
+      los factores de productividad aplicados anualmente a las personas prestadoras del servicio
+      público de aseo, que operan en áreas de prestación del servicio (APS) o sitios de disposición
+      final (SDF), de conformidad con lo establecido en el anexo V de la Resolución CRA 720 de 2015,
+      modificado por la Resolución CRA 912 de 2020.
+
+      Este formato deberá ser reportado para el año fiscal 2018 y siguientes. Se deberá reportar
+      únicamente la información de las actividades efectivamente prestadas en cada una de las APS
+
+
+
+                           Superintendencia de Servicios Públicos Domiciliarios
+20201000034455                                                                         Página 8 de 11
+
+     o SDF, dejando en blanco aquellos espacios que no apliquen. La información diligenciada debe
+     corresponder al promedio mensual simple del año fiscal (1° de enero a 31 de diciembre).
+
+     Captura y remisión de información a la CRA
+     En el marco de lo establecido en el artículo 38 de la Resolución CRA 720 de 2015, modificado
+     por el artículo 1 de la Resolución CRA 912 de 2020, la SSPD informará a la CRA las personas
+     prestadoras que no reportaron y certificaron la información al SUI de acuerdo con el plazo
+     previsto en el presente anexo. Adicionalmente, la SSPD remitirá a la CRA la información
+     reportada oportunamente por los prestadores al SUI, teniendo en cuenta las siguientes
+     consideraciones respecto a los campos requeridos en el anexo V de la Resolución CRA 720 de
+     2015, modificado por la Resolución CRA 912 de 2020:
+
+     Los campos 1 “Razón Social”, 2 “N.I.T”, 8 “Actividades que presta en cada APS (ART
+     2.3.2.2.2.1.13 Decreto 1077 de 2015)” y 9 “Actividades del servicio público de aseo que se
+     prestan en el municipio donde tiene su APS (ART 2.3.2.2.2.1.13 Decreto 1077 de 2015)”, se
+     excluyen del presente cargue de información, debido a que se obtendrán del Registro Único de
+     Prestadores de Servicios – RUPS. Por lo anterior, el reporte que la SSPD remita a la CRA
+     contendrá esta información de acuerdo con las actividades registradas en el RUPS, el cual debe
+     estar actualizado por parte de los prestadores del servicio público de aseo. Respecto a los
+     campos 8 y 9, los prestadores deben mantener el RUPS actualizado, para que al momento de
+     remitir el reporte a la CRA este registro refleje las actividades que los prestadores realmente
+     desarrollan en dicho momento.
+
+     Adicionalmente, los campos 4 “Departamento (s)” y 5 “Municipio(s) y/o distrito(s)”, se excluyen
+     del presente cargue de información, debido a que se obtendrán del NUAP o NUSD reportado
+     por los prestadores del servicio público de aseo. Por lo anterior, el reporte que la SSPD remita
+     a la CRA contendrá la información correspondiente al Departamento y Municipio asociados al
+     NUAP o NUSD registrados en el SUI.
+
+     Así mismo, los campos 22 “Nombre del sitio de disposición final” y 24 “Indique el tipo de
+     disposición final empleado en cada NUSD”, se excluyen del presente cargue de información,
+     debido a que se obtendrán del numeral "31. Registro de sitios de disposición final" del anexo 1
+     de la Resolución SSPD 20174000237705 del 5 de diciembre de 2017, previamente certificado
+     al SUI como condición para el reporte del presente cargue de información. Por lo anterior, el
+     reporte que la SSPD remita a la CRA contendrá los campos mencionados de acuerdo con lo
+     reportado en el mencionado numeral 31 por parte de los operadores de SDF.
+
+     Condiciones particulares del presente cargue de información al SUI
+
+     Respecto al presente cargue de información al SUI es importante tener en cuenta las siguientes
+     notas aclaratorias:
+
+     Nota general 1: La información a reportar en los campos 4 al 16, debe estar asociada
+     únicamente a las actividades desarrolladas en las APS, de lo contrario, los campos
+     mencionados se deben reportar vacíos. Adicionalmente, se aclara que la información técnica a
+     reportar, debe corresponder a la relacionada realmente con la operatividad del prestador en el
+     año fiscal y no estrictamente a la que se consideró en la liquidación tarifaria; así mismo,
+     corresponderá al promedio simple mensual del año fiscal a reportar.
+
+     Nota general 2: La información a reportar en los campos 17 al 19, debe estar asociada
+     únicamente a las actividades desarrolladas en los SDF, de lo contrario, los campos mencionados
+     se deben reportar vacíos.
+
+     Nota general 3: Para los campos 20 al 26 se debe reportar la información consolidada por
+     prestador, es decir que, independientemente si el prestador atiende un APS y un SDF o si
+     atiende dos o más APS o dos o más SDF, deberá reportar el mismo valor en cada fila del
+     presente cargue de información. Estos campos son obligatorios y aceptan valores mayores o
+     iguales a cero.
+
+     Nota general 4: El presente cargue de información permite su certificación al SUI cuando el
+     prestador anexe un archivo en formato .zip que contenga los archivos que el prestador considere
+     necesarios para aclarar el reporte de información en cada uno de los campos solicitados,
+     incluyendo las fechas aclaratorias de los campos que en algún momento del año fiscal
+     cambiaron la información a ser reportada. Si los prestadores no requieren remitir aclaraciones,
+     deben incluir un documento que indique que no fue necesario aclarar la información de ningún
+     campo del formato reportado.
+
+
+
+
+                          Superintendencia de Servicios Públicos Domiciliarios
+20201000034455                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Página 9 de 11
+
+     La información se debe reportar como se indica a continuación:
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Promedio de metros cuadrados de áreas públicas lavadas
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Promedio de metros cuadrados de limpieza de playas
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Promedio de metros cuadrados de césped podados
+                                                                                                                                                                                                                                                                                                                                                      Prestadores contratos de colaboración empresarial
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                          Promedio de toneladas de recolección y transporte
+                                                                                                                                                                                                                                                                       Número de contratos de colaboración empresarial
+                                                                                                                                                                                                                             Contratos de colaboración empresarial
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Promedio de árboles podados
+                                                                                                 Metodología tarifaria aplicada
+
+
+                                                                                                                                                                                                  Promedio de suscriptores
+            Tipo de infraestructura
+
+                                                                                   NUAP o NUSD
+
+
+                                                                                                                                                 Segmento
+
+
+
+
+                   1                                                               2                   3                                         4                                                   5                                                 6                                              7                                                                               8                                                                                      9                                        10                                                                 11                                                            12                                                                                                     13
+                                                                                                                                                     Promedio de cestas objeto de mantenimiento
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Valor anual de la propiedad planta y equipo
+                                      Promedio de vías y áreas públicas barridas
+
+
+
+
+                                                                                                                                                                                                                             Promedio de toneladas dispuestas
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Ingresos de actividades ordinarias
+                                                                                                                                                                                                                                                                                                                         Tipo de tratamiento de lixiviados
+                                                                                                                                                                                                                                                                     Promedio de lixiviados tratados
+                                                                                                                Promedio de cestas instaladas
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                          Gasto anual de administración
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Valores facturados a terceros
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Otros gastos (financieros)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Costo anual de ventas
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Gasto anual operativo
+
+
+
+
+                                                            14                                                 15                                                         16                                                               17                        18                                                  19                                                                               20                                                                         21 22                                                                                  23                                24                                                                25                                                         26
+
+
+     Donde:
+
+     1 Tipo de infraestructura. Debe indicar el tipo de infraestructura a la cual corresponde la
+     información a reportar en los siguientes campos, de acuerdo con la codificación de la Tabla 7
+     publicada en la página web del SUI.
+
+     2. NUAP o NUSD. De acuerdo con la información registrada en el campo anterior “Tipo de
+     infraestructura”, debe diligenciar el número único de identificación del área de prestación del
+     servicio en operación (NUAP de no aprovechables) o el número único de identificación del sitio
+     de disposición final en operación (NUSD) asignado al prestador a través del SUI.
+
+     3. Metodología tarifaria aplicada. Debe indicar la metodología tarifaria que aplica en el APS o
+     SDF registrados con los números de identificación del campo anterior “NUAP o NUSD”, de
+     acuerdo con la codificación de la Tabla 8 publicada en la página web del SUI.
+
+     4. Segmento. Segmento al que pertenece el área de prestación del servicio, de acuerdo con la
+     codificación de la Tabla 9 publicada en la página web del SUI.
+
+     5. Promedio de suscriptores. Promedio mensual del total de suscriptores por APS en el año
+     fiscal, correspondiente al período de reporte.
+
+
+
+
+                                                                                                                                                  Superintendencia de Servicios Públicos Domiciliarios
+20201000034455                                                                           Página 10 de 11
+
+     6. Contratos de colaboración empresarial. Indicar si el prestador del servicio público de aseo
+     que diligencia el presente cargue de información, cuenta con algún contrato de colaboración
+     empresarial en el APS, de acuerdo con la codificación de la Tabla 10 publicada en la página
+     web del SUI.
+
+     7. Número de contratos de colaboración empresarial. Indicar el número de contratos de
+     colaboración empresarial en el APS.
+
+     Nota: Si en el campo “Contratos de colaboración empresarial” indicó que no cuenta con este
+     tipo de contratos debe reportar este campo vacío.
+
+     8. Prestadores contratos de colaboración empresarial. Indicar el número de identificación
+     registrado ante la SSPD (ID), de las personas prestadoras con las que el prestador del servicio
+     público de aseo que diligencia el presente cargue de información, tuvo algún contrato de
+     colaboración empresarial en el APS en el período de reporte. De contar con más de una persona
+     prestadora con algún contrato de colaboración empresarial en el APS, los ‘ID’ deben estar
+     separados por un guion. Los ‘ID’ de los prestadores registrados ante la SSPD se pueden
+     consultar en el siguiente link:
+
+     http://reportes.sui.gov.co/fabricaReportes/frameSet.jsp?idreporte=ase_com_144
+
+     Nota: Si en el campo “Contratos de colaboración empresarial” indicó que no cuenta con este
+     tipo de contratos debe reportar este campo vacío.
+
+     9. Promedio de toneladas de recolección y transporte. Promedio mensual del año fiscal de
+     toneladas de residuos sólidos objeto de recolección y transporte por APS (ton/mes).
+
+     10. Promedio de árboles podados. Promedio mensual del año fiscal de árboles podados por
+     APS (und/mes).
+
+     11. Promedio de metros cuadrados de césped objeto de corte. Promedio mensual del año
+     fiscal del área objeto de corte de césped por APS (m2/mes).
+
+     12. Promedio de metros cuadrados de áreas públicas lavadas. Promedio mensual del año
+     fiscal de áreas públicas objeto de lavado por APS (m2/mes).
+
+     13. Promedio de metros cuadrados de limpieza de playas. Promedio mensual del año fiscal
+     de playas costeras y/o ribereñas objeto de limpieza por APS (m2/mes).
+
+     14. Promedio de vías y áreas públicas barridas. Promedio mensual del año fiscal de vías y
+     áreas públicas barridas por el prestador por APS (Km/mes).
+
+     15. Promedio de cestas instaladas. Promedio mensual del año fiscal de cestas instaladas por
+     el prestador en el APS (und/mes).
+
+     16. Promedio de cestas objeto de mantenimiento. Promedio mensual del año fiscal de cestas
+     en el APS, que fueron objeto de mantenimiento y fueron mantenidas por parte del prestador
+     (und/mes).
+
+     17. Promedio de toneladas dispuestas. Promedio mensual del año fiscal de residuos sólidos
+     dispuestos por NUSD en el SDF (ton/mes).
+
+     18. Promedio de lixiviados tratados. Promedio mensual del año fiscal del volumen de
+     lixiviados tratados por NUSD en el SDF (m3/mes).
+
+     19. Tipo de tratamiento de lixiviados. Tipo de tratamiento de lixiviados en el SDF, según los
+     escenarios de tratamiento de lixiviados por objetivo de calidad definidos en la Resolución CRA
+     720 de 2015 y Resolución CRA 853 de 2018, de acuerdo con la codificación de la Tabla 11
+     publicada en la página web del SUI.
+
+     Nota: Si en el año fiscal de reporte de información cambió el tipo de tratamiento de lixiviados en
+     el sitio operado por el prestador, se debe diligenciar el último aprobado por la autoridad
+     ambiental o acto administrativo del regulador durante el año de reporte, aclarando las fechas y
+     condiciones anteriores, en el anexo que se carga con este formato.
+
+     20. Gasto anual de administración. Se debe ingresar el gasto anual de administración del
+     servicio público de aseo del prestador.
+
+
+
+                          Superintendencia de Servicios Públicos Domiciliarios
+20201000034455                                                                                                       Página 11 de 11
+
+
+      21. Gasto anual operativo. Se debe ingresar el gasto anual operativo del servicio público de
+      aseo del prestador.
+
+      22. Costo anual de ventas. Se debe ingresar el costo anual de ventas del servicio público de
+      aseo del prestador.
+
+      23. Valor anual de la propiedad, planta y equipo. Se debe ingresar el valor anual de la
+      propiedad, planta y equipo del servicio público de aseo con la que contaba el prestador al final
+      del período de reporte.
+
+      24. Otros gastos (financieros). Se deben ingresar otros gastos financieros del servicio público
+      de aseo del prestador. No se deben incluir otros gastos diferentes al rubro financiero.
+
+      25. Ingresos de actividades ordinarias. Se deben ingresar los ingresos de actividades
+      ordinarias del servicio público de aseo.
+
+      26. Valores facturados a terceros. Se deben ingresar los valores facturados a terceros del
+      servicio público de aseo, en caso de haberse incluido en el campo "Ingresos de actividades
+      ordinarias".”
+
+Cronograma de cargue
+
+      Nombre del                        Primer periodo a reportar:
+      reporte                           2018 y 2019.                                                     Siguientes periodos a
+                       Periodicidad:    Nota: para las áreas de prestación del servicio o sitios de      reportar:
+ ID   Variables para   Anual            disposición final en que se inicie operación con posterioridad   Años siguientes a 2019 que
+      el cálculo del                    al 31 de diciembre de 2019, corresponde al año en que haya       deba reportar.
+ 59   factor de                         iniciado operación.
+      productividad    Frecuencia de    Fecha máxima de reporte:                                         Fecha máxima de reporte:
+      resolución CRA   reporte:         30 de septiembre de 2020.                                        30 de junio del año siguiente
+      912 de 2020      Todos los años                                                                    al reportado.
+
+Artículo 15.- Retirar los numerales “26. Variables factor de productividad recolección y transporte, barrido
+y limpieza, CLUS y comercialización” y “39. Variables factor de productividad disposición final y tratamiento
+de lixiviados” del anexo 1, de la Resolución SSPD 20174000237705 de 2017, para todos los períodos de
+cargue que se hayan habilitado y se encuentren pendientes sin certificar al SUI.
+
+Artículo 16.- Las demás disposiciones contenidas en la Resolución 20174000237705 de 2017,
+modificada por las Resoluciones SSPD 20184000018825, 20184000056215 de 2018, y
+20201000014555 de 2020, continúan vigentes.
+
+Artículo 17.- La presente resolución rige a partir de la fecha de su publicación en el Diario Oficial.
+
+
+                                              Publíquese y cúmplase
+
+
+
+
+                                    NATASHA AVENDAÑO GARCÍA
+                          Superintendente de Servicios Públicos Domiciliarios
+
+
+
+
+                               Superintendencia de Servicios Públicos Domiciliarios
+

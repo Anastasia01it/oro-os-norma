@@ -466,6 +466,150 @@
    "nota": "Analisis dedicado: 0 ausentes tras fix segmentador ('5o.El'). 130 casi = ruido editorial Constitute (221 arts. con etiquetas de temas intercaladas) + menores; 250 divergentes incluyen 56 reformas reales post-2015 (AL 1/2023, 1/2025) que el corpus 2015 no recoge. PROPUESTA D9: re-procesar corpus desde fuente CRA.",
    "fuente": "https://normas.cra.gov.co/gestor/docs/constitucion_politica_1991.htm",
    "informe": "sistema/verificacion/informes/normas_procesar/CONSTITUCION-POLITICA-CP-1991.json"
+  },
+  "SSPD-20201000034455-2020.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "Wayback 20240716160155; PDF oficial SSPD 200 (752KB); texto extraido 60KB; comparacion con copias normalizadas (ordinales+mueble) en sistema/verificacion/fuentes/",
+   "exactos": 0,
+   "casi": 9,
+   "divergentes": 8,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/SSPD-20201000034455-2020.json"
+  },
+  "SSPD-20201000046075-2020.md": {
+   "estado": "VERIFICADA",
+   "clase": "Wayback 20201103061839; PDF oficial SSPD 200 (525KB); texto extraido 40KB; copias normalizadas en fuentes/",
+   "exactos": 6,
+   "casi": 1,
+   "divergentes": 0,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/SSPD-20201000046075-2020.json"
+  },
+  "SSPD-20211000214135-2022.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "Wayback 20240224092805; PDF oficial SSPD 200; el PDF lleva codigo 20221000214135 (el corpus ambos); ordinales escritos: corpus comparado via copia normalizada",
+   "exactos": 1,
+   "casi": 0,
+   "divergentes": 3,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/SSPD-20211000214135-2022.json"
+  },
+  "SSPD-20211000482115-2021.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": " 20211000482115; copias normalizadas en fuentes/",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 9,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/SSPD-20211000482115-2021.json"
+  },
+  "SSPD-20211000650805-2021.md": {
+   "estado": "NO_VERIFICADA",
+   "clase": "Wayback 20240316080718; PDF oficial SSPD 200 (148KB); texto extraido 24KB; copias normalizadas en fuentes/",
+   "exactos": 0,
+   "casi": 1,
+   "divergentes": 6,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/SSPD-20211000650805-2021.json"
+  },
+  "SSPD-120515-2018.md": {
+   "estado": "CAPTURA_SIN_TEXTO",
+   "clase": "Wayback 20220813170512; PDF oficial SUI 200 (270KB) pero escaneado: pdftotext=5 chars; sin OCR disponible",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/SSPD-120515-2018.json"
+  },
+  "SSPD-20184300130165-2018.md": {
+   "estado": "CAPTURA_SIN_TEXTO",
+   "clase": "Wayback 20220813170459; PDF oficial SUI 200 (572KB) escaneado: pdftotext=6 chars",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/SSPD-20184300130165-2018.json"
+  },
+  "Resolucion_SSPD_204125_2017.md": {
+   "estado": "CAPTURA_SIN_TEXTO",
+   "clase": "Wayback 20240613075542; PDF oficial SSPD 200 (459KB) escaneado: pdftotext=7 chars",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/Resolucion_SSPD_204125_2017.json"
+  },
+  "Resolucion_SSPD_237705_2017.md": {
+   "estado": "CAPTURA_SIN_TEXTO",
+   "clase": "6MB) escaneado: pdftotext=117 chars",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/Resolucion_SSPD_237705_2017.json"
+  },
+  "Resolucion_SSPD_48765_2010.md": {
+   "estado": "CAPTURA_SIN_TEXTO",
+   "clase": "8MB) escaneado: pdftotext=3 chars",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/Resolucion_SSPD_48765_2010.json"
+  },
+  "Resolucion_SSPD_54195_2015.md": {
+   "estado": "CAPTURA_SIN_TEXTO",
+   "clase": "4MB) escaneado: pdftotext=26 chars",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/Resolucion_SSPD_54195_2015.json"
+  },
+  "SSPD-20161300037055-2016.md": {
+   "estado": "SIN_CANAL_SSPD",
+   "clase": "pdf) no capturado; suin-juriscol: 0 resultados",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/SSPD-20161300037055-2016.json"
+  },
+  "Resolucion_SSPD_13835_2016.md": {
+   "estado": "SIN_CANAL_SSPD",
+   "clase": "pdf no capturado; suin-juriscol: 0 resultados",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/Resolucion_SSPD_13835_2016.json"
+  },
+  "Resolucion_SSPD_35485_2012.md": {
+   "estado": "SIN_CANAL_SSPD",
+   "clase": "pdf no capturado; suin-juriscol: 0 resultados",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/Resolucion_SSPD_35485_2012.json"
+  },
+  "RESOLUCION-1164-2002.md": {
+   "estado": "SIN_CANAL",
+   "clase": " 1164 de 2005-2022); gestor CRA no aplica a MinAmbiente",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/RESOLUCION-1164-2002.json"
+  },
+  "RESOLUCION-472-2017.md": {
+   "estado": "SIN_CANAL",
+   "clase": "co (CDX 472/pdf/rcd/uploads-2017) + guesses availability (res_0472_280217, wp-content, images/cambioclimatico): sin captura",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "nota": "",
+   "informe": "sistema/verificacion/informes/RESOLUCION-472-2017.json"
   }
  },
  "canales": {

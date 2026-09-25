@@ -1,0 +1,99 @@
+{
+ "corpus": "RESOLUCION-1362-2007.md",
+ "fuente": "sistema/verificacion/fuentes/RESOLUCION-1362-2007.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 14,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "2",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "3",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.7061,
+   "corpus": "ARTÍCULO 4. Información a ser diligenciada en el Registro de Generadores de Residuos o Desechos Peligrosos. Con el número de registro, todo generador de residuos o desechos peligro",
+   "fuente": "ARTÍCULO 4. Información a ser diligenciada en el Registro de Generadores de Residuos o Desechos Peligrosos. Con el número de registro, todo generador de residuos o desechos peligro",
+   "diff": {
+    "corpus": "... Registro de Generadores de Residuos o Desechos Peligrosos. El generador debe diligenciar la información en el aplicativo en Excel y ra...",
+    "fuente": "... Registro de Generadores de Residuos o Desechos Peligrosos. Resolución No. 1362 del 2 de agosto de 2007 Hoja No. 4 Por la cual se establece los requisitos y el procedimiento para el Registro de ..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "6",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "7",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.8953,
+   "corpus": "ARTICULO 8. Acopio de la información. El IDEAM administrará mediante el Sistema de Información Ambiental ­SIA­, la información capturada en el Registro de Generadores de Residuos o",
+   "fuente": "ARTICULO 8. Acopio de la información. El IDEAM administrará mediante el Sistema de Información Ambiental SIA, la información capturada en el Registro de Generadores de Residuos o D",
+   "diff": {
+    "corpus": "...M administrará mediante el Sistema de Información Ambiental ­SIA­, la información capturada en el Registro de Generadores de ...",
+    "fuente": "...M administrará mediante el Sistema de Información Ambiental SIA, la información capturada en el Registro de Generadores de ..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "10",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "11",
+   "estado": "divergente",
+   "similitud": 0.7349,
+   "corpus": "ARTÍCULO 11. Seguimiento y Monitoreo. Las autoridades ambientales diseñarán programas o realizarán actividades de control y seguimiento ambiental, con el fin de verificar la inform",
+   "fuente": "ARTÍCULO 11. Seguimiento y Monitoreo. Las autoridades ambientales diseñarán programas o realizarán actividades de control y seguimiento ambiental, con el fin de verificar la inform",
+   "diff": {
+    "corpus": "...a información suministrada por los generadores, así como el cumplimiento de las disposiciones y requisitos establecidos en la presente resolución. Parág...",
+    "fuente": "...a información suministrada por los generadores, así como el Resolución No. 1362 del 2 de agosto de 2007 Hoja No. 7 Por la cual se establece los requisitos y el procedimiento para el Registro de Generadores de Resi..."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "13",
+   "estado": "exacto"
+  },
+  {
+   "articulo": "14",
+   "estado": "divergente",
+   "similitud": 0.5904,
+   "corpus": "ARTÍCULO 14. Vigencia. La presente resolución entra en vigencia a partir del primero (1) de enero de 2008, salvo los artículos 8 y 9 de la misma, los cuales rigen a partir de la fe",
+   "fuente": "ARTÍCULO 14. Vigencia. La presente resolución entra en vigencia a partir del primero (1) de enero de 2008, salvo los artículos 8 y 9 de la misma, los cuales rigen a partir de la fe",
+   "diff": {
+    "corpus": "... DE RESIDUOS O DESECHOS PELIGROSOS Ciudad………..de….. .......de 2008 Señores CORPORACIÓN AUTONOMA REGIONAL….... Atn: ………………… C...",
+    "fuente": "... DE RESIDUOS O DESECHOS PELIGROSOS Ciudad………..de….. ...de 2008 Señores CORPORACIÓN AUTÓNOMA REGIONAL….... Atn: ………………… C..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 10,
+  "casi": 0,
+  "divergentes": 4
+ }
+}

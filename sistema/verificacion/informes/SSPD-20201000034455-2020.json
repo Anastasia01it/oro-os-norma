@@ -1,0 +1,202 @@
+{
+ "corpus": "SSPD-20201000034455-2020.corpus.norm.md",
+ "fuente": "sistema/verificacion/fuentes/SSPD-20201000034455-2020.fuente.norm.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 17,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.5904,
+   "corpus": "ARTÍCULO 1o. Modificar el artículo segundo de la Resolución número SSPD 20174000237705 de 2017, el cual quedará así: “ Artículo Segundo. Aquellas personas prestadoras del servicio ",
+   "fuente": "Artículo 1.- Modificar el artículo segundo de la Resolución SSPD 20174000237705 de 2017, el cual quedará así: “Artículo segundo.- Aquellas personas prestadoras del servicio público",
+   "diff": {
+    "corpus": "...ARTÍCULO 1o. Modificar el artículo segundo de la Resolución número SSPD ...",
+    "fuente": "...Artículo 1.- Modificar el artículo segundo de la Resolución SSPD 2017400..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.1926,
+   "corpus": "ARTÍCULO 2o. Modificar el Parágrafo del artículo séptimo de la Resolución número SSPD 20174000237705 de 2017, el cual quedará así: “ Parágrafo . La vigencia y periodicidad del carg",
+   "fuente": "Artículo 2.- Modificar el Parágrafo del artículo séptimo de la Resolución SSPD 20174000237705 de 2017, el cual quedará así: “Parágrafo: la vigencia y periodicidad del cargue de la ",
+   "diff": {
+    "corpus": "...ARTÍCULO 2o. Modificar el Parágrafo del artículo séptimo de la Resoluci...",
+    "fuente": "...Artículo 2.- Modificar el Parágrafo del artículo séptimo de la Resoluc..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "casi",
+   "similitud": 0.9946,
+   "corpus": "ARTÍCULO 3o. Adicionar los campos “QNAz” y “QAj” en el reporte de información requerida del numeral “19. Variables para el cálculo de la tarifa de aprovechamiento y toneladas conju",
+   "fuente": "Artículo 3.- Adicionar los campos “QNAz” y “QAj” en el reporte de información requerida del numeral “19. Variables para el cálculo de la tarifa de aprovechamiento y toneladas conju",
+   "diff": {
+    "corpus": "...ARTÍCULO 3o. Adicionar los campos “QNAz” y “QAj” en el reporte de infor...",
+    "fuente": "...Artículo 3.- Adicionar los campos “QNAz” y “QAj” en el reporte de info..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.9341,
+   "corpus": "ARTÍCULO 4o. Modificar los campos 5 y 6 del numeral “20. Traslado de recursos de aprovechamiento” del anexo 1, de la Resolución número SSPD 20174000237705 de 2017, los cuales queda",
+   "fuente": "Artículo 4.- Modificar los campos 5 y 6 del numeral “20. Traslado de recursos de aprovechamiento” del anexo 1, de la Resolución SSPD 20174000237705 de 2017, los cuales quedarán así",
+   "diff": {
+    "corpus": "...ARTÍCULO 4o. Modificar los campos 5 y 6 del numeral “20. Traslado de re...",
+    "fuente": "...Artículo 4.- Modificar los campos 5 y 6 del numeral “20. Traslado de r..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.9294,
+   "corpus": "ARTÍCULO 5o. Adicionar la 'nota 1' en el campo 9 del numeral “22. Suscriptores y tarifa aplicada”, del anexo 1, de la Resolución número SSPD 20174000237705 de 2017, las cuales qued",
+   "fuente": "Artículo 5.- Adicionar la ‘nota 1’ en el campo 9 del numeral “22. Suscriptores y tarifa aplicada”, del anexo 1, de la Resolución SSPD 20174000237705 de 2017, las cuales quedarán as",
+   "diff": {
+    "corpus": "...ARTÍCULO 5o. Adicionar la 'nota 1' en el campo 9 del numeral “22. Suscr...",
+    "fuente": "...Artículo 5.- Adicionar la ‘nota 1’ en el campo 9 del numeral “22. Susc..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "casi",
+   "similitud": 0.9888,
+   "corpus": "ARTÍCULO 6o. Adicionar el campo “Aporte Bajo Condición”, en el reporte de información requerida del numeral “23. Costo de limpieza urbana y costo de barrido y limpieza de vías y ár",
+   "fuente": "Artículo 6.- Adicionar el campo “Aporte Bajo Condición”, en el reporte de información requerida del numeral “23. Costo de limpieza urbana y costo de barrido y limpieza de vías y ár",
+   "diff": {
+    "corpus": "...ARTÍCULO 6o. Adicionar el campo “Aporte Bajo Condición”, en el reporte ...",
+    "fuente": "...Artículo 6.- Adicionar el campo “Aporte Bajo Condición”, en el reporte..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "casi",
+   "similitud": 0.992,
+   "corpus": "ARTÍCULO 7o. Adicionar el campo 23 en el reporte de información requerida del numeral “24. Costo de recolección y transporte”, del anexo 1, de la Resolución número SSPD 20174000237",
+   "fuente": "Artículo 7.- Adicionar el campo 23 en el reporte de información requerida del numeral “24. Costo de recolección y transporte”, del anexo 1, de la Resolución SSPD 20174000237705 de ",
+   "diff": {
+    "corpus": "...ARTÍCULO 7o. Adicionar el campo 23 en el reporte de información requeri...",
+    "fuente": "...Artículo 7.- Adicionar el campo 23 en el reporte de información requer..."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "casi",
+   "similitud": 0.9868,
+   "corpus": "ARTÍCULO 8o. Retirar el numeral “27. Tarifas parágrafo 1 del artículo 87 de la Ley 142 de 1994”, del anexo 1 de la Resolución número SSPD 20174000237705 de 2017, debido a que en el",
+   "fuente": "Artículo 8.- Retirar el numeral “27. Tarifas parágrafo 1 del artículo 87 de la Ley 142 de 1994”, del anexo 1 de la Resolución SSPD 20174000237705 de 2017, debido a que en el marco ",
+   "diff": {
+    "corpus": "...ARTÍCULO 8o. Retirar el numeral “27. Tarifas parágrafo 1 del artículo 8...",
+    "fuente": "...Artículo 8.- Retirar el numeral “27. Tarifas parágrafo 1 del artículo ..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "casi",
+   "similitud": 0.986,
+   "corpus": "ARTÍCULO 9o. Ajustar el campo “Tipo de disposición final”, del numeral “31. Registro de sitios de disposición final”, del anexo 1, de la Resolución número SSPD 20174000237705 de 20",
+   "fuente": "Artículo 9.- Ajustar el campo “Tipo de disposición final”, del numeral “31. Registro de sitios de disposición final”, del anexo 1, de la Resolución SSPD 20174000237705 de 2017, el ",
+   "diff": {
+    "corpus": "...ARTÍCULO 9o. Ajustar el campo “Tipo de disposición final”, del numeral ...",
+    "fuente": "...Artículo 9.- Ajustar el campo “Tipo de disposición final”, del numeral..."
+   }
+  },
+  {
+   "articulo": "10",
+   "estado": "casi",
+   "similitud": 0.984,
+   "corpus": "ARTÍCULO 10. Ajustar el nombre de los tres últimos campos del numeral “36. Costo de tratamiento de lixiviados – operador sitio de disposición final”, del anexo 1, de la Resolución ",
+   "fuente": "Artículo 10.- Ajustar el nombre de los tres últimos campos del numeral “36. Costo de tratamiento de lixiviados – operador sitio de disposición final”, del anexo 1, de la Resolución",
+   "diff": {
+    "corpus": "...ARTÍCULO 10. Ajustar el nombre de los tres últimos campos del numeral “3...",
+    "fuente": "...Artículo 10.- Ajustar el nombre de los tres últimos campos del numeral “3..."
+   }
+  },
+  {
+   "articulo": "11",
+   "estado": "divergente",
+   "similitud": 0.9292,
+   "corpus": "ARTÍCULO 11. Modificar el reporte de información requerido del numeral “37. Provisión cierre, clausura y posclausura – operador sitio de disposición final”, del anexo 1, de la Reso",
+   "fuente": "Artículo 11.- Modificar el reporte de información requerido del numeral “37. Provisión cierre, clausura y post-clausura – operador sitio de disposición final”, del anexo 1, de la R",
+   "diff": {
+    "corpus": "...ARTÍCULO 11. Modificar el reporte de información requerido del numeral “...",
+    "fuente": "...Artículo 11.- Modificar el reporte de información requerido del numeral “..."
+   }
+  },
+  {
+   "articulo": "12",
+   "estado": "casi",
+   "similitud": 0.991,
+   "corpus": "ARTÍCULO 12. Modificar los campos 17, 18 y 23 del numeral “42. Facturación operadores de sitios de disposición final y estaciones transferencia”, del anexo 1, de la Resolución núme",
+   "fuente": "Artículo 12.- Modificar los campos 17, 18 y 23 del numeral “42. Facturación operadores de sitios de disposición final y estaciones transferencia”, del anexo 1, de la Resolución SSP",
+   "diff": {
+    "corpus": "...ARTÍCULO 12. Modificar los campos 17, 18 y 23 del numeral “42. Facturaci...",
+    "fuente": "...Artículo 12.- Modificar los campos 17, 18 y 23 del numeral “42. Facturaci..."
+   }
+  },
+  {
+   "articulo": "13",
+   "estado": "divergente",
+   "similitud": 0.9074,
+   "corpus": "ARTÍCULO 13. Modificar los campos 2, 5, 7, 9, 11 y 12 del cargue de información requerido en el numeral “55. Personal por categoría de empleo”, del anexo 1, de la Resolución número",
+   "fuente": "Artículo 13.- Modificar los campos 2, 5, 7, 9, 11 y 12 del cargue de información requerido en el numeral “55. Personal por categoría de empleo”, del anexo 1, de la Resolución SSPD ",
+   "diff": {
+    "corpus": "...ARTÍCULO 13. Modificar los campos 2, 5, 7, 9, 11 y 12 del cargue de info...",
+    "fuente": "...Artículo 13.- Modificar los campos 2, 5, 7, 9, 11 y 12 del cargue de info..."
+   }
+  },
+  {
+   "articulo": "14",
+   "estado": "divergente",
+   "similitud": 0.882,
+   "corpus": "ARTÍCULO 14. Adicionar el numeral “59. Variables para el cálculo del factor de productividad Resolución CRA 912 de 2020” y su respectivo cronograma de cargue, al anexo 1 de la Reso",
+   "fuente": "Artículo 14.- Adicionar el numeral “59. Variables para el cálculo del factor de productividad Resolución CRA 912 de 2020” y su respectivo cronograma de cargue, al anexo 1 de la Res",
+   "diff": {
+    "corpus": "...ARTÍCULO 14. Adicionar el numeral “59. Variables para el cálculo del fac...",
+    "fuente": "...Artículo 14.- Adicionar el numeral “59. Variables para el cálculo del fac..."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "casi",
+   "similitud": 0.9901,
+   "corpus": "ARTÍCULO 15. Retirar los numerales “26. Variables factor de productividad recolección y transporte, barrido y limpieza, CLUS y comercialización” y “39. Variables factor de producti",
+   "fuente": "Artículo 15.- Retirar los numerales “26. Variables factor de productividad recolección y transporte, barrido y limpieza, CLUS y comercialización” y “39. Variables factor de product",
+   "diff": {
+    "corpus": "...ARTÍCULO 15. Retirar los numerales “26. Variables factor de productivida...",
+    "fuente": "...Artículo 15.- Retirar los numerales “26. Variables factor de productivida..."
+   }
+  },
+  {
+   "articulo": "16",
+   "estado": "casi",
+   "similitud": 0.9976,
+   "corpus": "ARTÍCULO 16. Las demás disposiciones contenidas en la Resolución 20174000237705 de 2017, modificada por las Resoluciones SSPD 20184000018825, 20184000056215 de 2018, y 202010000145",
+   "fuente": "Artículo 16.- Las demás disposiciones contenidas en la Resolución 20174000237705 de 2017, modificada por las Resoluciones SSPD 20184000018825, 20184000056215 de 2018, y 20201000014",
+   "diff": {
+    "corpus": "...ARTÍCULO 16. Las demás disposiciones contenidas en la Resolución 2017400...",
+    "fuente": "...Artículo 16.- Las demás disposiciones contenidas en la Resolución 2017400..."
+   }
+  },
+  {
+   "articulo": "17",
+   "estado": "divergente",
+   "similitud": 0.071,
+   "corpus": "ARTÍCULO 17. La presente resolución rige a partir de la fecha de su publicación en el Diario Oficial . Publíquese y cúmplase. El Superintendente de Servicios Públicos Domiciliarios",
+   "fuente": "Artículo 17.- La presente resolución rige a partir de la fecha de su publicación en el Diario Oficial. Publíquese y cúmplase NATASHA AVENDAÑO GARCÍA Superintendente de Servicios Pú",
+   "diff": {
+    "corpus": "...ARTÍCULO 17. La presente resolución rige a partir de la fecha de su publ...",
+    "fuente": "...Artículo 17.- La presente resolución rige a partir de la fecha de su publ..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 9,
+  "divergentes": 8
+ }
+}

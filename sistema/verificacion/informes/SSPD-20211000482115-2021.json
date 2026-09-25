@@ -1,0 +1,114 @@
+{
+ "corpus": "SSPD-20211000482115-2021.corpus.norm.md",
+ "fuente": "sistema/verificacion/fuentes/SSPD-20211000482115-2021.fuente.norm.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 9,
+ "resultados": [
+  {
+   "articulo": "1",
+   "estado": "divergente",
+   "similitud": 0.9489,
+   "corpus": "ARTÍCULO 1o. OBJETO. La presente resolución adiciona los Formatos siete y ocho de información al capítulo 1 del Título 1 de la Resolución SSPD número 20151300054195 de 2015.",
+   "fuente": "ARTÍCULO 1. – OBJETO: La presente Resolución adiciona los Formatos siete (7) y ocho (8) de información al capítulo 1 del Título 1 de la Resolución SSPD No. 20151300054195 de 2015.",
+   "diff": {
+    "corpus": "...ARTÍCULO 1o. OBJETO. La presente resolución adiciona los Formatos siete...",
+    "fuente": "...ARTÍCULO 1. – OBJETO: La presente Resolución adiciona los Formatos sie..."
+   }
+  },
+  {
+   "articulo": "2",
+   "estado": "divergente",
+   "similitud": 0.971,
+   "corpus": "ARTÍCULO 2o. DESTINATARIOS. La presente resolución es aplicable a los municipios y a los distritos del país y a los prestadores de la actividad de aprovechamiento del servicio públ",
+   "fuente": "ARTÍCULO 2. – DESTINATARIOS: La presente Resolución es aplicable a los municipios y distritos del país y a los prestadores de la actividad de aprovechamiento del servicio público d",
+   "diff": {
+    "corpus": "...ARTÍCULO 2o. DESTINATARIOS. La presente resolución es aplicable a los m...",
+    "fuente": "...ARTÍCULO 2. – DESTINATARIOS: La presente Resolución es aplicable a los..."
+   }
+  },
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.4397,
+   "corpus": "ARTÍCULO 3o. LISTADO DE ORGANIZACIONES DE RECICLADORES DE OFICIO MUNICIPAL O DISTRITAL. Se adiciona el Formato siete al capítulo 1 del Título I del anexo de la Resolución SSPD núme",
+   "fuente": "ARTÍCULO 3. – LISTADO DE ORGANIZACIONES DE RECICLADORES DE OFICIO MUNICIPAL O DISTRITAL: Se adiciona el Formato siete (7) al capítulo 1 del Título I del anexo de la Resolución SSPD",
+   "diff": {
+    "corpus": "...ARTÍCULO 3o. LISTADO DE ORGANIZACIONES DE RECICLADORES DE OFICIO MUNICI...",
+    "fuente": "...ARTÍCULO 3. – LISTADO DE ORGANIZACIONES DE RECICLADORES DE OFICIO MUNI..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.8769,
+   "corpus": "ARTÍCULO 4o. ESTRUCTURA TÉCNICA. Al reportar el Formato siete , las alcaldías municipales o distritales deberán reportar en el Sistema Único de Información la siguiente información",
+   "fuente": "ARTÍCULO 4.– ESTRUCTURA TÉCNICA: Al reportar el Formato siete (7), las alcaldías municipales o distritales deberán reportar en el Sistema Único de Información la siguiente informac",
+   "diff": {
+    "corpus": "...ARTÍCULO 4o. ESTRUCTURA TÉCNICA. Al reportar el Formato siete , las alc...",
+    "fuente": "...ARTÍCULO 4.– ESTRUCTURA TÉCNICA: Al reportar el Formato siete (7), las..."
+   }
+  },
+  {
+   "articulo": "5",
+   "estado": "divergente",
+   "similitud": 0.3323,
+   "corpus": "ARTÍCULO 5o. USOS DE SUELO, SISTEMAS DE OLORES Y CONTROLES DE INCENDIOS DE LAS ESTACIONES DE CLASIFICACIÓN Y APROVECHAMIENTO. Para garantizar que los prestadores de la actividad de",
+   "fuente": "ARTÍCULO 5. – USOS DE SUELO, SISTEMAS DE OLORES Y CONTROLES DE INCENDIOS DE LAS ESTACIONES DE CLASIFICACIÓN Y APROVECHAMIENTO: Para garantizar que los prestadores de la actividad d",
+   "diff": {
+    "corpus": "...ARTÍCULO 5o. USOS DE SUELO, SISTEMAS DE OLORES Y CONTROLES DE INCENDIOS...",
+    "fuente": "...ARTÍCULO 5. – USOS DE SUELO, SISTEMAS DE OLORES Y CONTROLES DE INCENDI..."
+   }
+  },
+  {
+   "articulo": "6",
+   "estado": "divergente",
+   "similitud": 0.5404,
+   "corpus": "ARTÍCULO 6o. ESTRUCTURA TÉCNICA. 1 de la Resolución 214135 de 2022. El nuevo texto es el siguiente: Con el fin de cumplir con la información solicitada por el Formato ocho creado e",
+   "fuente": "ARTÍCULO 6. – ESTRUCTURA TÉCNICA: Al reportar el Formato ocho (8), las alcaldías municipales o distritales deberán certificar en el Sistema Único de Información - SUI la siguiente ",
+   "diff": {
+    "corpus": "...ARTÍCULO 6o. ESTRUCTURA TÉCNICA. 1 de la Resolución 214135 de 2022. El ...",
+    "fuente": "...ARTÍCULO 6. – ESTRUCTURA TÉCNICA: Al reportar el Formato ocho (8), las..."
+   }
+  },
+  {
+   "articulo": "7",
+   "estado": "divergente",
+   "similitud": 0.6165,
+   "corpus": "ARTÍCULO 7o. PLAZOS DE CARGUE. 2 de la Resolución 214135 de 2022. El nuevo texto es el siguiente: Los formatos deberán ser reportados por las alcaldías por primera vez hasta el 30 ",
+   "fuente": "ARTÍCULO 7. – PLAZOS DE CARGUE: Los indicadores deberán ser reportados por las alcaldías municipales o distritales por primera vez hasta el 30 de noviembre de 2021 y anualmente has",
+   "diff": {
+    "corpus": "...ARTÍCULO 7o. PLAZOS DE CARGUE. 2 de la Resolución 214135 de 2022. El nu...",
+    "fuente": "...ARTÍCULO 7. – PLAZOS DE CARGUE: Los indicadores deberán ser reportados..."
+   }
+  },
+  {
+   "articulo": "8",
+   "estado": "divergente",
+   "similitud": 0.1808,
+   "corpus": "ARTÍCULO 8o. INSPECCIÓN Y VIGILANCIA DE LA INFORMACIÓN CERTIFICADA EN EL SISTEMA ÚNICO DE INFORMACIÓN – SUI –. 3 de la Resolución 214135 de 2022. El nuevo texto es el siguiente: En",
+   "fuente": "ARTICULO 8. – INSPECCIÓN Y VIGILANCIA DE LA INFORMACIÓN CERTIFICADA EN EL SISTEMA ÚNICO DE INFORMACIÓN - SUI: En caso de encontrar inconsistencias entre la información certificada ",
+   "diff": {
+    "corpus": "...ARTÍCULO 8o. INSPECCIÓN Y VIGILANCIA DE LA INFORMACIÓN CERTIFICADA EN E...",
+    "fuente": "...ARTICULO 8. – INSPECCIÓN Y VIGILANCIA DE LA INFORMACIÓN CERTIFICADA EN..."
+   }
+  },
+  {
+   "articulo": "9",
+   "estado": "divergente",
+   "similitud": 0.6571,
+   "corpus": "ARTÍCULO 9o. VIGENCIA. La presente resolución entrará en vigencia a partir de su publicación en el Diario Oficial. Publíquese y cúmplase. Dada en Bogotá, D. C., a 13 de septiembre ",
+   "fuente": "ARTÍCULO 9. – VIGENCIA: La presente Resolución entrará en vigencia a partir de su publicación en el Diario Oficial. PUBLÍQUESE Y CÚMPLASE Dada en Bogotá, D. C. NATASHA AVENDAÑO GAR",
+   "diff": {
+    "corpus": "...ARTÍCULO 9o. VIGENCIA. La presente resolución entrará en vigencia a partir de su p...",
+    "fuente": "...ARTÍCULO 9. – VIGENCIA: La presente Resolución entrará en vigencia a partir de su p..."
+   }
+  }
+ ],
+ "sin_contraparte": [],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 0,
+  "divergentes": 9
+ }
+}

@@ -1,0 +1,283 @@
+{
+ "corpus": "DECRETO-2811-1974.md",
+ "fuente": "sistema/verificacion/fuentes/DECRETO-2811-1974.oficial.txt",
+ "umbral": 0.98,
+ "articulos_corpus": 23,
+ "resultados": [
+  {
+   "articulo": "3",
+   "estado": "divergente",
+   "similitud": 0.527,
+   "corpus": "ARTICULO 3o. De acuerdo con los objetivos enunciados, el presente C&oacute;digo regula: a). El manejo de los recursos naturales renovables a saber: 1o. La atm&oacute;sfera y el esp",
+   "fuente": "ARTICULO 3o. De acuerdo con los objetivos enunciados, el presente Código regula: a). El manejo de los recursos naturales renovables a saber: 1o. La atmósfera y el espacio aéreo nac",
+   "diff": {
+    "corpus": "...O 3o. De acuerdo con los objetivos enunciados, el presente C&oacute;digo regula: a). El manejo de los recursos naturales renovab...",
+    "fuente": "...O 3o. De acuerdo con los objetivos enunciados, el presente Código regula: a). El manejo de los recursos naturales renovab..."
+   }
+  },
+  {
+   "articulo": "4",
+   "estado": "divergente",
+   "similitud": 0.5633,
+   "corpus": "ARTICULO 4o. Se reconocen los derechos adquiridos por particulares con arreglo a la ley sobre los elementos ambientales y los recursos naturales renovables. &#160;En cuanto a su ej",
+   "fuente": "ARTICULO 4o. Se reconocen los derechos adquiridos por particulares con arreglo a la ley sobre los elementos ambientales y los recursos naturales renovables. En cuanto a su ejercici",
+   "diff": {
+    "corpus": "... elementos ambientales y los recursos naturales renovables. &#160;En cuanto a su ejercicio, tales derechos estar&aacute;n suje...",
+    "fuente": "... elementos ambientales y los recursos naturales renovables. En cuanto a su ejercicio, tales derechos estarán sujetos a l..."
+   }
+  },
+  {
+   "articulo": "14",
+   "estado": "divergente",
+   "similitud": 0.7887,
+   "corpus": "ARTICULO 14. Dentro de las facultades que constitucionalmente le competen, el Gobierno al reglamentar la educaci&oacute;n primaria, secundaria y universitaria procurar&aacute;: a).",
+   "fuente": "ARTICULO 14. Dentro de las facultades que constitucionalmente le competen, el Gobierno al reglamentar la educación primaria, secundaria y universitaria procurará: a). Incluir curso",
+   "diff": {
+    "corpus": "...onalmente le competen, el Gobierno al reglamentar la educaci&oacute;n primaria, secundaria y universitaria procurar&aacute;: a)....",
+    "fuente": "...onalmente le competen, el Gobierno al reglamentar la educación primaria, secundaria y universitaria procurará: a). Inclui..."
+   }
+  },
+  {
+   "articulo": "15",
+   "estado": "divergente",
+   "similitud": 0.9121,
+   "corpus": "ARTICULO 15. Por medios de comunicaci&oacute;n adecuada, se motivar&aacute; a la poblaci&oacute;n para que formule sugerencias y tome iniciativas a la protecci&oacute;n ambiental y",
+   "fuente": "ARTICULO 15. Por medios de comunicación adecuada, se motivará a la población para que formule sugerencias y tome iniciativas a la protección ambiental y para el mejor manejo de los",
+   "diff": {
+    "corpus": "...ARTICULO 15. Por medios de comunicaci&oacute;n adecuada, se motivar&aacute; a la poblaci&oacute;n para qu...",
+    "fuente": "...ARTICULO 15. Por medios de comunicación adecuada, se motivará a la población para que formule suge..."
+   }
+  },
+  {
+   "articulo": "16",
+   "estado": "divergente",
+   "similitud": 0.8569,
+   "corpus": "ARTICULO 16. Para ayudar a formar y mantener en la comunidad conocimiento y convicci&oacute;n suficientes sobre la necesidad de proteger el medio ambiente y de mantener bien los re",
+   "fuente": "ARTICULO 16. Para ayudar a formar y mantener en la comunidad conocimiento y convicción suficientes sobre la necesidad de proteger el medio ambiente y de mantener bien los recursos ",
+   "diff": {
+    "corpus": "... a formar y mantener en la comunidad conocimiento y convicci&oacute;n suficientes sobre la necesidad de proteger el medio ambien...",
+    "fuente": "... a formar y mantener en la comunidad conocimiento y convicción suficientes sobre la necesidad de proteger el medio ambien..."
+   }
+  },
+  {
+   "articulo": "17",
+   "estado": "divergente",
+   "similitud": 0.6132,
+   "corpus": "ARTICULO 17. Ver Notas del Editor Cr&eacute;ase el Servicio Nacional Ambiental Obligatorio que no exceder&aacute; de un a&ntilde;o y que ser&aacute; prestado gratuitamente. El Gobi",
+   "fuente": "ARTICULO 17. Ver Notas del Editor Créase el Servicio Nacional Ambiental Obligatorio que no excederá de un año y que será prestado gratuitamente. El Gobierno determinará la manera c",
+   "diff": {
+    "corpus": "...ARTICULO 17. Ver Notas del Editor Cr&eacute;ase el Servicio Nacional Ambiental Obligatorio que no excede...",
+    "fuente": "...ARTICULO 17. Ver Notas del Editor Créase el Servicio Nacional Ambiental Obligatorio que no excede..."
+   }
+  },
+  {
+   "articulo": "18",
+   "estado": "divergente",
+   "similitud": 0.71,
+   "corpus": "ARTICULO 18. Art&iacute;culo derogado por el art&iacute;culo 118 de la Ley 99 de 1993 TITULO IV. SISTEMA DE INFORMACION AMBIENTAL",
+   "fuente": "ARTICULO 18. Artículo derogado por el artículo 118 de la Ley 99 de 1993",
+   "diff": {
+    "corpus": "...ARTICULO 18. Art&iacute;culo derogado por el art&iacute;culo 118 de la Ley 99...",
+    "fuente": "...ARTICULO 18. Artículo derogado por el artículo 118 de la Ley 99 de 1993..."
+   }
+  },
+  {
+   "articulo": "20",
+   "estado": "divergente",
+   "similitud": 0.8406,
+   "corpus": "ARTICULO 20. Se organizar&aacute; y mantendr&aacute; al d&iacute;a un sistema de informaciones ambientales, con los datos f&iacute;sicos, econ&oacute;micos, sociales, legales y en ",
+   "fuente": "ARTICULO 20. Se organizará y mantendrá al día un sistema de informaciones ambientales, con los datos físicos, económicos, sociales, legales y en general, concernientes a los recurs",
+   "diff": {
+    "corpus": "...ARTICULO 20. Se organizar&aacute; y mantendr&aacute; al d&iacute;a un sistema de informacione...",
+    "fuente": "...ARTICULO 20. Se organizará y mantendrá al día un sistema de informaciones ambientales,..."
+   }
+  },
+  {
+   "articulo": "21",
+   "estado": "divergente",
+   "similitud": 0.8413,
+   "corpus": "ARTICULO 21. Mediante el sistema de informaciones ambientales se procesar&aacute;n y analizar&aacute;n, por lo menos las siguientes especies de informaci&oacute;n: a). Cartogr&aacu",
+   "fuente": "ARTICULO 21. Mediante el sistema de informaciones ambientales se procesarán y analizarán, por lo menos las siguientes especies de información: a). Cartográfica; b). Hidrometeorológ",
+   "diff": {
+    "corpus": "...Mediante el sistema de informaciones ambientales se procesar&aacute;n y analizar&aacute;n, por lo menos las siguientes especies ...",
+    "fuente": "...Mediante el sistema de informaciones ambientales se procesarán y analizarán, por lo menos las siguientes especies de info..."
+   }
+  },
+  {
+   "articulo": "22",
+   "estado": "divergente",
+   "similitud": 0.9239,
+   "corpus": "ARTICULO 22. Las entidades oficiales suministrar&aacute;n la informaci&oacute;n de que dispongan o que se les solicite, en relaci&oacute;n con los datos a que se refiere el art&iac",
+   "fuente": "ARTICULO 22. Las entidades oficiales suministrarán la información de que dispongan o que se les solicite, en relación con los datos a que se refiere el artículo anterior.",
+   "diff": {
+    "corpus": "...ARTICULO 22. Las entidades oficiales suministrar&aacute;n la informaci&oacute;n de que dispongan o que se les...",
+    "fuente": "...ARTICULO 22. Las entidades oficiales suministrarán la información de que dispongan o que se les solicite, en..."
+   }
+  },
+  {
+   "articulo": "23",
+   "estado": "divergente",
+   "similitud": 0.9783,
+   "corpus": "ARTICULO 23. Los propietarios, usuarios, concesionarios, arrendatarios y titulares de permiso de uso sobre recursos naturales renovables y elementos ambientales, est&aacute;n oblig",
+   "fuente": "ARTICULO 23. Los propietarios, usuarios, concesionarios, arrendatarios y titulares de permiso de uso sobre recursos naturales renovables y elementos ambientales, están obligados a ",
+   "diff": {
+    "corpus": "...e recursos naturales renovables y elementos ambientales, est&aacute;n obligados a recopilar y a suministrar sin costo alguno, co...",
+    "fuente": "...e recursos naturales renovables y elementos ambientales, están obligados a recopilar y a suministrar sin costo alguno, co..."
+   }
+  },
+  {
+   "articulo": "24",
+   "estado": "divergente",
+   "similitud": 0.9291,
+   "corpus": "ARTICULO 24. Los datos del sistema ser&aacute;n de libre consulta y deber&aacute;n difundirse peri&oacute;dicamente por medios eficaces cuando fueren de inter&eacute;s general. TIT",
+   "fuente": "ARTICULO 24. Los datos del sistema serán de libre consulta y deberán difundirse periódicamente por medios eficaces cuando fueren de interés general. TITULO V. DE LAS INVERSIONES FI",
+   "diff": {
+    "corpus": "...ARTICULO 24. Los datos del sistema ser&aacute;n de libre consulta y deber&aacute;n difundirse peri&oacute;...",
+    "fuente": "...ARTICULO 24. Los datos del sistema serán de libre consulta y deberán difundirse periódicamente por ..."
+   }
+  },
+  {
+   "articulo": "25",
+   "estado": "divergente",
+   "similitud": 0.9615,
+   "corpus": "ARTICULO 25. En el Presupuesto Nacional se incluir&aacute; anualmente una partida especial y exclusivamente destinada a financiar los programas o proyectos de preservaci&oacute;n a",
+   "fuente": "ARTICULO 25. En el Presupuesto Nacional se incluirá anualmente una partida especial y exclusivamente destinada a financiar los programas o proyectos de preservación ambiental.",
+   "diff": {
+    "corpus": "...ARTICULO 25. En el Presupuesto Nacional se incluir&aacute; anualmente una partida especial y exclusivamente des...",
+    "fuente": "...ARTICULO 25. En el Presupuesto Nacional se incluirá anualmente una partida especial y exclusivamente destinada..."
+   }
+  },
+  {
+   "articulo": "26",
+   "estado": "divergente",
+   "similitud": 0.9471,
+   "corpus": "ARTICULO 26. En el proyecto general de cualquier obra p&uacute;blica que utilice o deteriore un recurso natural renovable o el ambiente se contemplar&aacute; un programa que cubra ",
+   "fuente": "ARTICULO 26. En el proyecto general de cualquier obra pública que utilice o deteriore un recurso natural renovable o el ambiente se contemplará un programa que cubra totalmente, lo",
+   "diff": {
+    "corpus": "...ARTICULO 26. En el proyecto general de cualquier obra p&uacute;blica que utilice o deteriore un recurso natural renovable o...",
+    "fuente": "...ARTICULO 26. En el proyecto general de cualquier obra pública que utilice o deteriore un recurso natural renovable o..."
+   }
+  },
+  {
+   "articulo": "27",
+   "estado": "divergente",
+   "similitud": 0.7619,
+   "corpus": "ARTICULO 27. Art&iacute;culo derogado por el art&iacute;culo 118 de la Ley 99 de 1993. TITULO VII. DE LA ZONIFICACION",
+   "fuente": "ARTICULO 27. Artículo derogado por el artículo 118 de la Ley 99 de 1993.",
+   "diff": {
+    "corpus": "...ARTICULO 27. Art&iacute;culo derogado por el art&iacute;culo 118 de la Ley 99...",
+    "fuente": "...ARTICULO 27. Artículo derogado por el artículo 118 de la Ley 99 de 1993...."
+   }
+  },
+  {
+   "articulo": "30",
+   "estado": "divergente",
+   "similitud": 0.8962,
+   "corpus": "ARTICULO 30. Para la adecuada protecci&oacute;n del ambiente y de los recursos naturales, el Gobierno Nacional establecer&aacute; pol&iacute;ticas y normas sobre zonificaci&oacute;",
+   "fuente": "ARTICULO 30. Para la adecuada protección del ambiente y de los recursos naturales, el Gobierno Nacional establecerá políticas y normas sobre zonificación. Los Departamentos y Munic",
+   "diff": {
+    "corpus": "...ARTICULO 30. Para la adecuada protecci&oacute;n del ambiente y de los recursos naturales, el Gobierno Naci...",
+    "fuente": "...ARTICULO 30. Para la adecuada protección del ambiente y de los recursos naturales, el Gobierno Naci..."
+   }
+  },
+  {
+   "articulo": "31",
+   "estado": "casi",
+   "similitud": 0.9891,
+   "corpus": "ARTICULO 31. En accidentes acaecidos o que previsiblemente puedan sobrevenir, que causen deterioro ambiental, o de otros hechos ambientales que constituyan peligro colectivo, se to",
+   "fuente": "ARTICULO 31. En accidentes acaecidos o que previsiblemente puedan sobrevenir, que causen deterioro ambiental, o de otros hechos ambientales que constituyan peligro colectivo, se to",
+   "diff": {
+    "corpus": "...chos ambientales que constituyan peligro colectivo, se tomar&aacute;n las medidas de emergencia para contrarrestar el peligro. P...",
+    "fuente": "...chos ambientales que constituyan peligro colectivo, se tomarán las medidas de emergencia para contrarrestar el peligro. P..."
+   }
+  },
+  {
+   "articulo": "32",
+   "estado": "divergente",
+   "similitud": 0.9097,
+   "corpus": "ARTICULO 32. Para prevenir deterioro ambiental o da&ntilde;o en la salud del hombre y de los dem&aacute;s seres vivientes, se establecer&aacute;n requisitos y condiciones para la i",
+   "fuente": "ARTICULO 32. Para prevenir deterioro ambiental o daño en la salud del hombre y de los demás seres vivientes, se establecerán requisitos y condiciones para la importación, la fabric",
+   "diff": {
+    "corpus": "...ARTICULO 32. Para prevenir deterioro ambiental o da&ntilde;o en la salud del hombre y de los dem&aacute;s seres vivient...",
+    "fuente": "...ARTICULO 32. Para prevenir deterioro ambiental o daño en la salud del hombre y de los demás seres vivientes, se ..."
+   }
+  },
+  {
+   "articulo": "33",
+   "estado": "divergente",
+   "similitud": 0.8216,
+   "corpus": "ARTICULO 33. Se establecer&aacute;n las condiciones y requisitos necesarios para preservar y mantener la salud y la tranquilidad de los habitantes, mediante control de ruidos origi",
+   "fuente": "ARTICULO 33. Se establecerán las condiciones y requisitos necesarios para preservar y mantener la salud y la tranquilidad de los habitantes, mediante control de ruidos originados e",
+   "diff": {
+    "corpus": "...ARTICULO 33. Se establecer&aacute;n las condiciones y requisitos necesarios para preservar y m...",
+    "fuente": "...ARTICULO 33. Se establecerán las condiciones y requisitos necesarios para preservar y m..."
+   }
+  },
+  {
+   "articulo": "34",
+   "estado": "divergente",
+   "similitud": 0.702,
+   "corpus": "ARTICULO 34. En el manejo de residuos, basuras, desechos y desperdicios, se observar&aacute;n las siguientes reglas: a). Se utilizar&aacute;n los mejores m&eacute;todos, de acuerdo",
+   "fuente": "ARTICULO 34. En el manejo de residuos, basuras, desechos y desperdicios, se observarán las siguientes reglas: a). Se utilizarán los mejores métodos, de acuerdo con los avances de l",
+   "diff": {
+    "corpus": "...o de residuos, basuras, desechos y desperdicios, se observar&aacute;n las siguientes reglas: a). Se utilizar&aacute;n los mejore...",
+    "fuente": "...o de residuos, basuras, desechos y desperdicios, se observarán las siguientes reglas: a). Se utilizarán los mejores métod..."
+   }
+  },
+  {
+   "articulo": "35",
+   "estado": "divergente",
+   "similitud": 0.9362,
+   "corpus": "ARTICULO 35. Se prohibe descargar, sin autorizaci&oacute;n, los residuos, basuras y desperdicios, y, en general, de desechos que deterioren los suelos o, causen da&ntilde;o o moles",
+   "fuente": "ARTICULO 35. Se prohibe descargar, sin autorización, los residuos, basuras y desperdicios, y, en general, de desechos que deterioren los suelos o, causen daño o molestia a individu",
+   "diff": {
+    "corpus": "...ARTICULO 35. Se prohibe descargar, sin autorizaci&oacute;n, los residuos, basuras y desperdicios, y, en general, de d...",
+    "fuente": "...ARTICULO 35. Se prohibe descargar, sin autorización, los residuos, basuras y desperdicios, y, en general, de d..."
+   }
+  },
+  {
+   "articulo": "36",
+   "estado": "divergente",
+   "similitud": 0.9688,
+   "corpus": "ARTICULO 36. Para la disposici&oacute;n o procesamiento final de las basuras se utilizar&aacute;n, preferiblemente, los medios que permitan: a). Evitar el deterioro del ambiente y ",
+   "fuente": "ARTICULO 36. Para la disposición o procesamiento final de las basuras se utilizarán, preferiblemente, los medios que permitan: a). Evitar el deterioro del ambiente y de la salud hu",
+   "diff": {
+    "corpus": "...ARTICULO 36. Para la disposici&oacute;n o procesamiento final de las basuras se utilizar&aacute;n,...",
+    "fuente": "...ARTICULO 36. Para la disposición o procesamiento final de las basuras se utilizarán, prefer..."
+   }
+  },
+  {
+   "articulo": "37",
+   "estado": "divergente",
+   "similitud": 0.5035,
+   "corpus": "ARTICULO 37. Los municipios deber&aacute;n organizar servicios adecuados de recolecci&oacute;n, transporte y disposici&oacute;n final de basuras. La prestaci&oacute;n de este servi",
+   "fuente": "ARTICULO 37. Los municipios deberán organizar servicios adecuados de recolección, transporte y disposición final de basuras. La prestación de este servicio por personas naturales o",
+   "diff": {
+    "corpus": "...ARTICULO 37. Los municipios deber&aacute;n organizar servicios adecuados de recolecci&oacute;n, trans...",
+    "fuente": "...ARTICULO 37. Los municipios deberán organizar servicios adecuados de recolección, transporte y..."
+   }
+  }
+ ],
+ "sin_contraparte": [
+  "1",
+  "2",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10",
+  "11",
+  "12",
+  "13",
+  "19",
+  "28",
+  "29"
+ ],
+ "veredicto": "NO_VERIFICADA",
+ "resumen": {
+  "exactos": 0,
+  "casi": 1,
+  "divergentes": 22
+ }
+}

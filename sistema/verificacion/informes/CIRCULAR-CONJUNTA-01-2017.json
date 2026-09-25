@@ -13,7 +13,9 @@
    "estado": "ausente_en_fuente"
   }
  ],
- "sin_contraparte": [],
+ "sin_contraparte": [
+  "34"
+ ],
  "veredicto": "NO_VERIFICADA",
  "resumen": {
   "exactos": 0,

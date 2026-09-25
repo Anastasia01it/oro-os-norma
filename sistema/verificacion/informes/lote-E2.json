@@ -1,0 +1,167 @@
+{
+ "lote": "E2",
+ "canal": "web.archive.org (fuentes oficiales SSPD/MinAmbiente tras WAF)",
+ "nota": "Comparacion determinista verificar_fuente.py; corpus original intacto; en 5 archivos se compararon copias normalizadas (ordinales a digitos + mueble de paginacion PDF) en sistema/verificacion/fuentes/. PDF escaneados sin capa de texto: no verificables sin OCR.",
+ "archivos": [
+  {
+   "archivo": "SSPD-20201000034455-2020.md",
+   "fuente_url": "https://www.superservicios.gov.co/system/files/2022-11/Res_20201000034455_27ago20.pdf",
+   "captura": "Wayback 20240716160155; PDF oficial SSPD 200 (752KB); texto extraido 60KB; comparacion con copias normalizadas (ordinales+mueble) en sistema/verificacion/fuentes/",
+   "exactos": 0,
+   "casi": 9,
+   "divergentes": 8,
+   "primer_divergente": "art 1 sim=0.5904 | corpus: ...ARTÍCULO 1o. Modificar el artículo segundo de la Resolución número SSPD ... | fuente: ...Artículo 1.- Modificar el artículo segundo de la Resolución SSPD 2017400...",
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "SSPD-20201000046075-2020.md",
+   "fuente_url": "https://www.superservicios.gov.co/sites/default/archivos/resolucion_sspd_20201000046075.pdf",
+   "captura": "Wayback 20201103061839; PDF oficial SSPD 200 (525KB); texto extraido 40KB; copias normalizadas en fuentes/",
+   "exactos": 6,
+   "casi": 1,
+   "divergentes": 0,
+   "primer_divergente": null,
+   "veredicto": "VERIFICADA"
+  },
+  {
+   "archivo": "SSPD-20211000214135-2022.md",
+   "fuente_url": "https://superservicios.gov.co/system/files/2022-11/Resolucion-20211000214135-del-17-de-marzo-de-2022_0.pdf",
+   "captura": "Wayback 20240224092805; PDF oficial SSPD 200; el PDF lleva codigo 20221000214135 (el corpus ambos); ordinales escritos: corpus comparado via copia normalizada",
+   "exactos": 1,
+   "casi": 0,
+   "divergentes": 3,
+   "primer_divergente": "art 1 sim=0.8312 | corpus: ...istema Único de Información - SUI la siguiente información: Superintendencia de Servicios Públicos Domicili | fuente: ...istema Único de Información - SUI la siguiente información: 8. FORMATO LISTADO DE ESTACIONES DE CLASIFICACI",
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "SSPD-20211000482115-2021.md",
+   "fuente_url": "https://sui.superservicios.gov.co/sites/default/files/inline-files/Resoluci%C3%B3n%2B120211000482115_00001.pdf",
+   "captura": "Wayback 20220727201209; PDF oficial SUI 200 (183KB); \"120211000482115\"=Res. 20211000482115; copias normalizadas en fuentes/",
+   "exactos": 0,
+   "casi": 0,
+   "divergentes": 9,
+   "primer_divergente": "art 1 sim=0.9489 | corpus: ...ARTÍCULO 1o. OBJETO. La presente resolución adiciona los Formatos siete... | fuente: ...ARTÍCULO 1. – OBJETO: La presente Resolución adiciona los Formatos sie...",
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "SSPD-20211000650805-2021.md",
+   "fuente_url": "http://www.superservicios.gov.co/system/files/2022-11/Resolucion-SSPD-20211000650805.pdf",
+   "captura": "Wayback 20240316080718; PDF oficial SSPD 200 (148KB); texto extraido 24KB; copias normalizadas en fuentes/",
+   "exactos": 0,
+   "casi": 1,
+   "divergentes": 6,
+   "primer_divergente": "art 1 sim=0.9778 | corpus: ...ARTÍCULO 1o. OBJETO. La presente Resolución tiene por objeto modificar ... | fuente: ...ARTÍCULO 1. – OBJETO: La presente Resolución tiene por objeto modifica...",
+   "veredicto": "NO_VERIFICADA"
+  },
+  {
+   "archivo": "SSPD-120515-2018.md",
+   "fuente_url": "https://sui.superservicios.gov.co/sites/default/files/2022-05/20181000120515.pdf",
+   "captura": "Wayback 20220813170512; PDF oficial SUI 200 (270KB) pero escaneado: pdftotext=5 chars; sin OCR disponible",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "CAPTURA_SIN_TEXTO"
+  },
+  {
+   "archivo": "SSPD-20184300130165-2018.md",
+   "fuente_url": "https://sui.superservicios.gov.co/sites/default/files/2022-05/Resoluci%C3%B3n%2B20184300130165.pdf",
+   "captura": "Wayback 20220813170459; PDF oficial SUI 200 (572KB) escaneado: pdftotext=6 chars",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "CAPTURA_SIN_TEXTO"
+  },
+  {
+   "archivo": "Resolucion_SSPD_204125_2017.md",
+   "fuente_url": "http://superservicios.gov.co/system/files/2022-11/Resoluci%C3%B3n-20171000204125.pdf",
+   "captura": "Wayback 20240613075542; PDF oficial SSPD 200 (459KB) escaneado: pdftotext=7 chars",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "CAPTURA_SIN_TEXTO"
+  },
+  {
+   "archivo": "Resolucion_SSPD_237705_2017.md",
+   "fuente_url": "http://www.superservicios.gov.co/system/files/2022-10/RESOLUCION%2BSSPD%2BNo%2B20174000237705.pdf",
+   "captura": "Wayback 20240717110737; PDF oficial SSPD 200 (5.6MB) escaneado: pdftotext=117 chars",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "CAPTURA_SIN_TEXTO"
+  },
+  {
+   "archivo": "Resolucion_SSPD_48765_2010.md",
+   "fuente_url": "https://www.superservicios.gov.co/system/files/2022-10/Resoluci%C3%B3n_20101300048765_de_2010%20(2).pdf",
+   "captura": "Wayback 20241211004536; PDF oficial SSPD 200 (1.8MB) escaneado: pdftotext=3 chars",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "CAPTURA_SIN_TEXTO"
+  },
+  {
+   "archivo": "Resolucion_SSPD_54195_2015.md",
+   "fuente_url": "http://superservicios.gov.co/content/download/16547/123777/version/1/file/Resoluci%C3%B3n+No.+20151300054195.pdf",
+   "captura": "Wayback 20171122171418; PDF oficial SSPD 200 (1.4MB) escaneado: pdftotext=26 chars",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "CAPTURA_SIN_TEXTO"
+  },
+  {
+   "archivo": "SSPD-20161300037055-2016.md",
+   "fuente_url": null,
+   "captura": "solo pagina HTML SUI (sui.superservicios.gov.co/normativa/...Resolucion-20161300037055... Wayback 20220813170526) que NO contiene el texto; PDF enlazado (RESOLUCION_20161300037055.pdf) no capturado; suin-juriscol: 0 resultados",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "SIN_CANAL_SSPD"
+  },
+  {
+   "archivo": "Resolucion_SSPD_13835_2016.md",
+   "fuente_url": null,
+   "captura": "solo pagina HTML SUI (Wayback 20220813170635) sin texto; PDF enlazado 20161300013835.pdf no capturado; suin-juriscol: 0 resultados",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "SIN_CANAL_SSPD"
+  },
+  {
+   "archivo": "Resolucion_SSPD_35485_2012.md",
+   "fuente_url": null,
+   "captura": "solo pagina HTML SUI (Wayback 20220813171017) sin texto; PDF enlazado 20121300035485.pdf no capturado; suin-juriscol: 0 resultados",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "SIN_CANAL_SSPD"
+  },
+  {
+   "archivo": "RESOLUCION-1164-2002.md",
+   "fuente_url": null,
+   "captura": "Wayback minambiente.gov.co (CDX: 1164/2002/pdf/hospitalarios/manual) y suin.gov.co: sin captura del texto de la Res. 1164 de 2002 (solo otras res. 1164 de 2005-2022); gestor CRA no aplica a MinAmbiente",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "SIN_CANAL"
+  },
+  {
+   "archivo": "RESOLUCION-472-2017.md",
+   "fuente_url": null,
+   "captura": "El archivo es MinAmbiente (RCD), no MinSalud. Wayback minambiente.gov.co (CDX 472/pdf/rcd/uploads-2017) + guesses availability (res_0472_280217, wp-content, images/cambioclimatico): sin captura",
+   "exactos": null,
+   "casi": null,
+   "divergentes": null,
+   "primer_divergente": null,
+   "veredicto": "SIN_CANAL"
+  }
+ ]
+}
