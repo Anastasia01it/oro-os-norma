@@ -51,14 +51,13 @@
   },
   "LEY-142-1994.md": {
    "estado": "NO_VERIFICADA",
-   "clase": null,
+   "clase": "erratas_corpus_y_deriva_version",
    "articulos": 189,
    "exactos": 37,
    "casi": 33,
    "divergentes": 119,
-   "nota": "captura 360KB >300KB: no pegar en contexto",
-   "fuente": "https://normas.cra.gov.co/gestor/docs/ley_0142_1994.htm",
-   "informe": "sistema/verificacion/informes/normas_procesar/LEY-142-1994.json"
+   "nota": "Analisis dedicado (analisis-ley142.json): 63 div por notas editoriales en linea; 55 contenido_real = ~25 ERRATAS de transcripcion del corpus (art.24 pierde 'no', 40 'componentes'->'competentes', 73 'abusos', 167 'podara'...) + ~30 deriva de version real (corpus conserva texto pre-ley689/2001, pre-ley1450/2011; fuente CRA ya muestra modificado/INEXEQUIBLE). Errata por lote pendiente de firma; convencion de version (D11) pendiente.",
+   "informe": "sistema/verificacion/informes/analisis-ley142.json"
   },
   "RESOLUCION-CRA-1011-2025.md": {
    "estado": "NO_VERIFICADA",
