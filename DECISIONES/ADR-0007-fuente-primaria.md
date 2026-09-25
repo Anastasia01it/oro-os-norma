@@ -179,6 +179,20 @@ Todos los archivos del corpus quedaron rastreados en el ledger (objetivo
   enriquecido: el corpus añade equivalencias CER/STAT/LER + nota DANE que el
   PDF oficial no trae — valor agregado deliberado, firmar como excepción).
 
+## Errata H3 — Ley 142-1994 (2026-09-24, aprobada por el humano con "Empieza")
+
+**D11 firmada (2026-09-24, misma aprobación)**: el corpus conserva el texto
+ORIGINAL publicado de cada norma; las modificaciones posteriores constan como
+anotaciones. La deriva de versión entre corpus y fuente vigente (p. ej. Ley
+142 post-ley 689/2001, 1450/2011) se clasifica y documenta en el ledger —
+NO se corrige importando el texto nuevo, salvo errata firmada caso por caso.
+
+Ejecución de la errata: tabla corrección en
+`sistema/verificacion/informes/errata-ley142-tabla.json` (evidencia por
+artículo, regla buscar/reemplazar con unicidad verificada), bitácora en
+`informes/errata-ley142.jsonl`, re-verificación posterior y sellos nuevos.
+Los artículos en clase version/anotación quedan documentados, no tocados.
+
 ## Pendientes de decisión humana (actualizado)
 
 1. ~~Aprobar la corrección del H1~~ — **HECHO 2026-09-23**.
